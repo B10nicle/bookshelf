@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Java на практике: от основ до корпоративных проектов",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785937004536",
+    "status": "added",
+    "coverPath": "covers/9785937004536.jpg"
+  },
+  {
+    "title": "Элегантный код Java: дженерики и коллекции",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9786011406482",
+    "status": "added-user-approved",
+    "coverPath": "covers/9786011406482.jpg"
+  },
+  {
+    "title": "Kotlin в иллюстрациях",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785937003775",
+    "status": "added",
+    "coverPath": "covers/9785937003775.jpg"
+  },
+  {
+    "title": "Spring Security в действии",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785937002563",
+    "status": "added",
+    "coverPath": "covers/9785937002563.jpg"
+  },
+  {
+    "title": "Java: устранение проблем",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785937002150",
+    "status": "added",
+    "coverPath": "covers/9785937002150.jpg"
+  },
+  {
+    "title": "Spring в действии. Шестое издание",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785937001122",
+    "status": "added",
+    "coverPath": "covers/9785937001122.jpg"
+  },
+  {
+    "title": "Микросервисы Spring в действии",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970609712",
+    "status": "added",
+    "coverPath": "covers/9785970609712.jpg"
+  },
+  {
+    "title": "Предметно-ориентированное проектирование в Enterprise Java",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970608722",
+    "status": "added",
+    "coverPath": "covers/9785970608722.jpg"
+  },
+  {
+    "title": "Kotlin. Сборник рецептов",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970608838",
+    "status": "added",
+    "coverPath": "covers/9785970608838.jpg"
+  },
+  {
+    "title": "Практика реактивного программирования в Spring 5",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970607473",
+    "status": "added",
+    "coverPath": "covers/9785970607473.jpg"
+  },
+  {
+    "title": "Волшебство Kotlin",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970608012",
+    "status": "added",
+    "coverPath": "covers/9785970608012.jpg"
+  },
+  {
+    "title": "Java Persistence API и Hibernate",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970606742",
+    "status": "added",
+    "coverPath": "covers/9785970606742.jpg"
+  },
+  {
+    "title": "Современный Java: рецепты программирования",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970601341",
+    "status": "added",
+    "coverPath": "covers/9785970601341.jpg"
+  },
+  {
+    "title": "Kotlin в действии",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970604977",
+    "status": "added",
+    "coverPath": "covers/9785970604977.jpg"
+  },
+  {
+    "title": "Java 9. Полный обзор нововведений",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970605752",
+    "status": "added",
+    "coverPath": "covers/9785970605752.jpg"
+  },
+  {
+    "title": "Реактивное программирование с применением RxJava",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/java/",
+    "evidence": "publisher-category",
+    "isbn": "9785970604960",
+    "status": "added",
+    "coverPath": "covers/9785970604960.jpg"
+  },
+  {
+    "title": "LLVM: инфраструктура для разработки компиляторов",
+    "isbn": "9785970603055",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/978-5-97060-305-5/",
+    "publisher": "ДМК Пресс",
+    "evidence": "publisher-product",
+    "status": "added",
+    "coverPath": "covers/9785970603055.jpg"
+  },
+  {
+    "title": "LLVM 17: инфраструктура для разработки компиляторов",
+    "isbn": "9785937003034",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-303-4/",
+    "publisher": "ДМК Пресс",
+    "evidence": "publisher-product",
+    "status": "added",
+    "coverPath": "covers/9785937003034.jpg"
+  },
+  {
+    "title": "SCALA для нетерпеливых. Второе издание",
+    "isbn": "9785970608401",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-840-1/",
+    "publisher": "ДМК Пресс",
+    "evidence": "publisher-product",
+    "status": "added",
+    "coverPath": "covers/9785970608401.webp"
+  },
+  {
+    "title": "Изучаем Java",
+    "isbn": "9785699545742",
+    "source": "https://eksmo.ru/amp/book/izuchaem-java-ITD185236/",
+    "publisher": "Эксмо",
+    "evidence": "publisher-product",
+    "status": "added",
+    "coverPath": "covers/9785699545742.webp"
+  },
+  {
+    "title": "Программирование на Java",
+    "isbn": "9785699715046",
+    "source": "https://eksmo.ru/amp/book/programmirovanie-na-java-ITD311580/",
+    "publisher": "Эксмо",
+    "evidence": "publisher-product",
+    "status": "added",
+    "coverPath": "covers/9785699715046.webp"
+  }
+]

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<discoveries researchedAt="2026-11-04" count="11" importable="false">
+  <book isbn="5937720458">
+    <title>J2EE. Разработка бизнес-приложений</title>
+    <publisher>ДиаСофт</publisher>
+    <authorsRaw>П. Аллен Джозеф Дж. Бамбара Марк Ашнаульт З. Дин Томас Гарбен Шон Смит</authorsRaw>
+    <year>2002</year>
+    <source>https://www.books.ru/books/j2ee-razrabotka-biznes-prilozhenii-30829/</source>
+    <reason>Требуется проверка места издания ДиаСофт по выходным данным.</reason>
+  </book>
+  <book isbn="9785941576432">
+    <title>Java 2, v5.0 (Tiger). Новые возможности</title>
+    <publisher>BHV-СПб</publisher>
+    <authorsRaw>Герберт Шилдт</authorsRaw>
+    <year>2014</year>
+    <source>https://www.books.ru/books/java-2-8770/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="5779100799">
+    <title>Средства визуального проектирования на Java (+ CD-ROM)</title>
+    <publisher>BHV-СПб</publisher>
+    <year>1998</year>
+    <source>https://www.books.ru/books/sredstva-vizualnogo-proektirovaniya-na-java--cd-rom-1371/</source>
+    <reason>Требуется уточнить автора или год.</reason>
+  </book>
+  <book isbn="9785937004543">
+    <title>Kotlin Multiplatform для разработки приложений. Полное руководство</title>
+    <publisher>ДМК</publisher>
+    <authorsRaw>Ганесан Г. Ш.</authorsRaw>
+    <year>2026</year>
+    <source>https://www.books.ru/books/kotlin-multiplatform-dlya-razrabotki-prilozhenii-polnoe-rukovodstvo-5666764/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="9785507523283">
+    <title>Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов, 2-е изд., стер</title>
+    <publisher>Лань</publisher>
+    <authorsRaw>Петросян Л. Э., Гусев К. В.</authorsRaw>
+    <year>2024</year>
+    <source>https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-2-e-izd-ster-5576435/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="9785970601716">
+    <title>Spring в действии</title>
+    <publisher>ДМК Пресс</publisher>
+    <authorsRaw>Уоллс</authorsRaw>
+    <year>2015</year>
+    <source>https://www.books.ru/books/spring-v-deistvii-3978365/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="9785937004321">
+    <title>Применение SSA в компиляторах</title>
+    <publisher>ДМК</publisher>
+    <authorsRaw>Растелло Ф., Буше Тишаду Ф.</authorsRaw>
+    <year>2026</year>
+    <source>https://www.books.ru/books/primenenie-ssa-v-kompilyatorakh-5632517/</source>
+    <primarySource>https://www.dmkpress.com/catalog/computer/programming/978-5-93700-432-1/</primarySource>
+    <reason>Название и оформление в предварительной карточке расходятся с текущими данными издателя: нужна финальная обложка.</reason>
+  </book>
+  <book isbn="9785521823284">
+    <title>Java. Библиотека профессионала. Т. 1,2 (комплект из 2-х книг)</title>
+    <publisher>Рипол Классик</publisher>
+    <authorsRaw>Хорстманн К.С.</authorsRaw>
+    <year>2020</year>
+    <source>https://www.books.ru/books/java-biblioteka-professionala-t-12-komplekt-iz-2-kh-knig-5567242/</source>
+    <reason>Комплект из двух книг; издатель в карточке расходится с обложкой.</reason>
+  </book>
+  <book isbn="9785507513925">
+    <title>Основы программирования на языке Java. Учебное пособие для вузов, 2-е изд., стер</title>
+    <publisher>Лань</publisher>
+    <authorsRaw>Курбатова И. В., Печкуров А. В.</authorsRaw>
+    <year>2026</year>
+    <source>https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-uchebnoe-posobie-dlya-vuzov-2-e-izd-ster-5647670/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="9785991211574">
+    <title>Информационные технологии и программирование на языке Java. Учебное пособие для вузов</title>
+    <publisher>Горячая линия - Телеком</publisher>
+    <authorsRaw>Городничев М.Г., Мосева М.С., Харрасов К.Р., Водиченков А.Д.</authorsRaw>
+    <year>2025</year>
+    <source>https://www.books.ru/books/informatsionnye-tekhnologii-i-programmirovanie-na-yazyke-java-uchebnoe-posobie-dlya-vuzov-5614800/</source>
+    <reason>Не найдена пригодная обложка русского издания.</reason>
+  </book>
+  <book isbn="5469000052">
+    <title>Swing: Эффектные пользовательские интерфейсы, 2-е издание</title>
+    <publisher>Лори</publisher>
+    <authorsRaw>Иван Портянкин</authorsRaw>
+    <year>2011</year>
+    <source>https://www.books.ru/books/swing-effektnye-polzovatelskie-interfeisy-2-e-izdanie-234006/</source>
+    <reason>На обложке Питер, в карточке Лори; требуется сверка издательства.</reason>
+  </book>
+</discoveries>

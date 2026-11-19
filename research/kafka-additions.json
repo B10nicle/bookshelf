@@ -1,0 +1,236 @@
+[
+  {
+    "isbn": "9785446122882",
+    "isbnNormalized": "9785446122882",
+    "title": "Apache Kafka. Потоковая обработка и анализ данных, 2-е издание",
+    "authors": [
+      "Г. Шапира",
+      "Т. Палино",
+      "Р. Сиварам",
+      "К. Петти"
+    ],
+    "publisher": "Питер",
+    "year": "2024",
+    "yearKind": "library-listed",
+    "pages": "512",
+    "url": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/210/639049938/44612288.jpg",
+    "coverSource": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год 2024 подтверждён каталогом библиотеки Банка России для этого ISBN. Текущая карточка издателя показывает будущий тираж 2027."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "metadataSource": "https://library.cbr.ru/catalog/lib/books/945787/",
+    "coverPath": "covers/9785446122882.jpg",
+    "width": 248,
+    "height": 351,
+    "sha256": "baf1aab61f2fe38e4737463e5b26036896f9bff6c3e970a16a6f0733a6170af6",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785446105755",
+    "isbnNormalized": "9785446105755",
+    "title": "Apache Kafka. Потоковая обработка и анализ данных",
+    "authors": [
+      "Н. Нархид",
+      "Г. Шапира",
+      "Т. Палино"
+    ],
+    "publisher": "Питер",
+    "year": "2023",
+    "yearKind": "print-run",
+    "pages": "320",
+    "url": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/8085/169729941/44610575.jpg",
+    "coverSource": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год указан по текущему тиражу в карточке издательства; это не обязательно год первого выхода."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785446105755.jpg",
+    "width": 248,
+    "height": 351,
+    "sha256": "192c467bdbb3df84bcb2ddbf38201e39390d1f0f8bd435c9970178d29e4582e1",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785446144914",
+    "isbnNormalized": "9785446144914",
+    "title": "Apache Kafka в действии. От базовых концепций до продакшена",
+    "authors": [
+      "А. Зеленин",
+      "А. Кропп"
+    ],
+    "publisher": "Питер",
+    "year": "2026",
+    "yearKind": "print-run",
+    "pages": "384",
+    "url": "https://www.piter.com/product/apache-kafka-v-deystvii-ot-bazovyh-kontseptsiy-do-prodakshena",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/3881/2886946601/44614491.jpg",
+    "coverSource": "https://www.piter.com/product/apache-kafka-v-deystvii-ot-bazovyh-kontseptsiy-do-prodakshena",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год указан по текущему тиражу в карточке издательства; это не обязательно год первого выхода."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785446144914.jpg",
+    "width": 248,
+    "height": 350,
+    "sha256": "5591231c198aebaf82945cf39f64be2d2f30b086392660832c4e6d3a67c5d182",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785446112012",
+    "isbnNormalized": "9785446112012",
+    "title": "Kafka Streams в действии. Приложения и микросервисы для работы в реальном времени",
+    "authors": [
+      "Билл Беджек"
+    ],
+    "publisher": "Питер",
+    "year": "2020",
+    "yearKind": "print-run",
+    "pages": "304",
+    "url": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-dlya-raboty-v-realnom-vremeni",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/4275/208138419/44611201.jpg",
+    "coverSource": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-dlya-raboty-v-realnom-vremeni",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год указан по текущему тиражу в карточке издательства; это не обязательно год первого выхода."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785446112012.jpg",
+    "width": 650,
+    "height": 920,
+    "sha256": "b8e50da60ad4f10d8527628eacac01368209ebf1b9c33db79133545fa5e5bc1e",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785446141968",
+    "isbnNormalized": "9785446141968",
+    "title": "Kafka Streams в действии. Приложения и микросервисы, управляемые событиями. 2-е изд.",
+    "authors": [
+      "Билл Беджек"
+    ],
+    "publisher": "Питер",
+    "year": "2025",
+    "yearKind": "print-run",
+    "pages": "496",
+    "url": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-upravlyaemye-sobytiyami-2-e-izd",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/838/1022845766/44614196.jpg",
+    "coverSource": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-upravlyaemye-sobytiyami-2-e-izd",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год указан по текущему тиражу в карточке издательства; это не обязательно год первого выхода."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785446141968.jpg",
+    "width": 248,
+    "height": 351,
+    "sha256": "1c8b3a27f14f6d7669705a8168cd493a73b82cf3525d78ce0b880536caa6ca97",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785446139453",
+    "isbnNormalized": "9785446139453",
+    "title": "Kafka Streams и ksqlDB: данные в реальном времени",
+    "authors": [
+      "Митч Сеймур"
+    ],
+    "publisher": "Питер",
+    "year": "2023",
+    "yearKind": "print-run",
+    "pages": "432",
+    "url": "https://www.piter.com/product/kafka-streams-i-ksqldb-dannye-v-realnom-vremeni",
+    "cover": "https://cdn.insales-shop.ru/images/products/1/3101/629500957/44613945.jpg",
+    "coverSource": "https://www.piter.com/product/kafka-streams-i-ksqldb-dannye-v-realnom-vremeni",
+    "coverSourceType": "publisher",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Год указан по текущему тиражу в карточке издательства; это не обязательно год первого выхода."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785446139453.jpg",
+    "width": 248,
+    "height": 350,
+    "sha256": "ec22870310ed54b9173d9bc87176c17b5f534c1185fe3df35cdf35a3fab266b7",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  },
+  {
+    "isbn": "9785937001184",
+    "isbnNormalized": "9785937001184",
+    "title": "Kafka в действии",
+    "authors": [
+      "Дилан Скотт",
+      "Виктор Гамов",
+      "Дейв Клейн"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2022",
+    "yearKind": "publication",
+    "pages": "312",
+    "url": "https://www.dmkpress.com/catalog/computer/data/978-5-93700-118-4/",
+    "metadataSource": "https://dmkpress.com/files/978-5-93700-118-4.pdf",
+    "cover": "https://files.books.ru/pic/5361001-5362000/5361550/5361550_aca916aa_c.jpg",
+    "coverSource": "https://www.books.ru/books/kafka-v-deistvii-5361550/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "notes": [],
+    "verificationNotes": [
+      "ISBN, 2022 год и 312 страниц сверены с издательским фрагментом; магазин указывает 310 страниц."
+    ],
+    "topicCodes": [
+      "kafka",
+      "jvm"
+    ],
+    "coverPath": "covers/9785937001184.jpg",
+    "width": 300,
+    "height": 400,
+    "sha256": "be4bf782e54086f406d28122fb68ec15832264be7df1c855227cd50c9ea6013f",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed"
+  }
+]

@@ -1,0 +1,728 @@
+{
+  "listingPages": [
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostgreSQL&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostgreSQL&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostgreSQL&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Postgres&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Postgres&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Postgres&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostGIS&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostGIS&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=PostGIS&s%5Bgo%5D=1&page=3"
+  ],
+  "scanned": 36,
+  "new": [
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/postgresql-osnovy-28817/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "PostgreSQL 11. Мастерство разработки",
+      "isbn": "9785970606711",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ганс-Юрген Шениг",
+      "year": "2019",
+      "pages": "352",
+      "source": "https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/",
+      "cover": "https://files.books.ru/pic/4987001-4988000/4987418/1695987031c.jpg"
+    },
+    {
+      "title": "POSTGRESQL 16 изнутри",
+      "isbn": "9785937003058",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2024",
+      "pages": "664",
+      "source": "https://www.books.ru/books/postgresql-16-iznutri-5501246/",
+      "cover": "https://files.books.ru/pic/5501001-5502000/5501246/1053639724c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Профессиональный SQL",
+      "isbn": "9785937003737",
+      "publisher": "ДМК",
+      "authorsRaw": "Евгений Моргунов",
+      "year": "2025",
+      "pages": "444",
+      "source": "https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/",
+      "cover": "https://files.books.ru/pic/5592001-5593000/5592350/314878519c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Основы языка SQL",
+      "isbn": "9785977540223",
+      "publisher": "BHV",
+      "authorsRaw": "Евгений Павлович Моргунов",
+      "year": "2018",
+      "pages": "336",
+      "source": "https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/",
+      "cover": "https://files.books.ru/pic/4937001-4938000/4937877/1749355537c.jpg"
+    },
+    {
+      "title": "PostgreSQL: SQL + PL/pgSQL для тех, кто хочет стать профессионалом",
+      "isbn": "9785907592322",
+      "publisher": "Наука и техника",
+      "authorsRaw": "Ткачев О.",
+      "year": "2023",
+      "pages": "480",
+      "source": "https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/",
+      "cover": "https://files.books.ru/pic/5478001-5479000/5478169/1423337358c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+      "isbn": "9785466069747",
+      "publisher": "КноРус",
+      "authorsRaw": "Ванина М.Ф., Ерохин А.Г., Тутова Н.В., Осипов А.В., Плешакова Е.С., Гатауллин С.Т.",
+      "year": "2024",
+      "pages": "228",
+      "source": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/",
+      "cover": "https://files.books.ru/pic/5497001-5498000/5497164/5497164_2a54184c_c.jpg"
+    },
+    {
+      "title": "PostgreSQL 18 изнутри",
+      "isbn": "9785937004994",
+      "publisher": "ДМК",
+      "authorsRaw": "Рогов Е.",
+      "year": "2026",
+      "pages": "682",
+      "source": "https://www.books.ru/books/postgresql-18-iznutri-5671913/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/postgresql-osnovy-fail-pdf-3572254/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "Мониторинг PostgreSQL",
+      "isbn": "9785907754423",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Лесовский Алексей",
+      "year": "2024",
+      "pages": "247",
+      "source": "https://www.books.ru/books/monitoring-postgresql-5504789/",
+      "cover": "https://files.books.ru/pic/5504001-5505000/5504789/1323750633c.jpg"
+    },
+    {
+      "title": "Антипаттерны PostgreSQL и как их избежать",
+      "isbn": "9785446144938",
+      "publisher": "Питер",
+      "authorsRaw": "Джимми Ангелакос",
+      "year": "2026",
+      "pages": "272",
+      "source": "https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/",
+      "cover": "https://files.books.ru/pic/5658001-5659000/5658840/1210841427c.jpg"
+    },
+    {
+      "title": "Оптимизация запросов PostgreSQL",
+      "isbn": "9785970609637",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Домбровская Г., Новиков Б., Бейликова А.",
+      "year": "2021",
+      "pages": "278",
+      "source": "https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/",
+      "cover": "https://files.books.ru/pic/5295001-5296000/5295070/5295070_fbfd4184_c.jpg"
+    },
+    {
+      "title": "Базы данных. PostgreSQL",
+      "isbn": "9785534220032",
+      "publisher": "Юрайт",
+      "authorsRaw": "Маркин А. В.",
+      "year": "2026",
+      "pages": "840",
+      "source": "https://www.books.ru/books/bazy-dannykh-postgresql-5662395/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Базы данных. PostgreSQL 2-е изд. Учебник для СПО",
+      "isbn": "9785534220049",
+      "publisher": null,
+      "authorsRaw": "Маркин А. В.",
+      "year": "2026",
+      "pages": "840",
+      "source": "https://www.books.ru/books/bazy-dannykh-postgresql-2-e-izd-uchebnik-dlya-spo-5686176/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Изучаем PostgreSQL10",
+      "isbn": "9785970606438",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "С. Джуба А. Волков",
+      "year": "2018",
+      "pages": "400",
+      "source": "https://www.books.ru/books/izuchaem-postgresql10-4930825/",
+      "cover": "https://files.books.ru/pic/4930001-4931000/4930825/2030965899c.jpg"
+    },
+    {
+      "title": "PostGIS в действии",
+      "isbn": "9785937001306",
+      "publisher": "ДМК",
+      "authorsRaw": "Регина Обе Хсу Лео",
+      "year": "2023",
+      "pages": "736",
+      "source": "https://www.books.ru/books/postgis-v-deistvii-5432477/",
+      "cover": "https://files.books.ru/pic/5432001-5433000/5432477/1751715705c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Для профессионалов (+CD)",
+      "isbn": "5947233371",
+      "publisher": "Питер",
+      "authorsRaw": "Джон Уорсли Джошуа Дрейк",
+      "year": "2002",
+      "pages": "496",
+      "source": "https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/",
+      "cover": "https://files.books.ru/pic/31001-32000/31278/000031278.jpg"
+    },
+    {
+      "title": "PostgreSQL Essential Reference. На английском языке",
+      "isbn": "0735711216",
+      "publisher": "New Riders Publishing",
+      "authorsRaw": "Barry Stinson",
+      "year": "2001",
+      "pages": "370",
+      "source": "https://www.books.ru/books/postgresql-essential-reference-na-angliiskom-yazyke-20359/",
+      "cover": "https://files.books.ru/pic/20001-21000/20359/20359.jpg"
+    },
+    {
+      "title": "Разработка WEB- приложений на PHP и PostgreSQL: Руководство разработчика и администратора",
+      "isbn": "5937720628",
+      "publisher": "ДиаСофт ЮП",
+      "authorsRaw": "Э. Гешвинде Г. Шенинг",
+      "year": "2062",
+      "pages": "608",
+      "source": "https://www.books.ru/books/postgresql-rukovodstvo-razrabotchika-i-administratora-29174/",
+      "cover": "https://files.books.ru/pic/86001-87000/86718/86718.jpg"
+    },
+    {
+      "title": "PostgreSQL 15 изнутри",
+      "isbn": "9785937001788",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2023",
+      "pages": "662",
+      "source": "https://www.books.ru/books/postgresql-15-iznutri-5409701/",
+      "cover": "https://files.books.ru/pic/5409001-5410000/5409701/1965016081c.jpg"
+    },
+    {
+      "title": "PostgreSQL 17 изнутри",
+      "isbn": "9785937003720",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2025",
+      "pages": "668",
+      "source": "https://www.books.ru/books/postgresql-17-iznutri-5592349/",
+      "cover": "https://files.books.ru/pic/5592001-5593000/5592349/766915563c.jpg"
+    },
+    {
+      "title": "PostgreSQL. На английском языке",
+      "isbn": "193184142",
+      "publisher": "Premier Press",
+      "authorsRaw": "Jeff Perkins",
+      "year": "2002",
+      "pages": "366",
+      "source": "https://www.books.ru/books/postgresql-na-angliiskom-yazyke-23797/",
+      "cover": "https://files.books.ru/pic/23001-24000/23797/23797.jpg"
+    },
+    {
+      "title": "PostgreSQL 14 изнутри",
+      "isbn": "9785937001221",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2022",
+      "pages": "660",
+      "source": "https://www.books.ru/books/postgresql-14-iznutri-5323407/",
+      "cover": "https://files.books.ru/pic/5323001-5324000/5323407/1608896913c.jpg"
+    },
+    {
+      "title": "PostgreSQL 9 Administration Cookbook Lite. Basics, Exploring the Server, Database Administration",
+      "isbn": "9781849516204",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Simon Riggs Hannu Krosing",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/postgresql-9-administration-cookbook-lite-basics-exploring-the-server-database-administration-3621254/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621254/preview_4015374_150x0.jpg"
+    },
+    {
+      "title": "PostgreSQL 9 Administration Cookbook Lite. Configuration, Monitoring and Maintenance",
+      "isbn": "9781849516426",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Simon Riggs Hannu Krosing",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/postgresql-9-administration-cookbook-lite-configuration-monitoring-and-maintenance-3621264/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621264/preview_4015385_150x0.jpg"
+    },
+    {
+      "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+      "isbn": "9785466034103",
+      "publisher": "КноРус",
+      "authorsRaw": "Ванина М.Ф., Ерохин А.Г., Тутова Н.В., Осипов А.В., Плешакова Е.С., Гатауллин С.Т.",
+      "year": "2023",
+      "pages": "228",
+      "source": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5433067/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Разработка WEB- приложений на PHP и PostgreSQL: Руководство разработчика и администратора",
+      "isbn": "5937720628",
+      "publisher": "ДиаСофт ЮП",
+      "authorsRaw": "Э. Гешвинде Г. Шенинг",
+      "year": "2062",
+      "pages": "608",
+      "source": "https://www.books.ru/books/razrabotka-webprilozhenii-na-php-i-postgresql-rukovodstvo-razrabotchika-i-administratora-86718/",
+      "cover": "https://files.books.ru/pic/86001-87000/86718/86718.jpg"
+    },
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/beginning-databases-with-postgresql-727618/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "Practical PostgreSQL (+CD). На английском языке",
+      "isbn": "1565928466",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Джон Уорсли Джошуа Дрейк",
+      "year": "2002",
+      "pages": "619",
+      "source": "https://www.books.ru/books/practical-postgresql-cd-na-angliiskom-yazyke-23815/",
+      "cover": "https://files.books.ru/pic/23001-24000/23815/23815.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785940747505",
+      "publisher": "ДМК",
+      "authorsRaw": "Ригс С., Кросинг Х.",
+      "year": "2013",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/",
+      "cover": "https://files.books.ru/pic/3135001-3136000/3135417/003135417.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785970602799",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ригс Саймон",
+      "year": "2015",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/",
+      "cover": "https://files.books.ru/pic/4235001-4236000/4235703/004235703.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785970606094",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ригс Ханну Кросинг",
+      "year": "2018",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/",
+      "cover": "https://files.books.ru/pic/4795001-4796000/4795385/1365007547c.jpg"
+    },
+    {
+      "title": "Postgres. Первое знакомство. Версия 15",
+      "isbn": "9785604597019",
+      "publisher": "ДМК",
+      "authorsRaw": "Лузанов П., Рогов Е., Лёвшин И.",
+      "year": "2023",
+      "pages": "178",
+      "source": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/",
+      "cover": "https://files.books.ru/pic/5513001-5514000/5513739/1862928847c.jpg"
+    },
+    {
+      "title": "Postgres 16. Первое знакомство",
+      "isbn": "9785604597057",
+      "publisher": "ДМК",
+      "authorsRaw": "Лузанов П., Лёвшин И., Рогов Е.",
+      "year": "2024",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/",
+      "cover": "https://files.books.ru/pic/5561001-5562000/5561260/754831398c.jpg"
+    },
+    {
+      "title": "Postgres. Первое знакомство. Версия 17",
+      "isbn": "9785604597071",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Лузанов П., Рогов Е., Лёвшин И.",
+      "year": "2025",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/",
+      "cover": "https://files.books.ru/pic/5613001-5614000/5613743/499978865c.jpg"
+    }
+  ],
+  "all": [
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/postgresql-osnovy-28817/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "PostgreSQL 11. Мастерство разработки",
+      "isbn": "9785970606711",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ганс-Юрген Шениг",
+      "year": "2019",
+      "pages": "352",
+      "source": "https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/",
+      "cover": "https://files.books.ru/pic/4987001-4988000/4987418/1695987031c.jpg"
+    },
+    {
+      "title": "POSTGRESQL 16 изнутри",
+      "isbn": "9785937003058",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2024",
+      "pages": "664",
+      "source": "https://www.books.ru/books/postgresql-16-iznutri-5501246/",
+      "cover": "https://files.books.ru/pic/5501001-5502000/5501246/1053639724c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Профессиональный SQL",
+      "isbn": "9785937003737",
+      "publisher": "ДМК",
+      "authorsRaw": "Евгений Моргунов",
+      "year": "2025",
+      "pages": "444",
+      "source": "https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/",
+      "cover": "https://files.books.ru/pic/5592001-5593000/5592350/314878519c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Основы языка SQL",
+      "isbn": "9785977540223",
+      "publisher": "BHV",
+      "authorsRaw": "Евгений Павлович Моргунов",
+      "year": "2018",
+      "pages": "336",
+      "source": "https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/",
+      "cover": "https://files.books.ru/pic/4937001-4938000/4937877/1749355537c.jpg"
+    },
+    {
+      "title": "PostgreSQL: SQL + PL/pgSQL для тех, кто хочет стать профессионалом",
+      "isbn": "9785907592322",
+      "publisher": "Наука и техника",
+      "authorsRaw": "Ткачев О.",
+      "year": "2023",
+      "pages": "480",
+      "source": "https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/",
+      "cover": "https://files.books.ru/pic/5478001-5479000/5478169/1423337358c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+      "isbn": "9785466069747",
+      "publisher": "КноРус",
+      "authorsRaw": "Ванина М.Ф., Ерохин А.Г., Тутова Н.В., Осипов А.В., Плешакова Е.С., Гатауллин С.Т.",
+      "year": "2024",
+      "pages": "228",
+      "source": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/",
+      "cover": "https://files.books.ru/pic/5497001-5498000/5497164/5497164_2a54184c_c.jpg"
+    },
+    {
+      "title": "PostgreSQL 18 изнутри",
+      "isbn": "9785937004994",
+      "publisher": "ДМК",
+      "authorsRaw": "Рогов Е.",
+      "year": "2026",
+      "pages": "682",
+      "source": "https://www.books.ru/books/postgresql-18-iznutri-5671913/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/postgresql-osnovy-fail-pdf-3572254/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "Мониторинг PostgreSQL",
+      "isbn": "9785907754423",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Лесовский Алексей",
+      "year": "2024",
+      "pages": "247",
+      "source": "https://www.books.ru/books/monitoring-postgresql-5504789/",
+      "cover": "https://files.books.ru/pic/5504001-5505000/5504789/1323750633c.jpg"
+    },
+    {
+      "title": "Антипаттерны PostgreSQL и как их избежать",
+      "isbn": "9785446144938",
+      "publisher": "Питер",
+      "authorsRaw": "Джимми Ангелакос",
+      "year": "2026",
+      "pages": "272",
+      "source": "https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/",
+      "cover": "https://files.books.ru/pic/5658001-5659000/5658840/1210841427c.jpg"
+    },
+    {
+      "title": "Оптимизация запросов PostgreSQL",
+      "isbn": "9785970609637",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Домбровская Г., Новиков Б., Бейликова А.",
+      "year": "2021",
+      "pages": "278",
+      "source": "https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/",
+      "cover": "https://files.books.ru/pic/5295001-5296000/5295070/5295070_fbfd4184_c.jpg"
+    },
+    {
+      "title": "Базы данных. PostgreSQL",
+      "isbn": "9785534220032",
+      "publisher": "Юрайт",
+      "authorsRaw": "Маркин А. В.",
+      "year": "2026",
+      "pages": "840",
+      "source": "https://www.books.ru/books/bazy-dannykh-postgresql-5662395/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Базы данных. PostgreSQL 2-е изд. Учебник для СПО",
+      "isbn": "9785534220049",
+      "publisher": null,
+      "authorsRaw": "Маркин А. В.",
+      "year": "2026",
+      "pages": "840",
+      "source": "https://www.books.ru/books/bazy-dannykh-postgresql-2-e-izd-uchebnik-dlya-spo-5686176/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Изучаем PostgreSQL10",
+      "isbn": "9785970606438",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "С. Джуба А. Волков",
+      "year": "2018",
+      "pages": "400",
+      "source": "https://www.books.ru/books/izuchaem-postgresql10-4930825/",
+      "cover": "https://files.books.ru/pic/4930001-4931000/4930825/2030965899c.jpg"
+    },
+    {
+      "title": "PostGIS в действии",
+      "isbn": "9785937001306",
+      "publisher": "ДМК",
+      "authorsRaw": "Регина Обе Хсу Лео",
+      "year": "2023",
+      "pages": "736",
+      "source": "https://www.books.ru/books/postgis-v-deistvii-5432477/",
+      "cover": "https://files.books.ru/pic/5432001-5433000/5432477/1751715705c.jpg"
+    },
+    {
+      "title": "PostgreSQL. Для профессионалов (+CD)",
+      "isbn": "5947233371",
+      "publisher": "Питер",
+      "authorsRaw": "Джон Уорсли Джошуа Дрейк",
+      "year": "2002",
+      "pages": "496",
+      "source": "https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/",
+      "cover": "https://files.books.ru/pic/31001-32000/31278/000031278.jpg"
+    },
+    {
+      "title": "PostgreSQL Essential Reference. На английском языке",
+      "isbn": "0735711216",
+      "publisher": "New Riders Publishing",
+      "authorsRaw": "Barry Stinson",
+      "year": "2001",
+      "pages": "370",
+      "source": "https://www.books.ru/books/postgresql-essential-reference-na-angliiskom-yazyke-20359/",
+      "cover": "https://files.books.ru/pic/20001-21000/20359/20359.jpg"
+    },
+    {
+      "title": "Разработка WEB- приложений на PHP и PostgreSQL: Руководство разработчика и администратора",
+      "isbn": "5937720628",
+      "publisher": "ДиаСофт ЮП",
+      "authorsRaw": "Э. Гешвинде Г. Шенинг",
+      "year": "2062",
+      "pages": "608",
+      "source": "https://www.books.ru/books/postgresql-rukovodstvo-razrabotchika-i-administratora-29174/",
+      "cover": "https://files.books.ru/pic/86001-87000/86718/86718.jpg"
+    },
+    {
+      "title": "PostgreSQL 15 изнутри",
+      "isbn": "9785937001788",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2023",
+      "pages": "662",
+      "source": "https://www.books.ru/books/postgresql-15-iznutri-5409701/",
+      "cover": "https://files.books.ru/pic/5409001-5410000/5409701/1965016081c.jpg"
+    },
+    {
+      "title": "PostgreSQL 17 изнутри",
+      "isbn": "9785937003720",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2025",
+      "pages": "668",
+      "source": "https://www.books.ru/books/postgresql-17-iznutri-5592349/",
+      "cover": "https://files.books.ru/pic/5592001-5593000/5592349/766915563c.jpg"
+    },
+    {
+      "title": "PostgreSQL. На английском языке",
+      "isbn": "193184142",
+      "publisher": "Premier Press",
+      "authorsRaw": "Jeff Perkins",
+      "year": "2002",
+      "pages": "366",
+      "source": "https://www.books.ru/books/postgresql-na-angliiskom-yazyke-23797/",
+      "cover": "https://files.books.ru/pic/23001-24000/23797/23797.jpg"
+    },
+    {
+      "title": "PostgreSQL 14 изнутри",
+      "isbn": "9785937001221",
+      "publisher": "ДМК",
+      "authorsRaw": "Егор Рогов",
+      "year": "2022",
+      "pages": "660",
+      "source": "https://www.books.ru/books/postgresql-14-iznutri-5323407/",
+      "cover": "https://files.books.ru/pic/5323001-5324000/5323407/1608896913c.jpg"
+    },
+    {
+      "title": "PostgreSQL 9 Administration Cookbook",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "",
+      "year": "2010",
+      "pages": null,
+      "source": "https://www.books.ru/books/postgresql-9-administration-cookbook-828396/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "PostgreSQL 9 Administration Cookbook Lite. Basics, Exploring the Server, Database Administration",
+      "isbn": "9781849516204",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Simon Riggs Hannu Krosing",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/postgresql-9-administration-cookbook-lite-basics-exploring-the-server-database-administration-3621254/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621254/preview_4015374_150x0.jpg"
+    },
+    {
+      "title": "PostgreSQL 9 Administration Cookbook Lite. Configuration, Monitoring and Maintenance",
+      "isbn": "9781849516426",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Simon Riggs Hannu Krosing",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/postgresql-9-administration-cookbook-lite-configuration-monitoring-and-maintenance-3621264/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621264/preview_4015385_150x0.jpg"
+    },
+    {
+      "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+      "isbn": "9785466034103",
+      "publisher": "КноРус",
+      "authorsRaw": "Ванина М.Ф., Ерохин А.Г., Тутова Н.В., Осипов А.В., Плешакова Е.С., Гатауллин С.Т.",
+      "year": "2023",
+      "pages": "228",
+      "source": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5433067/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Разработка WEB- приложений на PHP и PostgreSQL: Руководство разработчика и администратора",
+      "isbn": "5937720628",
+      "publisher": "ДиаСофт ЮП",
+      "authorsRaw": "Э. Гешвинде Г. Шенинг",
+      "year": "2062",
+      "pages": "608",
+      "source": "https://www.books.ru/books/razrabotka-webprilozhenii-na-php-i-postgresql-rukovodstvo-razrabotchika-i-administratora-86718/",
+      "cover": "https://files.books.ru/pic/86001-87000/86718/86718.jpg"
+    },
+    {
+      "title": "PostgreSQL. Основы",
+      "isbn": "593286043",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Стоунз Нейл Мэттью",
+      "year": "2002",
+      "pages": "640",
+      "source": "https://www.books.ru/books/beginning-databases-with-postgresql-727618/",
+      "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg"
+    },
+    {
+      "title": "Practical PostgreSQL (+CD). На английском языке",
+      "isbn": "1565928466",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Джон Уорсли Джошуа Дрейк",
+      "year": "2002",
+      "pages": "619",
+      "source": "https://www.books.ru/books/practical-postgresql-cd-na-angliiskom-yazyke-23815/",
+      "cover": "https://files.books.ru/pic/23001-24000/23815/23815.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785940747505",
+      "publisher": "ДМК",
+      "authorsRaw": "Ригс С., Кросинг Х.",
+      "year": "2013",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/",
+      "cover": "https://files.books.ru/pic/3135001-3136000/3135417/003135417.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785970602799",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ригс Саймон",
+      "year": "2015",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/",
+      "cover": "https://files.books.ru/pic/4235001-4236000/4235703/004235703.jpg"
+    },
+    {
+      "title": "Администрирование PostgreSQL 9. Книга рецептов",
+      "isbn": "9785970606094",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Ригс Ханну Кросинг",
+      "year": "2018",
+      "pages": "364",
+      "source": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/",
+      "cover": "https://files.books.ru/pic/4795001-4796000/4795385/1365007547c.jpg"
+    },
+    {
+      "title": "Postgres. Первое знакомство. Версия 15",
+      "isbn": "9785604597019",
+      "publisher": "ДМК",
+      "authorsRaw": "Лузанов П., Рогов Е., Лёвшин И.",
+      "year": "2023",
+      "pages": "178",
+      "source": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/",
+      "cover": "https://files.books.ru/pic/5513001-5514000/5513739/1862928847c.jpg"
+    },
+    {
+      "title": "Postgres 16. Первое знакомство",
+      "isbn": "9785604597057",
+      "publisher": "ДМК",
+      "authorsRaw": "Лузанов П., Лёвшин И., Рогов Е.",
+      "year": "2024",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/",
+      "cover": "https://files.books.ru/pic/5561001-5562000/5561260/754831398c.jpg"
+    },
+    {
+      "title": "Postgres. Первое знакомство. Версия 17",
+      "isbn": "9785604597071",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Лузанов П., Рогов Е., Лёвшин И.",
+      "year": "2025",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/",
+      "cover": "https://files.books.ru/pic/5613001-5614000/5613743/499978865c.jpg"
+    }
+  ]
+}

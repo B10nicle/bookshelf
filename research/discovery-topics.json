@@ -1,0 +1,2700 @@
+{
+  "listingPages": [
+    "https://www.books.ru/search.php?s%5Bquery%5D=Kotlin&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Kotlin&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Kotlin&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Scala&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Scala&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Scala&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Clojure&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Clojure&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Clojure&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Groovy&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Groovy&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Groovy&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Spring&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Spring&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Spring&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%B2&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%B2&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%B2&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=DDD&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=DDD&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=DDD&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Maven&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Maven&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Maven&s%5Bgo%5D=1&page=3",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Gradle&s%5Bgo%5D=1&page=1",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Gradle&s%5Bgo%5D=1&page=2",
+    "https://www.books.ru/search.php?s%5Bquery%5D=Gradle&s%5Bgo%5D=1&page=3"
+  ],
+  "scanned": 166,
+  "new": [
+    {
+      "title": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+      "isbn": "9785171747534",
+      "publisher": "АСТ",
+      "authorsRaw": "",
+      "year": "2025",
+      "pages": "128",
+      "source": "https://www.books.ru/books/kotlin-osnovy-programmirovaniya-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5602949/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602949/2128755935c.jpg"
+    },
+    {
+      "title": "Kotlin Multiplatform для разработки приложений. Полное руководство",
+      "isbn": "9785937004543",
+      "publisher": "ДМК",
+      "authorsRaw": "Ганесан Г. Ш.",
+      "year": "2026",
+      "pages": "340",
+      "source": "https://www.books.ru/books/kotlin-multiplatform-dlya-razrabotki-prilozhenii-polnoe-rukovodstvo-5666764/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Kotlin. Руководство для начинающих программистов",
+      "isbn": "9785446113354",
+      "publisher": "Питер",
+      "authorsRaw": "Гриффитс Д.,Гриффитс Д.",
+      "year": "2019",
+      "pages": "464",
+      "source": "https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/",
+      "cover": "https://files.books.ru/pic/5070001-5071000/5070839/005070839.jpg"
+    },
+    {
+      "title": "Kotlin. Программирование для профессионалов",
+      "isbn": "9785446112432",
+      "publisher": "Питер",
+      "authorsRaw": "Джош Скин Дэвид Гринхол",
+      "year": "2019",
+      "pages": "464",
+      "source": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/",
+      "cover": "https://files.books.ru/pic/5044001-5045000/5044822/449620254c.jpg"
+    },
+    {
+      "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов, 2-е изд., стер",
+      "isbn": "9785507523283",
+      "publisher": "Лань",
+      "authorsRaw": "Петросян Л. Э., Гусев К. В.",
+      "year": "2024",
+      "pages": "104",
+      "source": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-2-e-izd-ster-5576435/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов",
+      "isbn": "9785507491865",
+      "publisher": "Лань",
+      "authorsRaw": "Петросян Л. Э., Гусев К. В.",
+      "year": "2024",
+      "pages": "104",
+      "source": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/",
+      "cover": "https://files.books.ru/pic/5521001-5522000/5521657/5521657_c5ccaa85_c.jpg"
+    },
+    {
+      "title": "Конкурентное программирование на SCALA",
+      "isbn": "9785970605721",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Алексей Прокопец",
+      "year": "2018",
+      "pages": "342",
+      "source": "https://www.books.ru/books/konkurentnoe-programmirovanie-na-scala-4777290/",
+      "cover": "https://files.books.ru/pic/4777001-4778000/4777290/854506953c.jpg"
+    },
+    {
+      "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования, 11-е издание",
+      "isbn": "9785907144385",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "2019",
+      "pages": "864",
+      "source": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/",
+      "cover": "https://files.books.ru/pic/5104001-5105000/5104645/353614365c.jpg"
+    },
+    {
+      "title": "SCALA для нетерпеливых. Второе издание",
+      "isbn": "9785970605363",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "2017",
+      "pages": "414",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/",
+      "cover": "https://files.books.ru/pic/4738001-4739000/4738272/1213526128c.jpg"
+    },
+    {
+      "title": "SCALA для нетерпеливых",
+      "isbn": "9785970603031",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Хорстманн Кей С.",
+      "year": "2015",
+      "pages": "408",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/",
+      "cover": "https://files.books.ru/pic/4228001-4229000/4228040/004228040.jpg"
+    },
+    {
+      "title": "Scala. Профессиональное программирование",
+      "isbn": "9785496029513",
+      "publisher": "Питер",
+      "authorsRaw": "Мартин Одерски Лекс Билл Веннерс Спун Билл Веннерс",
+      "year": "2018",
+      "pages": "688",
+      "source": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/",
+      "cover": "https://files.books.ru/pic/4794001-4795000/4794902/176282324c.jpg"
+    },
+    {
+      "title": "Scala Grimaldelli: Libro Di Aritmetica, E Geometria Speculatiua, E Pratticale (Italian Edition)",
+      "isbn": "9785875827136",
+      "publisher": null,
+      "authorsRaw": "Francesco Feliciano",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/scala-grimaldelli-libro-di-aritmetica-e-geometria-speculatiua-e-pratticale-italian-edition-1767134/",
+      "cover": "https://files.books.ru/pic/1767001-1768000/1767134/preview_1356508_150x0.jpg"
+    },
+    {
+      "title": "Scala. Профессиональное программирование. 4-е изд",
+      "isbn": "9785446118274",
+      "publisher": "Питер",
+      "authorsRaw": "Одерски М. , Спун Л. , Веннерс Б.",
+      "year": "2021",
+      "pages": "720",
+      "source": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/",
+      "cover": "https://files.books.ru/pic/5260001-5261000/5260242/005260242.jpg"
+    },
+    {
+      "title": "Шелковая лестница. La scala di seta by Rossini, Gioacchino",
+      "isbn": "9785884861015",
+      "publisher": null,
+      "authorsRaw": "Rossini, Gioacchino",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/shelkovaya-lestnitsa-la-scala-di-seta-by-rossini-gioacchino-3047124/",
+      "cover": "https://files.books.ru/pic/3047001-3048000/3047124/preview_2999998_150x0.jpg"
+    },
+    {
+      "title": "Лейла Генджер. История страсти последней оперной дивы La Scala",
+      "isbn": "9785449120991",
+      "publisher": "Де'Либри",
+      "authorsRaw": "Орал З.",
+      "year": "2099",
+      "pages": "394",
+      "source": "https://www.books.ru/books/leila-gendzher-istoriya-strasti-poslednei-opernoi-divy-la-scala-5551436/",
+      "cover": "https://files.books.ru/pic/5551001-5552000/5551436/005551436.jpg"
+    },
+    {
+      "title": "Die Scala",
+      "isbn": "9785884951068",
+      "publisher": null,
+      "authorsRaw": "Vogler, Georg Joseph",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/die-scala-3055605/",
+      "cover": "https://files.books.ru/pic/3055001-3056000/3055605/preview_3009458_150x0.jpg"
+    },
+    {
+      "title": "La scala del paradiso di s. Giovanni Climaco",
+      "isbn": "9785873379613",
+      "publisher": null,
+      "authorsRaw": "John, Antonio Ceruti",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/la-scala-del-paradiso-di-s-giovanni-climaco-1925487/",
+      "cover": "https://files.books.ru/pic/1925001-1926000/1925487/preview_1088173_150x0.jpg"
+    },
+    {
+      "title": "Teatro alla Scala. Cronologia di tutti gli spettacoli rappresentati in questo teatro dal giorno del solenne suo aprimento sino ad oggi, con introduzione ed annotazioni",
+      "isbn": "9785873778898",
+      "publisher": null,
+      "authorsRaw": "Romani, Luigi",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/teatro-alla-scala-cronologia-di-tutti-gli-spettacoli-rappresentati-in-questo-teatro-dal-giorno-del-solenne-suo-aprimento-sino-ad-oggi-con-introduzione-ed-annotazioni-1960529/",
+      "cover": "https://files.books.ru/pic/1960001-1961000/1960529/preview_1147055_150x0.jpg"
+    },
+    {
+      "title": "Функциональное программирование. SCALA для нетерпеливых",
+      "isbn": "9785940749202",
+      "publisher": "ДМК",
+      "authorsRaw": "Хорстман К.",
+      "year": "2013",
+      "pages": "408",
+      "source": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/",
+      "cover": "https://files.books.ru/pic/3322001-3323000/3322136/003322136.jpg"
+    },
+    {
+      "title": "Getting Started with Sbt for Scala",
+      "isbn": "9781783282678",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Shiti Saxena",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/getting-started-with-sbt-for-scala-3620700/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620700/preview_4014793_150x0.jpg"
+    },
+    {
+      "title": "Java. Новое поколение разработки",
+      "isbn": "9785496005449",
+      "publisher": "Питер",
+      "authorsRaw": "Бенджамин Эванс Мартин Вербург",
+      "year": "2013",
+      "pages": "560",
+      "source": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/",
+      "cover": "https://files.books.ru/pic/3617001-3618000/3617419/779726990c.jpg"
+    },
+    {
+      "title": "Java. Библиотека профессионала. Том 2. Расширенные средства программирования",
+      "isbn": "9785845920317",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн Г. Корнелл",
+      "year": "2031",
+      "pages": "1008",
+      "source": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/",
+      "cover": "https://files.books.ru/pic/4272001-4273000/4272403/149977020c.jpg"
+    },
+    {
+      "title": "Clojure High Performance Programming",
+      "isbn": "9781782165606",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Shantanu Kumar",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-high-performance-programming-3620142/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620142/preview_4013966_150x0.jpg"
+    },
+    {
+      "title": "Clojure Data Analysis Cookbook",
+      "isbn": "9781782162643",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Eric Rochester",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-data-analysis-cookbook-3620549/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620549/preview_4014640_150x0.jpg"
+    },
+    {
+      "title": "Clojure for Domain-specific Languages",
+      "isbn": "9781782166504",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Kelker Ryan",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-for-domain-specific-languages-3623768/",
+      "cover": "https://files.books.ru/pic/3623001-3624000/3623768/preview_4020353_150x0.jpg"
+    },
+    {
+      "title": "Программирование в Clojure. Практика применения Lisp в мире Java",
+      "isbn": "9785940749257",
+      "publisher": "ДМК",
+      "authorsRaw": "Эмерик Ч., Карпер Б., Гранд К.",
+      "year": "2013",
+      "pages": "816",
+      "source": "https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/",
+      "cover": "https://files.books.ru/pic/4293001-4294000/4293646/004293646.jpg"
+    },
+    {
+      "title": "Программирование в Clojure",
+      "isbn": "9785970602997",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Чаз Эмерик",
+      "year": "2015",
+      "pages": "816",
+      "source": "https://www.books.ru/books/programmirovanie-v-clojure-4235799/",
+      "cover": "https://files.books.ru/pic/4235001-4236000/4235799/004235799.jpg"
+    },
+    {
+      "title": "Grails. Гибкость Groovy и надежность Java",
+      "isbn": "9785932861851",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Глен Смит Питер Ледбрук",
+      "year": "2010",
+      "pages": "656",
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/",
+      "cover": "https://files.books.ru/pic/740001-741000/740483/740483_1.jpg"
+    },
+    {
+      "title": "Grails. Гибкость Groovy и надежность Java",
+      "isbn": "9785932861851",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Глен Смит Питер Ледбрук",
+      "year": "2010",
+      "pages": "656",
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-fail-pdf-818359/",
+      "cover": "https://files.books.ru/pic/740001-741000/740483/740483_1.jpg"
+    },
+    {
+      "title": "Groovy и Grails. Практические советы",
+      "isbn": "9785940746188",
+      "publisher": "ДМК",
+      "authorsRaw": "Башар Абдул-Джавад",
+      "year": "2010",
+      "pages": "408",
+      "source": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/",
+      "cover": "https://files.books.ru/pic/773001-774000/773624/7508-150.jpg"
+    },
+    {
+      "title": "Groovy Homes",
+      "isbn": "9812452672",
+      "publisher": "PAGE ONE",
+      "authorsRaw": "",
+      "year": "2010",
+      "pages": "9",
+      "source": "https://www.books.ru/books/groovy-homes-738114/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Groovy for Domain-Specific Languages",
+      "isbn": "9781847196903",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Fergal Dearle",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/groovy-for-domain-specific-languages-3620928/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620928/preview_4015034_150x0.jpg"
+    },
+    {
+      "title": "Groovy 2 Cookbook",
+      "isbn": "9781849519366",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Andrey Adamovich Luciano Fiandesio",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/groovy-2-cookbook-3621356/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621356/preview_4015490_150x0.jpg"
+    },
+    {
+      "title": "The Groovy Greeks",
+      "isbn": "9780439944021",
+      "publisher": "Scholastic Inc",
+      "authorsRaw": "Deary, Terry",
+      "year": "2011",
+      "pages": "144",
+      "source": "https://www.books.ru/books/the-groovy-greeks-1548356/",
+      "cover": "https://files.books.ru/pic/1548001-1549000/1548356/001548356.jpg"
+    },
+    {
+      "title": "Разработка корпоративных приложений на JAVA в Groovy и Grails",
+      "isbn": "9785940748083",
+      "publisher": "ДМК-Пресс",
+      "authorsRaw": "Абдул-Джавад Башар",
+      "year": "2012",
+      "pages": "408",
+      "source": "https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/",
+      "cover": "https://files.books.ru/pic/1805001-1806000/1805523/1393457343c.jpg"
+    },
+    {
+      "title": "Horrible Histories: Groovy Greeks & Rotten Romans",
+      "isbn": "9781407109688",
+      "publisher": "Scholastic UK",
+      "authorsRaw": "Deary, Terry",
+      "year": "2011",
+      "pages": "288",
+      "source": "https://www.books.ru/books/horrible-histories-groovy-greeks--rotten-romans-1527072/",
+      "cover": "https://files.books.ru/pic/1527001-1528000/1527072/001527072.jpg"
+    },
+    {
+      "title": "G is for Goats Groovy Galoshes (HB)",
+      "isbn": "9781581177831",
+      "publisher": null,
+      "authorsRaw": "Bjorklund, Shawn",
+      "year": "2011",
+      "pages": null,
+      "source": "https://www.books.ru/books/g-is-for-goats-groovy-galoshes-hb-1514054/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring, Spring Boot и Camunda в одном стеке: разработка, тестирование и деплой приложений + виртуальный диск с приложением, кодом и примерами",
+      "isbn": "9785604966037",
+      "publisher": null,
+      "authorsRaw": "Певненко А. А.",
+      "year": "2026",
+      "pages": "640",
+      "source": "https://www.books.ru/books/spring-spring-boot-i-camunda-v-odnom-steke-razrabotka-testirovanie-i-deploi-prilozhenii--virtualnyi-disk-s-prilozheniem-kodom-i-primerami-5677880/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Comes to Emmerdale",
+      "isbn": "9781409185055",
+      "publisher": null,
+      "authorsRaw": "Bell Pamela",
+      "year": "2020",
+      "pages": "336",
+      "source": "https://www.books.ru/books/spring-comes-to-emmerdale-5536879/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Blossoms at Mill Grange",
+      "isbn": "9781800246058",
+      "publisher": null,
+      "authorsRaw": "Kane Jenny",
+      "year": "2021",
+      "pages": "469",
+      "source": "https://www.books.ru/books/spring-blossoms-at-mill-grange-5545798/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Expert Spring MVC and Web Flow",
+      "isbn": "9781590595848",
+      "publisher": "Питер",
+      "authorsRaw": "Ladd, Seth",
+      "year": "2005",
+      "pages": "403",
+      "source": "https://www.books.ru/books/expert-spring-mvc-and-web-flow-876762/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Sinister Spring",
+      "isbn": "9780008470890",
+      "publisher": null,
+      "authorsRaw": "Christie Agatha",
+      "year": "2023",
+      "pages": "228",
+      "source": "https://www.books.ru/books/sinister-spring-5481461/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Peach Blossom Spring",
+      "isbn": "9781472277572",
+      "publisher": null,
+      "authorsRaw": "Fu Melissa",
+      "year": "2023",
+      "pages": "392",
+      "source": "https://www.books.ru/books/peach-blossom-spring-5501356/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Peach Blossom Spring",
+      "isbn": "9781472277534",
+      "publisher": null,
+      "authorsRaw": "Fu Melissa",
+      "year": "2022",
+      "pages": "385",
+      "source": "https://www.books.ru/books/peach-blossom-spring-5537530/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "To Die in Spring",
+      "isbn": "9781509812868",
+      "publisher": null,
+      "authorsRaw": "Rothmann Ralf",
+      "year": "2018",
+      "pages": "211",
+      "source": "https://www.books.ru/books/to-die-in-spring-5537854/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "The Spring of Kasper Meier",
+      "isbn": "9780349139760",
+      "publisher": null,
+      "authorsRaw": "Fergusson Ben",
+      "year": "2015",
+      "pages": "388",
+      "source": "https://www.books.ru/books/the-spring-of-kasper-meier-5549102/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Безопасность Java-приложений: Spring, микросервисы и Kubernetes",
+      "isbn": "9785937003645",
+      "publisher": null,
+      "authorsRaw": "Спилкэ Л., Сайкали А.",
+      "year": "2026",
+      "pages": "438",
+      "source": "https://www.books.ru/books/bezopasnost-java-prilozhenii-spring-mikroservisy-i-kubernetes-5676422/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9785884876712",
+      "publisher": null,
+      "authorsRaw": "Scharfenberg, William",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-3048602/",
+      "cover": "https://files.books.ru/pic/3048001-3049000/3048602/preview_3001579_150x0.jpg"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9780750267168",
+      "publisher": null,
+      "authorsRaw": "Barnham, Kay",
+      "year": "2012",
+      "pages": "24",
+      "source": "https://www.books.ru/books/spring-3128472/",
+      "cover": "https://files.books.ru/pic/3128001-3129000/3128472/003128472.jpg"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9781784703288",
+      "publisher": "Vintage Books",
+      "authorsRaw": "Knausgaard Karl Ove",
+      "year": "2022",
+      "pages": "184",
+      "source": "https://www.books.ru/books/spring-5539110/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring в действии",
+      "isbn": "9785940745686",
+      "publisher": "ДМК",
+      "authorsRaw": "Уоллс К.",
+      "year": "2013",
+      "pages": "752",
+      "source": "https://www.books.ru/books/spring-v-deistvii-3322140/",
+      "cover": "https://files.books.ru/pic/3322001-3323000/3322140/003322140.jpg"
+    },
+    {
+      "title": "Spring в действии",
+      "isbn": "9785970601716",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Уоллс",
+      "year": "2015",
+      "pages": "752",
+      "source": "https://www.books.ru/books/spring-v-deistvii-3978365/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Torrents. Вешние воды",
+      "isbn": "014044369X",
+      "publisher": "Penguin Books",
+      "authorsRaw": "Иван Тургенев",
+      "year": "1997",
+      "pages": "239",
+      "source": "https://www.books.ru/books/spring-torrents-veshnie-vody-80810/",
+      "cover": "https://files.books.ru/pic/80001-81000/80810/000080810.jpg"
+    },
+    {
+      "title": "Spring in Action",
+      "isbn": "9781933988139",
+      "publisher": null,
+      "authorsRaw": "Walls, Craig",
+      "year": "2007",
+      "pages": "730",
+      "source": "https://www.books.ru/books/spring-in-action-686119/",
+      "cover": "https://files.books.ru/pic/686001-687000/686119/686119.jpg"
+    },
+    {
+      "title": "Spring Recipes: A Problem-Solution Approach, Second Edition (New)",
+      "isbn": "9781430224990",
+      "publisher": null,
+      "authorsRaw": "Mak, Gary",
+      "year": "2010",
+      "pages": "1104",
+      "source": "https://www.books.ru/books/spring-recipes-a-problem-solution-approach-second-edition-new-849075/",
+      "cover": "https://files.books.ru/pic/849001-850000/849075/849075.jpg"
+    },
+    {
+      "title": "Spring Enterprise Recipes: A Problem-Solution Approach",
+      "isbn": "9781430224976",
+      "publisher": null,
+      "authorsRaw": "Mak, Gary",
+      "year": "2009",
+      "pages": "470",
+      "source": "https://www.books.ru/books/spring-enterprise-recipes-a-problem-solution-approach-865791/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Affair",
+      "isbn": "9781847392824",
+      "publisher": "Simon & Schuster UK",
+      "authorsRaw": "Johnson, Milly",
+      "year": "2011",
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-affair-1527222/",
+      "cover": "https://files.books.ru/pic/1527001-1528000/1527222/001527222.jpg"
+    },
+    {
+      "title": "Spring Greeting",
+      "isbn": "9785884479937",
+      "publisher": null,
+      "authorsRaw": "Allen, Nathan Hale",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-greeting-3010499/",
+      "cover": "https://files.books.ru/pic/3010001-3011000/3010499/preview_2955621_150x0.jpg"
+    },
+    {
+      "title": "Spring Rose",
+      "isbn": "9785884528116",
+      "publisher": null,
+      "authorsRaw": "Brachet, Philip Louis",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-rose-3015496/",
+      "cover": "https://files.books.ru/pic/3015001-3016000/3015496/preview_2965655_150x0.jpg"
+    },
+    {
+      "title": "Spring Song, Op.9",
+      "isbn": "9785884551329",
+      "publisher": null,
+      "authorsRaw": "Chadwick, George Whitefield",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-op9-3017728/",
+      "cover": "https://files.books.ru/pic/3017001-3018000/3017728/preview_2968004_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884692114",
+      "publisher": null,
+      "authorsRaw": "Hollins, Alfred",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3031051/",
+      "cover": "https://files.books.ru/pic/3031001-3032000/3031051/preview_2982174_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884706170",
+      "publisher": null,
+      "authorsRaw": "Joseffy, Rafael",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3032395/",
+      "cover": "https://files.books.ru/pic/3032001-3033000/3032395/preview_2983585_150x0.jpg"
+    },
+    {
+      "title": "Spring Morning",
+      "isbn": "9785884735002",
+      "publisher": null,
+      "authorsRaw": "Le Roy, Felix",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-morning-3035191/",
+      "cover": "https://files.books.ru/pic/3035001-3036000/3035191/preview_2987340_150x0.jpg"
+    },
+    {
+      "title": "Spring song `From the South`, Op.56",
+      "isbn": "9785884737365",
+      "publisher": null,
+      "authorsRaw": "Lemare, Edwin Henry",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-from-the-south-op56-3035419/",
+      "cover": "https://files.books.ru/pic/3035001-3036000/3035419/preview_2987578_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884752047",
+      "publisher": "Проф-Пресс",
+      "authorsRaw": "Macfarlane, Will C.",
+      "year": "1998",
+      "pages": "416",
+      "source": "https://www.books.ru/books/spring-song-3036841/",
+      "cover": "https://files.books.ru/pic/3036001-3037000/3036841/preview_2989063_150x0.jpg"
+    },
+    {
+      "title": "Spring Song and Scherzo",
+      "isbn": "9785884896390",
+      "publisher": null,
+      "authorsRaw": "Shelley, Harry Rowe",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-and-scherzo-3050441/",
+      "cover": "https://files.books.ru/pic/3050001-3051000/3050441/preview_3003561_150x0.jpg"
+    },
+    {
+      "title": "Spring Welcome, Op.26",
+      "isbn": "9785884918610",
+      "publisher": null,
+      "authorsRaw": "Sudds, William F.",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-welcome-op26-3052568/",
+      "cover": "https://files.books.ru/pic/3052001-3053000/3052568/preview_3006179_150x0.jpg"
+    },
+    {
+      "title": "Spring, Op.22a",
+      "isbn": "9785884919037",
+      "publisher": null,
+      "authorsRaw": "Suk, Josef",
+      "year": "1903",
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-op22a-3052608/",
+      "cover": "https://files.books.ru/pic/3052001-3053000/3052608/preview_3006221_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884962590",
+      "publisher": null,
+      "authorsRaw": "Wilkins, Herve D.",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3056718/",
+      "cover": "https://files.books.ru/pic/3056001-3057000/3056718/preview_3010627_150x0.jpg"
+    },
+    {
+      "title": "Spring Into PHP 5",
+      "isbn": "0131498622",
+      "publisher": null,
+      "authorsRaw": "Holzner Steven",
+      "year": "2005",
+      "pages": "340",
+      "source": "https://www.books.ru/books/spring-into-php-5-286995/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring.doc",
+      "isbn": "9785903354085",
+      "publisher": "Академия Смартбук",
+      "authorsRaw": "Ольга Татаринова",
+      "year": "2007",
+      "pages": "240",
+      "source": "https://www.books.ru/books/springdoc-492138/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Snow",
+      "isbn": "9780099282990",
+      "publisher": "Random House",
+      "authorsRaw": "Mishima, Yukio",
+      "year": "2011",
+      "pages": "400",
+      "source": "https://www.books.ru/books/spring-snow-1526761/",
+      "cover": "https://files.books.ru/pic/1526001-1527000/1526761/001526761.jpg"
+    },
+    {
+      "title": "Spring Sonata",
+      "isbn": "9780486440712",
+      "publisher": "Daedalus",
+      "authorsRaw": "Valle-Inclan, Ramon Del",
+      "year": "2011",
+      "pages": "107",
+      "source": "https://www.books.ru/books/spring-sonata-1560828/",
+      "cover": "https://files.books.ru/pic/1560001-1561000/1560828/001560828.jpg"
+    },
+    {
+      "title": "Spring-tide; or, The angler and his friends",
+      "isbn": "9785874416690",
+      "publisher": "Мнемозина",
+      "authorsRaw": "John Yonge Akerman",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-tide-or-the-angler-and-his-friends-1625731/",
+      "cover": "https://files.books.ru/pic/1625001-1626000/1625731/preview_1215115_150x0.jpg"
+    },
+    {
+      "title": "Spring; or, The causes, appearances, and effects of the seasonal renovations of nature in all climates",
+      "isbn": "9785874766191",
+      "publisher": null,
+      "authorsRaw": "Robert Mudie",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-or-the-causes-appearances-and-effects-of-the-seasonal-renovations-of-nature-in-all-climates-1660621/",
+      "cover": "https://files.books.ru/pic/1660001-1661000/1660621/preview_1250077_150x0.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для вузов",
+      "isbn": "9785507522903",
+      "publisher": "Лань",
+      "authorsRaw": "Золкин А. Л.",
+      "year": "2025",
+      "pages": "176",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602386/5602386_e228f524_c.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для СПО",
+      "isbn": "9785507522910",
+      "publisher": "Лань",
+      "authorsRaw": "Золкин А. Л.",
+      "year": "2025",
+      "pages": "176",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602387/5602387_52b272a5_c.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов",
+      "isbn": "9785937003911",
+      "publisher": "ДМК",
+      "authorsRaw": "Ханспетер Мёссенбёк",
+      "year": "2025",
+      "pages": "276",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-5613742/",
+      "cover": "https://files.books.ru/pic/5613001-5614000/5613742/581496604c.jpg"
+    },
+    {
+      "title": "Создание компиляторов: инженерный подход",
+      "isbn": "9785937004284",
+      "publisher": "ДМК",
+      "authorsRaw": "Купер К. Д., Торкзон Л.",
+      "year": "2026",
+      "pages": "850",
+      "source": "https://www.books.ru/books/sozdanie-kompilyatorov-inzhenernyi-podkhod-5632524/",
+      "cover": "https://files.books.ru/pic/5632001-5633000/5632524/1354463639c.jpg"
+    },
+    {
+      "title": "Построение компиляторов. Второе издание",
+      "isbn": "9785970602195",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2016",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/",
+      "cover": "https://files.books.ru/pic/4321001-4322000/4321852/2132227052c.png"
+    },
+    {
+      "title": "Применение SSA в компиляторах",
+      "isbn": "9785937004321",
+      "publisher": "ДМК",
+      "authorsRaw": "Растелло Ф., Буше Тишаду Ф.",
+      "year": "2026",
+      "pages": "400",
+      "source": "https://www.books.ru/books/primenenie-ssa-v-kompilyatorakh-5632517/",
+      "cover": "https://files.books.ru/pic/5632001-5633000/5632517/775781174c.jpg"
+    },
+    {
+      "title": "Оптимизирующие компиляторы. Структура и алгоритмы",
+      "isbn": "9785171679651",
+      "publisher": "АСТ",
+      "authorsRaw": "",
+      "year": "2024",
+      "pages": "272",
+      "source": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/",
+      "cover": "https://files.books.ru/pic/5557001-5558000/5557351/005557351.jpg"
+    },
+    {
+      "title": "Введение в теорию алгоритмических языков и компиляторов",
+      "isbn": "9785819904046",
+      "publisher": "Форум",
+      "authorsRaw": "Л.Г. Гагарина Е. Кокорева",
+      "year": "2018",
+      "pages": "176",
+      "source": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/",
+      "cover": "https://files.books.ru/pic/667001-668000/667822/000667822.jpg"
+    },
+    {
+      "title": "Введение в теорию алгоритмических языков и компиляторов",
+      "isbn": "9785160177564",
+      "publisher": "Инфра-М",
+      "authorsRaw": "Гагарина Л.Г., Кокорева Е.В.",
+      "year": "2024",
+      "pages": "207",
+      "source": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/",
+      "cover": "https://files.books.ru/pic/5553001-5554000/5553591/5553591_85c3e48b_c.jpg"
+    },
+    {
+      "title": "Основные концепции компиляторов",
+      "isbn": "5845903602",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Робин Хантер",
+      "year": "2002",
+      "pages": "256",
+      "source": "https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/",
+      "cover": "https://files.books.ru/pic/31001-32000/31375/31375.jpg"
+    },
+    {
+      "title": "Основы конструирования компиляторов",
+      "isbn": "5836002428",
+      "publisher": "URSS",
+      "authorsRaw": "М.П. Галочкин В. А. Серебряков",
+      "year": "2001",
+      "pages": "224",
+      "source": "https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/",
+      "cover": "https://files.books.ru/pic/57001-58000/57277/57277.jpg"
+    },
+    {
+      "title": "Построение интерпретаторов и компиляторов. Использование программ BIZON, BYACC, ZUBR",
+      "isbn": "5943870334",
+      "publisher": "Наука и техника",
+      "authorsRaw": "А.В. Костельцов",
+      "year": "2001",
+      "pages": "224",
+      "source": "https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/",
+      "cover": "https://files.books.ru/pic/60001-61000/60355/60355.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940745853",
+      "publisher": "ДМК",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2009",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-719247/",
+      "cover": "https://files.books.ru/pic/719001-720000/719247/7538-150.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940748755",
+      "publisher": "ДМК",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2012",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-3123981/",
+      "cover": "https://files.books.ru/pic/3123001-3124000/3123981/003123981.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940749929",
+      "publisher": "ДМК",
+      "authorsRaw": "Вирт. Н.",
+      "year": "2013",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-3592250/",
+      "cover": "https://files.books.ru/pic/3592001-3593000/3592250/003592250.jpg"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "isbn": "9785845913494",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Альфред Ахо Р. Сети Джеффри Д. Ульман М. Лам",
+      "year": "2008",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/",
+      "cover": "https://files.books.ru/pic/561001-562000/561747/561747.jpg"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "isbn": "9785845913494",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Альфред Ахо Р. Сети Джеффри Д. Ульман М. Лам",
+      "year": "2008",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-561747/",
+      "cover": "https://files.books.ru/pic/561001-562000/561747/561747.jpg"
+    },
+    {
+      "title": "Реализация методов предметно-ориентированного проектирования",
+      "isbn": "9785845918819",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Вон Вернон",
+      "year": "2018",
+      "pages": "688",
+      "source": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/",
+      "cover": "https://files.books.ru/pic/4291001-4292000/4291106/1012667127c.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование: паттерны, принципы и методы",
+      "isbn": "9785496019842",
+      "publisher": "Питер",
+      "authorsRaw": "Скотт Миллетт Ник Тьюн",
+      "year": "2017",
+      "pages": "832",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/",
+      "cover": "https://files.books.ru/pic/4682001-4683000/4682020/253834159c.jpg"
+    },
+    {
+      "title": "Изучаем Java EE. Современное программирование для больших предприятий",
+      "isbn": "9785446107742",
+      "publisher": "Питер",
+      "authorsRaw": "Себастьян Дашнер",
+      "year": "2018",
+      "pages": "384",
+      "source": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/",
+      "cover": "https://files.books.ru/pic/4890001-4891000/4890406/2118927749.jpg"
+    },
+    {
+      "title": "Maven: The Definitive Guide",
+      "isbn": "9780596517335",
+      "publisher": "O'Reilly Media",
+      "authorsRaw": "Sonatype Company",
+      "year": "2008",
+      "pages": "452",
+      "source": "https://www.books.ru/books/maven-the-definitive-guide-3659712/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Apache Maven Dependency Management",
+      "isbn": "9781783283019",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Lalou Jonathan",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/apache-maven-dependency-management-3620701/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620701/preview_4014794_150x0.jpg"
+    },
+    {
+      "title": "Apache Maven 2 Effective Implementation",
+      "isbn": "9781847194541",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Brett Porter Maria Odea Ching",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/apache-maven-2-effective-implementation-3620842/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620842/preview_4014940_150x0.jpg"
+    },
+    {
+      "title": "The northern traveller; containing the routes to the Springs, Niagara, Quebec, and the coal mines; with the tour of New England, and a brief guide to the Virginia springs, and southern and western routes",
+      "isbn": "9785873782673",
+      "publisher": null,
+      "authorsRaw": "Dwight, Theodore, 1796-1866",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/the-northern-traveller-containing-the-routes-to-the-springs-niagara-quebec-and-the-coal-mines-with-the-tour-of-new-england-and-a-brief-guide-to-the-virginia-springs-and-southern-and-western-routes-1960839/",
+      "cover": "https://files.books.ru/pic/1960001-1961000/1960839/preview_1147509_150x0.jpg"
+    },
+    {
+      "title": "Gradle Effective Implementation Guide",
+      "isbn": "9781849518109",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Hubert Klein Ikkink",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/gradle-effective-implementation-guide-3621321/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621321/preview_4015452_150x0.jpg"
+    },
+    {
+      "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+      "isbn": "9785041692544",
+      "publisher": "Эксмо",
+      "authorsRaw": "Кевлин Хенни Триша Джи",
+      "year": "2023",
+      "pages": "288",
+      "source": "https://www.books.ru/books/97-veshchei-o-kotorykh-dolzhen-znat-kazhdyi-java-programmist-sovety-luchshikh-ekspertov-5438600/",
+      "cover": "https://files.books.ru/pic/5438001-5439000/5438600/344176878c.jpg"
+    }
+  ],
+  "all": [
+    {
+      "title": "Kotlin в действии",
+      "isbn": "9785970604977",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Светлана Исакова Дмитрий Жемеров",
+      "year": "2018",
+      "pages": "402",
+      "source": "https://www.books.ru/books/kotlin-v-deistvii-4783834/",
+      "cover": "https://files.books.ru/pic/4783001-4784000/4783834/1456271587c.jpg"
+    },
+    {
+      "title": "Kotlin. Программирование для профессионалов. Изд. 2",
+      "isbn": "9785446123193",
+      "publisher": "Питер",
+      "authorsRaw": "Скин Д., Гринхол Д., Бэйли Э.",
+      "year": "2022",
+      "pages": "560",
+      "source": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-izd-2-5385590/",
+      "cover": "https://files.books.ru/pic/5385001-5386000/5385590/005385590.jpg"
+    },
+    {
+      "title": "Kotlin в действии. 2-е издание",
+      "isbn": "9785446141982",
+      "publisher": "Питер",
+      "authorsRaw": "Себастьян Айгнер, Роман Елизаров, Светлана Исакова, Дмитрий Жемеров",
+      "year": "2025",
+      "pages": "560",
+      "source": "https://www.books.ru/books/kotlin-v-deistvii-2-e-izdanie-5592301/",
+      "cover": "https://files.books.ru/pic/5592001-5593000/5592301/1469521636c.jpg"
+    },
+    {
+      "title": "Kotlin. Краткий курс",
+      "isbn": "9785977521291",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Елена Ван Энгелен-Маслова",
+      "year": "2026",
+      "pages": null,
+      "source": "https://www.books.ru/books/kotlin-kratkii-kurs-5654662/",
+      "cover": "https://files.books.ru/pic/5654001-5655000/5654662/1056167518c.jpg"
+    },
+    {
+      "title": "Kotlin. Сборник рецептов. Предметный подход",
+      "isbn": "9785970608838",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Кен Коузен",
+      "year": "2020",
+      "pages": "220",
+      "source": "https://www.books.ru/books/kotlin-sbornik-retseptov-predmetnyi-podkhod-5209166/",
+      "cover": "https://files.books.ru/pic/5209001-5210000/5209166/1452250975c.jpg"
+    },
+    {
+      "title": "Kotlin. Паттерны проектирования и лучшие практики",
+      "isbn": "9786010996946",
+      "publisher": "Питер",
+      "authorsRaw": "Алексей Сошин",
+      "year": "2025",
+      "pages": "416",
+      "source": "https://www.books.ru/books/kotlin-patterny-proektirovaniya-i-luchshie-praktiki-5604271/",
+      "cover": "https://files.books.ru/pic/5604001-5605000/5604271/826033999c.jpg"
+    },
+    {
+      "title": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+      "isbn": "9785171747534",
+      "publisher": "АСТ",
+      "authorsRaw": "",
+      "year": "2025",
+      "pages": "128",
+      "source": "https://www.books.ru/books/kotlin-osnovy-programmirovaniya-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5602949/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602949/2128755935c.jpg"
+    },
+    {
+      "title": "Kotlin в иллюстрациях",
+      "isbn": "9785937003775",
+      "publisher": "ДМК",
+      "authorsRaw": "Дэйв Лидс",
+      "year": "2025",
+      "pages": "488",
+      "source": "https://www.books.ru/books/kotlin-v-illyustratsiyakh-5607921/",
+      "cover": "https://files.books.ru/pic/5607001-5608000/5607921/2063166553c.jpg"
+    },
+    {
+      "title": "Kotlin Multiplatform на практике",
+      "isbn": "9785446144068",
+      "publisher": "Питер",
+      "authorsRaw": "Анна Жаркова",
+      "year": "2025",
+      "pages": "384",
+      "source": "https://www.books.ru/books/kotlin-multiplatform-na-praktike-5624041/",
+      "cover": "https://files.books.ru/pic/5624001-5625000/5624041/1320685299c.jpg"
+    },
+    {
+      "title": "Kotlin Multiplatform для разработки приложений. Полное руководство",
+      "isbn": "9785937004543",
+      "publisher": "ДМК",
+      "authorsRaw": "Ганесан Г. Ш.",
+      "year": "2026",
+      "pages": "340",
+      "source": "https://www.books.ru/books/kotlin-multiplatform-dlya-razrabotki-prilozhenii-polnoe-rukovodstvo-5666764/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Волшебство Kotlin",
+      "isbn": "9785970608012",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Пьер-Ив Симон",
+      "year": "2019",
+      "pages": "536",
+      "source": "https://www.books.ru/books/volshebstvo-kotlin-5100822/",
+      "cover": "https://files.books.ru/pic/5100001-5101000/5100822/429084088.jpg"
+    },
+    {
+      "title": "От Java к Kotlin",
+      "isbn": "9785977568418",
+      "publisher": "BHV",
+      "authorsRaw": "Дункан Макгрегор Нэт Прайс",
+      "year": "2023",
+      "pages": null,
+      "source": "https://www.books.ru/books/ot-java-k-kotlin-5415109/",
+      "cover": "https://files.books.ru/pic/5415001-5416000/5415109/1246008426c.jpg"
+    },
+    {
+      "title": "Программирование на Kotlin для Android",
+      "isbn": "9785977509442",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Пьер-Оливье Лоранс Аманда Хинчман-Домингес Дж. Блейк Мик Майк Данн",
+      "year": "2023",
+      "pages": "432",
+      "source": "https://www.books.ru/books/programmirovanie-na-kotlin-dlya-android-5447383/",
+      "cover": "https://files.books.ru/pic/5447001-5448000/5447383/1021460810c.jpg"
+    },
+    {
+      "title": "Асинхронный Kotlin",
+      "isbn": "9785977521574",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Седова Я.А.",
+      "year": "2026",
+      "pages": "320",
+      "source": "https://www.books.ru/books/asinkhronnyi-kotlin-5672722/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Boot по-быстрому",
+      "isbn": "9785446139422",
+      "publisher": "Питер",
+      "authorsRaw": "Хеклер М.",
+      "year": "2022",
+      "pages": "352",
+      "source": "https://www.books.ru/books/spring-boot-po-bystromu-5346969/",
+      "cover": "https://files.books.ru/pic/5346001-5347000/5346969/005346969.jpg"
+    },
+    {
+      "title": "JAVA для опытных разработчиков",
+      "isbn": "9785446124060",
+      "publisher": "Питер",
+      "authorsRaw": "Бенджамин Э.,Джейсон К.",
+      "year": "2024",
+      "pages": "736",
+      "source": "https://www.books.ru/books/java-dlya-opytnykh-razrabotchikov-5513724/",
+      "cover": "https://files.books.ru/pic/5513001-5514000/5513724/1842898964c.jpg"
+    },
+    {
+      "title": "Kotlin. Руководство для начинающих программистов",
+      "isbn": "9785446113354",
+      "publisher": "Питер",
+      "authorsRaw": "Гриффитс Д.,Гриффитс Д.",
+      "year": "2019",
+      "pages": "464",
+      "source": "https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/",
+      "cover": "https://files.books.ru/pic/5070001-5071000/5070839/005070839.jpg"
+    },
+    {
+      "title": "Kotlin. Программирование для профессионалов",
+      "isbn": "9785446112432",
+      "publisher": "Питер",
+      "authorsRaw": "Джош Скин Дэвид Гринхол",
+      "year": "2019",
+      "pages": "464",
+      "source": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/",
+      "cover": "https://files.books.ru/pic/5044001-5045000/5044822/449620254c.jpg"
+    },
+    {
+      "title": "Kotlin. Программирование на примерах",
+      "isbn": "9785977566735",
+      "publisher": "BHV",
+      "authorsRaw": "Виктория Быстрицкая",
+      "year": "2020",
+      "pages": "432",
+      "source": "https://www.books.ru/books/kotlin-programmirovanie-na-primerakh-5170964/",
+      "cover": "https://files.books.ru/pic/5170001-5171000/5170964/358027201c.jpg"
+    },
+    {
+      "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов, 2-е изд., стер",
+      "isbn": "9785507523283",
+      "publisher": "Лань",
+      "authorsRaw": "Петросян Л. Э., Гусев К. В.",
+      "year": "2024",
+      "pages": "104",
+      "source": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-2-e-izd-ster-5576435/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Head First. Программирование для Android на Kotlin",
+      "isbn": "9785446120161",
+      "publisher": "Питер",
+      "authorsRaw": "Дон Гриффитс Дэвид Гриффитс",
+      "year": "2016",
+      "pages": "912",
+      "source": "https://www.books.ru/books/head-first-programmirovanie-dlya-android-na-kotlin-5439912/",
+      "cover": "https://files.books.ru/pic/5439001-5440000/5439912/1520773355c.jpg"
+    },
+    {
+      "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов",
+      "isbn": "9785507491865",
+      "publisher": "Лань",
+      "authorsRaw": "Петросян Л. Э., Гусев К. В.",
+      "year": "2024",
+      "pages": "104",
+      "source": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/",
+      "cover": "https://files.books.ru/pic/5521001-5522000/5521657/5521657_c5ccaa85_c.jpg"
+    },
+    {
+      "title": "Scala для нетерпеливых. 2 издание",
+      "isbn": "9785970608401",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Хорстман К.",
+      "year": "2019",
+      "pages": "414",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-2-izdanie-5096176/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Конкурентное программирование на SCALA",
+      "isbn": "9785970605721",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Алексей Прокопец",
+      "year": "2018",
+      "pages": "342",
+      "source": "https://www.books.ru/books/konkurentnoe-programmirovanie-na-scala-4777290/",
+      "cover": "https://files.books.ru/pic/4777001-4778000/4777290/854506953c.jpg"
+    },
+    {
+      "title": "Java SE 8. Вводный курс",
+      "isbn": "9785845919007",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "1900",
+      "pages": "208",
+      "source": "https://www.books.ru/books/java-se-8-vvodnyi-kurs-3655934/",
+      "cover": "https://files.books.ru/pic/3655001-3656000/3655934/003655934.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование",
+      "isbn": "9785990846388",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Вон Вернон",
+      "year": "2017",
+      "pages": "160",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-4483931/",
+      "cover": "https://files.books.ru/pic/4483001-4484000/4483931/361222476c.jpg"
+    },
+    {
+      "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования, 11-е издание",
+      "isbn": "9785907144385",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "2019",
+      "pages": "864",
+      "source": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/",
+      "cover": "https://files.books.ru/pic/5104001-5105000/5104645/353614365c.jpg"
+    },
+    {
+      "title": "SCALA для нетерпеливых. Второе издание",
+      "isbn": "9785970605363",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "2017",
+      "pages": "414",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/",
+      "cover": "https://files.books.ru/pic/4738001-4739000/4738272/1213526128c.jpg"
+    },
+    {
+      "title": "SCALA для нетерпеливых",
+      "isbn": "9785970603031",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Хорстманн Кей С.",
+      "year": "2015",
+      "pages": "408",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/",
+      "cover": "https://files.books.ru/pic/4228001-4229000/4228040/004228040.jpg"
+    },
+    {
+      "title": "Scala. Профессиональное программирование",
+      "isbn": "9785496029513",
+      "publisher": "Питер",
+      "authorsRaw": "Мартин Одерски Лекс Билл Веннерс Спун Билл Веннерс",
+      "year": "2018",
+      "pages": "688",
+      "source": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/",
+      "cover": "https://files.books.ru/pic/4794001-4795000/4794902/176282324c.jpg"
+    },
+    {
+      "title": "Scala Grimaldelli: Libro Di Aritmetica, E Geometria Speculatiua, E Pratticale (Italian Edition)",
+      "isbn": "9785875827136",
+      "publisher": null,
+      "authorsRaw": "Francesco Feliciano",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/scala-grimaldelli-libro-di-aritmetica-e-geometria-speculatiua-e-pratticale-italian-edition-1767134/",
+      "cover": "https://files.books.ru/pic/1767001-1768000/1767134/preview_1356508_150x0.jpg"
+    },
+    {
+      "title": "Scala. Профессиональное программирование. 4-е изд",
+      "isbn": "9785446118274",
+      "publisher": "Питер",
+      "authorsRaw": "Одерски М. , Спун Л. , Веннерс Б.",
+      "year": "2021",
+      "pages": "720",
+      "source": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/",
+      "cover": "https://files.books.ru/pic/5260001-5261000/5260242/005260242.jpg"
+    },
+    {
+      "title": "Scala для нетерпеливых",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Кей С. Хорстманн",
+      "year": "2013",
+      "pages": "691",
+      "source": "https://www.books.ru/books/scala-dlya-neterpelivykh-4659515/",
+      "cover": "https://files.books.ru/pic/4659001-4660000/4659515/004659515_1.jpg"
+    },
+    {
+      "title": "Scala E Cristallo",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Alessandra Grosso",
+      "year": "2020",
+      "pages": "3153",
+      "source": "https://www.books.ru/books/scala-e-cristallo-5181117/",
+      "cover": "https://files.books.ru/pic/5181001-5182000/5181117/005181117.jpg"
+    },
+    {
+      "title": "Puccini - Il Trittico (Teatro Alla Scala)",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "",
+      "year": "2008",
+      "pages": null,
+      "source": "https://www.books.ru/books/pucciniil-trittico-teatro-alla-scala-580137/",
+      "cover": "https://files.books.ru/pic/580001-581000/580137/580137.jpg"
+    },
+    {
+      "title": "Шелковая лестница. La scala di seta by Rossini, Gioacchino",
+      "isbn": "9785884861015",
+      "publisher": null,
+      "authorsRaw": "Rossini, Gioacchino",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/shelkovaya-lestnitsa-la-scala-di-seta-by-rossini-gioacchino-3047124/",
+      "cover": "https://files.books.ru/pic/3047001-3048000/3047124/preview_2999998_150x0.jpg"
+    },
+    {
+      "title": "Лейла Генджер. История страсти последней оперной дивы La Scala",
+      "isbn": "9785449120991",
+      "publisher": "Де'Либри",
+      "authorsRaw": "Орал З.",
+      "year": "2099",
+      "pages": "394",
+      "source": "https://www.books.ru/books/leila-gendzher-istoriya-strasti-poslednei-opernoi-divy-la-scala-5551436/",
+      "cover": "https://files.books.ru/pic/5551001-5552000/5551436/005551436.jpg"
+    },
+    {
+      "title": "Die Scala",
+      "isbn": "9785884951068",
+      "publisher": null,
+      "authorsRaw": "Vogler, Georg Joseph",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/die-scala-3055605/",
+      "cover": "https://files.books.ru/pic/3055001-3056000/3055605/preview_3009458_150x0.jpg"
+    },
+    {
+      "title": "La scala del paradiso di s. Giovanni Climaco",
+      "isbn": "9785873379613",
+      "publisher": null,
+      "authorsRaw": "John, Antonio Ceruti",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/la-scala-del-paradiso-di-s-giovanni-climaco-1925487/",
+      "cover": "https://files.books.ru/pic/1925001-1926000/1925487/preview_1088173_150x0.jpg"
+    },
+    {
+      "title": "Teatro alla Scala. Cronologia di tutti gli spettacoli rappresentati in questo teatro dal giorno del solenne suo aprimento sino ad oggi, con introduzione ed annotazioni",
+      "isbn": "9785873778898",
+      "publisher": null,
+      "authorsRaw": "Romani, Luigi",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/teatro-alla-scala-cronologia-di-tutti-gli-spettacoli-rappresentati-in-questo-teatro-dal-giorno-del-solenne-suo-aprimento-sino-ad-oggi-con-introduzione-ed-annotazioni-1960529/",
+      "cover": "https://files.books.ru/pic/1960001-1961000/1960529/preview_1147055_150x0.jpg"
+    },
+    {
+      "title": "Функциональное программирование. SCALA для нетерпеливых",
+      "isbn": "9785940749202",
+      "publisher": "ДМК",
+      "authorsRaw": "Хорстман К.",
+      "year": "2013",
+      "pages": "408",
+      "source": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/",
+      "cover": "https://files.books.ru/pic/3322001-3323000/3322136/003322136.jpg"
+    },
+    {
+      "title": "Getting Started with Sbt for Scala",
+      "isbn": "9781783282678",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Shiti Saxena",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/getting-started-with-sbt-for-scala-3620700/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620700/preview_4014793_150x0.jpg"
+    },
+    {
+      "title": "Одерски, Спун, Веннерс: Scala. Профессиональное программирование",
+      "isbn": "9785446119141",
+      "publisher": "Питер",
+      "authorsRaw": "Одерски Мартин",
+      "year": "1914",
+      "pages": "608",
+      "source": "https://www.books.ru/books/oderski-spun-venners-scala-professionalnoe-programmirovanie-5368587/",
+      "cover": "https://files.books.ru/pic/5368001-5369000/5368587/005368587.jpg"
+    },
+    {
+      "title": "Шаляпин в «Scala»",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Влас Дорошевич",
+      "year": "2011",
+      "pages": "101",
+      "source": "https://www.books.ru/books/shalyapin-v-scala-4632721/",
+      "cover": "https://files.books.ru/pic/4632001-4633000/4632721/004632721_1.jpg"
+    },
+    {
+      "title": "Галоши для La Scala",
+      "isbn": null,
+      "publisher": "Эксмо",
+      "authorsRaw": "Юрий Никитин",
+      "year": "2015",
+      "pages": "300",
+      "source": "https://www.books.ru/books/galoshi-dlya-la-scala-4683069/",
+      "cover": "https://files.books.ru/pic/4683001-4684000/4683069/004683069_1.jpg"
+    },
+    {
+      "title": "Масштабы измерений, или Scala de mensuris",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Ekaterina Kolodajnay",
+      "year": "2018",
+      "pages": "168",
+      "source": "https://www.books.ru/books/masshtaby-izmerenii-ili-scala-de-mensuris-4936681/",
+      "cover": "https://files.books.ru/pic/4936001-4937000/4936681/004936681_1.jpg"
+    },
+    {
+      "title": "Java. Новое поколение разработки",
+      "isbn": "9785496005449",
+      "publisher": "Питер",
+      "authorsRaw": "Бенджамин Эванс Мартин Вербург",
+      "year": "2013",
+      "pages": "560",
+      "source": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/",
+      "cover": "https://files.books.ru/pic/3617001-3618000/3617419/779726990c.jpg"
+    },
+    {
+      "title": "Java. Библиотека профессионала. Том 1. Основы, 9-е издание",
+      "isbn": "9785845919588",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн Г. Корнелл",
+      "year": "1958",
+      "pages": "864",
+      "source": "https://www.books.ru/books/java-biblioteka-professionala-tom-1-osnovy-9-e-izdanie-4210460/",
+      "cover": "https://files.books.ru/pic/4210001-4211000/4210460/1707948452c.jpg"
+    },
+    {
+      "title": "Java. Библиотека профессионала. Том 2. Расширенные средства программирования",
+      "isbn": "9785845920317",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн Г. Корнелл",
+      "year": "2031",
+      "pages": "1008",
+      "source": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/",
+      "cover": "https://files.books.ru/pic/4272001-4273000/4272403/149977020c.jpg"
+    },
+    {
+      "title": "Clojure на производстве",
+      "isbn": "9785937000552",
+      "publisher": "ДМК",
+      "authorsRaw": "Гришаев И. В.",
+      "year": "2021",
+      "pages": "422",
+      "source": "https://www.books.ru/books/clojure-na-proizvodstve-5297411/",
+      "cover": "https://files.books.ru/pic/5297001-5298000/5297411/005297411.jpg"
+    },
+    {
+      "title": "CLOJURE на производстве. Зипперы, Базы данных, REPL",
+      "isbn": "9785937002327",
+      "publisher": "ДМК",
+      "authorsRaw": "Иван Гришаев",
+      "year": "2023",
+      "pages": "364",
+      "source": "https://www.books.ru/books/clojure-na-proizvodstve-zippery-bazy-dannykh-repl-5442005/",
+      "cover": "https://files.books.ru/pic/5442001-5443000/5442005/1216734597c.jpg"
+    },
+    {
+      "title": "Программирование на Clojure",
+      "isbn": "9785970605783",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Эмерик Чаз Брайен Карпер Кристоф Гранд",
+      "year": "2018",
+      "pages": "816",
+      "source": "https://www.books.ru/books/programmirovanie-na-clojure-4783835/",
+      "cover": "https://files.books.ru/pic/4783001-4784000/4783835/1064554085.jpg"
+    },
+    {
+      "title": "Clojure High Performance Programming",
+      "isbn": "9781782165606",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Shantanu Kumar",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-high-performance-programming-3620142/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620142/preview_4013966_150x0.jpg"
+    },
+    {
+      "title": "Clojure Data Analysis Cookbook",
+      "isbn": "9781782162643",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Eric Rochester",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-data-analysis-cookbook-3620549/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620549/preview_4014640_150x0.jpg"
+    },
+    {
+      "title": "Clojure for Domain-specific Languages",
+      "isbn": "9781782166504",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Kelker Ryan",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/clojure-for-domain-specific-languages-3623768/",
+      "cover": "https://files.books.ru/pic/3623001-3624000/3623768/preview_4020353_150x0.jpg"
+    },
+    {
+      "title": "Программирование в Clojure. Практика применения Lisp в мире Java",
+      "isbn": "9785940749257",
+      "publisher": "ДМК",
+      "authorsRaw": "Эмерик Ч., Карпер Б., Гранд К.",
+      "year": "2013",
+      "pages": "816",
+      "source": "https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/",
+      "cover": "https://files.books.ru/pic/4293001-4294000/4293646/004293646.jpg"
+    },
+    {
+      "title": "Программирование в Clojure",
+      "isbn": "9785970602997",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Чаз Эмерик",
+      "year": "2015",
+      "pages": "816",
+      "source": "https://www.books.ru/books/programmirovanie-v-clojure-4235799/",
+      "cover": "https://files.books.ru/pic/4235001-4236000/4235799/004235799.jpg"
+    },
+    {
+      "title": "Программирование на Clojure. Практика применения Lisp в мире Java",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Кристоф Гранд Брайан Карпер Чаз Эмерик",
+      "year": "2015",
+      "pages": "246",
+      "source": "https://www.books.ru/books/programmirovanie-na-clojure-praktika-primeneniya-lisp-v-mire-java-4674561/",
+      "cover": "https://files.books.ru/pic/4674001-4675000/4674561/004674561_1.jpg"
+    },
+    {
+      "title": "Grails. Гибкость Groovy и надежность Java",
+      "isbn": "9785932861851",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Глен Смит Питер Ледбрук",
+      "year": "2010",
+      "pages": "656",
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/",
+      "cover": "https://files.books.ru/pic/740001-741000/740483/740483_1.jpg"
+    },
+    {
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-22028/",
+      "error": "not-product"
+    },
+    {
+      "title": "Grails. Гибкость Groovy и надежность Java",
+      "isbn": "9785932861851",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Глен Смит Питер Ледбрук",
+      "year": "2010",
+      "pages": "656",
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-fail-pdf-818359/",
+      "cover": "https://files.books.ru/pic/740001-741000/740483/740483_1.jpg"
+    },
+    {
+      "title": "Spring 5 для профессионалов",
+      "isbn": "9785907114074",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Роб Харроп Крис Шефер Кларенс Хо Юлиана Козмина",
+      "year": "2019",
+      "pages": "1120",
+      "source": "https://www.books.ru/books/spring-5-dlya-professionalov-4981992/",
+      "cover": "https://files.books.ru/pic/4981001-4982000/4981992/923075910c.jpg"
+    },
+    {
+      "title": "Groovy и Grails. Практические советы",
+      "isbn": "9785940746188",
+      "publisher": "ДМК",
+      "authorsRaw": "Башар Абдул-Джавад",
+      "year": "2010",
+      "pages": "408",
+      "source": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/",
+      "cover": "https://files.books.ru/pic/773001-774000/773624/7508-150.jpg"
+    },
+    {
+      "title": "Groovy Homes",
+      "isbn": "9812452672",
+      "publisher": "PAGE ONE",
+      "authorsRaw": "",
+      "year": "2010",
+      "pages": "9",
+      "source": "https://www.books.ru/books/groovy-homes-738114/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Groovy for Domain-Specific Languages",
+      "isbn": "9781847196903",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Fergal Dearle",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/groovy-for-domain-specific-languages-3620928/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620928/preview_4015034_150x0.jpg"
+    },
+    {
+      "title": "Groovy 2 Cookbook",
+      "isbn": "9781849519366",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Andrey Adamovich Luciano Fiandesio",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/groovy-2-cookbook-3621356/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621356/preview_4015490_150x0.jpg"
+    },
+    {
+      "title": "Groovy и Grails. Практические советы",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Башар Абдул-Джавад",
+      "year": "2016",
+      "pages": "410",
+      "source": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-4627538/",
+      "cover": "https://files.books.ru/pic/4627001-4628000/4627538/004627538_1.jpg"
+    },
+    {
+      "title": "The Groovy Greeks",
+      "isbn": "9780439944021",
+      "publisher": "Scholastic Inc",
+      "authorsRaw": "Deary, Terry",
+      "year": "2011",
+      "pages": "144",
+      "source": "https://www.books.ru/books/the-groovy-greeks-1548356/",
+      "cover": "https://files.books.ru/pic/1548001-1549000/1548356/001548356.jpg"
+    },
+    {
+      "title": "Разработка корпоративных приложений на JAVA в Groovy и Grails",
+      "isbn": "9785940748083",
+      "publisher": "ДМК-Пресс",
+      "authorsRaw": "Абдул-Джавад Башар",
+      "year": "2012",
+      "pages": "408",
+      "source": "https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/",
+      "cover": "https://files.books.ru/pic/1805001-1806000/1805523/1393457343c.jpg"
+    },
+    {
+      "title": "Horrible Histories: Groovy Greeks & Rotten Romans",
+      "isbn": "9781407109688",
+      "publisher": "Scholastic UK",
+      "authorsRaw": "Deary, Terry",
+      "year": "2011",
+      "pages": "288",
+      "source": "https://www.books.ru/books/horrible-histories-groovy-greeks--rotten-romans-1527072/",
+      "cover": "https://files.books.ru/pic/1527001-1528000/1527072/001527072.jpg"
+    },
+    {
+      "title": "G is for Goats Groovy Galoshes (HB)",
+      "isbn": "9781581177831",
+      "publisher": null,
+      "authorsRaw": "Bjorklund, Shawn",
+      "year": "2011",
+      "pages": null,
+      "source": "https://www.books.ru/books/g-is-for-goats-groovy-galoshes-hb-1514054/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "100 Hits. Groovy Times. Soft Rock",
+      "isbn": null,
+      "publisher": "RMG",
+      "authorsRaw": "",
+      "year": "2004",
+      "pages": null,
+      "source": "https://www.books.ru/books/100-hits-groovy-times-soft-rock-328216/",
+      "cover": "https://files.books.ru/pic/328001-329000/328216/328216.jpg"
+    },
+    {
+      "title": "Grails. Гибкость Groovy и надежность Java",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "Глен Смит Питер Ледбрук",
+      "year": "2017",
+      "pages": "1083",
+      "source": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-4757769/",
+      "cover": "https://files.books.ru/pic/4757001-4758000/4757769/004757769_1.jpg"
+    },
+    {
+      "title": "Summer Trance and Groovy House. The Ultimate Club Experience",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "",
+      "year": "2005",
+      "pages": null,
+      "source": "https://www.books.ru/books/summer-trance-and-groovy-house-the-ultimate-club-experience-327420/",
+      "cover": "https://files.books.ru/pic/327001-328000/327420/327420.jpg"
+    },
+    {
+      "title": "Spring 3 для профессионалов",
+      "isbn": "9785845918031",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Роб Харроп Кларенс Хо",
+      "year": "2012",
+      "pages": "880",
+      "source": "https://www.books.ru/books/spring-3-dlya-professionalov-2721209/",
+      "cover": "https://files.books.ru/pic/2721001-2722000/2721209/1445169839c.jpg"
+    },
+    {
+      "title": "Spring 4 для профессионалов",
+      "isbn": "9785845919922",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Крис Шефер Кларенс Хо Роб Харроп",
+      "year": "1992",
+      "pages": "752",
+      "source": "https://www.books.ru/books/spring-4-dlya-professionalov-4259915/",
+      "cover": "https://files.books.ru/pic/4259001-4260000/4259915/1409594221c.jpg"
+    },
+    {
+      "title": "Spring Security в действии",
+      "isbn": "9785937002563",
+      "publisher": "ДМК",
+      "authorsRaw": "Лауренциу Спилкэ",
+      "year": "2024",
+      "pages": "480",
+      "source": "https://www.books.ru/books/spring-security-v-deistvii-5574289/",
+      "cover": "https://files.books.ru/pic/5574001-5575000/5574289/1922910034c.jpg"
+    },
+    {
+      "title": "Spring и Spring Boot. Разработка облачных приложений на Java",
+      "isbn": "9785977520492",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Федор Урванов",
+      "year": "2049",
+      "pages": "384",
+      "source": "https://www.books.ru/books/spring-i-spring-boot-razrabotka-oblachnykh-prilozhenii-na-java-5587821/",
+      "cover": "https://files.books.ru/pic/5587001-5588000/5587821/794362371c.jpg"
+    },
+    {
+      "title": "Spring Security. 4-е издание",
+      "isbn": "9786011261043",
+      "publisher": "Питер",
+      "authorsRaw": "Бадр Насслахсен",
+      "year": "2026",
+      "pages": "528",
+      "source": "https://www.books.ru/books/spring-security-4-e-izdanie-5649731/",
+      "cover": "https://files.books.ru/pic/5649001-5650000/5649731/1736679846c.jpg"
+    },
+    {
+      "title": "Spring в действии. Шестое издание",
+      "isbn": "9785937001122",
+      "publisher": "ДМК",
+      "authorsRaw": "Уоллс Крейг",
+      "year": "2022",
+      "pages": "544",
+      "source": "https://www.books.ru/books/spring-v-deistvii-shestoe-izdanie-5343201/",
+      "cover": "https://files.books.ru/pic/5343001-5344000/5343201/5343201_aaf75f70_c.jpg"
+    },
+    {
+      "title": "Spring, Spring Boot и Camunda в одном стеке: разработка, тестирование и деплой приложений + виртуальный диск с приложением, кодом и примерами",
+      "isbn": "9785604966037",
+      "publisher": null,
+      "authorsRaw": "Певненко А. А.",
+      "year": "2026",
+      "pages": "640",
+      "source": "https://www.books.ru/books/spring-spring-boot-i-camunda-v-odnom-steke-razrabotka-testirovanie-i-deploi-prilozhenii--virtualnyi-disk-s-prilozheniem-kodom-i-primerami-5677880/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Comes to Emmerdale",
+      "isbn": "9781409185055",
+      "publisher": null,
+      "authorsRaw": "Bell Pamela",
+      "year": "2020",
+      "pages": "336",
+      "source": "https://www.books.ru/books/spring-comes-to-emmerdale-5536879/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Blossoms at Mill Grange",
+      "isbn": "9781800246058",
+      "publisher": null,
+      "authorsRaw": "Kane Jenny",
+      "year": "2021",
+      "pages": "469",
+      "source": "https://www.books.ru/books/spring-blossoms-at-mill-grange-5545798/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Практика реактивного программирования в Spring 5",
+      "isbn": "9785970607473",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Олег Докука Игорь Лозинский",
+      "year": "2019",
+      "pages": "508",
+      "source": "https://www.books.ru/books/praktika-reaktivnogo-programmirovaniya-v-spring-5-5041511/",
+      "cover": "https://files.books.ru/pic/5041001-5042000/5041511/459402880c.jpg"
+    },
+    {
+      "title": "Микросервисы Spring в действии",
+      "isbn": "9785970609712",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Карнелл Дж., Санчес И.У.",
+      "year": "2021",
+      "pages": "490",
+      "source": "https://www.books.ru/books/mikroservisy-spring-v-deistvii-5314869/",
+      "cover": "https://files.books.ru/pic/5314001-5315000/5314869/2104921663c.jpg"
+    },
+    {
+      "title": "Expert Spring MVC and Web Flow",
+      "isbn": "9781590595848",
+      "publisher": "Питер",
+      "authorsRaw": "Ladd, Seth",
+      "year": "2005",
+      "pages": "403",
+      "source": "https://www.books.ru/books/expert-spring-mvc-and-web-flow-876762/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Sinister Spring",
+      "isbn": "9780008470890",
+      "publisher": null,
+      "authorsRaw": "Christie Agatha",
+      "year": "2023",
+      "pages": "228",
+      "source": "https://www.books.ru/books/sinister-spring-5481461/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование в Enterprise Java с помощью Jakarta EE, Eclipse MicroProfile, Spring Boot и програмнной среды Axon Framework",
+      "isbn": "9785970608722",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Виджей Наир",
+      "year": "2020",
+      "pages": "306",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-v-enterprise-java-s-pomoshchyu-jakarta-ee-eclipse-microprofile-spring-boot-i-programnnoi-sredy-axon-framework-5154624/",
+      "cover": "https://files.books.ru/pic/5154001-5155000/5154624/1041745388c.jpg"
+    },
+    {
+      "title": "Peach Blossom Spring",
+      "isbn": "9781472277572",
+      "publisher": null,
+      "authorsRaw": "Fu Melissa",
+      "year": "2023",
+      "pages": "392",
+      "source": "https://www.books.ru/books/peach-blossom-spring-5501356/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Peach Blossom Spring",
+      "isbn": "9781472277534",
+      "publisher": null,
+      "authorsRaw": "Fu Melissa",
+      "year": "2022",
+      "pages": "385",
+      "source": "https://www.books.ru/books/peach-blossom-spring-5537530/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "To Die in Spring",
+      "isbn": "9781509812868",
+      "publisher": null,
+      "authorsRaw": "Rothmann Ralf",
+      "year": "2018",
+      "pages": "211",
+      "source": "https://www.books.ru/books/to-die-in-spring-5537854/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "The Spring of Kasper Meier",
+      "isbn": "9780349139760",
+      "publisher": null,
+      "authorsRaw": "Fergusson Ben",
+      "year": "2015",
+      "pages": "388",
+      "source": "https://www.books.ru/books/the-spring-of-kasper-meier-5549102/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Безопасность Java-приложений: Spring, микросервисы и Kubernetes",
+      "isbn": "9785937003645",
+      "publisher": null,
+      "authorsRaw": "Спилкэ Л., Сайкали А.",
+      "year": "2026",
+      "pages": "438",
+      "source": "https://www.books.ru/books/bezopasnost-java-prilozhenii-spring-mikroservisy-i-kubernetes-5676422/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Программируем на Java",
+      "isbn": "9785977520621",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Аарон Плоетц",
+      "year": "2062",
+      "pages": "368",
+      "source": "https://www.books.ru/books/programmiruem-na-java-5604372/",
+      "cover": "https://files.books.ru/pic/5604001-5605000/5604372/784479132c.jpg"
+    },
+    {
+      "title": "Java. Состояние языка и его перспективы",
+      "isbn": "9785977516891",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Федор Урванов",
+      "year": "2022",
+      "pages": "368",
+      "source": "https://www.books.ru/books/java-sostoyanie-yazyka-i-ego-perspektivy-5402705/",
+      "cover": "https://files.books.ru/pic/5402001-5403000/5402705/005402705.jpg"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9785884876712",
+      "publisher": null,
+      "authorsRaw": "Scharfenberg, William",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-3048602/",
+      "cover": "https://files.books.ru/pic/3048001-3049000/3048602/preview_3001579_150x0.jpg"
+    },
+    {
+      "title": "SPRING/MINI VINYL",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "SPRING",
+      "year": "2007",
+      "pages": null,
+      "source": "https://www.books.ru/books/springmini-vinyl-532494/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring. Все паттерны проектирования",
+      "isbn": "9785446109357",
+      "publisher": "Питер",
+      "authorsRaw": "Динеш Раджпут",
+      "year": "2019",
+      "pages": "320",
+      "source": "https://www.books.ru/books/spring-vse-patterny-proektirovaniya-4964508/",
+      "cover": "https://files.books.ru/pic/4964001-4965000/4964508/2000546379c.jpg"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9780750267168",
+      "publisher": null,
+      "authorsRaw": "Barnham, Kay",
+      "year": "2012",
+      "pages": "24",
+      "source": "https://www.books.ru/books/spring-3128472/",
+      "cover": "https://files.books.ru/pic/3128001-3129000/3128472/003128472.jpg"
+    },
+    {
+      "title": "Spring",
+      "isbn": "9781784703288",
+      "publisher": "Vintage Books",
+      "authorsRaw": "Knausgaard Karl Ove",
+      "year": "2022",
+      "pages": "184",
+      "source": "https://www.books.ru/books/spring-5539110/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Boot 2. Лучшие практики для профессионалов. Как избавиться от забот экосистемы Spring Framework, используя возможности Spring Boot 2",
+      "isbn": "9785446115877",
+      "publisher": "Питер",
+      "authorsRaw": "Филипе Гутьеррес",
+      "year": "2020",
+      "pages": "464",
+      "source": "https://www.books.ru/books/spring-boot-2-luchshie-praktiki-dlya-professionalov-kak-izbavitsya-ot-zabot-ekosistemy-spring-framework-ispolzuya-vozmozhnosti-spring-boot-2-5162331/",
+      "cover": "https://files.books.ru/pic/5162001-5163000/5162331/1145829981c.jpg"
+    },
+    {
+      "title": "Spring в действии",
+      "isbn": "9785940745686",
+      "publisher": "ДМК",
+      "authorsRaw": "Уоллс К.",
+      "year": "2013",
+      "pages": "752",
+      "source": "https://www.books.ru/books/spring-v-deistvii-3322140/",
+      "cover": "https://files.books.ru/pic/3322001-3323000/3322140/003322140.jpg"
+    },
+    {
+      "title": "Spring в действии",
+      "isbn": "9785970601716",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Уоллс",
+      "year": "2015",
+      "pages": "752",
+      "source": "https://www.books.ru/books/spring-v-deistvii-3978365/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Torrents. Вешние воды",
+      "isbn": "014044369X",
+      "publisher": "Penguin Books",
+      "authorsRaw": "Иван Тургенев",
+      "year": "1997",
+      "pages": "239",
+      "source": "https://www.books.ru/books/spring-torrents-veshnie-vody-80810/",
+      "cover": "https://files.books.ru/pic/80001-81000/80810/000080810.jpg"
+    },
+    {
+      "title": "Spring in Action",
+      "isbn": "9781933988139",
+      "publisher": null,
+      "authorsRaw": "Walls, Craig",
+      "year": "2007",
+      "pages": "730",
+      "source": "https://www.books.ru/books/spring-in-action-686119/",
+      "cover": "https://files.books.ru/pic/686001-687000/686119/686119.jpg"
+    },
+    {
+      "title": "Spring Recipes: A Problem-Solution Approach, Second Edition (New)",
+      "isbn": "9781430224990",
+      "publisher": null,
+      "authorsRaw": "Mak, Gary",
+      "year": "2010",
+      "pages": "1104",
+      "source": "https://www.books.ru/books/spring-recipes-a-problem-solution-approach-second-edition-new-849075/",
+      "cover": "https://files.books.ru/pic/849001-850000/849075/849075.jpg"
+    },
+    {
+      "title": "Spring Enterprise Recipes: A Problem-Solution Approach",
+      "isbn": "9781430224976",
+      "publisher": null,
+      "authorsRaw": "Mak, Gary",
+      "year": "2009",
+      "pages": "470",
+      "source": "https://www.books.ru/books/spring-enterprise-recipes-a-problem-solution-approach-865791/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Affair",
+      "isbn": "9781847392824",
+      "publisher": "Simon & Schuster UK",
+      "authorsRaw": "Johnson, Milly",
+      "year": "2011",
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-affair-1527222/",
+      "cover": "https://files.books.ru/pic/1527001-1528000/1527222/001527222.jpg"
+    },
+    {
+      "title": "Spring Greeting",
+      "isbn": "9785884479937",
+      "publisher": null,
+      "authorsRaw": "Allen, Nathan Hale",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-greeting-3010499/",
+      "cover": "https://files.books.ru/pic/3010001-3011000/3010499/preview_2955621_150x0.jpg"
+    },
+    {
+      "title": "Spring Rose",
+      "isbn": "9785884528116",
+      "publisher": null,
+      "authorsRaw": "Brachet, Philip Louis",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-rose-3015496/",
+      "cover": "https://files.books.ru/pic/3015001-3016000/3015496/preview_2965655_150x0.jpg"
+    },
+    {
+      "title": "Spring Song, Op.9",
+      "isbn": "9785884551329",
+      "publisher": null,
+      "authorsRaw": "Chadwick, George Whitefield",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-op9-3017728/",
+      "cover": "https://files.books.ru/pic/3017001-3018000/3017728/preview_2968004_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884692114",
+      "publisher": null,
+      "authorsRaw": "Hollins, Alfred",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3031051/",
+      "cover": "https://files.books.ru/pic/3031001-3032000/3031051/preview_2982174_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884706170",
+      "publisher": null,
+      "authorsRaw": "Joseffy, Rafael",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3032395/",
+      "cover": "https://files.books.ru/pic/3032001-3033000/3032395/preview_2983585_150x0.jpg"
+    },
+    {
+      "title": "Spring Morning",
+      "isbn": "9785884735002",
+      "publisher": null,
+      "authorsRaw": "Le Roy, Felix",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-morning-3035191/",
+      "cover": "https://files.books.ru/pic/3035001-3036000/3035191/preview_2987340_150x0.jpg"
+    },
+    {
+      "title": "Spring song `From the South`, Op.56",
+      "isbn": "9785884737365",
+      "publisher": null,
+      "authorsRaw": "Lemare, Edwin Henry",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-from-the-south-op56-3035419/",
+      "cover": "https://files.books.ru/pic/3035001-3036000/3035419/preview_2987578_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884752047",
+      "publisher": "Проф-Пресс",
+      "authorsRaw": "Macfarlane, Will C.",
+      "year": "1998",
+      "pages": "416",
+      "source": "https://www.books.ru/books/spring-song-3036841/",
+      "cover": "https://files.books.ru/pic/3036001-3037000/3036841/preview_2989063_150x0.jpg"
+    },
+    {
+      "title": "Spring Song and Scherzo",
+      "isbn": "9785884896390",
+      "publisher": null,
+      "authorsRaw": "Shelley, Harry Rowe",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-and-scherzo-3050441/",
+      "cover": "https://files.books.ru/pic/3050001-3051000/3050441/preview_3003561_150x0.jpg"
+    },
+    {
+      "title": "Spring Welcome, Op.26",
+      "isbn": "9785884918610",
+      "publisher": null,
+      "authorsRaw": "Sudds, William F.",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-welcome-op26-3052568/",
+      "cover": "https://files.books.ru/pic/3052001-3053000/3052568/preview_3006179_150x0.jpg"
+    },
+    {
+      "title": "Spring, Op.22a",
+      "isbn": "9785884919037",
+      "publisher": null,
+      "authorsRaw": "Suk, Josef",
+      "year": "1903",
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-op22a-3052608/",
+      "cover": "https://files.books.ru/pic/3052001-3053000/3052608/preview_3006221_150x0.jpg"
+    },
+    {
+      "title": "Spring Song",
+      "isbn": "9785884962590",
+      "publisher": null,
+      "authorsRaw": "Wilkins, Herve D.",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-song-3056718/",
+      "cover": "https://files.books.ru/pic/3056001-3057000/3056718/preview_3010627_150x0.jpg"
+    },
+    {
+      "title": "Spring Into PHP 5",
+      "isbn": "0131498622",
+      "publisher": null,
+      "authorsRaw": "Holzner Steven",
+      "year": "2005",
+      "pages": "340",
+      "source": "https://www.books.ru/books/spring-into-php-5-286995/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring.doc",
+      "isbn": "9785903354085",
+      "publisher": "Академия Смартбук",
+      "authorsRaw": "Ольга Татаринова",
+      "year": "2007",
+      "pages": "240",
+      "source": "https://www.books.ru/books/springdoc-492138/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Spring Snow",
+      "isbn": "9780099282990",
+      "publisher": "Random House",
+      "authorsRaw": "Mishima, Yukio",
+      "year": "2011",
+      "pages": "400",
+      "source": "https://www.books.ru/books/spring-snow-1526761/",
+      "cover": "https://files.books.ru/pic/1526001-1527000/1526761/001526761.jpg"
+    },
+    {
+      "title": "Spring Sonata",
+      "isbn": "9780486440712",
+      "publisher": "Daedalus",
+      "authorsRaw": "Valle-Inclan, Ramon Del",
+      "year": "2011",
+      "pages": "107",
+      "source": "https://www.books.ru/books/spring-sonata-1560828/",
+      "cover": "https://files.books.ru/pic/1560001-1561000/1560828/001560828.jpg"
+    },
+    {
+      "title": "Spring-tide; or, The angler and his friends",
+      "isbn": "9785874416690",
+      "publisher": "Мнемозина",
+      "authorsRaw": "John Yonge Akerman",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-tide-or-the-angler-and-his-friends-1625731/",
+      "cover": "https://files.books.ru/pic/1625001-1626000/1625731/preview_1215115_150x0.jpg"
+    },
+    {
+      "title": "Spring; or, The causes, appearances, and effects of the seasonal renovations of nature in all climates",
+      "isbn": "9785874766191",
+      "publisher": null,
+      "authorsRaw": "Robert Mudie",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/spring-or-the-causes-appearances-and-effects-of-the-seasonal-renovations-of-nature-in-all-climates-1660621/",
+      "cover": "https://files.books.ru/pic/1660001-1661000/1660621/preview_1250077_150x0.jpg"
+    },
+    {
+      "title": "LLVM: инфраструктура для разработки компиляторов",
+      "isbn": "9785970603055",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Брайан Лопес",
+      "year": "2015",
+      "pages": "342",
+      "source": "https://www.books.ru/books/llvm-infrastruktura-dlya-razrabotki-kompilyatorov-4238200/",
+      "cover": "https://files.books.ru/pic/4238001-4239000/4238200/004238200.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для вузов",
+      "isbn": "9785507522903",
+      "publisher": "Лань",
+      "authorsRaw": "Золкин А. Л.",
+      "year": "2025",
+      "pages": "176",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602386/5602386_e228f524_c.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для СПО",
+      "isbn": "9785507522910",
+      "publisher": "Лань",
+      "authorsRaw": "Золкин А. Л.",
+      "year": "2025",
+      "pages": "176",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/",
+      "cover": "https://files.books.ru/pic/5602001-5603000/5602387/5602387_52b272a5_c.jpg"
+    },
+    {
+      "title": "Конструирование компиляторов",
+      "isbn": "9785937003911",
+      "publisher": "ДМК",
+      "authorsRaw": "Ханспетер Мёссенбёк",
+      "year": "2025",
+      "pages": "276",
+      "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-5613742/",
+      "cover": "https://files.books.ru/pic/5613001-5614000/5613742/581496604c.jpg"
+    },
+    {
+      "title": "Создание компиляторов: инженерный подход",
+      "isbn": "9785937004284",
+      "publisher": "ДМК",
+      "authorsRaw": "Купер К. Д., Торкзон Л.",
+      "year": "2026",
+      "pages": "850",
+      "source": "https://www.books.ru/books/sozdanie-kompilyatorov-inzhenernyi-podkhod-5632524/",
+      "cover": "https://files.books.ru/pic/5632001-5633000/5632524/1354463639c.jpg"
+    },
+    {
+      "title": "Построение компиляторов. Второе издание",
+      "isbn": "9785970602195",
+      "publisher": "ДМК Пресс",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2016",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/",
+      "cover": "https://files.books.ru/pic/4321001-4322000/4321852/2132227052c.png"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструментарий. Второе издание",
+      "isbn": "9785907114289",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Альфред Ахо Р. Сети Джеффри Д. Ульман Моника Лам",
+      "year": "2018",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumentarii-vtoroe-izdanie-4952492/",
+      "cover": "https://files.books.ru/pic/4952001-4953000/4952492/2041820105.jpg"
+    },
+    {
+      "title": "Применение SSA в компиляторах",
+      "isbn": "9785937004321",
+      "publisher": "ДМК",
+      "authorsRaw": "Растелло Ф., Буше Тишаду Ф.",
+      "year": "2026",
+      "pages": "400",
+      "source": "https://www.books.ru/books/primenenie-ssa-v-kompilyatorakh-5632517/",
+      "cover": "https://files.books.ru/pic/5632001-5633000/5632517/775781174c.jpg"
+    },
+    {
+      "title": "Оптимизирующие компиляторы. Структура и алгоритмы",
+      "isbn": "9785171679651",
+      "publisher": "АСТ",
+      "authorsRaw": "",
+      "year": "2024",
+      "pages": "272",
+      "source": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/",
+      "cover": "https://files.books.ru/pic/5557001-5558000/5557351/005557351.jpg"
+    },
+    {
+      "title": "LLVM 17: инфраструктура для разработки компиляторов",
+      "isbn": "9785937003034",
+      "publisher": "ДМК",
+      "authorsRaw": "Кай Наке Эми Кван",
+      "year": "2024",
+      "pages": "370",
+      "source": "https://www.books.ru/books/llvm-17-infrastruktura-dlya-razrabotki-kompilyatorov-5513738/",
+      "cover": "https://files.books.ru/pic/5513001-5514000/5513738/1494470710c.jpg"
+    },
+    {
+      "title": "Введение в теорию алгоритмических языков и компиляторов",
+      "isbn": "9785819904046",
+      "publisher": "Форум",
+      "authorsRaw": "Л.Г. Гагарина Е. Кокорева",
+      "year": "2018",
+      "pages": "176",
+      "source": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/",
+      "cover": "https://files.books.ru/pic/667001-668000/667822/000667822.jpg"
+    },
+    {
+      "title": "Введение в теорию алгоритмических языков и компиляторов",
+      "isbn": "9785160177564",
+      "publisher": "Инфра-М",
+      "authorsRaw": "Гагарина Л.Г., Кокорева Е.В.",
+      "year": "2024",
+      "pages": "207",
+      "source": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/",
+      "cover": "https://files.books.ru/pic/5553001-5554000/5553591/5553591_85c3e48b_c.jpg"
+    },
+    {
+      "title": "Основные концепции компиляторов",
+      "isbn": "5845903602",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Робин Хантер",
+      "year": "2002",
+      "pages": "256",
+      "source": "https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/",
+      "cover": "https://files.books.ru/pic/31001-32000/31375/31375.jpg"
+    },
+    {
+      "title": "Основы конструирования компиляторов",
+      "isbn": "5836002428",
+      "publisher": "URSS",
+      "authorsRaw": "М.П. Галочкин В. А. Серебряков",
+      "year": "2001",
+      "pages": "224",
+      "source": "https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/",
+      "cover": "https://files.books.ru/pic/57001-58000/57277/57277.jpg"
+    },
+    {
+      "title": "Построение интерпретаторов и компиляторов. Использование программ BIZON, BYACC, ZUBR",
+      "isbn": "5943870334",
+      "publisher": "Наука и техника",
+      "authorsRaw": "А.В. Костельцов",
+      "year": "2001",
+      "pages": "224",
+      "source": "https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/",
+      "cover": "https://files.books.ru/pic/60001-61000/60355/60355.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940745853",
+      "publisher": "ДМК",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2009",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-719247/",
+      "cover": "https://files.books.ru/pic/719001-720000/719247/7538-150.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940748755",
+      "publisher": "ДМК",
+      "authorsRaw": "Никлаус Вирт",
+      "year": "2012",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-3123981/",
+      "cover": "https://files.books.ru/pic/3123001-3124000/3123981/003123981.jpg"
+    },
+    {
+      "title": "Построение компиляторов",
+      "isbn": "9785940749929",
+      "publisher": "ДМК",
+      "authorsRaw": "Вирт. Н.",
+      "year": "2013",
+      "pages": "192",
+      "source": "https://www.books.ru/books/postroenie-kompilyatorov-3592250/",
+      "cover": "https://files.books.ru/pic/3592001-3593000/3592250/003592250.jpg"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "isbn": "9785845913494",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Альфред Ахо Р. Сети Джеффри Д. Ульман М. Лам",
+      "year": "2008",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/",
+      "cover": "https://files.books.ru/pic/561001-562000/561747/561747.jpg"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструментарий, 2 издание",
+      "isbn": "9785845919328",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Ахо А.В., Лам М.С.",
+      "year": "1932",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumentarii-2-izdanie-3818685/",
+      "cover": "https://files.books.ru/pic/3818001-3819000/3818685/003818685.jpg"
+    },
+    {
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "isbn": "9785845913494",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Альфред Ахо Р. Сети Джеффри Д. Ульман М. Лам",
+      "year": "2008",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-561747/",
+      "cover": "https://files.books.ru/pic/561001-562000/561747/561747.jpg"
+    },
+    {
+      "title": "Компиляторы. Краткий справочник",
+      "isbn": "9785845921420",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Робин Хантер",
+      "year": "2018",
+      "pages": "256",
+      "source": "https://www.books.ru/books/kompilyatory-kratkii-spravochnik-4884005/",
+      "cover": "https://files.books.ru/pic/4884001-4885000/4884005/878053415c.jpg"
+    },
+    {
+      "title": "Изучаем DDD - предметно-ориентированное проектирование",
+      "isbn": "9785977518864",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Влад Хононов",
+      "year": "2023",
+      "pages": "320",
+      "source": "https://www.books.ru/books/izuchaem-dddpredmetno-orientirovannoe-proektirovanie-5467688/",
+      "cover": "https://files.books.ru/pic/5467001-5468000/5467688/1011552010c.jpg"
+    },
+    {
+      "title": "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура",
+      "isbn": "9786011250283",
+      "publisher": "Питер",
+      "authorsRaw": "Гарри Персиваль, Боб Грегори",
+      "year": "2025",
+      "pages": "336",
+      "source": "https://www.books.ru/books/patterny-razrabotki-na-python-tdd-ddd-i-sobytiino-orientirovannaya-arkhitektura-5641667/",
+      "cover": "https://files.books.ru/pic/5641001-5642000/5641667/1778164019c.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "isbn": "9785604072493",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Эрик Эванс",
+      "year": "2018",
+      "pages": "448",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-ddd-strukturizatsiya-slozhnykh-programmnykh-sistem-4908322/",
+      "cover": "https://files.books.ru/pic/4908001-4909000/4908322/279501861c.jpg"
+    },
+    {
+      "title": "Реализация методов предметно-ориентированного проектирования",
+      "isbn": "9785907114135",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Вон Вернон",
+      "year": "2018",
+      "pages": "688",
+      "source": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4930812/",
+      "cover": "https://files.books.ru/pic/4930001-4931000/4930812/004930812.jpg"
+    },
+    {
+      "title": "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура",
+      "isbn": "9785446114689",
+      "publisher": "Питер",
+      "authorsRaw": "Гарри Персиваль Боб Грегори",
+      "year": "2021",
+      "pages": "336",
+      "source": "https://www.books.ru/books/patterny-razrabotki-na-python-tdd-ddd-i-sobytiino-orientirovannaya-arkhitektura-5301083/",
+      "cover": "https://files.books.ru/pic/5301001-5302000/5301083/167405437c.jpg"
+    },
+    {
+      "title": "Применение DDD и шаблонов проектирования. Проблемно-ориентированное проектирование приложений с примерами на C# и .NET",
+      "isbn": "9785845912961",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Джимми Нильссон",
+      "year": "2007",
+      "pages": "560",
+      "source": "https://www.books.ru/books/primenenie-ddd-i-shablonov-proektirovaniya-problemno-orientirovannoe-proektirovanie-prilozhenii-s-primerami-na-c-i-net-536846/",
+      "cover": "https://files.books.ru/pic/536001-537000/536846/536846.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "isbn": "9785845919427",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Эрик Эванс",
+      "year": "1942",
+      "pages": "448",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-ddd-strukturizatsiya-slozhnykh-programmnykh-sistem-806536/",
+      "cover": "https://files.books.ru/pic/4336001-4337000/4336547/978422866c.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "isbn": "9785845919427",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Эрик Эванс",
+      "year": "1942",
+      "pages": "448",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-ddd-strukturizatsiya-slozhnykh-programmnykh-sistem-4336547/",
+      "cover": "https://files.books.ru/pic/4336001-4337000/4336547/978422866c.jpg"
+    },
+    {
+      "title": "Применение DDD и шаблонов проектирования. Проблемно-ориентированное проектирование приложений с примерами на C# и .NET",
+      "isbn": "9785845912961",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Джимми Нильссон",
+      "year": "2007",
+      "pages": "560",
+      "source": "https://www.books.ru/books/primenenie-ddd-i-shablonov-proektirovaniya-problemno-orientirovannoe-proektirovanie-prilozhenii-s-primerami-na-c-i-net-3643728/",
+      "cover": "https://files.books.ru/pic/536001-537000/536846/536846.jpg"
+    },
+    {
+      "title": "Реализация методов предметно-ориентированного проектирования",
+      "isbn": "9785845918819",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Вон Вернон",
+      "year": "2018",
+      "pages": "688",
+      "source": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/",
+      "cover": "https://files.books.ru/pic/4291001-4292000/4291106/1012667127c.jpg"
+    },
+    {
+      "title": "Предметно-ориентированное проектирование: паттерны, принципы и методы",
+      "isbn": "9785496019842",
+      "publisher": "Питер",
+      "authorsRaw": "Скотт Миллетт Ник Тьюн",
+      "year": "2017",
+      "pages": "832",
+      "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/",
+      "cover": "https://files.books.ru/pic/4682001-4683000/4682020/253834159c.jpg"
+    },
+    {
+      "title": "Изучаем Java EE. Современное программирование для больших предприятий",
+      "isbn": "9785446107742",
+      "publisher": "Питер",
+      "authorsRaw": "Себастьян Дашнер",
+      "year": "2018",
+      "pages": "384",
+      "source": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/",
+      "cover": "https://files.books.ru/pic/4890001-4891000/4890406/2118927749.jpg"
+    },
+    {
+      "title": "Maven: The Definitive Guide",
+      "isbn": "9780596517335",
+      "publisher": "O'Reilly Media",
+      "authorsRaw": "Sonatype Company",
+      "year": "2008",
+      "pages": "452",
+      "source": "https://www.books.ru/books/maven-the-definitive-guide-3659712/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Apache Maven Dependency Management",
+      "isbn": "9781783283019",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Lalou Jonathan",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/apache-maven-dependency-management-3620701/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620701/preview_4014794_150x0.jpg"
+    },
+    {
+      "title": "Apache Maven 2 Effective Implementation",
+      "isbn": "9781847194541",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Brett Porter Maria Odea Ching",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/apache-maven-2-effective-implementation-3620842/",
+      "cover": "https://files.books.ru/pic/3620001-3621000/3620842/preview_4014940_150x0.jpg"
+    },
+    {
+      "title": "The northern traveller; containing the routes to the Springs, Niagara, Quebec, and the coal mines; with the tour of New England, and a brief guide to the Virginia springs, and southern and western routes",
+      "isbn": "9785873782673",
+      "publisher": null,
+      "authorsRaw": "Dwight, Theodore, 1796-1866",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/the-northern-traveller-containing-the-routes-to-the-springs-niagara-quebec-and-the-coal-mines-with-the-tour-of-new-england-and-a-brief-guide-to-the-virginia-springs-and-southern-and-western-routes-1960839/",
+      "cover": "https://files.books.ru/pic/1960001-1961000/1960839/preview_1147509_150x0.jpg"
+    },
+    {
+      "title": "Gradle Effective Implementation Guide",
+      "isbn": "9781849518109",
+      "publisher": "Packt Publishing",
+      "authorsRaw": "Hubert Klein Ikkink",
+      "year": null,
+      "pages": null,
+      "source": "https://www.books.ru/books/gradle-effective-implementation-guide-3621321/",
+      "cover": "https://files.books.ru/pic/3621001-3622000/3621321/preview_4015452_150x0.jpg"
+    },
+    {
+      "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+      "isbn": "9785041692544",
+      "publisher": "Эксмо",
+      "authorsRaw": "Кевлин Хенни Триша Джи",
+      "year": "2023",
+      "pages": "288",
+      "source": "https://www.books.ru/books/97-veshchei-o-kotorykh-dolzhen-znat-kazhdyi-java-programmist-sovety-luchshikh-ekspertov-5438600/",
+      "cover": "https://files.books.ru/pic/5438001-5439000/5438600/344176878c.jpg"
+    }
+  ]
+}

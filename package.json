@@ -1,0 +1,28 @@
+{
+  "name": "bookshelf-catalog",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "catalog:generate": "python3 tools/build.py",
+    "validate:catalog": "node tools/validate-catalog.mjs",
+    "dev": "vite",
+    "build": "npm run catalog:generate && npm run validate:catalog && vite build",
+    "test": "vitest run",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^13.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^8.0.0",
+    "@testing-library/react": "^16.3.3",
+    "@vitejs/plugin-react": "^4.4.1",
+    "jsdom": "^31.0.1",
+    "vite": "^6.3.5",
+    "vitest": "^5.1.1",
+    "zod": "^4.6.7"
+  }
+}

@@ -1,0 +1,737 @@
+[
+  {
+    "title": "PostgreSQL 11. Мастерство разработки",
+    "isbn": "9785970606711",
+    "isbnNormalized": "9785970606711",
+    "authors": [
+      "Ганс-Юрген Шениг"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "pages": "352",
+    "url": "https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/",
+    "cover": "https://files.books.ru/pic/4987001-4988000/4987418/1695987031c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785970606711.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "c18c2bec2c21b0b8d80759a17b983aba79d34a8a8a657664286aad37c00b619e",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL 16 изнутри",
+    "isbn": "9785937003058",
+    "isbnNormalized": "9785937003058",
+    "authors": [
+      "Егор Рогов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "pages": "664",
+    "url": "https://www.books.ru/books/postgresql-16-iznutri-5501246/",
+    "cover": "https://files.books.ru/pic/5501001-5502000/5501246/1053639724c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-16-iznutri-5501246/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937003058.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "7d5c2174c7593a3eb0210629955b9c5d48133d6a57705d2df94758e0c57eaee7",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL. Профессиональный SQL",
+    "isbn": "9785937003737",
+    "isbnNormalized": "9785937003737",
+    "authors": [
+      "Евгений Моргунов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "pages": "444",
+    "url": "https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/",
+    "cover": "https://files.books.ru/pic/5592001-5593000/5592350/314878519c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937003737.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "f31671f866a4b461b677b6fa22b13a00710e417b762b8817cdf43055cedf70e6",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL. Основы языка SQL",
+    "isbn": "9785977540223",
+    "isbnNormalized": "9785977540223",
+    "authors": [
+      "Евгений Павлович Моргунов"
+    ],
+    "publisher": "БХВ-Петербург",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "pages": "336",
+    "url": "https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/",
+    "cover": "https://files.books.ru/pic/4937001-4938000/4937877/1749355537c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785977540223.jpg",
+    "width": 214,
+    "height": 312,
+    "sha256": "f2c9bfc3f1449f3c094968b7f4b74aa024f03ec3c950f5d4be6051a47debb9e2",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL: SQL + PL/pgSQL для тех, кто хочет стать профессионалом",
+    "isbn": "9785907592322",
+    "isbnNormalized": "9785907592322",
+    "authors": [
+      "Ткачев О."
+    ],
+    "publisher": "Наука и техника",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "pages": "480",
+    "url": "https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/",
+    "cover": "https://files.books.ru/pic/5478001-5479000/5478169/1423337358c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785907592322.jpg",
+    "width": 800,
+    "height": 1140,
+    "sha256": "98c84beb598e5325ccc997a10ec20b77eb257cce3990561b545026c28ef770a0",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+    "isbn": "9785466069747",
+    "isbnNormalized": "9785466069747",
+    "authors": [
+      "Ванина М.Ф.",
+      "Ерохин А.Г.",
+      "Тутова Н.В.",
+      "Осипов А.В.",
+      "Плешакова Е.С.",
+      "Гатауллин С.Т."
+    ],
+    "publisher": "Русайнс",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "pages": "228",
+    "url": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/",
+    "cover": "https://files.books.ru/pic/5497001-5498000/5497164/5497164_2a54184c_c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.",
+      "На русской обложке указан Русайнс; магазин относит книгу к группе КноРус."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785466069747.jpg",
+    "width": 325,
+    "height": 500,
+    "sha256": "db58a8f340fae6ae740e8d2115ebed63444d6e8f9aa4f715b57039252f4e9178",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Мониторинг PostgreSQL",
+    "isbn": "9785907754423",
+    "isbnNormalized": "9785907754423",
+    "authors": [
+      "Лесовский Алексей"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "pages": "247",
+    "url": "https://www.books.ru/books/monitoring-postgresql-5504789/",
+    "cover": "https://files.books.ru/pic/5504001-5505000/5504789/1323750633c.jpg",
+    "coverSource": "https://www.books.ru/books/monitoring-postgresql-5504789/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785907754423.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "3380d63f669bc7a81f9ac5503269b484003b0f6f99d652f9b25ed8b35e030bf3",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Антипаттерны PostgreSQL и как их избежать",
+    "isbn": "9785446144938",
+    "isbnNormalized": "9785446144938",
+    "authors": [
+      "Джимми Ангелакос"
+    ],
+    "publisher": "Питер",
+    "year": "2026",
+    "yearKind": "retailer-listed",
+    "pages": "272",
+    "url": "https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/",
+    "cover": "https://files.books.ru/pic/5658001-5659000/5658840/1210841427c.jpg",
+    "coverSource": "https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785446144938.jpg",
+    "width": 646,
+    "height": 914,
+    "sha256": "3679ad71db84a61d826dd161976b1260ff3c3fa68b45426df6f41452ad063d4e",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Оптимизация запросов в PostgreSQL",
+    "isbn": "9785970609637",
+    "isbnNormalized": "9785970609637",
+    "authors": [
+      "Домбровская Г.",
+      "Новиков Б.",
+      "Бейликова А."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2021",
+    "yearKind": "retailer-listed",
+    "pages": "278",
+    "url": "https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/",
+    "cover": "https://files.books.ru/pic/5295001-5296000/5295070/5295070_fbfd4184_c.jpg",
+    "coverSource": "https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785970609637.jpg",
+    "width": 300,
+    "height": 400,
+    "sha256": "7bdd62699d8790cef5afe12de90507787c04d2300a0c20b7d361a18ca6a16c83",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Изучаем PostgreSQL 10",
+    "isbn": "9785970606438",
+    "isbnNormalized": "9785970606438",
+    "authors": [
+      "С. Джуба",
+      "А. Волков"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "pages": "400",
+    "url": "https://www.books.ru/books/izuchaem-postgresql10-4930825/",
+    "cover": "https://files.books.ru/pic/4930001-4931000/4930825/2030965899c.jpg",
+    "coverSource": "https://www.books.ru/books/izuchaem-postgresql10-4930825/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785970606438.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "d25e95415cda03ed00d12e11338c6eb539ff12c5ad6169e4e981cd588ee807c6",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostGIS в действии",
+    "isbn": "9785937001306",
+    "isbnNormalized": "9785937001306",
+    "authors": [
+      "Регина Обе",
+      "Хсу Лео"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "pages": "736",
+    "url": "https://www.books.ru/books/postgis-v-deistvii-5432477/",
+    "cover": "https://files.books.ru/pic/5432001-5433000/5432477/1751715705c.jpg",
+    "coverSource": "https://www.books.ru/books/postgis-v-deistvii-5432477/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937001306.jpg",
+    "width": 594,
+    "height": 840,
+    "sha256": "9d21b5c7406e77c2fcb1e4f5854e481253f75a7e9d9ea20ca7fa7284bb34b8bb",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL. Для профессионалов (+CD)",
+    "isbn": "5947233371",
+    "isbnNormalized": "5947233371",
+    "authors": [
+      "Джон Уорсли",
+      "Джошуа Дрейк"
+    ],
+    "publisher": "Питер",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "pages": "496",
+    "url": "https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/",
+    "cover": "https://files.books.ru/pic/31001-32000/31278/000031278.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/5947233371.jpg",
+    "width": 144,
+    "height": 204,
+    "sha256": "8cd481259807ae6653f47543d0704babb210aa134fdda1be7155b34a47fd84e4",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL 15 изнутри",
+    "isbn": "9785937001788",
+    "isbnNormalized": "9785937001788",
+    "authors": [
+      "Егор Рогов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "pages": "662",
+    "url": "https://www.books.ru/books/postgresql-15-iznutri-5409701/",
+    "cover": "https://files.books.ru/pic/5409001-5410000/5409701/1965016081c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-15-iznutri-5409701/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937001788.jpg",
+    "width": 264,
+    "height": 364,
+    "sha256": "267b27609c3a734ef659caef7504e3048cd81a24daa2fb9bbb8db2388b6be871",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL 17 изнутри",
+    "isbn": "9785937003720",
+    "isbnNormalized": "9785937003720",
+    "authors": [
+      "Егор Рогов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "pages": "668",
+    "url": "https://www.books.ru/books/postgresql-17-iznutri-5592349/",
+    "cover": "https://files.books.ru/pic/5592001-5593000/5592349/766915563c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-17-iznutri-5592349/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937003720.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "bde8293e2758fe32d542d0f1976b1126a8f489a0ab95ae53fa317886a9713483",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "PostgreSQL 14 изнутри",
+    "isbn": "9785937001221",
+    "isbnNormalized": "9785937001221",
+    "authors": [
+      "Егор Рогов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2022",
+    "yearKind": "retailer-listed",
+    "pages": "660",
+    "url": "https://www.books.ru/books/postgresql-14-iznutri-5323407/",
+    "cover": "https://files.books.ru/pic/5323001-5324000/5323407/1608896913c.jpg",
+    "coverSource": "https://www.books.ru/books/postgresql-14-iznutri-5323407/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785937001221.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "8b39554e8d7efee9d82f2b572b6d4449b750a2b984628535ae63084f84db763e",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Администрирование PostgreSQL 9. Книга рецептов",
+    "isbn": "9785940747505",
+    "isbnNormalized": "9785940747505",
+    "authors": [
+      "Саймон Ригс",
+      "Ханну Кросинг"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "pages": "364",
+    "url": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/",
+    "cover": "https://files.books.ru/pic/3135001-3136000/3135417/003135417.jpg",
+    "coverSource": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785940747505.jpg",
+    "width": 150,
+    "height": 210,
+    "sha256": "ad4383b0e04d01716826e14bd1374f995f801474224eb5f84a99cad54036cbf9",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Администрирование PostgreSQL 9. Книга рецептов",
+    "isbn": "9785970602799",
+    "isbnNormalized": "9785970602799",
+    "authors": [
+      "Саймон Ригс",
+      "Ханну Кросинг"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2015",
+    "yearKind": "retailer-listed",
+    "pages": "364",
+    "url": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/",
+    "cover": "https://files.books.ru/pic/4235001-4236000/4235703/004235703.jpg",
+    "coverSource": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785970602799.jpg",
+    "width": 150,
+    "height": 213,
+    "sha256": "618c16b4880af0e8ed723d3e18fa72331d094d9d79969278764f2c376e99dd91",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Администрирование PostgreSQL 9. Книга рецептов",
+    "isbn": "9785970606094",
+    "isbnNormalized": "9785970606094",
+    "authors": [
+      "Саймон Ригс",
+      "Ханну Кросинг"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "pages": "364",
+    "url": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/",
+    "cover": "https://files.books.ru/pic/4795001-4796000/4795385/1365007547c.jpg",
+    "coverSource": "https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785970606094.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "578390fcbbc1f47f5bae5bcb027f13b90da3d696ff59bdad415bb4e6f85fa5fd",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Postgres. Первое знакомство. Версия 15",
+    "isbn": "9785604597019",
+    "isbnNormalized": "9785604597019",
+    "authors": [
+      "Лузанов П.",
+      "Рогов Е.",
+      "Лёвшин И."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "pages": "178",
+    "url": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/",
+    "cover": "https://files.books.ru/pic/5513001-5514000/5513739/1862928847c.jpg",
+    "coverSource": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785604597019.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "a6f1070c5d760d186e7064a3172f7f16f2eb635a49890d347f2eaac5c79ddb45",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Postgres 16. Первое знакомство",
+    "isbn": "9785604597057",
+    "isbnNormalized": "9785604597057",
+    "authors": [
+      "Лузанов П.",
+      "Лёвшин И.",
+      "Рогов Е."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "pages": "192",
+    "url": "https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/",
+    "cover": "https://files.books.ru/pic/5561001-5562000/5561260/754831398c.jpg",
+    "coverSource": "https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785604597057.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "b9cd2c908c5e8943b78a9091846651e77ea7c20f71108730bca33180cef0d8fb",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "title": "Postgres. Первое знакомство. Версия 17",
+    "isbn": "9785604597071",
+    "isbnNormalized": "9785604597071",
+    "authors": [
+      "Лузанов П.",
+      "Рогов Е.",
+      "Лёвшин И."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "pages": "192",
+    "url": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/",
+    "cover": "https://files.books.ru/pic/5613001-5614000/5613743/499978865c.jpg",
+    "coverSource": "https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "notes": [],
+    "verificationNotes": [
+      "Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "postgres"
+    ],
+    "coverPath": "covers/9785604597071.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "625ec9515681378edc51aee73924b961b2d1ec7435464be369f8851c127e0fff",
+    "coverStatus": "downloaded",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  },
+  {
+    "isbnNormalized": "9785937004994",
+    "title": "PostgreSQL 18 изнутри",
+    "authors": [
+      "Егор Рогов"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2026",
+    "pages": "682",
+    "url": "https://postgrespro.ru/education/books/internals",
+    "cover": "https://postgrespro.ru/media/2026/06/22/internals_18_cover_small.png",
+    "coverSourceType": "author-organization",
+    "yearKind": "publication",
+    "isbn": "9785937004994",
+    "coverSource": "https://postgrespro.ru/education/books/internals",
+    "sourceAccess": "web-page",
+    "coverPath": "covers/9785937004994.png",
+    "width": 400,
+    "height": 560,
+    "sha256": "c29eb3053b3ffcc2d786f8698a5e925d7617b88161678111b542381ecf02a9e2",
+    "coverStatus": "downloaded",
+    "topicCodes": [
+      "postgres"
+    ],
+    "notes": [],
+    "verificationNotes": [
+      "Обложка, ISBN, год и объём подтверждены страницей книги на сайте Postgres Professional."
+    ],
+    "visualVerification": "russian-cover-reviewed",
+    "coverVerification": "russian-cover-and-isbn-matched"
+  },
+  {
+    "isbnNormalized": "593286043X",
+    "title": "PostgreSQL. Основы",
+    "authors": [
+      "Ричард Стоунз",
+      "Нейл Мэттью"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2002",
+    "pages": "640",
+    "url": "https://www.books.ru/books/postgresql-osnovy-28817/",
+    "cover": "https://files.books.ru/pic/28001-29000/28817/28817.jpg",
+    "coverSourceType": "retailer",
+    "yearKind": "retailer-listed",
+    "metadataSource": "https://lib.dm-centre.ru/lib/gpntb/?e_kls=POSTGRESQL&e_viewdb=ESVODT",
+    "isbn": "593286043X",
+    "coverSource": "https://www.books.ru/books/postgresql-osnovy-28817/",
+    "sourceAccess": "web-page",
+    "coverPath": "covers/593286043X.jpg",
+    "width": 144,
+    "height": 199,
+    "sha256": "9442030356d39feffd2c50bb4453e9b737df171afc05920830a202ecc2204443",
+    "coverStatus": "downloaded",
+    "topicCodes": [
+      "postgres"
+    ],
+    "notes": [],
+    "verificationNotes": [
+      "В Books.ru пропущен контрольный символ X; полный ISBN подтверждён библиотечным каталогом ГПНТБ. Объём 640 в магазине, 637 нумерованных страниц в библиотечной записи."
+    ],
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "visualVerification": "russian-cover-reviewed"
+  }
+]

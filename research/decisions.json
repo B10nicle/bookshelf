@@ -1,0 +1,793 @@
+{
+  "9786011261043": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9786011286763": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9785446144501": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9786011293266": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9786010996946": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9785970605783": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9786011233453": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9786011250283": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура"
+  },
+  "9785937000552": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937002327": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9786011406482": {
+    "decision": "include",
+    "by": "user",
+    "scope": "catalog-selection"
+  },
+  "9785446114689": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура"
+  },
+  "9785932861851": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Grails. Гибкость Groovy и надежность Java"
+  },
+  "9785940748083": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Разработка корпоративных приложений на JAVA в Groovy и Grails"
+  },
+  "9785940746188": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Groovy и Grails. Практические советы"
+  },
+  "9785496009423": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785446112692": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977539555": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977508292": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977507356": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977506717": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977505611": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977504249": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977501910": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977502160": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5941576072": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5941572727": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5941571062": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5941570953": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5941570414": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845918857": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845918963": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845919007": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785604004302": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785950029677": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785604139462": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845920508": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845920041": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845913951": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845913920": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845911629": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845909570": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845907861": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845903394": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845902991": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845902770": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845901650": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845902150": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845902088": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845901685": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845921420": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5932860421": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5855820920": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5932860677": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5855821846": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5935170655": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5932860413": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5933780375": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845900468": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5867090736": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845902908": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5318007481": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5933780928": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5855820491": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5318001874": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5020249858": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5887823232": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5951800153": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5935170213": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5943870040": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845901146": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5934551345": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785951802781": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "595180034X": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5779100519": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5845903602": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5836002428": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785496019842": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940748120": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785950029615": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785971083436": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785855822762": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785855822960": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785991202985": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785971077428": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785845917065": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785446113354": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940749257": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970602997": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970602195": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785819904046": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5943870334": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940745853": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940748755": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940746720": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785507522903": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785507522910": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785160177564": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940749929": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937001405": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785951938251": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785855824193": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785406155585": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785160201368": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785855823820": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785507509812": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970606711": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937003058": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937003737": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977540223": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785907592322": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785466069747": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785907754423": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785446144938": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970609637": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970606438": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937001306": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "5947233371": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937001788": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937003720": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937001221": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785940747505": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970602799": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785970606094": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785604597019": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785604597057": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785604597071": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785937004994": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "593286043X": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Список исключений от 05.11.2026"
+  },
+  "9785977508155": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Самоучитель Java 7"
+  },
+  "9785977507783": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Web-сервисы Java"
+  },
+  "5932860189": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Java и XML, 2-е издание"
+  },
+  "9785855823561": {
+    "decision": "exclude",
+    "by": "user",
+    "scope": "all-editions",
+    "reason": "Образцы J2EE. Лучшие решения и стратегии проектирования"
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "endpoint": "https://ik.imagekit.io/bookshelf",
+  "folder": "/covers",
+  "covers": {
+    "5845901898": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5845901898.jpg",
+      "fileId": "6afc75cbead997d09ab2405a",
+      "filePath": "/covers/5845901898.jpg"
+    },
+    "5845903459": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5845903459.jpg",
+      "fileId": "6afc75ccead997d09ab24396",
+      "filePath": "/covers/5845903459.jpg"
+    },
+    "5845903858": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5845903858.jpg",
+      "fileId": "6afc75cdead997d09ab24785",
+      "filePath": "/covers/5845903858.jpg"
+    },
+    "5855821692": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5855821692.jpg",
+      "fileId": "6afc75ceead997d09ab256d6",
+      "filePath": "/covers/5855821692.jpg"
+    },
+    "9785040935406": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785040935406.jpg",
+      "fileId": "6afc75cfead997d09ab25fc9",
+      "filePath": "/covers/9785040935406.jpg"
+    },
+    "9785041692544": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785041692544.jpg",
+      "fileId": "6afc75d0ead997d09ab262d9",
+      "filePath": "/covers/9785041692544.jpg"
+    },
+    "9785042076688": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785042076688.jpg",
+      "fileId": "6afc75d1ead997d09ab2665c",
+      "filePath": "/covers/9785042076688.jpg"
+    },
+    "9785171602680": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785171602680.jpg",
+      "fileId": "6afc75d2ead997d09ab269ea",
+      "filePath": "/covers/9785171602680.jpg"
+    },
+    "9785171621100": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785171621100.jpg",
+      "fileId": "6afc75d3ead997d09ab274d7",
+      "filePath": "/covers/9785171621100.jpg"
+    },
+    "9785171621858": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785171621858.jpg",
+      "fileId": "6afc75d4ead997d09ab281a1",
+      "filePath": "/covers/9785171621858.jpg"
+    },
+    "9785171679651": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785171679651.jpg",
+      "fileId": "6afc75d5ead997d09ab28d79",
+      "filePath": "/covers/9785171679651.jpg"
+    },
+    "9785171747534": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785171747534.jpg",
+      "fileId": "6afc75d6ead997d09ab299d1",
+      "filePath": "/covers/9785171747534.jpg"
+    },
+    "9785446105755": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446105755.jpg",
+      "fileId": "6afc75d7ead997d09ab2a2f7",
+      "filePath": "/covers/9785446105755.jpg"
+    },
+    "9785446107131": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446107131.jpg",
+      "fileId": "6afc75d8ead997d09ab2ab18",
+      "filePath": "/covers/9785446107131.jpg"
+    },
+    "9785446107742": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446107742.jpg",
+      "fileId": "6afc75d9ead997d09ab2adbf",
+      "filePath": "/covers/9785446107742.jpg"
+    },
+    "9785446109357": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446109357.jpg",
+      "fileId": "6afc75daead997d09ab2b074",
+      "filePath": "/covers/9785446109357.jpg"
+    },
+    "9785446109395": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446109395.jpg",
+      "fileId": "6afc75dbead997d09ab2b5ee",
+      "filePath": "/covers/9785446109395.jpg"
+    },
+    "9785446109975": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446109975.jpg",
+      "fileId": "6afc75dcead997d09ab2b81f",
+      "filePath": "/covers/9785446109975.jpg"
+    },
+    "9785446110353": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446110353.jpg",
+      "fileId": "6afc75ddead997d09ab2babf",
+      "filePath": "/covers/9785446110353.jpg"
+    },
+    "9785446111077": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446111077.jpg",
+      "fileId": "6afc75deead997d09ab2bebe",
+      "filePath": "/covers/9785446111077.jpg"
+    },
+    "9785446112012": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446112012.jpg",
+      "fileId": "6afc75dfead997d09ab2c290",
+      "filePath": "/covers/9785446112012.jpg"
+    },
+    "9785446112432": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446112432.jpg",
+      "fileId": "6afc75e0ead997d09ab2c578",
+      "filePath": "/covers/9785446112432.jpg"
+    },
+    "9785446113149": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446113149.jpg",
+      "fileId": "6afc75e1ead997d09ab2c8f3",
+      "filePath": "/covers/9785446113149.jpg"
+    },
+    "9785446113828": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446113828.jpg",
+      "fileId": "6afc75e2ead997d09ab2cb3e",
+      "filePath": "/covers/9785446113828.jpg"
+    },
+    "9785446115877": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446115877.jpg",
+      "fileId": "6afc75e3ead997d09ab2cd92",
+      "filePath": "/covers/9785446115877.jpg"
+    },
+    "9785446116201": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446116201.jpg",
+      "fileId": "6afc75e4ead997d09ab2d053",
+      "filePath": "/covers/9785446116201.jpg"
+    },
+    "9785446116362": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446116362.jpg",
+      "fileId": "6afc75e5ead997d09ab2d468",
+      "filePath": "/covers/9785446116362.jpg"
+    },
+    "9785446117390": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446117390.jpg",
+      "fileId": "6afc75e6ead997d09ab2d800",
+      "filePath": "/covers/9785446117390.jpg"
+    },
+    "9785446117574": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446117574.jpg",
+      "fileId": "6afc75e7ead997d09ab2da41",
+      "filePath": "/covers/9785446117574.jpg"
+    },
+    "9785446118014": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446118014.jpg",
+      "fileId": "6afc75e8ead997d09ab2e520",
+      "filePath": "/covers/9785446118014.jpg"
+    },
+    "9785446118274": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446118274.jpg",
+      "fileId": "6afc75e9ead997d09ab2ebe9",
+      "filePath": "/covers/9785446118274.jpg"
+    },
+    "9785446118366": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446118366.jpg",
+      "fileId": "6afc75eaead997d09ab2f114",
+      "filePath": "/covers/9785446118366.jpg"
+    },
+    "9785446119141": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446119141.jpg",
+      "fileId": "6afc75ebead997d09ab2f44d",
+      "filePath": "/covers/9785446119141.jpg"
+    },
+    "9785446119691": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446119691.jpg",
+      "fileId": "6afc75ecead997d09ab2f68f",
+      "filePath": "/covers/9785446119691.jpg"
+    },
+    "9785446120024": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446120024.jpg",
+      "fileId": "6afc75edead997d09ab2f948",
+      "filePath": "/covers/9785446120024.jpg"
+    },
+    "9785446120161": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446120161.jpg",
+      "fileId": "6afc75eeead997d09ab2fc15",
+      "filePath": "/covers/9785446120161.jpg"
+    },
+    "9785446122882": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446122882.jpg",
+      "fileId": "6afc75efead997d09ab2ff90",
+      "filePath": "/covers/9785446122882.jpg"
+    },
+    "9785446123193": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446123193.jpg",
+      "fileId": "6afc75f0ead997d09ab3030d",
+      "filePath": "/covers/9785446123193.jpg"
+    },
+    "9785446123278": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446123278.jpg",
+      "fileId": "6afc75f1ead997d09ab3062e",
+      "filePath": "/covers/9785446123278.jpg"
+    },
+    "9785446124060": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446124060.jpg",
+      "fileId": "6afc75f2ead997d09ab308c9",
+      "filePath": "/covers/9785446124060.jpg"
+    },
+    "9785446139118": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446139118.jpg",
+      "fileId": "6afc75f3ead997d09ab30ba5",
+      "filePath": "/covers/9785446139118.jpg"
+    },
+    "9785446139422": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446139422.jpg",
+      "fileId": "6afc75f4ead997d09ab30de3",
+      "filePath": "/covers/9785446139422.jpg"
+    },
+    "9785446139453": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446139453.jpg",
+      "fileId": "6afc75f5ead997d09ab310f7",
+      "filePath": "/covers/9785446139453.jpg"
+    },
+    "9785446141968": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446141968.jpg",
+      "fileId": "6afc75f6ead997d09ab31317",
+      "filePath": "/covers/9785446141968.jpg"
+    },
+    "9785446141982": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446141982.jpg",
+      "fileId": "6afc75f7ead997d09ab31562",
+      "filePath": "/covers/9785446141982.jpg"
+    },
+    "9785446144068": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446144068.jpg",
+      "fileId": "6afc75f8ead997d09ab32243",
+      "filePath": "/covers/9785446144068.jpg"
+    },
+    "9785446144501": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446144501.jpg",
+      "fileId": "6afc75f9ead997d09ab32a70",
+      "filePath": "/covers/9785446144501.jpg"
+    },
+    "9785446144914": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446144914.jpg",
+      "fileId": "6afc75faead997d09ab32ff9",
+      "filePath": "/covers/9785446144914.jpg"
+    },
+    "9785496007405": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496007405.jpg",
+      "fileId": "6afc75fcead997d09ab33a04",
+      "filePath": "/covers/9785496007405.jpg"
+    },
+    "9785496009546": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496009546.jpg",
+      "fileId": "6afc75fdead997d09ab33d7c",
+      "filePath": "/covers/9785496009546.jpg"
+    },
+    "9785496019156": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496019156.jpg",
+      "fileId": "6afc75feead997d09ab34205",
+      "filePath": "/covers/9785496019156.jpg"
+    },
+    "9785496027007": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496027007.jpg",
+      "fileId": "6afc75ffead997d09ab3453a",
+      "filePath": "/covers/9785496027007.jpg"
+    },
+    "9785496029513": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496029513.jpg",
+      "fileId": "6afc7600ead997d09ab348b6",
+      "filePath": "/covers/9785496029513.jpg"
+    },
+    "9785507491865": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785507491865.jpg",
+      "fileId": "6afc7601ead997d09ab34b71",
+      "filePath": "/covers/9785507491865.jpg"
+    },
+    "9785507527229": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785507527229.jpg",
+      "fileId": "6afc7602ead997d09ab34fd6",
+      "filePath": "/covers/9785507527229.jpg"
+    },
+    "9785604004364": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785604004364.jpg",
+      "fileId": "6afc7603ead997d09ab35481",
+      "filePath": "/covers/9785604004364.jpg"
+    },
+    "9785604072493": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785604072493.jpg",
+      "fileId": "6afc7605ead997d09ab35890",
+      "filePath": "/covers/9785604072493.jpg"
+    },
+    "9785604139448": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785604139448.jpg",
+      "fileId": "6afc7606ead997d09ab35b9b",
+      "filePath": "/covers/9785604139448.jpg"
+    },
+    "9785604139455": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785604139455.jpg",
+      "fileId": "6afc7607ead997d09ab35f96",
+      "filePath": "/covers/9785604139455.jpg"
+    },
+    "9785699545742": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785699545742.webp",
+      "fileId": "6afc7608ead997d09ab3666d",
+      "filePath": "/covers/9785699545742.webp"
+    },
+    "9785699715046": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785699715046.webp",
+      "fileId": "6afc7609ead997d09ab3720e",
+      "filePath": "/covers/9785699715046.webp"
+    },
+    "9785699894758": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785699894758.jpg",
+      "fileId": "6afc760aead997d09ab3770b",
+      "filePath": "/covers/9785699894758.jpg"
+    },
+    "9785845909701": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845909701.jpg",
+      "fileId": "6afc760bead997d09ab379a6",
+      "filePath": "/covers/9785845909701.jpg"
+    },
+    "9785845910332": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845910332.jpg",
+      "fileId": "6afc760cead997d09ab37c34",
+      "filePath": "/covers/9785845910332.jpg"
+    },
+    "9785845911681": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845911681.jpg",
+      "fileId": "6afc760dead997d09ab37f1a",
+      "filePath": "/covers/9785845911681.jpg"
+    },
+    "9785845912961": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845912961.jpg",
+      "fileId": "6afc760eead997d09ab381ee",
+      "filePath": "/covers/9785845912961.jpg"
+    },
+    "9785845913494": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845913494.jpg",
+      "fileId": "6afc760fead997d09ab384d1",
+      "filePath": "/covers/9785845913494.jpg"
+    },
+    "9785845913753": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845913753.jpg",
+      "fileId": "6afc7610ead997d09ab387f4",
+      "filePath": "/covers/9785845913753.jpg"
+    },
+    "9785845913784": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845913784.jpg",
+      "fileId": "6afc7611ead997d09ab38a96",
+      "filePath": "/covers/9785845913784.jpg"
+    },
+    "9785845914408": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845914408.jpg",
+      "fileId": "6afc7612ead997d09ab38e01",
+      "filePath": "/covers/9785845914408.jpg"
+    },
+    "9785845914828": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845914828.jpg",
+      "fileId": "6afc7613ead997d09ab390fa",
+      "filePath": "/covers/9785845914828.jpg"
+    },
+    "9785845915979": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845915979.jpg",
+      "fileId": "6afc7614ead997d09ab39432",
+      "filePath": "/covers/9785845915979.jpg"
+    },
+    "9785845917386": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845917386.jpg",
+      "fileId": "6afc7615ead997d09ab397d7",
+      "filePath": "/covers/9785845917386.jpg"
+    },
+    "9785845917591": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845917591.jpg",
+      "fileId": "6afc7616ead997d09ab39b5e",
+      "filePath": "/covers/9785845917591.jpg"
+    },
+    "9785845917706": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845917706.jpg",
+      "fileId": "6afc7617ead997d09ab39ef4",
+      "filePath": "/covers/9785845917706.jpg"
+    },
+    "9785845917812": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845917812.jpg",
+      "fileId": "6afc7618ead997d09ab3a176",
+      "filePath": "/covers/9785845917812.jpg"
+    },
+    "9785845918031": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845918031.jpg",
+      "fileId": "6afc7619ead997d09ab3acd5",
+      "filePath": "/covers/9785845918031.jpg"
+    },
+    "9785845918703": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845918703.jpg",
+      "fileId": "6afc761aead997d09ab3b15b",
+      "filePath": "/covers/9785845918703.jpg"
+    },
+    "9785845918758": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845918758.jpg",
+      "fileId": "6afc761bead997d09ab3b42b",
+      "filePath": "/covers/9785845918758.jpg"
+    },
+    "9785845918819": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845918819.jpg",
+      "fileId": "6afc761dead997d09ab3b8c7",
+      "filePath": "/covers/9785845918819.jpg"
+    },
+    "9785845918970": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845918970.jpg",
+      "fileId": "6afc761eead997d09ab3bcde",
+      "filePath": "/covers/9785845918970.jpg"
+    },
+    "9785845919182": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919182.jpg",
+      "fileId": "6afc761fead997d09ab3c14f",
+      "filePath": "/covers/9785845919182.jpg"
+    },
+    "9785845919328": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919328.jpg",
+      "fileId": "6afc7620ead997d09ab3c6a4",
+      "filePath": "/covers/9785845919328.jpg"
+    },
+    "9785845919427": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919427.jpg",
+      "fileId": "6afc7621ead997d09ab3cae4",
+      "filePath": "/covers/9785845919427.jpg"
+    },
+    "9785845919557": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919557.jpg",
+      "fileId": "6afc7622ead997d09ab3ce38",
+      "filePath": "/covers/9785845919557.jpg"
+    },
+    "9785845919588": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919588.jpg",
+      "fileId": "6afc7623ead997d09ab3d1a5",
+      "filePath": "/covers/9785845919588.jpg"
+    },
+    "9785845919922": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845919922.jpg",
+      "fileId": "6afc7624ead997d09ab3d428",
+      "filePath": "/covers/9785845919922.jpg"
+    },
+    "9785845920317": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845920317.jpg",
+      "fileId": "6afc7625ead997d09ab3d69a",
+      "filePath": "/covers/9785845920317.jpg"
+    },
+    "9785845920492": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845920492.jpg",
+      "fileId": "6afc7626ead997d09ab3d9f4",
+      "filePath": "/covers/9785845920492.jpg"
+    },
+    "9785845920843": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785845920843.jpg",
+      "fileId": "6afc7628ead997d09ab3e485",
+      "filePath": "/covers/9785845920843.jpg"
+    },
+    "9785855823486": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785855823486.jpg",
+      "fileId": "6afc7629ead997d09ab3e83c",
+      "filePath": "/covers/9785855823486.jpg"
+    },
+    "9785907114074": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114074.jpg",
+      "fileId": "6afc762aead997d09ab3f508",
+      "filePath": "/covers/9785907114074.jpg"
+    },
+    "9785907114135": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114135.jpg",
+      "fileId": "6afc762bead997d09ab3f972",
+      "filePath": "/covers/9785907114135.jpg"
+    },
+    "9785907114289": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114289.jpg",
+      "fileId": "6afc762cead997d09ab3fca7",
+      "filePath": "/covers/9785907114289.jpg"
+    },
+    "9785907114739": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114739.jpg",
+      "fileId": "6afc762dead997d09ab401ef",
+      "filePath": "/covers/9785907114739.jpg"
+    },
+    "9785907114791": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114791.jpg",
+      "fileId": "6afc762eead997d09ab404f9",
+      "filePath": "/covers/9785907114791.jpg"
+    },
+    "9785907114845": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907114845.jpg",
+      "fileId": "6afc7630ead997d09ab408a3",
+      "filePath": "/covers/9785907114845.jpg"
+    },
+    "9785907144385": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907144385.jpg",
+      "fileId": "6afc7631ead997d09ab40bb9",
+      "filePath": "/covers/9785907144385.jpg"
+    },
+    "9785907144613": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907144613.jpg",
+      "fileId": "6afc7632ead997d09ab40fa8",
+      "filePath": "/covers/9785907144613.jpg"
+    },
+    "9785907458864": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907458864.jpg",
+      "fileId": "6afc7633ead997d09ab411ee",
+      "filePath": "/covers/9785907458864.jpg"
+    },
+    "9785907515369": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907515369.jpg",
+      "fileId": "6afc7634ead997d09ab4153f",
+      "filePath": "/covers/9785907515369.jpg"
+    },
+    "9785907592827": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785907592827.jpg",
+      "fileId": "6afc7635ead997d09ab4188a",
+      "filePath": "/covers/9785907592827.jpg"
+    },
+    "9785937001122": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937001122.jpg",
+      "fileId": "6afc7636ead997d09ab41b51",
+      "filePath": "/covers/9785937001122.jpg"
+    },
+    "9785937001184": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937001184.jpg",
+      "fileId": "6afc7637ead997d09ab41df3",
+      "filePath": "/covers/9785937001184.jpg"
+    },
+    "9785937002150": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937002150.jpg",
+      "fileId": "6afc7638ead997d09ab420bb",
+      "filePath": "/covers/9785937002150.jpg"
+    },
+    "9785937002563": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937002563.jpg",
+      "fileId": "6afc7639ead997d09ab4252a",
+      "filePath": "/covers/9785937002563.jpg"
+    },
+    "9785937003034": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937003034.jpg",
+      "fileId": "6afc763aead997d09ab42f4a",
+      "filePath": "/covers/9785937003034.jpg"
+    },
+    "9785937003775": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937003775.jpg",
+      "fileId": "6afc763bead997d09ab43337",
+      "filePath": "/covers/9785937003775.jpg"
+    },
+    "9785937003911": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937003911.jpg",
+      "fileId": "6afc763cead997d09ab4365f",
+      "filePath": "/covers/9785937003911.jpg"
+    },
+    "9785937004284": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937004284.jpg",
+      "fileId": "6afc763dead997d09ab438d2",
+      "filePath": "/covers/9785937004284.jpg"
+    },
+    "9785937004536": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785937004536.jpg",
+      "fileId": "6afc763eead997d09ab43b51",
+      "filePath": "/covers/9785937004536.jpg"
+    },
+    "9785940745686": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785940745686.jpg",
+      "fileId": "6afc763fead997d09ab43f57",
+      "filePath": "/covers/9785940745686.jpg"
+    },
+    "9785940749202": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785940749202.jpg",
+      "fileId": "6afc7640ead997d09ab441a9",
+      "filePath": "/covers/9785940749202.jpg"
+    },
+    "9785943877551": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785943877551.jpg",
+      "fileId": "6afc7641ead997d09ab445ae",
+      "filePath": "/covers/9785943877551.jpg"
+    },
+    "9785970601341": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970601341.jpg",
+      "fileId": "6afc7642ead997d09ab4483d",
+      "filePath": "/covers/9785970601341.jpg"
+    },
+    "9785970603031": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970603031.jpg",
+      "fileId": "6afc7643ead997d09ab44a65",
+      "filePath": "/covers/9785970603031.jpg"
+    },
+    "9785970603055": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970603055.jpg",
+      "fileId": "6afc7644ead997d09ab44cab",
+      "filePath": "/covers/9785970603055.jpg"
+    },
+    "9785970603314": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970603314.jpg",
+      "fileId": "6afc7645ead997d09ab44fc4",
+      "filePath": "/covers/9785970603314.jpg"
+    },
+    "9785970604632": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970604632.jpg",
+      "fileId": "6afc7646ead997d09ab45302",
+      "filePath": "/covers/9785970604632.jpg"
+    },
+    "9785970604960": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970604960.jpg",
+      "fileId": "6afc7646ead997d09ab455a2",
+      "filePath": "/covers/9785970604960.jpg"
+    },
+    "9785970604977": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970604977.jpg",
+      "fileId": "6afc7647ead997d09ab4586b",
+      "filePath": "/covers/9785970604977.jpg"
+    },
+    "9785970605363": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970605363.jpg",
+      "fileId": "6afc7648ead997d09ab45fd7",
+      "filePath": "/covers/9785970605363.jpg"
+    },
+    "9785970605721": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970605721.jpg",
+      "fileId": "6afc7649ead997d09ab46fdf",
+      "filePath": "/covers/9785970605721.jpg"
+    },
+    "9785970605752": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970605752.jpg",
+      "fileId": "6afc764aead997d09ab47b98",
+      "filePath": "/covers/9785970605752.jpg"
+    },
+    "9785970606575": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970606575.jpg",
+      "fileId": "6afc764bead997d09ab47f41",
+      "filePath": "/covers/9785970606575.jpg"
+    },
+    "9785970606742": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970606742.jpg",
+      "fileId": "6afc764cead997d09ab48284",
+      "filePath": "/covers/9785970606742.jpg"
+    },
+    "9785970607473": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970607473.jpg",
+      "fileId": "6afc764dead997d09ab484fb",
+      "filePath": "/covers/9785970607473.jpg"
+    },
+    "9785970608012": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970608012.jpg",
+      "fileId": "6afc764eead997d09ab4872e",
+      "filePath": "/covers/9785970608012.jpg"
+    },
+    "9785970608401": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970608401.webp",
+      "fileId": "6afc764fead997d09ab48986",
+      "filePath": "/covers/9785970608401.webp"
+    },
+    "9785970608630": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970608630.jpg",
+      "fileId": "6afc7650ead997d09ab48cf9",
+      "filePath": "/covers/9785970608630.jpg"
+    },
+    "9785970608722": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970608722.jpg",
+      "fileId": "6afc7651ead997d09ab48fbc",
+      "filePath": "/covers/9785970608722.jpg"
+    },
+    "9785970608838": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970608838.jpg",
+      "fileId": "6afc7652ead997d09ab492a3",
+      "filePath": "/covers/9785970608838.jpg"
+    },
+    "9785970609712": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970609712.jpg",
+      "fileId": "6afc7653ead997d09ab494ec",
+      "filePath": "/covers/9785970609712.jpg"
+    },
+    "9785977509442": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977509442.jpg",
+      "fileId": "6afc7654ead997d09ab49788",
+      "filePath": "/covers/9785977509442.jpg"
+    },
+    "9785977516891": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977516891.jpg",
+      "fileId": "6afc7655ead997d09ab499cb",
+      "filePath": "/covers/9785977516891.jpg"
+    },
+    "9785977518864": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977518864.jpg",
+      "fileId": "6afc7656ead997d09ab49ca1",
+      "filePath": "/covers/9785977518864.jpg"
+    },
+    "9785977520492": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977520492.jpg",
+      "fileId": "6afc7657ead997d09ab49e88",
+      "filePath": "/covers/9785977520492.jpg"
+    },
+    "9785977520621": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977520621.jpg",
+      "fileId": "6afc7658ead997d09ab4a128",
+      "filePath": "/covers/9785977520621.jpg"
+    },
+    "9785977521291": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977521291.jpg",
+      "fileId": "6afc7659ead997d09ab4a431",
+      "filePath": "/covers/9785977521291.jpg"
+    },
+    "9785977521574": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977521574.jpg",
+      "fileId": "6afc765aead997d09ab4adf8",
+      "filePath": "/covers/9785977521574.jpg"
+    },
+    "9785977537858": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977537858.jpg",
+      "fileId": "6afc765bead997d09ab4b2df",
+      "filePath": "/covers/9785977537858.jpg"
+    },
+    "9785977540124": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977540124.jpg",
+      "fileId": "6afc765cead997d09ab4b5a9",
+      "filePath": "/covers/9785977540124.jpg"
+    },
+    "9785977566735": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977566735.jpg",
+      "fileId": "6afc765dead997d09ab4b880",
+      "filePath": "/covers/9785977566735.jpg"
+    },
+    "9785977567190": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977567190.jpg",
+      "fileId": "6afc765eead997d09ab4bb57",
+      "filePath": "/covers/9785977567190.jpg"
+    },
+    "9785977568418": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977568418.jpg",
+      "fileId": "6afc765fead997d09ab4bea4",
+      "filePath": "/covers/9785977568418.jpg"
+    },
+    "9785990846289": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785990846289.jpg",
+      "fileId": "6afc7661ead997d09ab4c269",
+      "filePath": "/covers/9785990846289.jpg"
+    },
+    "9785990846388": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785990846388.jpg",
+      "fileId": "6afc7662ead997d09ab4c5bf",
+      "filePath": "/covers/9785990846388.jpg"
+    },
+    "9785990891074": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785990891074.jpg",
+      "fileId": "6afc7663ead997d09ab4c907",
+      "filePath": "/covers/9785990891074.jpg"
+    },
+    "9785990944503": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785990944503.jpg",
+      "fileId": "6afc7664ead997d09ab4cc35",
+      "filePath": "/covers/9785990944503.jpg"
+    },
+    "9786010996946": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9786010996946.jpg",
+      "fileId": "6afc7665ead997d09ab4d176",
+      "filePath": "/covers/9786010996946.jpg"
+    },
+    "9786011261043": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9786011261043.jpg",
+      "fileId": "6afc7666ead997d09ab4d511",
+      "filePath": "/covers/9786011261043.jpg"
+    },
+    "9786011286763": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9786011286763.jpg",
+      "fileId": "6afc7667ead997d09ab4d8e2",
+      "filePath": "/covers/9786011286763.jpg"
+    },
+    "9786011293266": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9786011293266.jpg",
+      "fileId": "6afc7668ead997d09ab4dc3f",
+      "filePath": "/covers/9786011293266.jpg"
+    },
+    "9786011406482": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9786011406482.jpg",
+      "fileId": "6afc7669ead997d09ab4de93",
+      "filePath": "/covers/9786011406482.jpg"
+    },
+    "9785446108466": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446108466.jpg",
+      "fileId": "6afc7a39ead997d09ac6c064",
+      "filePath": "/covers/9785446108466.jpg"
+    },
+    "9785446123339": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446123339.jpg",
+      "fileId": "6afc7a3aead997d09ac6e53c",
+      "filePath": "/covers/9785446123339.jpg"
+    },
+    "9785446166886": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446166886.jpg",
+      "fileId": "6afc7a3bead997d09ac70b7f",
+      "filePath": "/covers/9785446166886.jpg"
+    },
+    "9785446182282": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446182282.jpg",
+      "fileId": "6afc7a3cead997d09ac73375",
+      "filePath": "/covers/9785446182282.jpg"
+    },
+    "9785446189229": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446189229.jpg",
+      "fileId": "6afc7a3eead997d09ac75ffd",
+      "filePath": "/covers/9785446189229.jpg"
+    },
+    "9785446191024": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446191024.jpg",
+      "fileId": "6afc7a3fead997d09ac7915f",
+      "filePath": "/covers/9785446191024.jpg"
+    },
+    "9785446191895": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446191895.jpg",
+      "fileId": "6afc7a40ead997d09ac7b991",
+      "filePath": "/covers/9785446191895.jpg"
+    },
+    "9785446196128": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446196128.jpg",
+      "fileId": "6afc7a41ead997d09ac7e59c",
+      "filePath": "/covers/9785446196128.jpg"
+    },
+    "9785496000505": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496000505.jpg",
+      "fileId": "6afc7a42ead997d09ac816f5",
+      "filePath": "/covers/9785496000505.jpg"
+    },
+    "9785932861257": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785932861257.jpg",
+      "fileId": "6afc7a43ead997d09ac8416d",
+      "filePath": "/covers/9785932861257.jpg"
+    },
+    "9785977505604": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785977505604.jpg",
+      "fileId": "6afc7a44ead997d09ac86a41",
+      "filePath": "/covers/9785977505604.jpg"
+    },
+    "5318007481": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5318007481.jpg",
+      "fileId": "6afc7eadead997d09ae1003a",
+      "filePath": "/covers/5318007481.jpg"
+    },
+    "5020249858": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5020249858.jpg",
+      "fileId": "6afc811aead997d09aeacecb",
+      "filePath": "/covers/5020249858.jpg"
+    },
+    "5957900796": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/5957900796.jpg",
+      "fileId": "6afc811bead997d09aead322",
+      "filePath": "/covers/5957900796.jpg"
+    },
+    "9785496005449": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496005449.jpg",
+      "fileId": "6afc75fbead997d09ab33518",
+      "filePath": "/covers/9785496005449.jpg"
+    },
+    "9785982278296": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785982278296.jpg",
+      "fileId": "6aff0724ead997d09ab3a102",
+      "filePath": "/covers/9785982278296.jpg"
+    }
+  }
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Конструирование компиляторов",
+    "isbn": "9785937003911",
+    "publisher": "ДМК",
+    "authorsRaw": "Ханспетер Мёссенбёк",
+    "year": "2025",
+    "pages": "276",
+    "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-5613742/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-391-1/",
+    "cover": "https://files.books.ru/pic/5613001-5614000/5613742/581496604c.jpg"
+  },
+  {
+    "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+    "isbn": "9785041692544",
+    "publisher": "Эксмо",
+    "authorsRaw": "Кевлин Хенни Триша Джи",
+    "year": "2023",
+    "pages": "288",
+    "source": "https://www.books.ru/books/97-veshchei-o-kotorykh-dolzhen-znat-kazhdyi-java-programmist-sovety-luchshikh-ekspertov-5438600/",
+    "primarySource": "https://eksmo.ru/book/97-veshchey-o-kotorykh-dolzhen-znat-kazhdyy-java-programmist-sovety-luchshikh-ekspertov-ITD1280306/",
+    "cover": "https://files.books.ru/pic/5438001-5439000/5438600/344176878c.jpg"
+  },
+  {
+    "title": "Java в облаке. Spring Boot, Spring Cloud, Cloud Found",
+    "isbn": "9785446107131",
+    "publisher": "Питер",
+    "authorsRaw": "Джош Лонг Кеннет Бастани",
+    "year": "2018",
+    "pages": "624",
+    "source": "https://www.books.ru/books/java-v-oblake-spring-boot-spring-cloud-cloud-found-4907114/",
+    "primarySource": "https://www.piter.com/collection/all/product/java-v-oblake-spring-boot-spring-cloud-cloud-foundry",
+    "cover": "https://files.books.ru/pic/4907001-4908000/4907114/993778697c.jpg"
+  },
+  {
+    "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для вузов",
+    "isbn": "9785507522903",
+    "publisher": "Лань",
+    "authorsRaw": "Золкин А. Л.",
+    "year": "2025",
+    "pages": "176",
+    "source": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/",
+    "primarySource": "https://lanbook.ru/catalog/informatika/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta/",
+    "cover": "https://files.books.ru/pic/5602001-5603000/5602386/5602386_e228f524_c.jpg"
+  },
+  {
+    "title": "Создание компиляторов: инженерный подход",
+    "isbn": "9785937004284",
+    "publisher": "ДМК",
+    "authorsRaw": "Купер К. Д., Торкзон Л.",
+    "year": "2026",
+    "pages": "850",
+    "source": "https://www.books.ru/books/sozdanie-kompilyatorov-inzhenernyi-podkhod-5632524/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-428-4/",
+    "cover": "https://files.books.ru/pic/5632001-5633000/5632524/1354463639c.jpg"
+  },
+  {
+    "title": "Применение SSA в компиляторах",
+    "isbn": "9785937004321",
+    "publisher": "ДМК",
+    "authorsRaw": "Растелло Ф., Буше Тишаду Ф.",
+    "year": "2026",
+    "pages": "400",
+    "source": "https://www.books.ru/books/primenenie-ssa-v-kompilyatorakh-5632517/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-432-1/",
+    "cover": "https://files.books.ru/pic/5632001-5633000/5632517/775781174c.jpg"
+  },
+  {
+    "title": "Создай свой собственный язык программирования",
+    "isbn": "9785937001405",
+    "publisher": "ДМК",
+    "authorsRaw": "Джеффери К. Л.",
+    "year": "2022",
+    "pages": "408",
+    "source": "https://www.books.ru/books/sozdai-svoi-sobstvennyi-yazyk-programmirovaniya-5384193/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-140-5/",
+    "cover": "https://files.books.ru/pic/5384001-5385000/5384193/5384193_886ac094_c.jpg"
+  },
+  {
+    "title": "Редкая профессия",
+    "isbn": "9785940748120",
+    "publisher": "ДМК",
+    "authorsRaw": "Евгений Зуев",
+    "year": "2014",
+    "pages": "232",
+    "source": "https://www.books.ru/books/redkaya-professiya-4235733/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/978-5-94074-812-0/",
+    "cover": "https://files.books.ru/pic/4235001-4236000/4235733/2144487905c.jpg"
+  },
+  {
+    "title": "Groovy и Grails. Практические советы",
+    "isbn": "9785940746188",
+    "publisher": "ДМК",
+    "authorsRaw": "Башар Абдул-Джавад",
+    "year": "2010",
+    "pages": "408",
+    "source": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-618-8/",
+    "cover": "https://files.books.ru/pic/773001-774000/773624/7508-150.jpg"
+  },
+  {
+    "title": "Разработка корпоративных приложений на JAVA в Groovy и Grails",
+    "isbn": "9785940748083",
+    "publisher": "ДМК-Пресс",
+    "authorsRaw": "Абдул-Джавад Башар",
+    "year": "2012",
+    "pages": "408",
+    "source": "https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-808-3/",
+    "cover": "https://files.books.ru/pic/1805001-1806000/1805523/1393457343c.jpg"
+  },
+  {
+    "title": "Конкурентное программирование на SCALA",
+    "isbn": "9785970605721",
+    "publisher": "ДМК Пресс",
+    "authorsRaw": "Алексей Прокопец",
+    "year": "2018",
+    "pages": "342",
+    "source": "https://www.books.ru/books/konkurentnoe-programmirovanie-na-scala-4777290/",
+    "primarySource": "https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-572-1/",
+    "cover": "https://files.books.ru/pic/4777001-4778000/4777290/854506953c.jpg"
+  },
+  {
+    "title": "Предметно-ориентированное проектирование: паттерны, принципы и методы",
+    "isbn": "9785496019842",
+    "publisher": "Питер",
+    "authorsRaw": "Скотт Миллетт Ник Тьюн",
+    "year": "2017",
+    "pages": "832",
+    "source": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/",
+    "primarySource": "https://rgub.ru/searchopac/book.php?id=RGUB%5CBIBL%5C0000840182",
+    "cover": "https://files.books.ru/pic/4682001-4683000/4682020/253834159c.jpg"
+  },
+  {
+    "title": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+    "isbn": "9785171747534",
+    "publisher": "АСТ",
+    "authorsRaw": "",
+    "year": "2025",
+    "pages": "128",
+    "source": "https://www.books.ru/books/kotlin-osnovy-programmirovaniya-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5602949/",
+    "primarySource": "https://lib.dm-centre.ru/lib/gpntb/?e_rub=Программирования+языки+--+Kotlin&e_viewdb=ESVODT",
+    "cover": "https://files.books.ru/pic/5602001-5603000/5602949/2128755935c.jpg"
+  },
+  {
+    "title": "Программирование на Java для начинающих",
+    "isbn": "9785699894758",
+    "publisher": "Эксмо",
+    "authorsRaw": "Алексей Васильев",
+    "year": "2017",
+    "pages": "704",
+    "source": "https://www.books.ru/books/programmirovanie-na-java-dlya-nachinayushchikh-4531973/",
+    "primarySource": "https://eksmo.ru/book/programmirovanie-na-java-dlya-nachinayushchikh-ITD813463/",
+    "cover": "https://files.books.ru/pic/4531001-4532000/4531973/1145221401c.jpg"
+  },
+  {
+    "title": "Построение компиляторов. Второе издание",
+    "isbn": "9785970602195",
+    "publisher": "ДМК Пресс",
+    "authorsRaw": "Никлаус Вирт",
+    "year": "2016",
+    "pages": "192",
+    "source": "https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/",
+    "primarySource": "https://www.rucont.ru/efd/836519",
+    "cover": "https://files.books.ru/pic/4321001-4322000/4321852/2132227052c.png"
+  },
+  {
+    "title": "Разработка операционной системы и компилятора",
+    "isbn": "9785940746720",
+    "publisher": "ДМК",
+    "authorsRaw": "Никлаус Вирт Юрг Гуткнехт Том Трембли",
+    "year": "2012",
+    "pages": "560",
+    "source": "https://www.books.ru/books/razrabotka-operatsionnoi-sistemy-i-kompilyatora-1812759/",
+    "primarySource": "https://ibooks.ru/products/364198",
+    "cover": "https://files.books.ru/pic/1812001-1813000/1812759/54207159c.jpg"
+  },
+  {
+    "title": "Основы программирования на языке Java. Учебное пособие для СПО, 2-е изд., стер",
+    "isbn": "9785507509812",
+    "publisher": "Лань",
+    "authorsRaw": "Курбатова И. В., Печкуров А. В.",
+    "year": "2025",
+    "pages": "348",
+    "source": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-uchebnoe-posobie-dlya-spo-2-e-izd-ster-5647671/",
+    "primarySource": "https://lanbook.ru/catalog/informatika/osnovy-programmirovaniya-na-yazyke-java/",
+    "cover": "https://www.books.ru/static/images/item_no_cover.png"
+  },
+  {
+    "title": "Реализация многопоточности в языке Java. Учебное пособие для вузов, 2-е изд., стер",
+    "isbn": "9785507527229",
+    "publisher": "Лань",
+    "authorsRaw": "Федоричев Л. А., Букунова О. В.",
+    "year": "2025",
+    "pages": "72",
+    "source": "https://www.books.ru/books/realizatsiya-mnogopotochnosti-v-yazyke-java-uchebnoe-posobie-dlya-vuzov-2-e-izd-ster-5588057/",
+    "primarySource": "https://lanbook.ru/catalog/informatika/realizatsiya-mnogopotochnosti-v-yazyke-java/",
+    "cover": "https://www.books.ru/static/images/item_no_cover.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Конструирование компиляторов",
+    "isbn": "9785937003911",
+    "publisher": "ДМК Пресс",
+    "source": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-391-1/",
+    "status": "missing-cover-verification"
+  },
+  {
+    "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+    "isbn": "9785041692544",
+    "publisher": "Эксмо",
+    "source": "https://eksmo.ru/book/97-veshchey-o-kotorykh-dolzhen-znat-kazhdyy-java-programmist-sovety-luchshikh-ekspertov-ITD1280306/",
+    "status": "missing-cover-verification"
+  },
+  {
+    "title": "Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry",
+    "isbn": "9785446107131",
+    "publisher": "Питер",
+    "source": "https://www.piter.com/collection/all/product/java-v-oblake-spring-boot-spring-cloud-cloud-foundry",
+    "status": "missing-cover-verification"
+  },
+  {
+    "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта",
+    "isbn": "9785507522903",
+    "publisher": "Лань",
+    "source": "https://lanbook.ru/catalog/informatika/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta/",
+    "status": "missing-cover-verification"
+  }
+]

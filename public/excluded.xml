@@ -1,0 +1,3538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="125">
+  <scope>Русскоязычные издания по JVM, языкам JVM, Kafka, компиляторам и DDD. Одна запись на ISBN; полнота рынка не подтверждена.</scope>
+  <books>
+    <book id="isbn-9785496009423" status="excluded" workId="isbn-9785496009423">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Изучаем Java EE 7</title>
+      <authors>
+        <author>Гонсалвес Э.</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-496-00942-3</isbn>
+      <pages>640</pages>
+      <year kind="print-run">2018</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://cdn.insales-shop.ru/images/products/1/1245/35677405/49600942.jpg</url>
+        <localPath>covers/9785496009423.jpg</localPath>
+        <sourceUrl>https://www.piter.com/product/izuchaem-java-ee-7</sourceUrl>
+        <width>248</width>
+        <height>351</height>
+        <sha256>f2b8bffa7949a232936ac8b17dadfcf5649d6ea876cb1bfacc04a6fb1b6bb74b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/product/izuchaem-java-ee-7</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9786011233453" status="excluded" workId="isbn-9786011233453">
+      <selection decision="exclude" by="user" scope="catalog-selection" />
+      <title lang="ru">Основы JetPack Compose: Разработка приложений для Android с помощью Jetpack Compose, Android Studio и Kotlin</title>
+      <authors>
+        <author>Нил Смит</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-601-12-3345-3</isbn>
+      <pages>688</pages>
+      <year kind="publication">2025</year>
+      <topics>
+        <topic code="kotlin" />
+        <topic code="jvm" />
+        <topic code="android" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2025/08/3079_978-601-12-3345-3.jpg</url>
+        <localPath>covers/9786011233453.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/osnovy-jetpack-compose-razrabotka-prilozhenij-dlya-android-s-pomoshhyu-jetpack-compose-android-studio-i-kotlin/</sourceUrl>
+        <width>800</width>
+        <height>1129</height>
+        <sha256>232637586a4b2dcf1af8e4ab8fb8dd40926c7aa0dc0c8015d94d677a7e20e626</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/osnovy-jetpack-compose-razrabotka-prilozhenij-dlya-android-s-pomoshhyu-jetpack-compose-android-studio-i-kotlin/</source>
+      <verificationNotes />
+      <notes>
+        <note>ISBN группы Казахстана: требуется проверка российского издателя по титульному листу.</note>
+        <note>Регистрационная группа ISBN Казахстана: принадлежность конкретного издания издательству РФ требует проверки по выходным данным.</note>
+      </notes>
+    </book>
+    <book id="isbn-9785446112692" status="excluded" workId="isbn-9785446112692">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Элегантные объекты. Java Edition</title>
+      <authors>
+        <author>Бугаенко  Е.</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-4461-1269-2</isbn>
+      <pages>224</pages>
+      <year kind="print-run">2019</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://cdn.insales-shop.ru/images/products/1/5977/207951705/44611269.jpg</url>
+        <localPath>covers/9785446112692.jpg</localPath>
+        <sourceUrl>https://www.piter.com/product/elegantnye-obekty-java-edition-2</sourceUrl>
+        <width>248</width>
+        <height>348</height>
+        <sha256>59c6d0921a21d1e00d5a6f3d28409b0558a7135136de28a49ccd96529d8bfacc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/product/elegantnye-obekty-java-edition-2</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977539555" status="excluded" workId="isbn-9785977539555">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">OpenCV и Java. Обработка изображений и компьютерное зрение</title>
+      <authors>
+        <author>Прохоренок Николай Анатольевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-3955-5</isbn>
+      <pages>320</pages>
+      <year kind="publication">2018</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/2615_978-5-9775-3955-5.jpg</url>
+        <localPath>covers/9785977539555.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/opencv-i-java-obrabotka-izobrazhenij-i-kompyuternoe-zrenie/</sourceUrl>
+        <width>493</width>
+        <height>697</height>
+        <sha256>686b7f5bd2092f6710543948654fc09081a3ed64e479cc406e5f0ad630cc4c95</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/opencv-i-java-obrabotka-izobrazhenij-i-kompyuternoe-zrenie/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977508292" status="excluded" workId="isbn-9785977508292">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Eclipse: разработка RCP-, Web-, Ajax- и Android-приложений на Java</title>
+      <authors>
+        <author>Машнин Тимур Сергеевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0829-2</isbn>
+      <pages>684</pages>
+      <year kind="publication">2013</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="android" />
+        <topic code="tools" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/2166_978-5-9775-0829-2.jpg</url>
+        <localPath>covers/9785977508292.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/eclipse-razrabotka-rcp-web-ajax-i-android-prilozhenij-na-java/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>e5a98682619a5b2e20acab286731c9a196c1ec046f2656c72b58a4b4037385f7</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/eclipse-razrabotka-rcp-web-ajax-i-android-prilozhenij-na-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977508155" status="excluded" workId="isbn-9785977508155">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Самоучитель Java 7" />
+      <title lang="ru">Самоучитель Java 7</title>
+      <authors>
+        <author>Льюис Дирк,</author>
+        <author>Мюллер Питер</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0815-5</isbn>
+      <pages>464</pages>
+      <year kind="publication">2017</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/2153_978-5-9775-0815-5.jpg</url>
+        <localPath>covers/9785977508155.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/samouchitel-java-7/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>4729d0ff737a4c1f70b47e6bf7c0b557fea578cfc092ec9211939e11e7770985</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/samouchitel-java-7/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977507783" status="excluded" workId="isbn-9785977507783">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Web-сервисы Java" />
+      <title lang="ru">Web-сервисы Java</title>
+      <authors>
+        <author>Машнин Тимур Сергеевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0778-3</isbn>
+      <pages>560</pages>
+      <year kind="publication">2012</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/2093_978-5-9775-0778-3.jpg</url>
+        <localPath>covers/9785977507783.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/web-servisy-java/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>6397664f37e862b5737fb8b63e87f6a6a36d7cd7d6c44cdf42deefc085a9cd97</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/web-servisy-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977507356" status="excluded" workId="isbn-9785977507356">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 7</title>
+      <authors>
+        <author>Хабибуллин Ильдар Шаукатович</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0735-6</isbn>
+      <pages>768</pages>
+      <year kind="publication">2014</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/2045_978-5-9775-0735-6.jpg</url>
+        <localPath>covers/9785977507356.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/java-7/</sourceUrl>
+        <width>493</width>
+        <height>687</height>
+        <sha256>30862617213ffeccce74372b0c9f23616861d60824b4b8a36fc40a7c4c3626d2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/java-7/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977506717" status="excluded" workId="netbeans">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык программирования Java и среда NetBeans. 3-е изд.</title>
+      <authors>
+        <author>Монахов Вадим Валериевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0671-7</isbn>
+      <pages>704</pages>
+      <year kind="publication">2012</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="tools" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/1977_978-5-9775-0671-7.jpg</url>
+        <localPath>covers/9785977506717.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans-3-e-izd/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>72c32bd9145092bb6687202fa7bd5efaa3a0836bf4293b9eafece8582ecce6ee</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans-3-e-izd/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977505611" status="excluded" workId="isbn-9785977505611">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Современные Java-технологии на практике</title>
+      <authors>
+        <author>Машнин Тимур Сергеевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0561-1</isbn>
+      <pages>560</pages>
+      <year kind="publication">2010</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/1843_978-5-9775-0561-1.jpg</url>
+        <localPath>covers/9785977505611.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/sovremennye-java-tehnologii-na-praktike/</sourceUrl>
+        <width>493</width>
+        <height>704</height>
+        <sha256>e52f54a1815162cdf2e6cf65750e97c82311befb1a42fa05a2f416779b770e93</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/sovremennye-java-tehnologii-na-praktike/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977504249" status="excluded" workId="netbeans">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык программирования Java и среда NetBeans. 2-е изд.</title>
+      <authors>
+        <author>Монахов Вадим Валериевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0424-9</isbn>
+      <pages>720</pages>
+      <year kind="publication">2009</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="tools" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/1670_978-5-9775-0424-9.jpg</url>
+        <localPath>covers/9785977504249.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans-2-e-izd/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>9b04e21a37a1cf2b3f80e381c060ff5361b8ccc9e5fe10f4db7e479f54e85a9e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans-2-e-izd/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977501910" status="excluded" workId="self-java">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Самоучитель Java. 3-е изд.</title>
+      <authors>
+        <author>Хабибуллин Ильдар Шаукатович</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0191-0</isbn>
+      <pages>768</pages>
+      <year kind="publication">2012</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/1398_978-5-9775-0191-0.jpg</url>
+        <localPath>covers/9785977501910.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/samouchitel-java-3-e-izd/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>8604701f11e5fa286770bec9f341336eafb3849a0082a575df77273c4e23f956</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/samouchitel-java-3-e-izd/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785977502160" status="excluded" workId="netbeans">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык программирования Java и среда NetBeans</title>
+      <authors>
+        <author>Монахов Вадим Валериевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>978-5-9775-0216-0</isbn>
+      <pages>640</pages>
+      <year kind="publication">2008</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="tools" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/1425_978-5-9775-0216-0.jpg</url>
+        <localPath>covers/9785977502160.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans/</sourceUrl>
+        <width>493</width>
+        <height>706</height>
+        <sha256>b8ca431d5bbe943af2dac99892531f971f4ce119d0e6ffab6754d00d4c3bf597</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/yazyk-programmirovaniya-java-i-sreda-netbeans/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5941576072" status="excluded" workId="isbn-5941576072">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">IntelliJ IDEA. Профессиональное програмирование на Java</title>
+      <authors>
+        <author>Давыдов Станислав Валерьевич,</author>
+        <author>Ефимов Алексей Алексеевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5-94157-607-2</isbn>
+      <pages>800</pages>
+      <year kind="publication">2005</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="tools" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/770_5-94157-607-2.jpg</url>
+        <localPath>covers/5941576072.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/intellij-idea-professionalnoe-programirovanie-na-java/</sourceUrl>
+        <width>493</width>
+        <height>649</height>
+        <sha256>53b8b4d73ddde7162ad4f2d43e5a37b486ca4c33a85ea74c637395c10e1b4a45</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/intellij-idea-professionalnoe-programirovanie-na-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5941572727" status="excluded" workId="isbn-5941572727">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Интернет-программирование на Java</title>
+      <authors>
+        <author>Будилов Вадим Анатольевич</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5-94157-272-7</isbn>
+      <pages>704</pages>
+      <year kind="publication">2003</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/447_5-94157-272-7.jpg</url>
+        <localPath>covers/5941572727.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/internet-programmirovanie-na-java/</sourceUrl>
+        <width>493</width>
+        <height>700</height>
+        <sha256>75c713176c3db81d144658a599865ddd80e9e26a5ad0ebe312457842fd1ee2a2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/internet-programmirovanie-na-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5941571062" status="excluded" workId="isbn-5941571062">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Создание распределенных приложений на Java 2</title>
+      <authors>
+        <author>Хабибуллин Ильдар Шаукатович</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5-94157-106-2</isbn>
+      <pages>704</pages>
+      <year kind="publication">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/288_5-94157-106-2.jpg</url>
+        <localPath>covers/5941571062.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/sozdanie-raspredelennyh-prilozhenij-na-java-2/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>adc734b9e20311b7871534332e672fca61b9927c6e5157570e94e3989f50c5c3</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/sozdanie-raspredelennyh-prilozhenij-na-java-2/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5941570953" status="excluded" workId="isbn-5941570953">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Создание и обработка структур данных в примерах на Java</title>
+      <authors>
+        <author>Кубенский Александр</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5-94157-095-3</isbn>
+      <pages>336</pages>
+      <year kind="publication">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="algorithms" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/277_5-94157-095-3.jpg</url>
+        <localPath>covers/5941570953.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/sozdanie-i-obrabotka-struktur-dannyh-v-primerah-na-java/</sourceUrl>
+        <width>493</width>
+        <height>696</height>
+        <sha256>20f270e308a0d02c5850b6a60be715a2e16b7fe7d4111c178d3f0e7bc4262a86</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/sozdanie-i-obrabotka-struktur-dannyh-v-primerah-na-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5941570414" status="excluded" workId="self-java">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Самоучитель Java</title>
+      <authors>
+        <author>Хабибуллин Ильдар Шаукатович</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5-94157-041-4</isbn>
+      <pages>464</pages>
+      <year kind="publication">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://bhv.ru/wp-content/uploads/2019/12/222_5-94157-041-4.jpg</url>
+        <localPath>covers/5941570414.jpg</localPath>
+        <sourceUrl>https://bhv.ru/product/samouchitel-java/</sourceUrl>
+        <width>493</width>
+        <height>694</height>
+        <sha256>3ad42c85feaa9970fd541b42acfbe946cc16007ec2794dc6943602e250e555d5</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://bhv.ru/product/samouchitel-java/</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785446114689" status="excluded" workId="isbn-9785446114689">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура" />
+      <title lang="ru">Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура</title>
+      <authors>
+        <author>Персиваль Г.</author>
+        <author>Грегори Б.</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-4461-1468-9</isbn>
+      <pages>336</pages>
+      <year kind="print-run">2025</year>
+      <topics>
+        <topic code="ddd" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://cdn.insales-shop.ru/images/products/1/5229/453669997/44611468.jpg</url>
+        <localPath>covers/9785446114689.jpg</localPath>
+        <sourceUrl>https://www.piter.com/product/patterny-razrabotki-na-python-tdd-ddd-i-sobytiyno-orientirovannaya-arhitektura</sourceUrl>
+        <width>650</width>
+        <height>920</height>
+        <sha256>9515b46e162a66ec8e241ead9fdcf24b9a89497ee82908dbe1645efcf5b28c26</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/product/patterny-razrabotki-na-python-tdd-ddd-i-sobytiyno-orientirovannaya-arhitektura</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9786011250283" status="excluded" workId="isbn-9786011250283">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура" />
+      <title lang="ru">Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура</title>
+      <authors>
+        <author>Персиваль Г.</author>
+        <author>Грегори Б.</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-601-12-5028-3</isbn>
+      <pages>336</pages>
+      <year kind="print-run">2026</year>
+      <topics>
+        <topic code="ddd" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://cdn.insales-shop.ru/images/products/1/729/2627805913/01125028.jpg</url>
+        <localPath>covers/9786011250283.jpg</localPath>
+        <sourceUrl>https://www.piter.com/product/patterny-razrabotki-na-python-tdd-ddd-i-sobytiyno-orientirovannaya-arhitektura-2</sourceUrl>
+        <width>248</width>
+        <height>350</height>
+        <sha256>0615d9edf81e7572c3661264000a15e29055fd3c028d9de89c65704bdbb38a9b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/product/patterny-razrabotki-na-python-tdd-ddd-i-sobytiyno-orientirovannaya-arhitektura-2</source>
+      <verificationNotes />
+      <notes>
+        <note>ISBN группы Казахстана: требуется проверка российского издателя по титульному листу.</note>
+        <note>Регистрационная группа ISBN Казахстана: принадлежность конкретного издания издательству РФ требует проверки по выходным данным.</note>
+      </notes>
+    </book>
+    <book id="isbn-9785845918857" status="excluded" workId="liguori-pocket">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 8. Карманный справочник</title>
+      <authors>
+        <author>Роберт Лигуори</author>
+        <author>Патрисия Лигуори</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1885-7</isbn>
+      <pages>256</pages>
+      <year kind="publication">2014</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-1885-7.jpg</url>
+        <localPath>covers/9785845918857.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1885-7.html</sourceUrl>
+        <width>341</width>
+        <height>500</height>
+        <sha256>76b03a277de2aa9fabfbdfd46f33a6fa2a2bf169f47a8a20a92e51ad20297ead</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1885-7.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845918963" status="excluded" workId="isbn-9785845918963">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java EE 7. Основы - справочник разработчика корпоративных приложений</title>
+      <authors>
+        <author>Арун Гупта</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1896-3</isbn>
+      <pages>336</pages>
+      <year kind="publication">2014</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-1896-3.jpg</url>
+        <localPath>covers/9785845918963.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1896-3.html</sourceUrl>
+        <width>341</width>
+        <height>500</height>
+        <sha256>d9b8f8fac05ac7d6647618cdb7a623f50a72badf440700ad47e64da773a87973</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1896-3.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845919007" status="excluded" workId="isbn-9785845919007">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java SE 8. Вводный курс Кей С. Хорстманна</title>
+      <authors>
+        <author>Кей С. Хорстманн</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1900-7</isbn>
+      <pages>208</pages>
+      <year kind="publication">2014</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-1900-7.jpg</url>
+        <localPath>covers/9785845919007.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1900-7.html</sourceUrl>
+        <width>341</width>
+        <height>500</height>
+        <sha256>a058926daa39752ad83080e92612643aaad1cdff27835fcb97ed16e45bccf8bc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1900-7.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785604004302" status="excluded" workId="isbn-9785604004302">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java SE 9. Базовый курс</title>
+      <edition>2-е издание</edition>
+      <authors>
+        <author>Кей С. Хорстманн</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-6040043-0-2</isbn>
+      <pages>576</pages>
+      <year kind="publication">2022</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-6040043-0-2.jpg</url>
+        <localPath>covers/9785604004302.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-6040043-0-2.html</sourceUrl>
+        <width>880</width>
+        <height>1200</height>
+        <sha256>4797c4733833982851e5ed8c0d960f1dd93092f156874de5a5a354a09aaa71ef</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-6040043-0-2.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785950029677" status="excluded" workId="liguori-pocket">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java. Карманный справочник</title>
+      <edition>4-е издание</edition>
+      <authors>
+        <author>Роберт Лигуори</author>
+        <author>Патрисия Лигуори</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-9500296-7-7</isbn>
+      <pages>320</pages>
+      <year kind="publication">2022</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-9500296-7-7.jpg</url>
+        <localPath>covers/9785950029677.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-9500296-7-7.html</sourceUrl>
+        <width>800</width>
+        <height>1200</height>
+        <sha256>47ad1e5128d2e425cff2c41319c9fde4c8f38a877e6b879824ce579cadc2c422</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-9500296-7-7.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785604139462" status="excluded" workId="isbn-9785604139462">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java за 24 часа</title>
+      <edition>8-е издание</edition>
+      <authors>
+        <author>Роджерс Кейденхед</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-6041394-6-2</isbn>
+      <pages>480</pages>
+      <year kind="publication">2022</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-6041394-6-2.jpg</url>
+        <localPath>covers/9785604139462.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-6041394-6-2.html</sourceUrl>
+        <width>833</width>
+        <height>1200</height>
+        <sha256>0f5ec1e939e8de5e3a7eff77438cafee76b5c6ddc6c0f60bd49ac022b96343f4</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-6041394-6-2.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845920508" status="excluded" workId="liguori-pocket">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 8. Карманный справочник</title>
+      <authors>
+        <author>Роберт Лигуори</author>
+        <author>Патрисия Лигуори</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-2050-8</isbn>
+      <pages>256</pages>
+      <year kind="publication">2017</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-2050-8.jpg</url>
+        <localPath>covers/9785845920508.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-2050-8.html</sourceUrl>
+        <width>717</width>
+        <height>1200</height>
+        <sha256>e30c7cee6432374a7d282fe83c5312cf8bd045a9366e021ba7c423b6d616f384</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-2050-8.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845920041" status="excluded" workId="isbn-9785845920041">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java SE 8. Базовый курс</title>
+      <authors>
+        <author>Кей С. Хорстманн</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-2004-1</isbn>
+      <pages>464</pages>
+      <year kind="publication">2015</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-2004-1.jpg</url>
+        <localPath>covers/9785845920041.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-2004-1.html</sourceUrl>
+        <width>826</width>
+        <height>1200</height>
+        <sha256>8992657f2ca6ecaac971b5b6a1354effa4c1eb4adb0b425db63683b029ae33aa</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-2004-1.html</source>
+      <metadataSource>https://www.books.ru/books/java-se-8-bazovyi-kurs-4272396/</metadataSource>
+      <verificationNotes>
+        <note>Количество страниц 464 дополнено по карточке Books.ru с тем же ISBN; также сверено с Лабиринтом, книга 512964.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785845913951" status="excluded" workId="isbn-9785845913951">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java: методики программирования Шилдта</title>
+      <authors>
+        <author>Герберт Шилдт</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1395-1</isbn>
+      <pages>512</pages>
+      <year kind="publication">2008</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-1395-1.jpg</url>
+        <localPath>covers/9785845913951.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1395-1.html</sourceUrl>
+        <width>849</width>
+        <height>1200</height>
+        <sha256>2d9463a059f3208db1a0b3277bbde23f7d852bccc03bbfaa7ac04613e043f6bd</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1395-1.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845913920" status="excluded" workId="isbn-9785845913920">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java. Карманный справочник</title>
+      <authors>
+        <author>Тимоти Р. Фишер</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1392-0</isbn>
+      <pages>224</pages>
+      <year kind="publication">2008</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-1392-0.jpg</url>
+        <localPath>covers/9785845913920.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1392-0.html</sourceUrl>
+        <width>340</width>
+        <height>500</height>
+        <sha256>5750d20bbea712005c349766dd34695d1056c51e893852544b6ba72d0f1e1cde</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1392-0.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845911629" status="excluded" workId="isbn-9785845911629">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Библиотека SWING для Java: руководство для начинающих</title>
+      <authors>
+        <author>Герберт Шилдт</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-1162-9</isbn>
+      <pages>704</pages>
+      <year kind="publication">2007</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/978-5-8459-1162-9.jpg</url>
+        <localPath>covers/9785845911629.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-1162-9.html</sourceUrl>
+        <width>150</width>
+        <height>220</height>
+        <sha256>4c198597e93a021a51a2523f40c05678f7aa442bcad557752bc107c867bf16cb</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-1162-9.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845909570" status="excluded" workId="isbn-5845909570">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Знакомьтесь: Java. Самоучитель</title>
+      <authors>
+        <author>Аккуратов Евгений Евгениевич</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0957-0</isbn>
+      <pages>256</pages>
+      <year kind="publication">2005</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/5-8459-0957-0.jpg</url>
+        <localPath>covers/5845909570.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/5-8459-0957-0.html</sourceUrl>
+        <width>150</width>
+        <height>220</height>
+        <sha256>6ea8def9599cba78adc53adbffce20af8d8e48cee82af5ba5a8970a9c00a9ff6</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/5-8459-0957-0.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845907861" status="excluded" workId="isbn-5845907861">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Искусство программирования на Java</title>
+      <authors>
+        <author>Герберт Шилдт</author>
+        <author>Джеймс Холмс</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0786-1</isbn>
+      <pages>336</pages>
+      <year kind="publication">2005</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/5-8459-0786-1.jpg</url>
+        <localPath>covers/5845907861.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/5-8459-0786-1.html</sourceUrl>
+        <width>150</width>
+        <height>220</height>
+        <sha256>9fe5263dc0236390542fdb89c8cf13fcdcf8b765e1aefd6ba5cb465de14e3f95</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/5-8459-0786-1.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845903394" status="excluded" workId="isbn-5845903394">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Применение шаблонов Java. Библиотека профессионала</title>
+      <authors>
+        <author>Стивен Стелтинг</author>
+        <author>Олав Маасен</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0339-4</isbn>
+      <pages>576</pages>
+      <year kind="publication">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/5-8459-0339-4.jpg</url>
+        <localPath>covers/5845903394.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/5-8459-0339-4.html</sourceUrl>
+        <width>150</width>
+        <height>221</height>
+        <sha256>641e3101f113dacc31b7a22995e4ddd840702711b5d2351094920f4ad58c813c</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/5-8459-0339-4.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845902991" status="excluded" workId="isbn-5845902991">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Разработка корпоративных Java-приложений с использованием J2EE и UML</title>
+      <authors>
+        <author>Кэри И. Амриш</author>
+        <author>Хавар Заман Ахмед</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0299-1</isbn>
+      <pages>272</pages>
+      <year kind="publication">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/5-8459-0299-1.jpg</url>
+        <localPath>covers/5845902991.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/5-8459-0299-1.html</sourceUrl>
+        <width>150</width>
+        <height>213</height>
+        <sha256>8508d1a155f741bb62e0c09006a740c5e1ce016264ef5f8fc968c2e881b550e6</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/5-8459-0299-1.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845902770" status="excluded" workId="isbn-5845902770">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык Java. Курс программирования</title>
+      <edition>2-е издание</edition>
+      <authors>
+        <author>Уолтер Савитч</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0277-0</isbn>
+      <pages>928</pages>
+      <year kind="publication">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/5-8459-0277-0.jpg</url>
+        <localPath>covers/5845902770.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/5-8459-0277-0.html</sourceUrl>
+        <width>150</width>
+        <height>223</height>
+        <sha256>555cdb44ff2d0c7a03000b1880f8bcf7e94ef367ef9a70d9ef9eca3e1c6c209e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/5-8459-0277-0.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845901650" status="excluded" workId="isbn-5845901650">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Система безопасности Java. Руководство разработчика</title>
+      <authors>
+        <author>Джим Яворски</author>
+        <author>Пол Дж. Перроун и др.</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0165-0</isbn>
+      <pages>528</pages>
+      <year kind="publication">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/DG_JavaSecurity.jpg</url>
+        <localPath>covers/5845901650.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/DG_JavaSecurity.html</sourceUrl>
+        <width>150</width>
+        <height>216</height>
+        <sha256>62bacfc41eb53c0793678b5bbf7abac3f6739e21caceac261a8735b3febe7c16</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/DG_JavaSecurity.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845902150" status="excluded" workId="isbn-5845902150">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык программирования Java</title>
+      <edition>3-е издание</edition>
+      <authors>
+        <author>Кен Арнолд</author>
+        <author>Джеймс Гослинг</author>
+        <author>Дэвид Холмс</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0215-0</isbn>
+      <pages>624</pages>
+      <year kind="publication">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/X_Java_Prog_Lang.jpg</url>
+        <localPath>covers/5845902150.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/X_Java_Prog_Lang.html</sourceUrl>
+        <width>150</width>
+        <height>225</height>
+        <sha256>06a6cc6ef92fda86efe2d9686da8fa2a3f3f3a923acf01f6c9dc49ff44c54a18</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/X_Java_Prog_Lang.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845902088" status="excluded" workId="isbn-5845902088">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Системы баз данных. Теория и практика использования в Internet и среде Java</title>
+      <authors>
+        <author>Грег Риккарди</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0208-8</isbn>
+      <pages>480</pages>
+      <year kind="publication">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/X_JavaBase.jpg</url>
+        <localPath>covers/5845902088.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/X_JavaBase.html</sourceUrl>
+        <width>150</width>
+        <height>208</height>
+        <sha256>cb7084b1435d61dd6ae98801987aa960e2fdc19794bf2c7515af2c07ca3c7ae3</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/X_JavaBase.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-5845901685" status="excluded" workId="isbn-5845901685">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Создание корпоративных систем на основе Java 2 Enterprise Edition. Руководство разработчика</title>
+      <authors>
+        <author>Пол Дж. Перроун</author>
+        <author>Венката Венката С.  Р. "Кришна" Р. Чаганти</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>5-8459-0168-5</isbn>
+      <pages>1184</pages>
+      <year kind="publication">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/DG_Java2EE.jpg</url>
+        <localPath>covers/5845901685.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/DG_Java2EE.html</sourceUrl>
+        <width>150</width>
+        <height>212</height>
+        <sha256>672aab771ed529497fd2bc6eaae30c1d246b0ba9801a5afcb28124495365d40c</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/DG_Java2EE.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785845921420" status="excluded" workId="isbn-9785845921420">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Компиляторы. Краткий справочник</title>
+      <authors>
+        <author>Робин Хантер</author>
+      </authors>
+      <publisher>Вильямс</publisher>
+      <isbn>978-5-8459-2142-0</isbn>
+      <pages>256</pages>
+      <year kind="publication">2018</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="not-complete">
+        <url>https://www.williamspublishing.com/Books/thumb/big/978-5-8459-2142-0.jpg</url>
+        <localPath>covers/9785845921420.jpg</localPath>
+        <sourceUrl>https://www.williamspublishing.com/Books/978-5-8459-2142-0.html</sourceUrl>
+        <width>841</width>
+        <height>1200</height>
+        <sha256>8ed811b7b24eb06dc4e4416f81af39784b1fe93d61dc4d8afa245593f8c677db</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.williamspublishing.com/Books/978-5-8459-2142-0.html</source>
+      <verificationNotes />
+      <notes />
+    </book>
+    <book id="isbn-9785937000552" status="excluded" workId="isbn-9785937000552">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Clojure на производстве</title>
+      <authors>
+        <author>Гришаев И. В.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>978-5-93700-055-2</isbn>
+      <pages>424</pages>
+      <year kind="publisher-listed">2021</year>
+      <topics>
+        <topic code="clojure" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="not-complete">
+        <url>https://files.books.ru/pic/5297001-5298000/5297411/005297411.jpg</url>
+        <localPath>covers/9785937000552.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/clojure-na-proizvodstve-5297411/</sourceUrl>
+        <width>150</width>
+        <height>212</height>
+        <sha256>54e93493d8a63c16d799824acb326983e278c587fbda2a009e12bd765d12c58f</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="search-index">https://www.dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2/</source>
+      <verificationNotes />
+      <notes>
+        <note>Обложка получена не с сайта издательства; требуется сверка с первичным источником.</note>
+        <note>На обложке указано второе издание; соответствие ISBN и года этому изданию не подтверждено.</note>
+      </notes>
+    </book>
+    <book id="isbn-9785937002327" status="excluded" workId="isbn-9785937002327">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Clojure на производстве. Зипперы, базы данных, REPL</title>
+      <authors>
+        <author>Гришаев И. В.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>978-5-93700-232-7</isbn>
+      <pages>364</pages>
+      <year kind="publisher-listed">2023</year>
+      <topics>
+        <topic code="clojure" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="author-photo" kind="photo" visualVerification="not-complete">
+        <url>https://grishaev.me/assets/static/aws/clj-book2/IMG_2527.jpeg</url>
+        <localPath>covers/9785937002327.jpg</localPath>
+        <sourceUrl>https://grishaev.me/clojure-in-prod-2/</sourceUrl>
+        <width>1000</width>
+        <height>1331</height>
+        <sha256>31e1dd0df32d2c4b86288f37adbd106580c4888d22e35839190e7e9a79be2319</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="search-index">https://www.dmkpress.com/catalog/computer/programming/functional/978-5-93700-232-7/</source>
+      <verificationNotes />
+      <notes>
+        <note>Обложка получена не с сайта издательства; требуется сверка с первичным источником.</note>
+      </notes>
+    </book>
+    <book id="isbn-9785970605783" status="excluded" workId="clojure-programming">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программирование на Clojure</title>
+      <authors>
+        <author>Эмерик Ч.</author>
+        <author>Карпер Б.</author>
+        <author>Гранд К.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>978-5-97060-578-3</isbn>
+      <pages>816</pages>
+      <year kind="publisher-listed">2017</year>
+      <topics>
+        <topic code="clojure" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="not-complete">
+        <url>https://imo10.labirint.ru/books/612989/cover.jpg/484-0</url>
+        <localPath>covers/9785970605783.webp</localPath>
+        <sourceUrl>https://www.labirint.ru/books/612989/</sourceUrl>
+        <width>484</width>
+        <height>675</height>
+        <sha256>2caeca2574cebb8ae4fe493d245bb2cfb475e02041dccf80eb27720a30d9b27f</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="search-index">https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-578-3/</source>
+      <verificationNotes />
+      <notes>
+        <note>Обложка получена не с сайта издательства; требуется сверка с первичным источником.</note>
+      </notes>
+    </book>
+    <book id="isbn-5932860189" status="excluded" workId="isbn-5932860189">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Java и XML, 2-е издание" />
+      <title lang="ru">Java и XML, 2-е издание</title>
+      <authors>
+        <author>Бретт Мак-Лахлин</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>5932860189</isbn>
+      <pages>544</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/15001-16000/15403/000015403.jpg</url>
+        <localPath>covers/5932860189.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/</sourceUrl>
+        <width>144</width>
+        <height>189</height>
+        <sha256>fe0fcd5c18ca54ea8f0139358f211b85e608997df35cc67d85765443ae6b72da</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/</source>
+      <metadataSource>https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5932860421" status="excluded" workId="isbn-5932860421">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java в примерах. Справочник</title>
+      <authors>
+        <author>Дэвид Флэнаган</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>5932860421</isbn>
+      <pages>664</pages>
+      <year kind="retailer-listed">2003</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/122001-123000/122922/000122922.jpg</url>
+        <localPath>covers/5932860421.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-v-primerakh-spravochnik-122922/</sourceUrl>
+        <width>150</width>
+        <height>212</height>
+        <sha256>e9b199fdbc23bea8d00abcd2222305b244d0541c227dbc1a43834cda42511001</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-v-primerakh-spravochnik-122922/</source>
+      <metadataSource>https://www.books.ru/books/java-v-primerakh-spravochnik-122922/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5855820920" status="excluded" workId="isbn-5855820920">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java и Corba в приложениях клиент-сервер. 2-е издание</title>
+      <authors>
+        <author>Роберт Орфали</author>
+        <author>Дэн Харки</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>5855820920</isbn>
+      <pages>717</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/7001-8000/7653/7653.jpg</url>
+        <localPath>covers/5855820920.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/</sourceUrl>
+        <width>144</width>
+        <height>196</height>
+        <sha256>69d56d9420fbc33c513b5e4f1fb20afa10b1a0c3391834aaac6b1794a1d611b2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/</source>
+      <metadataSource>https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5932860677" status="excluded" workId="isbn-5932860677">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java. Справочник, 4-е издание</title>
+      <authors>
+        <author>Дэвид Флэнаган</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>5932860677</isbn>
+      <pages>1040</pages>
+      <year kind="retailer-listed">2004</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/143001-144000/143941/143941.jpg</url>
+        <localPath>covers/5932860677.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/</sourceUrl>
+        <width>150</width>
+        <height>214</height>
+        <sha256>85ca2593218b31a268eb001b1b8f2136d1c2230af63495c7d6e61bd311164cc3</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/</source>
+      <metadataSource>https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5855821846" status="excluded" workId="isbn-5855821846">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Разработка бизнес-приложений с помощью Java 2</title>
+      <authors>
+        <author>Н. Кассем</author>
+        <author>разработки бизнес-приложений Группа</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>5855821846</isbn>
+      <pages>284</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/30001-31000/30326/30326.jpg</url>
+        <localPath>covers/5855821846.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/</sourceUrl>
+        <width>144</width>
+        <height>202</height>
+        <sha256>212ed4ae070b884c2a92c9bfbea23f6eca4c788fc82e208674c5f600b8cbbf74</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/</source>
+      <metadataSource>https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5935170655" status="excluded" workId="isbn-5935170655">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Язык Java и Microsoft Visual J++ в действии</title>
+      <authors>
+        <author>Т. Дадашев</author>
+      </authors>
+      <publisher>Горячая линия — Телеком</publisher>
+      <isbn>5935170655</isbn>
+      <pages>382</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/21001-22000/21274/000021274.jpg</url>
+        <localPath>covers/5935170655.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/</sourceUrl>
+        <width>144</width>
+        <height>205</height>
+        <sha256>280f6a16a83cd1364d0a435cc9ca9db79b69eb1ba78cce0696a322dc4c57525f</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/</source>
+      <metadataSource>https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5932860413" status="excluded" workId="isbn-5932860413">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Enterprise Javabeans</title>
+      <authors>
+        <author>Ричард Монсон-Хейфел</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>5932860413</isbn>
+      <pages>672</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/27001-28000/27550/27550.jpg</url>
+        <localPath>covers/5932860413.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/enterprise-javabeans-27550/</sourceUrl>
+        <width>144</width>
+        <height>202</height>
+        <sha256>4c142eb20fbe022f9e733388e90b8ff3047f8c1f3e2c0df9cb2285b8b230183b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/enterprise-javabeans-27550/</source>
+      <metadataSource>https://www.books.ru/books/enterprise-javabeans-27550/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5933780375" status="excluded" workId="isbn-5933780375">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 2 Enterprise</title>
+      <authors>
+        <author>Николай Смирнов</author>
+      </authors>
+      <publisher>КУДИЦ-ОБРАЗ</publisher>
+      <isbn>5933780375</isbn>
+      <pages>240</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/27001-28000/27831/27831.jpg</url>
+        <localPath>covers/5933780375.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-2-enterprise-27831/</sourceUrl>
+        <width>144</width>
+        <height>206</height>
+        <sha256>d296c5bcff460f71ab98b59dcbcc7583bb723ceace01f020de411afe4609bd16</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-2-enterprise-27831/</source>
+      <metadataSource>https://www.books.ru/books/java-2-enterprise-27831/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5845900468" status="excluded" workId="isbn-5845900468">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 2. Руководство разработчика (+CD)</title>
+      <authors>
+        <author>Майкл Морган</author>
+      </authors>
+      <publisher>Вильямс/Диалектика</publisher>
+      <isbn>5845900468</isbn>
+      <pages>720</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4001-5000/4679/4679.jpg</url>
+        <localPath>covers/5845900468.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/</sourceUrl>
+        <width>144</width>
+        <height>212</height>
+        <sha256>5d0e9d858f822eded9160252bcdd8763e9002b2c63ee04a7141ae9698cf378a1</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/</source>
+      <metadataSource>https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5867090736" status="excluded" workId="isbn-5867090736">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java 2: учебное пособие</title>
+      <authors>
+        <author>Николай Смирнов</author>
+      </authors>
+      <publisher>Три Л</publisher>
+      <isbn>5867090736</isbn>
+      <pages>320</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/12001-13000/12934/12934.jpg</url>
+        <localPath>covers/5867090736.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-2-uchebnoe-posobie-12934/</sourceUrl>
+        <width>144</width>
+        <height>206</height>
+        <sha256>a5b96d31b91502fd40559c412bbafb040ea1b1c3ad1927827a176e2da6768446</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-2-uchebnoe-posobie-12934/</source>
+      <metadataSource>https://www.books.ru/books/java-2-uchebnoe-posobie-12934/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5845902908" status="excluded" workId="isbn-5845902908">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java Server Pages. Библиотека профессионала</title>
+      <authors>
+        <author>Дэвид Гери</author>
+      </authors>
+      <publisher>Вильямс/Диалектика</publisher>
+      <isbn>5845902908</isbn>
+      <pages>448</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/27001-28000/27912/27912.jpg</url>
+        <localPath>covers/5845902908.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/</sourceUrl>
+        <width>144</width>
+        <height>203</height>
+        <sha256>52510edfa3ee70992b3dac387a567f64a823dab2201b7367921383ab9a4f016b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/</source>
+      <metadataSource>https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5933780928" status="excluded" workId="isbn-5933780928">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java: основы Web-служб</title>
+      <authors>
+        <author>Андре Тост</author>
+      </authors>
+      <publisher>КУДИЦ-ОБРАЗ</publisher>
+      <isbn>5933780928</isbn>
+      <pages>464</pages>
+      <year kind="retailer-listed">2004</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/155001-156000/155117/155117.jpg</url>
+        <localPath>covers/5933780928.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-osnovy-web-sluzhb-155117/</sourceUrl>
+        <width>150</width>
+        <height>215</height>
+        <sha256>62d94aff9725fc112cdf0f213c0d79957c22f6a1d1534a7f5c24cfb5a890d934</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-osnovy-web-sluzhb-155117/</source>
+      <metadataSource>https://www.books.ru/books/java-osnovy-web-sluzhb-155117/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5855820491" status="excluded" workId="isbn-5855820491">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Javabeans</title>
+      <authors>
+        <author>Эллиот Гарольд</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>5855820491</isbn>
+      <pages>327</pages>
+      <year kind="retailer-listed">1999</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/2001-3000/2141/2141.jpg</url>
+        <localPath>covers/5855820491.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/javabeans-2141/</sourceUrl>
+        <width>144</width>
+        <height>204</height>
+        <sha256>d1b53e9fb2f7413049b3692415955d9893421b8b993f43dc9beba8859b0d3822</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/javabeans-2141/</source>
+      <metadataSource>https://www.books.ru/books/javabeans-2141/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5318001874" status="excluded" workId="isbn-5318001874">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">XML и Java 2. Библиотека программиста (+CD)</title>
+      <authors>
+        <author>Майкл С Даконта</author>
+        <author>Альберт Дж. Саганич</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>5318001874</isbn>
+      <pages>384</pages>
+      <year kind="retailer-listed">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/10001-11000/10868/10868.jpg</url>
+        <localPath>covers/5318001874.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/</sourceUrl>
+        <width>144</width>
+        <height>199</height>
+        <sha256>9fffcb07b1938198db336a3ff490e426d9d10b6e692f7b3cb85fd4c5ffbc4766</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/</source>
+      <metadataSource>https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5887823232" status="excluded" workId="isbn-5887823232">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Горький вкус Java</title>
+      <authors>
+        <author>Б. Тей</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>5887823232</isbn>
+      <pages>333</pages>
+      <year kind="retailer-listed">2003</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/86001-87000/86688/86688.jpg</url>
+        <localPath>covers/5887823232.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/gorkii-vkus-java-86688/</sourceUrl>
+        <width>150</width>
+        <height>219</height>
+        <sha256>a5f8f758b13c95f13d55c353c015c7585bae17d4989e74c4ebbe7618ab9ffff2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/gorkii-vkus-java-86688/</source>
+      <metadataSource>https://www.books.ru/books/gorkii-vkus-java-86688/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5951800153" status="excluded" workId="isbn-5951800153">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Как программировать на Java.: Книга 1. Основы программирования</title>
+      <authors>
+        <author>Пол Дейтел</author>
+        <author>Харви Дейтел</author>
+      </authors>
+      <publisher>Бином</publisher>
+      <isbn>5951800153</isbn>
+      <pages>848</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/86001-87000/86696/86696.jpg</url>
+        <localPath>covers/5951800153.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/</sourceUrl>
+        <width>150</width>
+        <height>217</height>
+        <sha256>2e14cd11e5465338b75e5418473ddc1c41b6fe5bb58a32bf48e86ac0fc0c4bab</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/</source>
+      <metadataSource>https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5935170213" status="excluded" workId="isbn-5935170213">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Основы программирования на языке Java</title>
+      <authors>
+        <author>Валерий Маслов</author>
+      </authors>
+      <publisher>Горячая линия — Телеком</publisher>
+      <isbn>5935170213</isbn>
+      <pages>132</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/8001-9000/8502/8502.jpg</url>
+        <localPath>covers/5935170213.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/</sourceUrl>
+        <width>144</width>
+        <height>212</height>
+        <sha256>0496c982f5ff967b44597925ead6df650466d16ff18c01e60456ecf025f23330</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/</source>
+      <metadataSource>https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5943870040" status="excluded" workId="isbn-5943870040">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программируем на языке Java</title>
+      <authors>
+        <author>А.В. Картузов</author>
+        <author>Д. Николенко</author>
+      </authors>
+      <publisher>Наука и техника</publisher>
+      <isbn>5943870040</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2001</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/62001-63000/62126/62126.jpg</url>
+        <localPath>covers/5943870040.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/programmiruem-na-yazyke-java-62126/</sourceUrl>
+        <width>150</width>
+        <height>208</height>
+        <sha256>5747aa061c5757e712a759657afb54183cc30f5b3e3e6a4cb80d678c7e44d664</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/programmiruem-na-yazyke-java-62126/</source>
+      <metadataSource>https://www.books.ru/books/programmiruem-na-yazyke-java-62126/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5845901146" status="excluded" workId="isbn-5845901146">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Разработка приложений для электронной коммерции на Oracle8i и Java</title>
+      <authors>
+        <author>Меградж Заккар</author>
+      </authors>
+      <publisher>Вильямс/Диалектика</publisher>
+      <isbn>5845901146</isbn>
+      <pages>336</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/8001-9000/8647/8647.jpg</url>
+        <localPath>covers/5845901146.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/</sourceUrl>
+        <width>144</width>
+        <height>204</height>
+        <sha256>c36fb91170d679cd1238ada1402d99a3961e0f55032460ab17852105dbcdeb54</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/</source>
+      <metadataSource>https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5934551345" status="excluded" workId="isbn-5934551345">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Серверные приложения на языке Java</title>
+      <authors>
+        <author>Равиль Мухамедзянов</author>
+      </authors>
+      <publisher>СОЛОН-Р</publisher>
+      <isbn>5934551345</isbn>
+      <pages>336</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/25001-26000/25188/25188.jpg</url>
+        <localPath>covers/5934551345.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/</sourceUrl>
+        <width>144</width>
+        <height>209</height>
+        <sha256>804c61b977ebd6f1f1e1d289979ddaabe7c820069452351501e1c7522467be13</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/</source>
+      <metadataSource>https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785951802781" status="excluded" workId="isbn-9785951802781">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Технологии программирования на Java 2: Книга 2. Распределенные приложения</title>
+      <authors>
+        <author>Харви Дейтел</author>
+        <author>Пол Дейтел</author>
+        <author>С.И. Сантри</author>
+      </authors>
+      <publisher>Бином</publisher>
+      <isbn>9785951802781</isbn>
+      <pages>464</pages>
+      <year kind="retailer-listed">2008</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/606001-607000/606463/606463.jpg</url>
+        <localPath>covers/9785951802781.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/</sourceUrl>
+        <width>200</width>
+        <height>286</height>
+        <sha256>96a8e3c044807e143b062db7475a05a33c4f254246a048f6dc982d0a06c755f3</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/</source>
+      <metadataSource>https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-595180034X" status="excluded" workId="isbn-595180034X">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Технологии программирования на Java 2. Книга 3. Корпоративные системы, сервлеты, JSP, Web-сервисы</title>
+      <authors>
+        <author>Харви Дейтел</author>
+        <author>Пол Дейтел</author>
+        <author>С.И. Сантри</author>
+      </authors>
+      <publisher>Бином</publisher>
+      <isbn>595180034X</isbn>
+      <pages>672</pages>
+      <year kind="retailer-listed">2003</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/86001-87000/86725/86725.jpg</url>
+        <localPath>covers/595180034X.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/</sourceUrl>
+        <width>150</width>
+        <height>216</height>
+        <sha256>84244163fb38606e5cc7df34f97dddf38747adb0e5d895ccb43fa55bae9e7307</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/</source>
+      <metadataSource>https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5779100519" status="excluded" workId="isbn-5779100519">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Технология Java в подлиннике (с CD-ROM)</title>
+      <authors>
+        <author>Джои Вебер</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>5779100519</isbn>
+      <pages>1104</pages>
+      <year kind="retailer-listed">2000</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/1-1000/583/583.jpg</url>
+        <localPath>covers/5779100519.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/</sourceUrl>
+        <width>144</width>
+        <height>216</height>
+        <sha256>739aded4269ada3dd0a855666964c77fe3c7a81416b6ea6cc320dfd391b538c2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/</source>
+      <metadataSource>https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785932861851" status="excluded" workId="isbn-9785932861851">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Grails. Гибкость Groovy и надежность Java" />
+      <title lang="ru">Grails. Гибкость Groovy и надежность Java</title>
+      <authors>
+        <author>Глен Смит</author>
+        <author>Питер Ледбрук</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>9785932861851</isbn>
+      <pages>656</pages>
+      <year kind="retailer-listed">2010</year>
+      <topics>
+        <topic code="java" />
+        <topic code="groovy" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/740001-741000/740483/740483_1.jpg</url>
+        <localPath>covers/9785932861851.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/</sourceUrl>
+        <width>315</width>
+        <height>446</height>
+        <sha256>04de8c3467650ecab847391a86e37ae37541cfe98fb7c7cd68682a2c7ef7f617</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/</source>
+      <metadataSource>https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940748083" status="excluded" workId="isbn-9785940748083">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Разработка корпоративных приложений на JAVA в Groovy и Grails" />
+      <title lang="ru">Разработка корпоративных приложений на JAVA в Groovy и Grails</title>
+      <authors>
+        <author>Абдул-Джавад Башар</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940748083</isbn>
+      <pages>408</pages>
+      <year kind="retailer-listed">2012</year>
+      <topics>
+        <topic code="java" />
+        <topic code="groovy" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/1805001-1806000/1805523/1393457343c.jpg</url>
+        <localPath>covers/9785940748083.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/</sourceUrl>
+        <width>205</width>
+        <height>282</height>
+        <sha256>566ae0b6031805652c0b1265c2084275f70453a0c914ceb58873c08e1664c203</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-808-3/</source>
+      <metadataSource>https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5845903602" status="excluded" workId="isbn-5845903602">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Основные концепции компиляторов</title>
+      <authors>
+        <author>Робин Хантер</author>
+      </authors>
+      <publisher>Вильямс/Диалектика</publisher>
+      <isbn>5845903602</isbn>
+      <pages>256</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/31001-32000/31375/31375.jpg</url>
+        <localPath>covers/5845903602.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/</sourceUrl>
+        <width>144</width>
+        <height>218</height>
+        <sha256>d5370c1be2d4b277f9e4b81c2ce28754b5468926a8276316eaf8adaac203ef49</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/</source>
+      <metadataSource>https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5836002428" status="excluded" workId="isbn-5836002428">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Основы конструирования компиляторов</title>
+      <authors>
+        <author>М.П. Галочкин</author>
+        <author>В. А. Серебряков</author>
+      </authors>
+      <publisher>URSS</publisher>
+      <isbn>5836002428</isbn>
+      <pages>224</pages>
+      <year kind="retailer-listed">2001</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/57001-58000/57277/57277.jpg</url>
+        <localPath>covers/5836002428.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/</sourceUrl>
+        <width>150</width>
+        <height>215</height>
+        <sha256>8f8154125deb30265ad7313ddfa5ff062806ba02db42d97c2f568d37f310eeeb</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/</source>
+      <metadataSource>https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785496019842" status="excluded" workId="isbn-9785496019842">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Предметно-ориентированное проектирование: паттерны, принципы и методы</title>
+      <authors>
+        <author>Скотт Миллетт</author>
+        <author>Ник Тьюн</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>9785496019842</isbn>
+      <pages>832</pages>
+      <year kind="retailer-listed">2017</year>
+      <topics>
+        <topic code="ddd" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4682001-4683000/4682020/253834159c.jpg</url>
+        <localPath>covers/9785496019842.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/</sourceUrl>
+        <width>405</width>
+        <height>560</height>
+        <sha256>6127f0e4e3932270b61983690e9076c4cd500f8bc3987388d159f4a7999d0029</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://rgub.ru/searchopac/book.php?id=RGUB%5CBIBL%5C0000840182</source>
+      <metadataSource>https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940748120" status="excluded" workId="isbn-9785940748120">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Редкая профессия</title>
+      <authors>
+        <author>Евгений Зуев</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940748120</isbn>
+      <pages>232</pages>
+      <year kind="retailer-listed">2014</year>
+      <topics>
+        <topic code="compilers" />
+        <topic code="dsl" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4235001-4236000/4235733/2144487905c.jpg</url>
+        <localPath>covers/9785940748120.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/redkaya-professiya-4235733/</sourceUrl>
+        <width>270</width>
+        <height>369</height>
+        <sha256>31ef61a1015890deff1bce3a21d7349715b977b9e55f6a926cdc372ff311e9cb</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://www.dmkpress.com/catalog/computer/programming/978-5-94074-812-0/</source>
+      <metadataSource>https://www.books.ru/books/redkaya-professiya-4235733/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785950029615" status="excluded" workId="isbn-9785950029615">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java для чайников</title>
+      <authors>
+        <author>Барри Берд</author>
+      </authors>
+      <publisher>Диалектика</publisher>
+      <isbn>9785950029615</isbn>
+      <pages>624</pages>
+      <year kind="retailer-listed">2018</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4848001-4849000/4848414/664116451c.jpg</url>
+        <localPath>covers/9785950029615.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-dlya-chainikov-4848414/</sourceUrl>
+        <width>800</width>
+        <height>1110</height>
+        <sha256>854c63bc8cf84529ce11fb037b2433999a3931e13df8da20b4c63b96e6d40591</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-dlya-chainikov-4848414/</source>
+      <metadataSource>https://www.books.ru/books/java-dlya-chainikov-4848414/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785971083436" status="excluded" workId="java-tasks">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Java. Задачи по основам программирования</title>
+      <authors>
+        <author>Е. Г. Канель</author>
+        <author>З. Фрайман</author>
+      </authors>
+      <publisher>URSS</publisher>
+      <isbn>9785971083436</isbn>
+      <pages>208</pages>
+      <year kind="retailer-listed">2020</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5201001-5202000/5201219/1730458871c.jpg</url>
+        <localPath>covers/9785971083436.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/</sourceUrl>
+        <width>500</width>
+        <height>694</height>
+        <sha256>81c537dbaca1a7f2a29df7e3d2fa8bfaad334bc4d3b2a95d4c11348cbf489e4f</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/</source>
+      <metadataSource>https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785855822762" status="excluded" workId="isbn-9785855822762">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Oracle Программирование на языке Java</title>
+      <authors>
+        <author>Соломон</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>9785855822762</isbn>
+      <pages>484</pages>
+      <year kind="retailer-listed">2007</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/507001-508000/507162/000507162.jpg</url>
+        <localPath>covers/9785855822762.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/</sourceUrl>
+        <width>186</width>
+        <height>252</height>
+        <sha256>6b3d42ef401f97322497d729cc709d502587fc6f4f2ad178f2c4ef4c2c271d0b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/</source>
+      <metadataSource>https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785855822960" status="excluded" workId="isbn-9785855822960">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программирование WEB-приложений на языке Java</title>
+      <authors>
+        <author>Б. Курняван</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>9785855822960</isbn>
+      <pages>900</pages>
+      <year kind="retailer-listed">2009</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/646001-647000/646658/000646658.jpg</url>
+        <localPath>covers/9785855822960.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/</sourceUrl>
+        <width>150</width>
+        <height>213</height>
+        <sha256>85afc973b8eb21ab6d9dfd75de4a9240ade864645729e8e158012106dab58c9e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/</source>
+      <metadataSource>https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785991202985" status="excluded" workId="isbn-9785991202985">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение Интернет-приложений на языке Java. Практический курс. 2-е изд., стереотип</title>
+      <authors>
+        <author>А. Л. Фридман</author>
+      </authors>
+      <publisher>Горячая линия — Телеком</publisher>
+      <isbn>9785991202985</isbn>
+      <pages>335</pages>
+      <year kind="retailer-listed">2012</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3652001-3653000/3652213/003652213.jpg</url>
+        <localPath>covers/9785991202985.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/</sourceUrl>
+        <width>150</width>
+        <height>212</height>
+        <sha256>0e8520c9eb121127852c6b4b28e4bef6fd7a4a52f75c928e4c5c943e33b251e4</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/</source>
+      <metadataSource>https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785971077428" status="excluded" workId="isbn-9785971077428">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Основы программирования на Java. Для школьников... и не только</title>
+      <authors>
+        <author>Е. Г. Канель</author>
+        <author>З. Фрайман</author>
+      </authors>
+      <publisher>URSS</publisher>
+      <isbn>9785971077428</isbn>
+      <pages>200</pages>
+      <year kind="retailer-listed">2020</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5191001-5192000/5191722/690751911c.jpg</url>
+        <localPath>covers/9785971077428.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/</sourceUrl>
+        <width>500</width>
+        <height>696</height>
+        <sha256>427c02a5256e479b2733e10a4ba4054b832ba309f85a00018cccd7dc5057dffa</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/</source>
+      <metadataSource>https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785845917065" status="excluded" workId="isbn-9785845917065">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">JavaServer Faces. Библиотека профессионала, 3-е издание</title>
+      <authors>
+        <author>Дэвид Гери</author>
+        <author>Кей С. Хорстманн</author>
+      </authors>
+      <publisher>Вильямс/Диалектика</publisher>
+      <isbn>9785845917065</isbn>
+      <pages>544</pages>
+      <year kind="retailer-listed">2011</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/847001-848000/847549/000847549_1.jpg</url>
+        <localPath>covers/9785845917065.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/</sourceUrl>
+        <width>341</width>
+        <height>500</height>
+        <sha256>1c819a671bea99f854664cb6e08b9c12f27d7c153fac34343241e5006e89f28d</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/</source>
+      <metadataSource>https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785446113354" status="excluded" workId="isbn-9785446113354">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Kotlin. Руководство для начинающих программистов</title>
+      <authors>
+        <author>Дон Гриффитс</author>
+        <author>Дэвид Гриффитс</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>9785446113354</isbn>
+      <pages>464</pages>
+      <year kind="retailer-listed">2019</year>
+      <topics>
+        <topic code="kotlin" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5070001-5071000/5070839/005070839.jpg</url>
+        <localPath>covers/9785446113354.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/</sourceUrl>
+        <width>150</width>
+        <height>174</height>
+        <sha256>1082421f7bf3db22736c14c9656ce5bf57dbc2a38042e64f5e5fc19a540be3f9</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/</source>
+      <metadataSource>https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940749257" status="excluded" workId="clojure-programming">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программирование в Clojure. Практика применения Lisp в мире Java</title>
+      <authors>
+        <author>Чаз Эмерик</author>
+        <author>Брайан Карпер</author>
+        <author>Кристоф Гранд</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940749257</isbn>
+      <pages>816</pages>
+      <year kind="retailer-listed">2013</year>
+      <topics>
+        <topic code="java" />
+        <topic code="clojure" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4293001-4294000/4293646/004293646.jpg</url>
+        <localPath>covers/9785940749257.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/</sourceUrl>
+        <width>150</width>
+        <height>217</height>
+        <sha256>a2cda055002b11150a6c93b8cdefa6e335adac27a32ab800cfd0210b9a742e3a</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/</source>
+      <metadataSource>https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970602997" status="excluded" workId="clojure-programming">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программирование в Clojure</title>
+      <authors>
+        <author>Чаз Эмерик</author>
+        <author>Брайан Карпер</author>
+        <author>Кристоф Гранд</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970602997</isbn>
+      <pages>816</pages>
+      <year kind="retailer-listed">2015</year>
+      <topics>
+        <topic code="clojure" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4235001-4236000/4235799/004235799.jpg</url>
+        <localPath>covers/9785970602997.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/programmirovanie-v-clojure-4235799/</sourceUrl>
+        <width>150</width>
+        <height>217</height>
+        <sha256>315964d7b4629243a72d2f7180c8a6021452ba54e6be28911a653a3593622129</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/programmirovanie-v-clojure-4235799/</source>
+      <metadataSource>https://www.books.ru/books/programmirovanie-v-clojure-4235799/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940746188" status="excluded" workId="isbn-9785940746188">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Groovy и Grails. Практические советы" />
+      <title lang="ru">Groovy и Grails. Практические советы</title>
+      <authors>
+        <author>Башар Абдул-Джавад</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940746188</isbn>
+      <pages>408</pages>
+      <year kind="retailer-listed">2010</year>
+      <topics>
+        <topic code="groovy" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/773001-774000/773624/7508-150.jpg</url>
+        <localPath>covers/9785940746188.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/</sourceUrl>
+        <width>150</width>
+        <height>188</height>
+        <sha256>e81f7c56e535bbab592293a46a476c31cdcab3a3ebb78c0643c5960e9a92004b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-618-8/</source>
+      <metadataSource>https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970602195" status="excluded" workId="wirth-compiler">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение компиляторов. Второе издание</title>
+      <authors>
+        <author>Никлаус Вирт</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970602195</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2016</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4321001-4322000/4321852/2132227052c.png</url>
+        <localPath>covers/9785970602195.png</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/</sourceUrl>
+        <width>800</width>
+        <height>1112</height>
+        <sha256>6fab851dea1f813fb16250b6e5b411015542870a7bb807aa22cac628e765e4c5</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://www.rucont.ru/efd/836519</source>
+      <metadataSource>https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785819904046" status="excluded" workId="gagarina">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Введение в теорию алгоритмических языков и компиляторов</title>
+      <authors>
+        <author>Л.Г. Гагарина</author>
+        <author>Е. Кокорева</author>
+      </authors>
+      <publisher>Форум</publisher>
+      <isbn>9785819904046</isbn>
+      <pages>176</pages>
+      <year kind="retailer-listed">2018</year>
+      <topics>
+        <topic code="compilers" />
+        <topic code="algorithms" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/667001-668000/667822/000667822.jpg</url>
+        <localPath>covers/9785819904046.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/</sourceUrl>
+        <width>150</width>
+        <height>222</height>
+        <sha256>89be8ab93b3f91aafeb019e8e2b2039de1a35da5ec74784e6d73c97c1507ab1e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/</source>
+      <metadataSource>https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5943870334" status="excluded" workId="isbn-5943870334">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение интерпретаторов и компиляторов. Использование программ BIZON, BYACC, ZUBR</title>
+      <authors>
+        <author>А.В. Костельцов</author>
+      </authors>
+      <publisher>Наука и техника</publisher>
+      <isbn>5943870334</isbn>
+      <pages>224</pages>
+      <year kind="retailer-listed">2001</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/60001-61000/60355/60355.jpg</url>
+        <localPath>covers/5943870334.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/</sourceUrl>
+        <width>144</width>
+        <height>219</height>
+        <sha256>a81a77c4ae2b1b1a3dbe4b76a2b2854f897b37240cdf0c217e26c7f9a879a11e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/</source>
+      <metadataSource>https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940745853" status="excluded" workId="wirth-compiler">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение компиляторов</title>
+      <authors>
+        <author>Никлаус Вирт</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940745853</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2009</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/719001-720000/719247/7538-150.jpg</url>
+        <localPath>covers/9785940745853.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-kompilyatorov-719247/</sourceUrl>
+        <width>150</width>
+        <height>200</height>
+        <sha256>a9a73344979e72794034e1ceba5e39b3cf347e9811181f69ae1ab11d30643b60</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postroenie-kompilyatorov-719247/</source>
+      <metadataSource>https://www.books.ru/books/postroenie-kompilyatorov-719247/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940748755" status="excluded" workId="wirth-compiler">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение компиляторов</title>
+      <authors>
+        <author>Никлаус Вирт</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940748755</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2012</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3123001-3124000/3123981/003123981.jpg</url>
+        <localPath>covers/9785940748755.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-kompilyatorov-3123981/</sourceUrl>
+        <width>150</width>
+        <height>209</height>
+        <sha256>5f6a4471ca35d58bbed2a84fcb937609563eae6443d97b4a022323fc1a79b841</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postroenie-kompilyatorov-3123981/</source>
+      <metadataSource>https://www.books.ru/books/postroenie-kompilyatorov-3123981/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940746720" status="excluded" workId="isbn-9785940746720">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Разработка операционной системы и компилятора. Проект Оберон</title>
+      <authors>
+        <author>Никлаус Вирт</author>
+        <author>Юрг Гуткнехт</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940746720</isbn>
+      <pages>560</pages>
+      <year kind="retailer-listed">2012</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/1812001-1813000/1812759/54207159c.jpg</url>
+        <localPath>covers/9785940746720.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/razrabotka-operatsionnoi-sistemy-i-kompilyatora-1812759/</sourceUrl>
+        <width>470</width>
+        <height>684</height>
+        <sha256>d3924bf15c26208eb35aee529eff71dc373fda48f7d9692d2fbc0a5f1d1d46d8</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://ibooks.ru/products/364198</source>
+      <metadataSource>https://www.books.ru/books/razrabotka-operatsionnoi-sistemy-i-kompilyatora-1812759/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785855823561" status="excluded" workId="isbn-9785855823561">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Образцы J2EE. Лучшие решения и стратегии проектирования" />
+      <title lang="ru">Образцы J2EE. Лучшие решения и стратегии проектирования</title>
+      <authors>
+        <author>Дипак Алур</author>
+        <author>Джон Крупи</author>
+        <author>Дэн Малкс</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>9785855823561</isbn>
+      <pages>400</pages>
+      <year kind="retailer-listed">2013</year>
+      <topics>
+        <topic code="java" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3148001-3149000/3148904/003148904.jpg</url>
+        <localPath>covers/9785855823561.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/</sourceUrl>
+        <width>150</width>
+        <height>212</height>
+        <sha256>89a533fc8afadf542cb05c42a84b64c2059a28628ddb0c6aa379380baecc6de0</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/</source>
+      <metadataSource>https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785507522903" status="excluded" workId="zolkin">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для вузов</title>
+      <authors>
+        <author>Золкин А. Л.</author>
+      </authors>
+      <publisher>Лань</publisher>
+      <isbn>9785507522903</isbn>
+      <pages>176</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5602001-5603000/5602386/5602386_e228f524_c.jpg</url>
+        <localPath>covers/9785507522903.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/</sourceUrl>
+        <width>178</width>
+        <height>267</height>
+        <sha256>20b76d0e0afc4022ebdf91865215078388bc239cae273cb12db1e5f12fff6ccc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://lanbook.ru/catalog/informatika/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta/</source>
+      <metadataSource>https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785507522910" status="excluded" workId="zolkin">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для СПО</title>
+      <authors>
+        <author>Золкин А. Л.</author>
+      </authors>
+      <publisher>Лань</publisher>
+      <isbn>9785507522910</isbn>
+      <pages>176</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5602001-5603000/5602387/5602387_52b272a5_c.jpg</url>
+        <localPath>covers/9785507522910.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/</sourceUrl>
+        <width>178</width>
+        <height>267</height>
+        <sha256>f263102268757374d17462ff926a4be355d3a705e8fefd7aba3adb72d70ca55b</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/</source>
+      <metadataSource>https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785160177564" status="excluded" workId="gagarina">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Введение в теорию алгоритмических языков и компиляторов</title>
+      <authors>
+        <author>Гагарина Л.Г.</author>
+        <author>Кокорева Е.В.</author>
+      </authors>
+      <publisher>Инфра-М</publisher>
+      <isbn>9785160177564</isbn>
+      <pages>207</pages>
+      <year kind="retailer-listed">2024</year>
+      <topics>
+        <topic code="compilers" />
+        <topic code="algorithms" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5553001-5554000/5553591/5553591_85c3e48b_c.jpg</url>
+        <localPath>covers/9785160177564.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/</sourceUrl>
+        <width>827</width>
+        <height>1300</height>
+        <sha256>6ee5f07068533722a6feda8fc031a962487e8eb4faacec8f2c68322902acb6fc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/</source>
+      <metadataSource>https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940749929" status="excluded" workId="wirth-compiler">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Построение компиляторов</title>
+      <authors>
+        <author>Вирт. Н.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940749929</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2013</year>
+      <topics>
+        <topic code="compilers" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3592001-3593000/3592250/003592250.jpg</url>
+        <localPath>covers/9785940749929.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postroenie-kompilyatorov-3592250/</sourceUrl>
+        <width>150</width>
+        <height>216</height>
+        <sha256>547c1724a8ce6501eda767257bdd87f941c0ade93ac63b2da40356c8d28b94c7</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postroenie-kompilyatorov-3592250/</source>
+      <metadataSource>https://www.books.ru/books/postroenie-kompilyatorov-3592250/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937001405" status="excluded" workId="isbn-9785937001405">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Создай свой собственный язык программирования</title>
+      <authors>
+        <author>Джеффери К. Л.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937001405</isbn>
+      <pages>408</pages>
+      <year kind="retailer-listed">2022</year>
+      <topics>
+        <topic code="compilers" />
+        <topic code="dsl" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5384001-5385000/5384193/5384193_886ac094_c.jpg</url>
+        <localPath>covers/9785937001405.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/sozdai-svoi-sobstvennyi-yazyk-programmirovaniya-5384193/</sourceUrl>
+        <width>300</width>
+        <height>400</height>
+        <sha256>3cfd31d1e133f4c3474b79e01ad8e6e2548dd5794507db8b40b36b11760cebf5</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-search-index">https://www.dmkpress.com/catalog/computer/programming/978-5-93700-140-5/</source>
+      <metadataSource>https://www.books.ru/books/sozdai-svoi-sobstvennyi-yazyk-programmirovaniya-5384193/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785951938251" status="excluded" workId="java-tasks">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">JAVA: ЗАДАЧИ ПО ОСНОВАМ ПРОГРАММИРОВАНИЯ: Более 600 задач, около 150 задач с решениями. Книга ДЛЯ ШКОЛЬНИКОВ… И НЕ ТОЛЬКО. Изд. 2, стереотип</title>
+      <authors>
+        <author>Канель Е.Г.</author>
+        <author>Фрайман З.</author>
+      </authors>
+      <publisher>Ленанд</publisher>
+      <isbn>9785951938251</isbn>
+      <pages>208</pages>
+      <year kind="retailer-listed">2023</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5406001-5407000/5406663/005406663.jpg</url>
+        <localPath>covers/9785951938251.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/</sourceUrl>
+        <width>150</width>
+        <height>208</height>
+        <sha256>f52322e03fb59599f1cb9ae5918023ffaf8d497b3c86d4fc46d28fbce921a1ba</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/</source>
+      <metadataSource>https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785855824193" status="excluded" workId="isbn-9785855824193">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">JAVA. В 2-х томах</title>
+      <authors>
+        <author>Я. Хортон</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>9785855824193</isbn>
+      <pages>900</pages>
+      <year kind="retailer-listed">2019</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5004001-5005000/5004089/005004089.jpg</url>
+        <localPath>covers/9785855824193.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/java-v-2-kh-tomakh-5004089/</sourceUrl>
+        <width>150</width>
+        <height>149</height>
+        <sha256>1c8aefe97bc9040afa9537fdc19702fca4c01b90a34d9b36d1d70973ce8f4cf0</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/java-v-2-kh-tomakh-5004089/</source>
+      <metadataSource>https://www.books.ru/books/java-v-2-kh-tomakh-5004089/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785406155585" status="excluded" workId="isbn-9785406155585">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Введение в Android разработку на Java. (Аспирантура, Бакалавриат, Магистратура). Учебное пособие</title>
+      <authors>
+        <author>Коротеев М.В.</author>
+        <author>Шаталова А.Ю.</author>
+      </authors>
+      <publisher>КноРус</publisher>
+      <isbn>9785406155585</isbn>
+      <pages />
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="android" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5615001-5616000/5615658/5615658_f99b388b_c.jpg</url>
+        <localPath>covers/9785406155585.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/</sourceUrl>
+        <width>326</width>
+        <height>500</height>
+        <sha256>398f7383490909d873cd14e520c42aba9622bb0a8e0ddb6b8906e249882df2e8</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/</source>
+      <metadataSource>https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+        <note>Число страниц в доступной карточке не указано.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785160201368" status="excluded" workId="isbn-9785160201368">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Программирование на языке Java. Практический курс</title>
+      <authors>
+        <author>Бобырь М.В.</author>
+      </authors>
+      <publisher>Инфра-М</publisher>
+      <isbn>9785160201368</isbn>
+      <pages>189</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5587001-5588000/5587674/5587674_711e368b_c.jpg</url>
+        <localPath>covers/9785160201368.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/</sourceUrl>
+        <width>827</width>
+        <height>1300</height>
+        <sha256>d873092952dbc554cd8d3d0786407a013ff543627abf677e4c14af11a43b06bc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/</source>
+      <metadataSource>https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785855823820" status="excluded" workId="isbn-9785855823820">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Как программировать Android-приложения на языке Java</title>
+      <authors>
+        <author>П. Дейтел и др.</author>
+      </authors>
+      <publisher>Лори</publisher>
+      <isbn>9785855823820</isbn>
+      <pages>800</pages>
+      <year kind="retailer-listed">2015</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+        <topic code="android" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3804001-3805000/3804903/003804903.jpg</url>
+        <localPath>covers/9785855823820.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/</sourceUrl>
+        <width>150</width>
+        <height>216</height>
+        <sha256>00909872adbe48ad20a678861e9e230d21a4b9661a5ab0b77bee0486c73b4b08</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/</source>
+      <metadataSource>https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/</metadataSource>
+      <verificationNotes>
+        <note>Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785507509812" status="excluded" workId="isbn-9785507509812">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Основы программирования на языке Java. Учебное пособие для СПО, 2-е изд., стер</title>
+      <authors>
+        <author>И. В. Курбатова</author>
+        <author>А. В. Печкуров</author>
+      </authors>
+      <publisher>Лань</publisher>
+      <isbn>9785507509812</isbn>
+      <pages>348</pages>
+      <year kind="publisher-listed">2025</year>
+      <topics>
+        <topic code="java" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="publisher" kind="cover" visualVerification="russian-title-and-publisher-reviewed">
+        <url>https://lanbook.ru/upload/resize_cache/iblock/9bc/330_469_2/w98r78i4cg4q3jbaou310m9kha9xn05x.jpg</url>
+        <localPath>covers/9785507509812.jpg</localPath>
+        <sourceUrl>https://lanbook.ru/catalog/informatika/osnovy-programmirovaniya-na-yazyke-java/</sourceUrl>
+        <width>330</width>
+        <height>469</height>
+        <sha256>19ba12f013f73111623dbd3b744ad1af863c981370b0ef0fea274085d9b2b079</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://lanbook.ru/catalog/informatika/osnovy-programmirovaniya-na-yazyke-java/</source>
+      <verificationNotes>
+        <note>Русская обложка и ISBN сверены с карточкой источника.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970606711" status="excluded" workId="isbn-9785970606711">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 11. Мастерство разработки</title>
+      <authors>
+        <author>Ганс-Юрген Шениг</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970606711</isbn>
+      <pages>352</pages>
+      <year kind="retailer-listed">2019</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4987001-4988000/4987418/1695987031c.jpg</url>
+        <localPath>covers/9785970606711.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/</sourceUrl>
+        <width>270</width>
+        <height>369</height>
+        <sha256>c18c2bec2c21b0b8d80759a17b983aba79d34a8a8a657664286aad37c00b619e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-11-masterstvo-razrabotki-4987418/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937003058" status="excluded" workId="postgres-internals">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 16 изнутри</title>
+      <authors>
+        <author>Егор Рогов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937003058</isbn>
+      <pages>664</pages>
+      <year kind="retailer-listed">2024</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5501001-5502000/5501246/1053639724c.jpg</url>
+        <localPath>covers/9785937003058.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-16-iznutri-5501246/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>7d5c2174c7593a3eb0210629955b9c5d48133d6a57705d2df94758e0c57eaee7</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-16-iznutri-5501246/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937003737" status="excluded" workId="isbn-9785937003737">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL. Профессиональный SQL</title>
+      <authors>
+        <author>Евгений Моргунов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937003737</isbn>
+      <pages>444</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5592001-5593000/5592350/314878519c.jpg</url>
+        <localPath>covers/9785937003737.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>f31671f866a4b461b677b6fa22b13a00710e417b762b8817cdf43055cedf70e6</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-professionalnyi-sql-5592350/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785977540223" status="excluded" workId="isbn-9785977540223">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL. Основы языка SQL</title>
+      <authors>
+        <author>Евгений Павлович Моргунов</author>
+      </authors>
+      <publisher>БХВ-Петербург</publisher>
+      <isbn>9785977540223</isbn>
+      <pages>336</pages>
+      <year kind="retailer-listed">2018</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4937001-4938000/4937877/1749355537c.jpg</url>
+        <localPath>covers/9785977540223.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/</sourceUrl>
+        <width>214</width>
+        <height>312</height>
+        <sha256>f2c9bfc3f1449f3c094968b7f4b74aa024f03ec3c950f5d4be6051a47debb9e2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-osnovy-yazyka-sql-4937877/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785907592322" status="excluded" workId="isbn-9785907592322">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL: SQL + PL/pgSQL для тех, кто хочет стать профессионалом</title>
+      <authors>
+        <author>Ткачев О.</author>
+      </authors>
+      <publisher>Наука и техника</publisher>
+      <isbn>9785907592322</isbn>
+      <pages>480</pages>
+      <year kind="retailer-listed">2023</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5478001-5479000/5478169/1423337358c.jpg</url>
+        <localPath>covers/9785907592322.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/</sourceUrl>
+        <width>800</width>
+        <height>1140</height>
+        <sha256>98c84beb598e5325ccc997a10ec20b77eb257cce3990561b545026c28ef770a0</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-sql--plpgsql-dlya-tekh-kto-khochet-stat-professionalom-5478169/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785466069747" status="excluded" workId="isbn-9785466069747">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник</title>
+      <authors>
+        <author>Ванина М.Ф.</author>
+        <author>Ерохин А.Г.</author>
+        <author>Тутова Н.В.</author>
+        <author>Осипов А.В.</author>
+        <author>Плешакова Е.С.</author>
+        <author>Гатауллин С.Т.</author>
+      </authors>
+      <publisher>Русайнс</publisher>
+      <isbn>9785466069747</isbn>
+      <pages>228</pages>
+      <year kind="retailer-listed">2024</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5497001-5498000/5497164/5497164_2a54184c_c.jpg</url>
+        <localPath>covers/9785466069747.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/</sourceUrl>
+        <width>325</width>
+        <height>500</height>
+        <sha256>db58a8f340fae6ae740e8d2115ebed63444d6e8f9aa4f715b57039252f4e9178</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5497164/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+        <note>На русской обложке указан Русайнс; магазин относит книгу к группе КноРус.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785907754423" status="excluded" workId="isbn-9785907754423">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Мониторинг PostgreSQL</title>
+      <authors>
+        <author>Лесовский Алексей</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785907754423</isbn>
+      <pages>247</pages>
+      <year kind="retailer-listed">2024</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5504001-5505000/5504789/1323750633c.jpg</url>
+        <localPath>covers/9785907754423.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/monitoring-postgresql-5504789/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>3380d63f669bc7a81f9ac5503269b484003b0f6f99d652f9b25ed8b35e030bf3</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/monitoring-postgresql-5504789/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785446144938" status="excluded" workId="isbn-9785446144938">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Антипаттерны PostgreSQL и как их избежать</title>
+      <authors>
+        <author>Джимми Ангелакос</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>9785446144938</isbn>
+      <pages>272</pages>
+      <year kind="retailer-listed">2026</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5658001-5659000/5658840/1210841427c.jpg</url>
+        <localPath>covers/9785446144938.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/</sourceUrl>
+        <width>646</width>
+        <height>914</height>
+        <sha256>3679ad71db84a61d826dd161976b1260ff3c3fa68b45426df6f41452ad063d4e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/antipatterny-postgresql-i-kak-ikh-izbezhat-5658840/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970609637" status="excluded" workId="isbn-9785970609637">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Оптимизация запросов в PostgreSQL</title>
+      <authors>
+        <author>Домбровская Г.</author>
+        <author>Новиков Б.</author>
+        <author>Бейликова А.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970609637</isbn>
+      <pages>278</pages>
+      <year kind="retailer-listed">2021</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5295001-5296000/5295070/5295070_fbfd4184_c.jpg</url>
+        <localPath>covers/9785970609637.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/</sourceUrl>
+        <width>300</width>
+        <height>400</height>
+        <sha256>7bdd62699d8790cef5afe12de90507787c04d2300a0c20b7d361a18ca6a16c83</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/optimizatsiya-zaprosov-postgresql-5295070/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970606438" status="excluded" workId="isbn-9785970606438">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Изучаем PostgreSQL 10</title>
+      <authors>
+        <author>С. Джуба</author>
+        <author>А. Волков</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970606438</isbn>
+      <pages>400</pages>
+      <year kind="retailer-listed">2018</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4930001-4931000/4930825/2030965899c.jpg</url>
+        <localPath>covers/9785970606438.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/izuchaem-postgresql10-4930825/</sourceUrl>
+        <width>270</width>
+        <height>369</height>
+        <sha256>d25e95415cda03ed00d12e11338c6eb539ff12c5ad6169e4e981cd588ee807c6</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/izuchaem-postgresql10-4930825/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937001306" status="excluded" workId="isbn-9785937001306">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostGIS в действии</title>
+      <authors>
+        <author>Регина Обе</author>
+        <author>Хсу Лео</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937001306</isbn>
+      <pages>736</pages>
+      <year kind="retailer-listed">2023</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5432001-5433000/5432477/1751715705c.jpg</url>
+        <localPath>covers/9785937001306.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgis-v-deistvii-5432477/</sourceUrl>
+        <width>594</width>
+        <height>840</height>
+        <sha256>9d21b5c7406e77c2fcb1e4f5854e481253f75a7e9d9ea20ca7fa7284bb34b8bb</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgis-v-deistvii-5432477/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-5947233371" status="excluded" workId="isbn-5947233371">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL. Для профессионалов (+CD)</title>
+      <authors>
+        <author>Джон Уорсли</author>
+        <author>Джошуа Дрейк</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>5947233371</isbn>
+      <pages>496</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/31001-32000/31278/000031278.jpg</url>
+        <localPath>covers/5947233371.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/</sourceUrl>
+        <width>144</width>
+        <height>204</height>
+        <sha256>8cd481259807ae6653f47543d0704babb210aa134fdda1be7155b34a47fd84e4</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-dlya-professionalov-cd-31278/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937001788" status="excluded" workId="postgres-internals">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 15 изнутри</title>
+      <authors>
+        <author>Егор Рогов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937001788</isbn>
+      <pages>662</pages>
+      <year kind="retailer-listed">2023</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5409001-5410000/5409701/1965016081c.jpg</url>
+        <localPath>covers/9785937001788.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-15-iznutri-5409701/</sourceUrl>
+        <width>264</width>
+        <height>364</height>
+        <sha256>267b27609c3a734ef659caef7504e3048cd81a24daa2fb9bbb8db2388b6be871</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-15-iznutri-5409701/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937003720" status="excluded" workId="postgres-internals">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 17 изнутри</title>
+      <authors>
+        <author>Егор Рогов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937003720</isbn>
+      <pages>668</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5592001-5593000/5592349/766915563c.jpg</url>
+        <localPath>covers/9785937003720.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-17-iznutri-5592349/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>bde8293e2758fe32d542d0f1976b1126a8f489a0ab95ae53fa317886a9713483</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-17-iznutri-5592349/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937001221" status="excluded" workId="postgres-internals">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 14 изнутри</title>
+      <authors>
+        <author>Егор Рогов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937001221</isbn>
+      <pages>660</pages>
+      <year kind="retailer-listed">2022</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5323001-5324000/5323407/1608896913c.jpg</url>
+        <localPath>covers/9785937001221.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-14-iznutri-5323407/</sourceUrl>
+        <width>270</width>
+        <height>369</height>
+        <sha256>8b39554e8d7efee9d82f2b572b6d4449b750a2b984628535ae63084f84db763e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgresql-14-iznutri-5323407/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785940747505" status="excluded" workId="postgres-admin">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Администрирование PostgreSQL 9. Книга рецептов</title>
+      <authors>
+        <author>Саймон Ригс</author>
+        <author>Ханну Кросинг</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785940747505</isbn>
+      <pages>364</pages>
+      <year kind="retailer-listed">2013</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/3135001-3136000/3135417/003135417.jpg</url>
+        <localPath>covers/9785940747505.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/</sourceUrl>
+        <width>150</width>
+        <height>210</height>
+        <sha256>ad4383b0e04d01716826e14bd1374f995f801474224eb5f84a99cad54036cbf9</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-3135417/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970602799" status="excluded" workId="postgres-admin">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Администрирование PostgreSQL 9. Книга рецептов</title>
+      <authors>
+        <author>Саймон Ригс</author>
+        <author>Ханну Кросинг</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970602799</isbn>
+      <pages>364</pages>
+      <year kind="retailer-listed">2015</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4235001-4236000/4235703/004235703.jpg</url>
+        <localPath>covers/9785970602799.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/</sourceUrl>
+        <width>150</width>
+        <height>213</height>
+        <sha256>618c16b4880af0e8ed723d3e18fa72331d094d9d79969278764f2c376e99dd91</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4235703/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970606094" status="excluded" workId="postgres-admin">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Администрирование PostgreSQL 9. Книга рецептов</title>
+      <authors>
+        <author>Саймон Ригс</author>
+        <author>Ханну Кросинг</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785970606094</isbn>
+      <pages>364</pages>
+      <year kind="retailer-listed">2018</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/4795001-4796000/4795385/1365007547c.jpg</url>
+        <localPath>covers/9785970606094.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/</sourceUrl>
+        <width>270</width>
+        <height>369</height>
+        <sha256>578390fcbbc1f47f5bae5bcb027f13b90da3d696ff59bdad415bb4e6f85fa5fd</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/administrirovanie-postgresql-9-kniga-retseptov-4795385/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785604597019" status="excluded" workId="postgres-intro">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Postgres. Первое знакомство. Версия 15</title>
+      <authors>
+        <author>Лузанов П.</author>
+        <author>Рогов Е.</author>
+        <author>Лёвшин И.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785604597019</isbn>
+      <pages>178</pages>
+      <year kind="retailer-listed">2023</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5513001-5514000/5513739/1862928847c.jpg</url>
+        <localPath>covers/9785604597019.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>a6f1070c5d760d186e7064a3172f7f16f2eb635a49890d347f2eaac5c79ddb45</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-15-5513739/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785604597057" status="excluded" workId="postgres-intro">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Postgres 16. Первое знакомство</title>
+      <authors>
+        <author>Лузанов П.</author>
+        <author>Лёвшин И.</author>
+        <author>Рогов Е.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785604597057</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2024</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5561001-5562000/5561260/754831398c.jpg</url>
+        <localPath>covers/9785604597057.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>b9cd2c908c5e8943b78a9091846651e77ea7c20f71108730bca33180cef0d8fb</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgres-16-pervoe-znakomstvo-5561260/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785604597071" status="excluded" workId="postgres-intro">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">Postgres. Первое знакомство. Версия 17</title>
+      <authors>
+        <author>Лузанов П.</author>
+        <author>Рогов Е.</author>
+        <author>Лёвшин И.</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785604597071</isbn>
+      <pages>192</pages>
+      <year kind="retailer-listed">2025</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/5613001-5614000/5613743/499978865c.jpg</url>
+        <localPath>covers/9785604597071.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/</sourceUrl>
+        <width>450</width>
+        <height>600</height>
+        <sha256>625ec9515681378edc51aee73924b961b2d1ec7435464be369f8851c127e0fff</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="retailer-page">https://www.books.ru/books/postgres-pervoe-znakomstvo-versiya-17-5613743/</source>
+      <verificationNotes>
+        <note>Библиографические данные и ISBN взяты из карточки Books.ru; год может обозначать тираж.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785937004994" status="excluded" workId="postgres-internals">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL 18 изнутри</title>
+      <authors>
+        <author>Егор Рогов</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>9785937004994</isbn>
+      <pages>682</pages>
+      <year kind="publication">2026</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="author-organization" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://postgrespro.ru/media/2026/06/22/internals_18_cover_small.png</url>
+        <localPath>covers/9785937004994.png</localPath>
+        <sourceUrl>https://postgrespro.ru/education/books/internals</sourceUrl>
+        <width>400</width>
+        <height>560</height>
+        <sha256>c29eb3053b3ffcc2d786f8698a5e925d7617b88161678111b542381ecf02a9e2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="web-page">https://postgrespro.ru/education/books/internals</source>
+      <verificationNotes>
+        <note>Обложка, ISBN, год и объём подтверждены страницей книги на сайте Postgres Professional.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-593286043X" status="excluded" workId="isbn-593286043X">
+      <selection decision="exclude" by="user" scope="all-editions" reason="Список исключений от 05.11.2026" />
+      <title lang="ru">PostgreSQL. Основы</title>
+      <authors>
+        <author>Ричард Стоунз</author>
+        <author>Нейл Мэттью</author>
+      </authors>
+      <publisher>Символ-Плюс</publisher>
+      <isbn>593286043X</isbn>
+      <pages>640</pages>
+      <year kind="retailer-listed">2002</year>
+      <topics>
+        <topic code="postgres" />
+      </topics>
+      <cover sourceType="retailer" kind="cover" visualVerification="russian-cover-reviewed">
+        <url>https://files.books.ru/pic/28001-29000/28817/28817.jpg</url>
+        <localPath>covers/593286043X.jpg</localPath>
+        <sourceUrl>https://www.books.ru/books/postgresql-osnovy-28817/</sourceUrl>
+        <width>144</width>
+        <height>199</height>
+        <sha256>9442030356d39feffd2c50bb4453e9b737df171afc05920830a202ecc2204443</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="web-page">https://www.books.ru/books/postgresql-osnovy-28817/</source>
+      <metadataSource>https://lib.dm-centre.ru/lib/gpntb/?e_kls=POSTGRESQL&amp;e_viewdb=ESVODT</metadataSource>
+      <verificationNotes>
+        <note>В Books.ru пропущен контрольный символ X; полный ISBN подтверждён библиотечным каталогом ГПНТБ. Объём 640 в магазине, 637 нумерованных страниц в библиотечной записи.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+  </books>
+</catalog>

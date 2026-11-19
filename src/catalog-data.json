@@ -1,0 +1,3341 @@
+{
+  "researchedAt": "2026-11-04",
+  "books": [
+    {
+      "id": "9785446113149",
+      "isbn": "978-5-4461-1314-9",
+      "title": "Java Concurrency на практике",
+      "workId": "isbn-9785446113149",
+      "workTitle": "Java Concurrency на практике",
+      "authors": [
+        "Гетц Б.",
+        "Ли Д.",
+        "Пайерлс Т.",
+        "Блох Д.",
+        "Боубер Д.",
+        "Холмс Д."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446113149.jpg",
+      "sourceUrl": "https://www.piter.com/product/java-concurrency-na-praktike"
+    },
+    {
+      "id": "9785446113828",
+      "isbn": "978-5-4461-1382-8",
+      "title": "Java для всех",
+      "workId": "isbn-9785446113828",
+      "workTitle": "Java для всех",
+      "authors": [
+        "Васильев А. Н."
+      ],
+      "publisher": "Питер",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446113828.jpg",
+      "sourceUrl": "https://www.piter.com/product/java-dlya-vseh"
+    },
+    {
+      "id": "9785446139118",
+      "isbn": "978-5-4461-3911-8",
+      "title": "Классические задачи Computer Science на языке Java",
+      "workId": "isbn-9785446139118",
+      "workTitle": "Классические задачи Computer Science на языке Java",
+      "authors": [
+        "Копец Д."
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446139118.jpg",
+      "sourceUrl": "https://www.piter.com/product/klassicheskie-zadachi-computer-science-na-yazyke-java"
+    },
+    {
+      "id": "9785446124060",
+      "isbn": "978-5-4461-2406-0",
+      "title": "Java для опытных разработчиков. 2-е издание",
+      "workId": "isbn-9785446124060",
+      "workTitle": "Java для опытных разработчиков. 2-е издание",
+      "authors": [
+        "Эванс Б.",
+        "Кларк Д.",
+        "Фербург М."
+      ],
+      "publisher": "Питер",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446124060.jpg",
+      "sourceUrl": "https://www.piter.com/product/java-dlya-opytnyh-razrabotchikov-2-e-izdanie"
+    },
+    {
+      "id": "9786011261043",
+      "isbn": "978-601-12-6104-3",
+      "title": "Spring Security. 4-е изд.",
+      "workId": "isbn-9786011261043",
+      "workTitle": "Spring Security. 4-е изд.",
+      "authors": [
+        "Насслахсен  Б."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9786011261043.jpg",
+      "sourceUrl": "https://www.piter.com/product/spring-security-4-e-izd"
+    },
+    {
+      "id": "9786011286763",
+      "isbn": "978-601-12-8676-3",
+      "title": "Современный Java Concurrency. Глубокое погружение в Virtual Threads, Structured Concurrency и Scoped Values",
+      "workId": "isbn-9786011286763",
+      "workTitle": "Современный Java Concurrency. Глубокое погружение в Virtual Threads, Structured Concurrency и Scoped Values",
+      "authors": [
+        "Рахман А."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9786011286763.jpg",
+      "sourceUrl": "https://www.piter.com/product/sovremennyy-java-concurrency-glubokoe-pogruzhenie-v-virtual-threads-structured-concurrency-i-scoped-values"
+    },
+    {
+      "id": "9785446144501",
+      "isbn": "978-5-4461-4450-1",
+      "title": "Java для профи. Инструменты, фреймворки, тестирование, производительность (Spring, Git, Prometheus, Project Lombok)",
+      "workId": "isbn-9785446144501",
+      "workTitle": "Java для профи. Инструменты, фреймворки, тестирование, производительность (Spring, Git, Prometheus, Project Lombok)",
+      "authors": [
+        "Граци В.",
+        "Боярски Ж."
+      ],
+      "publisher": "Питер",
+      "year": "2027",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446144501.jpg",
+      "sourceUrl": "https://www.piter.com/product/java-dlya-profi-instrumenty-freymvorki-testirovanie-proizvoditelnost-spring-git-prometheus-project-lombok"
+    },
+    {
+      "id": "9785446109975",
+      "isbn": "978-5-4461-0997-5",
+      "title": "Современный язык Java. Лямбда-выражения, потоки и функциональное программирование",
+      "workId": "isbn-9785446109975",
+      "workTitle": "Современный язык Java. Лямбда-выражения, потоки и функциональное программирование",
+      "authors": [
+        "Урма Р.",
+        "Фуско М.",
+        "Майкрофт А."
+      ],
+      "publisher": "Питер",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446109975.jpg",
+      "sourceUrl": "https://www.piter.com/product/sovremennyy-yazyk-java-lyambda-vyrazheniya-potoki-i-funktsionalnoe-programmirovanie"
+    },
+    {
+      "id": "9785446116201",
+      "isbn": "978-5-4461-1620-1",
+      "title": "Система модулей Java",
+      "workId": "isbn-9785446116201",
+      "workTitle": "Система модулей Java",
+      "authors": [
+        "Парлог Н."
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446116201.jpg",
+      "sourceUrl": "https://www.piter.com/product/sistema-moduley-java"
+    },
+    {
+      "id": "9785446117574",
+      "isbn": "978-5-4461-1757-4",
+      "title": "Эффективный Java. Тюнинг кода на Java 8, 11 и дальше. 2-е межд. издание",
+      "workId": "isbn-9785446117574",
+      "workTitle": "Эффективный Java. Тюнинг кода на Java 8, 11 и дальше. 2-е межд. издание",
+      "authors": [
+        "Оукс С."
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446117574.jpg",
+      "sourceUrl": "https://www.piter.com/product/effektivnyy-java-tyuning-koda-na-java-8-11-i-dalshe-2-e-mezhd-izdanie"
+    },
+    {
+      "id": "9785496027007",
+      "isbn": "978-5-496-02700-7",
+      "title": "Computer Science: основы программирования на Java, ООП, алгоритмы и структуры данных",
+      "workId": "cs-sedgewick",
+      "workTitle": "Computer Science: основы программирования на Java",
+      "authors": [
+        "Седжвик Р.",
+        "Уэйн К."
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496027007.jpg",
+      "sourceUrl": "https://www.piter.com/product/computer-science-osnovy-programmirovaniya-na-java-oop-algoritmy-i-struktury-dannyh"
+    },
+    {
+      "id": "9786011293266",
+      "isbn": "978-601-12-9326-6",
+      "title": "Предметно-ориентированное проектирование. Модернизация легаси-систем и снижение рисков с помощью DDD",
+      "workId": "isbn-9786011293266",
+      "workTitle": "Предметно-ориентированное проектирование. Модернизация легаси-систем и снижение рисков с помощью DDD",
+      "authors": [
+        "Швентнер Х.",
+        "Лилиенталь К."
+      ],
+      "publisher": "Питер",
+      "year": "2027",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9786011293266.jpg",
+      "sourceUrl": "https://www.piter.com/product/predmetno-orientirovannoe-proektirovanie-modernizatsiya-legasi-sistem-i-snizhenie-riskov-s-pomoschyu-ddd"
+    },
+    {
+      "id": "9785446144068",
+      "isbn": "978-5-4461-4406-8",
+      "title": "Kotlin Multiplatform на практике",
+      "workId": "isbn-9785446144068",
+      "workTitle": "Kotlin Multiplatform на практике",
+      "authors": [
+        "Жаркова А. А."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446144068.jpg",
+      "sourceUrl": "https://www.piter.com/product/kotlin-multiplatform-na-praktike"
+    },
+    {
+      "id": "9785907515369",
+      "isbn": "978-5-907515-36-9",
+      "title": "Java: руководство для начинающих",
+      "workId": "schildt-beginner",
+      "workTitle": "Java: руководство для начинающих — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2026",
+      "edition": "9-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907515369.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907515-36-9.html"
+    },
+    {
+      "id": "9785977521574",
+      "isbn": "978-5-9775-2157-4",
+      "title": "Асинхронный Kotlin: корутины и фреймворк Flow в разработке под Android",
+      "workId": "isbn-9785977521574",
+      "workTitle": "Асинхронный Kotlin: корутины и фреймворк Flow в разработке под Android",
+      "authors": [
+        "Седова Яна"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm",
+        "android"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977521574.jpg",
+      "sourceUrl": "https://bhv.ru/product/asinhronnyj-kotlin/"
+    },
+    {
+      "id": "9785977521291",
+      "isbn": "978-5-9775-2129-1",
+      "title": "Kotlin. Краткий курс",
+      "workId": "isbn-9785977521291",
+      "workTitle": "Kotlin. Краткий курс",
+      "authors": [
+        "Елена Ван Энгелен - Маслова"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977521291.jpg",
+      "sourceUrl": "https://bhv.ru/product/kotlin-kratkij-kurs/"
+    },
+    {
+      "id": "9785977520621",
+      "isbn": "978-5-9775-2062-1",
+      "title": "Программируем на Java: практический подход к созданию надежных и эффективных приложений",
+      "workId": "isbn-9785977520621",
+      "workTitle": "Программируем на Java: практический подход к созданию надежных и эффективных приложений",
+      "authors": [
+        "Плоетц Аарон"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977520621.jpg",
+      "sourceUrl": "https://bhv.ru/product/programmiruem-na-java-prakticheskij-podhod-k-sozdaniyu-nadezhnyh-i-effektivnyh-prilozhenij/"
+    },
+    {
+      "id": "9785446118366",
+      "isbn": "978-5-4461-1836-6",
+      "title": "Программируем на Java. 5-е международное издание",
+      "workId": "isbn-9785446118366",
+      "workTitle": "Программируем на Java. 5-е международное издание",
+      "authors": [
+        "Марк Лой",
+        "Патрик Нимайер",
+        "Дэниэл Лук"
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "5-е международное издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446118366.jpg",
+      "sourceUrl": "https://www.piter.com/product/programmiruem-na-java-5-e-mezhd-izd"
+    },
+    {
+      "id": "9785496007405",
+      "isbn": "978-5-496-00740-5",
+      "title": "Структуры данных и алгоритмы в Java. Классика Computers Science. 2-е изд.",
+      "workId": "lafore",
+      "workTitle": "Структуры данных и алгоритмы в Java",
+      "authors": [
+        "Лафоре Р."
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496007405.jpg",
+      "sourceUrl": "https://www.piter.com/product/struktury-dannyh-i-algoritmy-v-java-klassika-computers-science-2-e-izd"
+    },
+    {
+      "id": "9785446109395",
+      "isbn": "978-5-4461-0939-5",
+      "title": "Структуры данных и алгоритмы в Java. Классика Computers Science. 2-е изд.",
+      "workId": "lafore",
+      "workTitle": "Структуры данных и алгоритмы в Java",
+      "authors": [
+        "Лафоре Р."
+      ],
+      "publisher": "Питер",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446109395.jpg",
+      "sourceUrl": "https://www.piter.com/product/struktury-dannyh-i-algoritmy-v-java-klassika-computers-science-2-e-izd-3"
+    },
+    {
+      "id": "9785446111077",
+      "isbn": "978-5-4461-1107-7",
+      "title": "Философия Java. 4-е полное изд.",
+      "workId": "thinking-java",
+      "workTitle": "Философия Java",
+      "authors": [
+        "Эккель Б."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446111077.jpg",
+      "sourceUrl": "https://www.piter.com/product/filosofiya-java-4-e-polnoe-izd-2"
+    },
+    {
+      "id": "9785446139422",
+      "isbn": "978-5-4461-3942-2",
+      "title": "Spring Boot по-быстрому",
+      "workId": "isbn-9785446139422",
+      "workTitle": "Spring Boot по-быстрому",
+      "authors": [
+        "Хеклер М."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446139422.jpg",
+      "sourceUrl": "https://www.piter.com/product/spring-boot-po-bystromu"
+    },
+    {
+      "id": "9785446119141",
+      "isbn": "978-5-4461-1914-1",
+      "title": "Scala. Профессиональное программирование. 5-е изд.",
+      "workId": "scala-programming",
+      "workTitle": "Scala. Профессиональное программирование",
+      "authors": [
+        "Одерски М.",
+        "Спун Л.",
+        "Веннерс Б.",
+        "Соммерс Ф."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446119141.jpg",
+      "sourceUrl": "https://www.piter.com/product/scala-professionalnoe-programmirovanie-5-e-izd"
+    },
+    {
+      "id": "9785446123278",
+      "isbn": "978-5-4461-2327-8",
+      "title": "Computer Science: основы программирования на Java, ООП, алгоритмы и структуры данных",
+      "workId": "cs-sedgewick",
+      "workTitle": "Computer Science: основы программирования на Java",
+      "authors": [
+        "Седжвик Р.",
+        "Уэйн К."
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446123278.jpg",
+      "sourceUrl": "https://www.piter.com/product/computer-science-osnovy-programmirovaniya-na-java-oop-algoritmy-i-struktury-dannyh-2"
+    },
+    {
+      "id": "9785977520492",
+      "isbn": "978-5-9775-2049-2",
+      "title": "Spring и Spring Boot. Разработка облачных приложений на Java",
+      "workId": "isbn-9785977520492",
+      "workTitle": "Spring и Spring Boot. Разработка облачных приложений на Java",
+      "authors": [
+        "Урванов Федор Владиславович"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977520492.jpg",
+      "sourceUrl": "https://bhv.ru/product/spring-i-spring-boot-razrabotka-oblachnyh-prilozhenij-na-java/"
+    },
+    {
+      "id": "9785977509442",
+      "isbn": "978-5-9775-0944-2",
+      "title": "Программирование на Kotlin для Android",
+      "workId": "isbn-9785977509442",
+      "workTitle": "Программирование на Kotlin для Android",
+      "authors": [
+        "Данн Майк,",
+        "Лоранс Пьер-Оливье,",
+        "Мик Дж. Блейк,",
+        "Хинчман-Домингес Аманда"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm",
+        "android"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977509442.jpg",
+      "sourceUrl": "https://bhv.ru/product/programmirovanie-na-kotlin-dlya-android/"
+    },
+    {
+      "id": "9785977568418",
+      "isbn": "978-5-9775-6841-8",
+      "title": "От Java к Kotlin",
+      "workId": "isbn-9785977568418",
+      "workTitle": "От Java к Kotlin",
+      "authors": [
+        "Макгрегор Дункан,",
+        "Прайс Нэт"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977568418.jpg",
+      "sourceUrl": "https://bhv.ru/product/ot-java-k-kotlin/"
+    },
+    {
+      "id": "9785977516891",
+      "isbn": "978-5-9775-1689-1",
+      "title": "Java. Состояние языка и его перспективы",
+      "workId": "isbn-9785977516891",
+      "workTitle": "Java. Состояние языка и его перспективы",
+      "authors": [
+        "Урванов Федор Владиславович"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977516891.jpg",
+      "sourceUrl": "https://bhv.ru/product/java-sostoyanie-yazyka-i-ego-perspektivy/"
+    },
+    {
+      "id": "9785977567190",
+      "isbn": "978-5-9775-6719-0",
+      "title": "Java. Решение практических задач",
+      "workId": "isbn-9785977567190",
+      "workTitle": "Java. Решение практических задач",
+      "authors": [
+        "Леонард Анджел"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977567190.jpg",
+      "sourceUrl": "https://bhv.ru/product/java-reshenie-prakticheskih-zadach/"
+    },
+    {
+      "id": "9785977566735",
+      "isbn": "978-5-9775-6673-5",
+      "title": "Kotlin: программирование на примерах: Пер. с англ.",
+      "workId": "isbn-9785977566735",
+      "workTitle": "Kotlin: программирование на примерах: Пер. с англ.",
+      "authors": [
+        "Аделекан Ияну"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977566735.jpg",
+      "sourceUrl": "https://bhv.ru/product/kotlin-programmirovanie-na-primerah-per-s-angl/"
+    },
+    {
+      "id": "9785977540124",
+      "isbn": "978-5-9775-4012-4",
+      "title": "Основы Java. 2-е изд.",
+      "workId": "java-prohorenok",
+      "workTitle": "Основы Java — Н. Прохоренок",
+      "authors": [
+        "Прохоренок Николай Анатольевич"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977540124.jpg",
+      "sourceUrl": "https://bhv.ru/product/osnovy-java-2-e-izd/"
+    },
+    {
+      "id": "9785977537858",
+      "isbn": "978-5-9775-3785-8",
+      "title": "Основы Java",
+      "workId": "java-prohorenok",
+      "workTitle": "Основы Java — Н. Прохоренок",
+      "authors": [
+        "Прохоренок Николай Анатольевич"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2017",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977537858.jpg",
+      "sourceUrl": "https://bhv.ru/product/osnovy-java/"
+    },
+    {
+      "id": "9786010996946",
+      "isbn": "978-601-09-9694-6",
+      "title": "Kotlin. Паттерны проектирования и лучшие практики, 3-е изд.",
+      "workId": "isbn-9786010996946",
+      "workTitle": "Kotlin. Паттерны проектирования и лучшие практики, 3-е изд.",
+      "authors": [
+        "Сошин А."
+      ],
+      "publisher": "Питер",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9786010996946.jpg",
+      "sourceUrl": "https://www.piter.com/product/kotlin-patterny-proektirovaniya-i-luchshie-praktiki-3-e-izd"
+    },
+    {
+      "id": "9785446141982",
+      "isbn": "978-5-4461-4198-2",
+      "title": "Kotlin в действии, 2-е изд.",
+      "workId": "kotlin-action",
+      "workTitle": "Kotlin в действии",
+      "authors": [
+        "Айгнер С.",
+        "Елизаров Р.",
+        "Исакова С.",
+        "Жемеров Д."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446141982.jpg",
+      "sourceUrl": "https://www.piter.com/product/kotlin-v-deystvii-2-e-izd"
+    },
+    {
+      "id": "9785446120024",
+      "isbn": "978-5-4461-2002-4",
+      "title": "Модернизация Java Enterprise: облачные технологии для разработчиков",
+      "workId": "isbn-9785446120024",
+      "workTitle": "Модернизация Java Enterprise: облачные технологии для разработчиков",
+      "authors": [
+        "Эйзеле  М.",
+        "Винто  Н."
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446120024.jpg",
+      "sourceUrl": "https://www.piter.com/product/modernizatsiya-java-enterprise-oblachnye-tehnologii-dlya-razrabotchikov"
+    },
+    {
+      "id": "9785446117390",
+      "isbn": "978-5-4461-1739-0",
+      "title": "Стильный Java. Код, который работает всегда и везде",
+      "workId": "isbn-9785446117390",
+      "workTitle": "Стильный Java. Код, который работает всегда и везде",
+      "authors": [
+        "Фаэлла М."
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446117390.jpg",
+      "sourceUrl": "https://www.piter.com/product/stilnyy-java-kod-kotoryy-rabotaet-vsegda-i-vezde"
+    },
+    {
+      "id": "9785446120161",
+      "isbn": "978-5-4461-2016-1",
+      "title": "Head First. Программирование для Android на Kotlin. 3-е изд",
+      "workId": "isbn-9785446120161",
+      "workTitle": "Head First. Программирование для Android на Kotlin. 3-е изд",
+      "authors": [
+        "Гриффитс Д."
+      ],
+      "publisher": "Питер",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm",
+        "android"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446120161.jpg",
+      "sourceUrl": "https://www.piter.com/product/head-first-programmirovanie-dlya-android-na-kotlin-3-e-izd"
+    },
+    {
+      "id": "9785446123193",
+      "isbn": "978-5-4461-2319-3",
+      "title": "Kotlin. Программирование для профессионалов. 2-е изд.",
+      "workId": "kotlin-prof",
+      "workTitle": "Kotlin. Программирование для профессионалов",
+      "authors": [
+        "Скин Д.",
+        "Гринхол Д.",
+        "Бэйли Э."
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446123193.jpg",
+      "sourceUrl": "https://www.piter.com/product/kotlin-programmirovanie-dlya-professionalov-2-e-izd"
+    },
+    {
+      "id": "9785446118014",
+      "isbn": "978-5-4461-1801-4",
+      "title": "Java: быстрый старт",
+      "workId": "isbn-9785446118014",
+      "workTitle": "Java: быстрый старт",
+      "authors": [
+        "Чан Д."
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446118014.jpg",
+      "sourceUrl": "https://www.piter.com/product/java-bystryy-start"
+    },
+    {
+      "id": "9785446115877",
+      "isbn": "978-5-4461-1587-7",
+      "title": "Spring Boot 2: лучшие практики для профессионалов",
+      "workId": "isbn-9785446115877",
+      "workTitle": "Spring Boot 2: лучшие практики для профессионалов",
+      "authors": [
+        "Гутьеррес Ф."
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446115877.jpg",
+      "sourceUrl": "https://www.piter.com/product/spring-boot-2-luchshie-praktiki-dlya-professionalov"
+    },
+    {
+      "id": "9785845919922",
+      "isbn": "978-5-8459-1992-2",
+      "title": "Spring 4 для профессионалов",
+      "workId": "spring-pro",
+      "workTitle": "Spring для профессионалов",
+      "authors": [
+        "Крис Шефер",
+        "Кларенс Хо",
+        "Роб Харроп"
+      ],
+      "publisher": "Вильямс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919922.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1992-2.html"
+    },
+    {
+      "id": "9785845919328",
+      "isbn": "978-5-8459-1932-8",
+      "title": "Компиляторы: принципы, технологии и инструментарий (Книга Дракона-2), 2 издание",
+      "workId": "dragon",
+      "workTitle": "Компиляторы: принципы, технологии и инструменты",
+      "authors": [
+        "Альфред В. Ахо",
+        "Моника С. Лам",
+        "Рави Сети",
+        "Джеффри Д. Ульман"
+      ],
+      "publisher": "Вильямс",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919328.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1349-4.html"
+    },
+    {
+      "id": "9785845918758",
+      "isbn": "978-5-8459-1875-8",
+      "title": "Язык программирования Java SE 8. Подробное описание",
+      "workId": "isbn-9785845918758",
+      "workTitle": "Язык программирования Java SE 8. Подробное описание",
+      "authors": [
+        "Джеймс Гослинг",
+        "Билл Джой",
+        "Гай Стил",
+        "Гилад Брача",
+        "Алекс Бакли"
+      ],
+      "publisher": "Вильямс",
+      "year": "2015",
+      "edition": "5-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845918758.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1875-8.html"
+    },
+    {
+      "id": "9785845919557",
+      "isbn": "978-5-8459-1955-7",
+      "title": "Java 8: руководство для начинающих",
+      "workId": "schildt-beginner",
+      "workTitle": "Java: руководство для начинающих — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2018",
+      "edition": "6-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919557.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1955-7.html"
+    },
+    {
+      "id": "9785845919182",
+      "isbn": "978-5-8459-1918-2",
+      "title": "Java 8. Полное руководство",
+      "workId": "schildt-complete",
+      "workTitle": "Java. Полное руководство — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2015",
+      "edition": "9-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919182.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1918-2.html"
+    },
+    {
+      "id": "9785845918970",
+      "isbn": "978-5-8459-1897-0",
+      "title": "Руководство для программиста на Java: 75 рекомендаций по написанию надежных и защищенных программ",
+      "workId": "isbn-9785845918970",
+      "workTitle": "Руководство для программиста на Java: 75 рекомендаций по написанию надежных и защищенных программ",
+      "authors": [
+        "Фрэд Лонг",
+        "Дхрув Мохиндра",
+        "Роберт С. Сикорд",
+        "Дин Ф. Сазерленд",
+        "Дэвид Свобода"
+      ],
+      "publisher": "Вильямс",
+      "year": "2014",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845918970.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1897-0.html"
+    },
+    {
+      "id": "9785845918703",
+      "isbn": "978-5-8459-1870-3",
+      "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2013",
+      "edition": "9-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845918703.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1870-3.html"
+    },
+    {
+      "id": "9785907114791",
+      "isbn": "978-5-907114-79-1",
+      "title": "Java. Библиотека профессионала, том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "11-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114791.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-79-1.html"
+    },
+    {
+      "id": "9785907114739",
+      "isbn": "978-5-907114-73-9",
+      "title": "Алгоритмы на Java",
+      "workId": "algorithms-java",
+      "workTitle": "Алгоритмы на Java — Р. Седжвик, К. Уэйн",
+      "authors": [
+        "Роберт Седжвик",
+        "Кевин Уэйн"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "4-е издание",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114739.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-73-9.html"
+    },
+    {
+      "id": "9785907114074",
+      "isbn": "978-5-907114-07-4",
+      "title": "Spring 5 для профессионалов",
+      "workId": "spring-pro",
+      "workTitle": "Spring для профессионалов",
+      "authors": [
+        "Юлиана Козмина",
+        "Роб Харроп",
+        "Крис Шефер",
+        "Кларенс Хо"
+      ],
+      "publisher": "Вильямс",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114074.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-07-4.html"
+    },
+    {
+      "id": "9785990846289",
+      "isbn": "978-5-9908462-8-9",
+      "title": "Гибкая разработка программ на Java и C++: принципы, паттерны и методики",
+      "workId": "isbn-9785990846289",
+      "workTitle": "Гибкая разработка программ на Java и C++: принципы, паттерны и методики",
+      "authors": [
+        "Роберт C. Мартин"
+      ],
+      "publisher": "Вильямс",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785990846289.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-9908462-8-9.html"
+    },
+    {
+      "id": "9785907114845",
+      "isbn": "978-5-907114-84-5",
+      "title": "Java: оптимизация программ. Практические методы повышения производительности приложений в JVM",
+      "workId": "isbn-9785907114845",
+      "workTitle": "Java: оптимизация программ. Практические методы повышения производительности приложений в JVM",
+      "authors": [
+        "Бенджамин Дж. Эванс",
+        "Джеймс Гоф",
+        "Крис Ньюланд"
+      ],
+      "publisher": "Вильямс",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114845.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-84-5.html"
+    },
+    {
+      "id": "9785604139448",
+      "isbn": "978-5-6041394-4-8",
+      "title": "Java: эффективное программирование",
+      "workId": "effective-java",
+      "workTitle": "Java. Эффективное программирование — Дж. Блох",
+      "authors": [
+        "Джошуа Блох"
+      ],
+      "publisher": "Вильямс",
+      "year": "2026",
+      "edition": "3-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785604139448.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-6041394-4-8.html"
+    },
+    {
+      "id": "9785990891074",
+      "isbn": "978-5-9908910-7-4",
+      "title": "Алгоритмы. Справочник с примерами на C, C++, Java и Python",
+      "workId": "isbn-9785990891074",
+      "workTitle": "Алгоритмы. Справочник с примерами на C, C++, Java и Python",
+      "authors": [
+        "Джордж Хайнеман",
+        "Гэри Поллис",
+        "Стэнли Селков"
+      ],
+      "publisher": "Вильямс",
+      "year": "2024",
+      "edition": "2-е издание",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785990891074.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-9908910-7-4.html"
+    },
+    {
+      "id": "9785907114289",
+      "isbn": "978-5-907114-28-9",
+      "title": "Компиляторы: принципы, технологии и инструментарий",
+      "workId": "dragon",
+      "workTitle": "Компиляторы: принципы, технологии и инструменты",
+      "authors": [
+        "Альфред В. Ахо",
+        "Моника С. Лам",
+        "Рави Сети",
+        "Джеффри Д. Ульман"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "2 издание",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114289.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-28-9.html"
+    },
+    {
+      "id": "9785604004364",
+      "isbn": "978-5-6040043-6-4",
+      "title": "Java. Полное руководство",
+      "workId": "schildt-complete",
+      "workTitle": "Java. Полное руководство — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2022",
+      "edition": "10-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785604004364.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-6040043-6-4.html"
+    },
+    {
+      "id": "9785604139455",
+      "isbn": "978-5-6041394-5-5",
+      "title": "Java: руководство для начинающих",
+      "workId": "schildt-beginner",
+      "workTitle": "Java: руководство для начинающих — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2022",
+      "edition": "7-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785604139455.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-6041394-5-5.html"
+    },
+    {
+      "id": "9785990944503",
+      "isbn": "978-5-9909445-0-3",
+      "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн"
+      ],
+      "publisher": "Вильямс",
+      "year": "2019",
+      "edition": "10-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785990944503.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-9909445-0-3.html"
+    },
+    {
+      "id": "9785845920492",
+      "isbn": "978-5-8459-2049-2",
+      "title": "Алгоритмы на Java",
+      "workId": "algorithms-java",
+      "workTitle": "Алгоритмы на Java — Р. Седжвик, К. Уэйн",
+      "authors": [
+        "Роберт Седжвик",
+        "Кевин Уэйн"
+      ],
+      "publisher": "Вильямс",
+      "year": "2017",
+      "edition": "4-е издание",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845920492.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-2049-2.html"
+    },
+    {
+      "id": "9785845920843",
+      "isbn": "978-5-8459-2084-3",
+      "title": "Java. Библиотека профессионала, том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2018",
+      "edition": "10-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845920843.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-2084-3.html"
+    },
+    {
+      "id": "9785845919588",
+      "isbn": "978-5-8459-1958-8",
+      "title": "Java. Библиотека профессионала, том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2015",
+      "edition": "9-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919588.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1869-7.html"
+    },
+    {
+      "id": "9785845918031",
+      "isbn": "978-5-8459-1803-1",
+      "title": "Spring 3 для профессионалов",
+      "workId": "spring-pro",
+      "workTitle": "Spring для профессионалов",
+      "authors": [
+        "Кларенс Хо",
+        "Роб Харроп"
+      ],
+      "publisher": "Вильямс",
+      "year": "2012",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845918031.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1803-1.html"
+    },
+    {
+      "id": "9785845917812",
+      "isbn": "978-5-8459-1781-2",
+      "title": "Алгоритмы на Java",
+      "workId": "algorithms-java",
+      "workTitle": "Алгоритмы на Java — Р. Седжвик, К. Уэйн",
+      "authors": [
+        "Роберт Седжвик",
+        "Кевин Уэйн"
+      ],
+      "publisher": "Вильямс",
+      "year": "2013",
+      "edition": "4-е издание",
+      "topics": [
+        "java",
+        "jvm",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845917812.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1781-2.html"
+    },
+    {
+      "id": "9785845917706",
+      "isbn": "978-5-8459-1770-6",
+      "title": "Java: руководство для начинающих  (для Java SE 7)",
+      "workId": "schildt-beginner",
+      "workTitle": "Java: руководство для начинающих — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2014",
+      "edition": "5-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845917706.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1770-6.html"
+    },
+    {
+      "id": "9785845917591",
+      "isbn": "978-5-8459-1759-1",
+      "title": "Java. Полное руководство. Java SE 7",
+      "workId": "schildt-complete",
+      "workTitle": "Java. Полное руководство — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2014",
+      "edition": "8-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845917591.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1759-1.html"
+    },
+    {
+      "id": "9785845914828",
+      "isbn": "978-5-8459-1482-8",
+      "title": "Java 2. Библиотека профессионала, том 2. Тонкости программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2012",
+      "edition": "8-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845914828.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1482-8.html"
+    },
+    {
+      "id": "9785845914408",
+      "isbn": "978-5-8459-1440-8",
+      "title": "Java  SE 6: руководство для начинающих",
+      "workId": "schildt-beginner",
+      "workTitle": "Java: руководство для начинающих — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2008",
+      "edition": "4-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845914408.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1440-8.html"
+    },
+    {
+      "id": "9785845913784",
+      "isbn": "978-5-8459-1378-4",
+      "title": "Java 2. Библиотека профессионала, том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2013",
+      "edition": "8-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845913784.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1378-4.html"
+    },
+    {
+      "id": "9785845913753",
+      "isbn": "978-5-8459-1375-3",
+      "title": "Гибкая разработка приложений на Java с помощью Spring, Hibernate и Eclipse",
+      "workId": "isbn-9785845913753",
+      "workTitle": "Гибкая разработка приложений на Java с помощью Spring, Hibernate и Eclipse",
+      "authors": [
+        "Анил Хемраджани"
+      ],
+      "publisher": "Вильямс",
+      "year": "2008",
+      "edition": "",
+      "topics": [
+        "hibernate",
+        "java",
+        "jvm",
+        "spring",
+        "tools"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845913753.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1375-3.html"
+    },
+    {
+      "id": "9785845911681",
+      "isbn": "978-5-8459-1168-1",
+      "title": "Полный справочник по Java SE 6",
+      "workId": "schildt-complete",
+      "workTitle": "Java. Полное руководство — Г. Шилдт",
+      "authors": [
+        "Герберт Шилдт"
+      ],
+      "publisher": "Вильямс",
+      "year": "2008",
+      "edition": "7-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845911681.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1168-1.html"
+    },
+    {
+      "id": "9785845910332",
+      "isbn": "978-5-8459-1033-2",
+      "title": "Java 2. Библиотека профессионала, том 2. Тонкости программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2008",
+      "edition": "7-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845910332.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1033-2.html"
+    },
+    {
+      "id": "9785845909701",
+      "isbn": "978-5-8459-0970-1",
+      "title": "Java 2. Библиотека профессионала, том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2007",
+      "edition": "7-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845909701.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-0970-1.html"
+    },
+    {
+      "id": "5845903858",
+      "isbn": "5-8459-0385-8",
+      "title": "Библиотека профессионала. Java 2. Том 1. Основы",
+      "workId": "core-java-1",
+      "workTitle": "Java. Библиотека профессионала. Том 1",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2004",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5845903858.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/5-8459-0385-8.html"
+    },
+    {
+      "id": "5845903459",
+      "isbn": "5-8459-0345-9",
+      "title": "Библиотека профессионала. Java 2. Том 2. Тонкости программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Гари Корнелл"
+      ],
+      "publisher": "Вильямс",
+      "year": "2004",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5845903459.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/5-8459-0345-9.html"
+    },
+    {
+      "id": "9785845919427",
+      "isbn": "978-5-8459-1942-7",
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "workId": "ddd-evans",
+      "workTitle": "Предметно-ориентированное проектирование — Э. Эванс",
+      "authors": [
+        "Эрик Эванс"
+      ],
+      "publisher": "Вильямс",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845919427.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1942-7.html"
+    },
+    {
+      "id": "9785907114135",
+      "isbn": "978-5-907114-13-5",
+      "title": "Реализация методов предметно-ориентированного проектирования",
+      "workId": "ddd-vernon",
+      "workTitle": "Реализация методов предметно-ориентированного проектирования",
+      "authors": [
+        "Вон Вернон"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907114135.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907114-13-5.html"
+    },
+    {
+      "id": "9785604072493",
+      "isbn": "978-5-6040724-9-3",
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "workId": "ddd-evans",
+      "workTitle": "Предметно-ориентированное проектирование — Э. Эванс",
+      "authors": [
+        "Эрик Эванс"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785604072493.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-6040724-9-3.html"
+    },
+    {
+      "id": "9785990846388",
+      "isbn": "978-5-9908463-8-8",
+      "title": "Предметно-ориентированное проектирование: самое основное",
+      "workId": "isbn-9785990846388",
+      "workTitle": "Предметно-ориентированное проектирование: самое основное",
+      "authors": [
+        "Вон Вернон"
+      ],
+      "publisher": "Вильямс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785990846388.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-9908463-8-8.html"
+    },
+    {
+      "id": "9785845912961",
+      "isbn": "978-5-8459-1296-1",
+      "title": "Применение DDD и шаблонов проектирования: проблемно-ориентированное проектирование приложений с примерами на C# и .NET",
+      "workId": "isbn-9785845912961",
+      "workTitle": "Применение DDD и шаблонов проектирования: проблемно-ориентированное проектирование приложений с примерами на C# и .NET",
+      "authors": [
+        "Джимми Нильссон"
+      ],
+      "publisher": "Вильямс",
+      "year": "2007",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845912961.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1296-1.html"
+    },
+    {
+      "id": "9785845917386",
+      "isbn": "978-5-8459-1738-6",
+      "title": "Предметно-ориентированные языки программирования (Signature Series)",
+      "workId": "isbn-9785845917386",
+      "workTitle": "Предметно-ориентированные языки программирования (Signature Series)",
+      "authors": [
+        "Мартин Фаулер"
+      ],
+      "publisher": "Вильямс",
+      "year": "2011",
+      "edition": "",
+      "topics": [
+        "dsl"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845917386.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1738-6.html"
+    },
+    {
+      "id": "9785446119691",
+      "isbn": "978-5-4461-1969-1",
+      "title": "Spring быстро",
+      "workId": "isbn-9785446119691",
+      "workTitle": "Spring быстро",
+      "authors": [
+        "Спилкэ  Л."
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446119691.jpg",
+      "sourceUrl": "https://www.piter.com/product/spring-bystro"
+    },
+    {
+      "id": "9785446109357",
+      "isbn": "978-5-4461-0935-7",
+      "title": "Spring. Все паттерны проектирования",
+      "workId": "isbn-9785446109357",
+      "workTitle": "Spring. Все паттерны проектирования",
+      "authors": [
+        "Раджпут Д."
+      ],
+      "publisher": "Питер",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446109357.jpg",
+      "sourceUrl": "https://www.piter.com/product/spring-vse-patterny-proektirovaniya"
+    },
+    {
+      "id": "9785977518864",
+      "isbn": "978-5-9775-1886-4",
+      "title": "Изучаем DDD – предметно-ориентированное проектирование",
+      "workId": "isbn-9785977518864",
+      "workTitle": "Изучаем DDD – предметно-ориентированное проектирование",
+      "authors": [
+        "Хононов Влад"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977518864.jpg",
+      "sourceUrl": "https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/"
+    },
+    {
+      "id": "9785907144613",
+      "isbn": "978-5-907144-61-3",
+      "title": "Java. Справочник разработчика",
+      "workId": "isbn-9785907144613",
+      "workTitle": "Java. Справочник разработчика",
+      "authors": [
+        "Бенджамин Дж. Эванс",
+        "Дэвид Флэнаган"
+      ],
+      "publisher": "Вильямс",
+      "year": "2020",
+      "edition": "7-е издание",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907144613.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-907144-61-3.html"
+    },
+    {
+      "id": "9785845915979",
+      "isbn": "978-5-8459-1597-9",
+      "title": "Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем",
+      "workId": "ddd-evans",
+      "workTitle": "Предметно-ориентированное проектирование — Э. Эванс",
+      "authors": [
+        "Эрик Эванс"
+      ],
+      "publisher": "Вильямс",
+      "year": "2014",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845915979.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/978-5-8459-1597-9.html"
+    },
+    {
+      "id": "5845901898",
+      "isbn": "5-8459-0189-8",
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "workId": "dragon",
+      "workTitle": "Компиляторы: принципы, технологии и инструменты",
+      "authors": [
+        "Альфред В. Ахо",
+        "Рави Сети",
+        "Джеффри Д. Ульман"
+      ],
+      "publisher": "Вильямс",
+      "year": "2001",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5845901898.jpg",
+      "sourceUrl": "https://www.williamspublishing.com/Books/sci_Compilers.html"
+    },
+    {
+      "id": "9785937004536",
+      "isbn": "978-5-93700-453-6",
+      "title": "Java на практике: от основ до корпоративных проектов",
+      "workId": "isbn-9785937004536",
+      "workTitle": "Java на практике: от основ до корпоративных проектов",
+      "authors": [
+        "Бачина Б."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937004536.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-93700-453-6/"
+    },
+    {
+      "id": "9786011406482",
+      "isbn": "978-6-01140-648-2",
+      "title": "Элегантный код Java: дженерики и коллекции",
+      "workId": "isbn-9786011406482",
+      "workTitle": "Элегантный код Java: дженерики и коллекции",
+      "authors": [
+        "Нафтален М.",
+        "Уодлер Ф."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9786011406482.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-6-01140-648-2/"
+    },
+    {
+      "id": "9785937003775",
+      "isbn": "978-5-93700-377-5",
+      "title": "Kotlin в иллюстрациях",
+      "workId": "isbn-9785937003775",
+      "workTitle": "Kotlin в иллюстрациях",
+      "authors": [
+        "Лидс Д."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937003775.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-93700-377-5/"
+    },
+    {
+      "id": "9785937002563",
+      "isbn": "978-5-93700-256-3",
+      "title": "Spring Security в действии",
+      "workId": "isbn-9785937002563",
+      "workTitle": "Spring Security в действии",
+      "authors": [
+        "Спилкэ Л."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937002563.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-93700-256-3/"
+    },
+    {
+      "id": "9785937002150",
+      "isbn": "978-5-93700-215-0",
+      "title": "Java: устранение проблем",
+      "workId": "isbn-9785937002150",
+      "workTitle": "Java: устранение проблем",
+      "authors": [
+        "Спилкэ Л."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937002150.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/"
+    },
+    {
+      "id": "9785937001122",
+      "isbn": "978-5-93700-112-2",
+      "title": "Spring в действии. Шестое издание",
+      "workId": "spring-action",
+      "workTitle": "Spring в действии — К. Уоллс",
+      "authors": [
+        "Уоллс К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937001122.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-93700-112-2/"
+    },
+    {
+      "id": "9785970609712",
+      "isbn": "978-5-97060-971-2",
+      "title": "Микросервисы Spring в действии",
+      "workId": "isbn-9785970609712",
+      "workTitle": "Микросервисы Spring в действии",
+      "authors": [
+        "Карнелл Дж.",
+        "Санчес И. У."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970609712.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-971-2/"
+    },
+    {
+      "id": "9785970608722",
+      "isbn": "978-5-97060-872-2",
+      "title": "Предметно-ориентированное проектирование в Enterprise Java",
+      "workId": "isbn-9785970608722",
+      "workTitle": "Предметно-ориентированное проектирование в Enterprise Java",
+      "authors": [
+        "Наир В."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970608722.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-872-2/"
+    },
+    {
+      "id": "9785970608838",
+      "isbn": "978-5-97060-883-8",
+      "title": "Kotlin. Сборник рецептов",
+      "workId": "isbn-9785970608838",
+      "workTitle": "Kotlin. Сборник рецептов",
+      "authors": [
+        "Коузен К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970608838.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-883-8/"
+    },
+    {
+      "id": "9785970607473",
+      "isbn": "978-5-97060-747-3",
+      "title": "Практика реактивного программирования в Spring 5",
+      "workId": "isbn-9785970607473",
+      "workTitle": "Практика реактивного программирования в Spring 5",
+      "authors": [
+        "Докука О.",
+        "Лозинский И."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970607473.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/"
+    },
+    {
+      "id": "9785970608012",
+      "isbn": "978-5-97060-801-2",
+      "title": "Волшебство Kotlin",
+      "workId": "isbn-9785970608012",
+      "workTitle": "Волшебство Kotlin",
+      "authors": [
+        "Симон П.-И."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970608012.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-801-2/"
+    },
+    {
+      "id": "9785970606742",
+      "isbn": "978-5-97060-674-2",
+      "title": "Java Persistence API и Hibernate",
+      "workId": "isbn-9785970606742",
+      "workTitle": "Java Persistence API и Hibernate",
+      "authors": [
+        "Бауэр К.",
+        "Кинг Г.",
+        "Грегори Г."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "hibernate",
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970606742.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/"
+    },
+    {
+      "id": "9785970601341",
+      "isbn": "978-5-97060-134-1",
+      "title": "Современный Java: рецепты программирования",
+      "workId": "isbn-9785970601341",
+      "workTitle": "Современный Java: рецепты программирования",
+      "authors": [
+        "Коузен К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970601341.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-134-1/"
+    },
+    {
+      "id": "9785970604977",
+      "isbn": "978-5-97060-497-7",
+      "title": "Kotlin в действии",
+      "workId": "kotlin-action",
+      "workTitle": "Kotlin в действии",
+      "authors": [
+        "Исакова С.",
+        "Жемеров Д."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970604977.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-97060-497-7/"
+    },
+    {
+      "id": "9785970605752",
+      "isbn": "978-5-97060-575-2",
+      "title": "Java 9. Полный обзор нововведений",
+      "workId": "isbn-9785970605752",
+      "workTitle": "Java 9. Полный обзор нововведений",
+      "authors": [
+        "Шаран К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970605752.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/"
+    },
+    {
+      "id": "9785970604960",
+      "isbn": "978-5-97060-496-0",
+      "title": "Реактивное программирование с применением RxJava",
+      "workId": "isbn-9785970604960",
+      "workTitle": "Реактивное программирование с применением RxJava",
+      "authors": [
+        "Нуркевич Т.",
+        "Кристенсен Б."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2017",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970604960.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/java/"
+    },
+    {
+      "id": "9785970603055",
+      "isbn": "978-5-97060-305-5",
+      "title": "LLVM: инфраструктура для разработки компиляторов",
+      "workId": "isbn-9785970603055",
+      "workTitle": "LLVM: инфраструктура для разработки компиляторов",
+      "authors": [
+        "Аулер Р.",
+        "Лопес Б."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970603055.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/978-5-97060-305-5/"
+    },
+    {
+      "id": "9785937003034",
+      "isbn": "978-5-93700-303-4",
+      "title": "LLVM 17: инфраструктура для разработки компиляторов",
+      "workId": "isbn-9785937003034",
+      "workTitle": "LLVM 17: инфраструктура для разработки компиляторов",
+      "authors": [
+        "Наке К.",
+        "Кван Э."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937003034.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-303-4/"
+    },
+    {
+      "id": "9785970608401",
+      "isbn": "978-5-97060-840-1",
+      "title": "SCALA для нетерпеливых. Второе издание",
+      "workId": "scala-impatient",
+      "workTitle": "Scala для нетерпеливых",
+      "authors": [
+        "Хорстманн К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970608401.webp",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-840-1/"
+    },
+    {
+      "id": "9785699545742",
+      "isbn": "978-5-699-54574-2",
+      "title": "Изучаем Java",
+      "workId": "isbn-9785699545742",
+      "workTitle": "Изучаем Java",
+      "authors": [
+        "Сьерра К.",
+        "Бэйтс Б."
+      ],
+      "publisher": "Эксмо",
+      "year": "2012",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785699545742.webp",
+      "sourceUrl": "https://eksmo.ru/amp/book/izuchaem-java-ITD185236/"
+    },
+    {
+      "id": "9785699715046",
+      "isbn": "978-5-699-71504-6",
+      "title": "Программирование на Java",
+      "workId": "isbn-9785699715046",
+      "workTitle": "Программирование на Java",
+      "authors": [
+        "Нимейер П.",
+        "Леук Д."
+      ],
+      "publisher": "Эксмо",
+      "year": "2014",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785699715046.webp",
+      "sourceUrl": "https://eksmo.ru/amp/book/programmirovanie-na-java-ITD311580/"
+    },
+    {
+      "id": "5855821692",
+      "isbn": "5855821692",
+      "title": "Java. Эффективное программирование",
+      "workId": "effective-java",
+      "workTitle": "Java. Эффективное программирование — Дж. Блох",
+      "authors": [
+        "Джошуа Блох"
+      ],
+      "publisher": "Лори",
+      "year": "2002",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5855821692.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/"
+    },
+    {
+      "id": "5318007481",
+      "isbn": "5318007481",
+      "title": "Java. Сборник рецептов для профессионалов",
+      "workId": "isbn-5318007481",
+      "workTitle": "Java. Сборник рецептов для профессионалов",
+      "authors": [
+        "Ян Ф. Дарвин"
+      ],
+      "publisher": "Питер",
+      "year": "2002",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5318007481.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/"
+    },
+    {
+      "id": "5020249858",
+      "isbn": "5020249858",
+      "title": "Введение в JAVA-технологию",
+      "workId": "isbn-5020249858",
+      "workTitle": "Введение в JAVA-технологию",
+      "authors": [
+        "Владимир Сафонов"
+      ],
+      "publisher": "Наука",
+      "year": "2002",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5020249858.jpg",
+      "sourceUrl": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/"
+    },
+    {
+      "id": "9785496009546",
+      "isbn": "9785496009546",
+      "title": "Философия Java. Библиотека программиста. 4-е изд",
+      "workId": "thinking-java",
+      "workTitle": "Философия Java",
+      "authors": [
+        "Брюс Эккель"
+      ],
+      "publisher": "Питер",
+      "year": "2013",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496009546.jpg",
+      "sourceUrl": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/"
+    },
+    {
+      "id": "9785171747534",
+      "isbn": "9785171747534",
+      "title": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+      "workId": "isbn-9785171747534",
+      "workTitle": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+      "authors": [
+        "Сообщество Stack Overflow"
+      ],
+      "publisher": "АСТ",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785171747534.jpg",
+      "sourceUrl": "https://lib.dm-centre.ru/lib/gpntb/?e_rub=Программирования+языки+--+Kotlin&e_viewdb=ESVODT"
+    },
+    {
+      "id": "9785446112432",
+      "isbn": "9785446112432",
+      "title": "Kotlin. Программирование для профессионалов",
+      "workId": "kotlin-prof",
+      "workTitle": "Kotlin. Программирование для профессионалов",
+      "authors": [
+        "Джош Скин",
+        "Дэвид Гринхол"
+      ],
+      "publisher": "Питер",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446112432.jpg",
+      "sourceUrl": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/"
+    },
+    {
+      "id": "9785907144385",
+      "isbn": "9785907144385",
+      "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования, 11-е издание",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн"
+      ],
+      "publisher": "Вильямс/Диалектика",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907144385.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/"
+    },
+    {
+      "id": "9785496005449",
+      "isbn": "9785496005449",
+      "title": "Java. Новое поколение разработки",
+      "workId": "isbn-9785496005449",
+      "workTitle": "Java. Новое поколение разработки",
+      "authors": [
+        "Бенджамин Эванс",
+        "Мартин Вербург"
+      ],
+      "publisher": "Питер",
+      "year": "2013",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496005449.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/"
+    },
+    {
+      "id": "9785845920317",
+      "isbn": "9785845920317",
+      "title": "Java. Библиотека профессионала. Том 2. Расширенные средства программирования",
+      "workId": "core-java-2",
+      "workTitle": "Java. Библиотека профессионала. Том 2",
+      "authors": [
+        "Кей С. Хорстманн",
+        "Г. Корнелл"
+      ],
+      "publisher": "Вильямс/Диалектика",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845920317.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/"
+    },
+    {
+      "id": "9785937004284",
+      "isbn": "9785937004284",
+      "title": "Создание компиляторов: инженерный подход",
+      "workId": "isbn-9785937004284",
+      "workTitle": "Создание компиляторов: инженерный подход",
+      "authors": [
+        "Кит Д. Купер",
+        "Линда Торкзон"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937004284.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-428-4/"
+    },
+    {
+      "id": "9785845913494",
+      "isbn": "9785845913494",
+      "title": "Компиляторы: принципы, технологии и инструменты",
+      "workId": "dragon",
+      "workTitle": "Компиляторы: принципы, технологии и инструменты",
+      "authors": [
+        "Альфред Ахо",
+        "Р. Сети",
+        "Джеффри Д. Ульман",
+        "М. Лам"
+      ],
+      "publisher": "Вильямс/Диалектика",
+      "year": "2008",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845913494.jpg",
+      "sourceUrl": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/"
+    },
+    {
+      "id": "9785845918819",
+      "isbn": "9785845918819",
+      "title": "Реализация методов предметно-ориентированного проектирования",
+      "workId": "ddd-vernon",
+      "workTitle": "Реализация методов предметно-ориентированного проектирования",
+      "authors": [
+        "Вон Вернон"
+      ],
+      "publisher": "Вильямс/Диалектика",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "ddd"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785845918819.jpg",
+      "sourceUrl": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/"
+    },
+    {
+      "id": "9785446107742",
+      "isbn": "9785446107742",
+      "title": "Изучаем Java EE. Современное программирование для больших предприятий",
+      "workId": "isbn-9785446107742",
+      "workTitle": "Изучаем Java EE. Современное программирование для больших предприятий",
+      "authors": [
+        "Себастьян Дашнер"
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446107742.jpg",
+      "sourceUrl": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/"
+    },
+    {
+      "id": "9785041692544",
+      "isbn": "9785041692544",
+      "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+      "workId": "isbn-9785041692544",
+      "workTitle": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+      "authors": [
+        "Кевлин Хенни",
+        "Триша Джи"
+      ],
+      "publisher": "Эксмо",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785041692544.jpg",
+      "sourceUrl": "https://eksmo.ru/book/97-veshchey-o-kotorykh-dolzhen-znat-kazhdyy-java-programmist-sovety-luchshikh-ekspertov-ITD1280306/"
+    },
+    {
+      "id": "9785446107131",
+      "isbn": "9785446107131",
+      "title": "Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry",
+      "workId": "isbn-9785446107131",
+      "workTitle": "Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry",
+      "authors": [
+        "Джош Лонг",
+        "Кеннет Бастани"
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446107131.jpg",
+      "sourceUrl": "https://www.piter.com/collection/all/product/java-v-oblake-spring-boot-spring-cloud-cloud-foundry"
+    },
+    {
+      "id": "9785699894758",
+      "isbn": "9785699894758",
+      "title": "Программирование на Java для начинающих",
+      "workId": "isbn-9785699894758",
+      "workTitle": "Программирование на Java для начинающих",
+      "authors": [
+        "Алексей Васильев"
+      ],
+      "publisher": "Эксмо",
+      "year": "2017",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785699894758.jpg",
+      "sourceUrl": "https://eksmo.ru/book/programmirovanie-na-java-dlya-nachinayushchikh-ITD813463/"
+    },
+    {
+      "id": "9785855823486",
+      "isbn": "9785855823486",
+      "title": "Java. Эффективное программирование",
+      "workId": "effective-java",
+      "workTitle": "Java. Эффективное программирование — Дж. Блох",
+      "authors": [
+        "Джошуа Блох"
+      ],
+      "publisher": "Лори",
+      "year": "2016",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785855823486.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-effektivnoe-programmirovanie-3614723/"
+    },
+    {
+      "id": "9785171602680",
+      "isbn": "9785171602680",
+      "title": "Java. Самое полное руководство по разработке в примерах от сообщества Stack Overflow",
+      "workId": "isbn-9785171602680",
+      "workTitle": "Java. Самое полное руководство по разработке в примерах от сообщества Stack Overflow",
+      "authors": [
+        "Сообщество Stack Overflow"
+      ],
+      "publisher": "АСТ",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785171602680.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-samoe-polnoe-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5560956/"
+    },
+    {
+      "id": "9785943877551",
+      "isbn": "9785943877551",
+      "title": "Java на примерах. Практика, практика и только",
+      "workId": "isbn-9785943877551",
+      "workTitle": "Java на примерах. Практика, практика и только",
+      "authors": [
+        "Р. В. Сеттер"
+      ],
+      "publisher": "Наука и техника",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785943877551.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-na-primerakh-praktika-praktika-i-tolko-4853274/"
+    },
+    {
+      "id": "9785970603314",
+      "isbn": "9785970603314",
+      "title": "Обработка естественного языка на Java",
+      "workId": "isbn-9785970603314",
+      "workTitle": "Обработка естественного языка на Java",
+      "authors": [
+        "Ричард Риз"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2016",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970603314.jpg",
+      "sourceUrl": "https://www.books.ru/books/obrabotka-estestvennogo-yazyka-na-java-4282255/"
+    },
+    {
+      "id": "9785970604632",
+      "isbn": "9785970604632",
+      "title": "Лямбда-выражения в Java 8",
+      "workId": "isbn-9785970604632",
+      "workTitle": "Лямбда-выражения в Java 8",
+      "authors": [
+        "Ричард Уорбэртон"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2017",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970604632.jpg",
+      "sourceUrl": "https://www.books.ru/books/lyambda-vyrazheniya-v-java-8-4459269/"
+    },
+    {
+      "id": "9785970605721",
+      "isbn": "9785970605721",
+      "title": "Конкурентное программирование на SCALA",
+      "workId": "isbn-9785970605721",
+      "workTitle": "Конкурентное программирование на SCALA",
+      "authors": [
+        "Александр Прокопец"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970605721.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-572-1/"
+    },
+    {
+      "id": "9785970605363",
+      "isbn": "9785970605363",
+      "title": "SCALA для нетерпеливых. Второе издание",
+      "workId": "scala-impatient",
+      "workTitle": "Scala для нетерпеливых",
+      "authors": [
+        "Кей С. Хорстманн"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2017",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970605363.jpg",
+      "sourceUrl": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/"
+    },
+    {
+      "id": "9785496029513",
+      "isbn": "9785496029513",
+      "title": "Scala. Профессиональное программирование",
+      "workId": "scala-programming",
+      "workTitle": "Scala. Профессиональное программирование",
+      "authors": [
+        "Мартин Одерски",
+        "Лекс Спун",
+        "Билл Веннерс"
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496029513.jpg",
+      "sourceUrl": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/"
+    },
+    {
+      "id": "9785446118274",
+      "isbn": "9785446118274",
+      "title": "Scala. Профессиональное программирование. 4-е изд",
+      "workId": "scala-programming",
+      "workTitle": "Scala. Профессиональное программирование",
+      "authors": [
+        "Мартин Одерски",
+        "Лекс Спун",
+        "Билл Веннерс"
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446118274.jpg",
+      "sourceUrl": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/"
+    },
+    {
+      "id": "9785171679651",
+      "isbn": "9785171679651",
+      "title": "Оптимизирующие компиляторы. Структура и алгоритмы",
+      "workId": "isbn-9785171679651",
+      "workTitle": "Оптимизирующие компиляторы. Структура и алгоритмы",
+      "authors": [
+        "Константин Владимиров"
+      ],
+      "publisher": "АСТ",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "compilers",
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785171679651.jpg",
+      "sourceUrl": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/"
+    },
+    {
+      "id": "9785507491865",
+      "isbn": "9785507491865",
+      "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов",
+      "workId": "isbn-9785507491865",
+      "workTitle": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов",
+      "authors": [
+        "Петросян Л. Э.",
+        "Гусев К. В."
+      ],
+      "publisher": "Лань",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "kotlin",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785507491865.jpg",
+      "sourceUrl": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/"
+    },
+    {
+      "id": "9785970603031",
+      "isbn": "9785970603031",
+      "title": "SCALA для нетерпеливых",
+      "workId": "scala-impatient",
+      "workTitle": "Scala для нетерпеливых",
+      "authors": [
+        "Хорстманн Кей С."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970603031.jpg",
+      "sourceUrl": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/"
+    },
+    {
+      "id": "9785940749202",
+      "isbn": "9785940749202",
+      "title": "Функциональное программирование. SCALA для нетерпеливых",
+      "workId": "scala-impatient",
+      "workTitle": "Scala для нетерпеливых",
+      "authors": [
+        "Хорстман К."
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2013",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785940749202.jpg",
+      "sourceUrl": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/"
+    },
+    {
+      "id": "9785937003911",
+      "isbn": "9785937003911",
+      "title": "Конструирование компиляторов. Основания и приложения",
+      "workId": "isbn-9785937003911",
+      "workTitle": "Конструирование компиляторов. Основания и приложения",
+      "authors": [
+        "Ханспетер Мёссенбёк"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "compilers"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937003911.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-391-1/"
+    },
+    {
+      "id": "9785907458864",
+      "isbn": "9785907458864",
+      "title": "Java. Полное руководство.12изд",
+      "workId": "schildt-complete",
+      "workTitle": "Java. Полное руководство — Г. Шилдт",
+      "authors": [
+        "Шилдт Герберт"
+      ],
+      "publisher": "Вильямс/Диалектика",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907458864.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-polnoe-rukovodstvo12izd-5391026/"
+    },
+    {
+      "id": "9785171621858",
+      "isbn": "9785171621858",
+      "title": "Java. Основы программирования",
+      "workId": "isbn-9785171621858",
+      "workTitle": "Java. Основы программирования",
+      "authors": [
+        "Светлин Наков"
+      ],
+      "publisher": "АСТ",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785171621858.jpg",
+      "sourceUrl": "https://www.books.ru/books/java-osnovy-programmirovaniya-5585460/"
+    },
+    {
+      "id": "9785040935406",
+      "isbn": "9785040935406",
+      "title": "Легкий способ выучить Java",
+      "workId": "isbn-9785040935406",
+      "workTitle": "Легкий способ выучить Java",
+      "authors": [
+        "Пейн Брайсон"
+      ],
+      "publisher": "Эксмо",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785040935406.jpg",
+      "sourceUrl": "https://www.books.ru/books/legkii-sposob-vyuchit-java-5005237/"
+    },
+    {
+      "id": "9785042076688",
+      "isbn": "9785042076688",
+      "title": "100 ошибок Java и как их избежать",
+      "workId": "isbn-9785042076688",
+      "workTitle": "100 ошибок Java и как их избежать",
+      "authors": [
+        "Тагир Валеев"
+      ],
+      "publisher": "Эксмо",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785042076688.jpg",
+      "sourceUrl": "https://www.books.ru/books/100-oshibok-java-i-kak-ikh-izbezhat-5623194/"
+    },
+    {
+      "id": "9785907592827",
+      "isbn": "9785907592827",
+      "title": "Тестирование, контроль и оптимизация кода Java",
+      "workId": "isbn-9785907592827",
+      "workTitle": "Тестирование, контроль и оптимизация кода Java",
+      "authors": [
+        "Певненко А. А."
+      ],
+      "publisher": "Наука и техника",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785907592827.jpg",
+      "sourceUrl": "https://www.books.ru/books/testirovanie-kontrol-i-optimizatsiya-koda-java-5614583/"
+    },
+    {
+      "id": "9785171621100",
+      "isbn": "9785171621100",
+      "title": "Паттерны для начинающих программистов с примерами на JAVA",
+      "workId": "isbn-9785171621100",
+      "workTitle": "Паттерны для начинающих программистов с примерами на JAVA",
+      "authors": [
+        "Бернштейн Д."
+      ],
+      "publisher": "АСТ",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785171621100.jpg",
+      "sourceUrl": "https://www.books.ru/books/patterny-dlya-nachinayushchikh-programmistov-s-primerami-na-java-5508247/"
+    },
+    {
+      "id": "9785507527229",
+      "isbn": "9785507527229",
+      "title": "Реализация многопоточности в языке Java. Учебное пособие для вузов, 2-е изд., стер",
+      "workId": "isbn-9785507527229",
+      "workTitle": "Реализация многопоточности в языке Java. Учебное пособие для вузов, 2-е изд., стер",
+      "authors": [
+        "Л. А. Федоричев",
+        "О. В. Букунова"
+      ],
+      "publisher": "Лань",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785507527229.jpg",
+      "sourceUrl": "https://lanbook.ru/catalog/informatika/realizatsiya-mnogopotochnosti-v-yazyke-java/"
+    },
+    {
+      "id": "9785940745686",
+      "isbn": "9785940745686",
+      "title": "Spring в действии. Третье издание",
+      "workId": "spring-action",
+      "workTitle": "Spring в действии — К. Уоллс",
+      "authors": [
+        "Крейг Уоллс"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2013",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm",
+        "spring"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785940745686.jpg",
+      "sourceUrl": "https://ibooks.ru/products/355261"
+    },
+    {
+      "id": "9785446122882",
+      "isbn": "9785446122882",
+      "title": "Apache Kafka. Потоковая обработка и анализ данных, 2-е издание",
+      "workId": "kafka-guide",
+      "workTitle": "Apache Kafka. Потоковая обработка и анализ данных",
+      "authors": [
+        "Г. Шапира",
+        "Т. Палино",
+        "Р. Сиварам",
+        "К. Петти"
+      ],
+      "publisher": "Питер",
+      "year": "2024",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446122882.jpg",
+      "sourceUrl": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie"
+    },
+    {
+      "id": "9785446105755",
+      "isbn": "9785446105755",
+      "title": "Apache Kafka. Потоковая обработка и анализ данных",
+      "workId": "kafka-guide",
+      "workTitle": "Apache Kafka. Потоковая обработка и анализ данных",
+      "authors": [
+        "Н. Нархид",
+        "Г. Шапира",
+        "Т. Палино"
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446105755.jpg",
+      "sourceUrl": "https://www.piter.com/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh"
+    },
+    {
+      "id": "9785446144914",
+      "isbn": "9785446144914",
+      "title": "Apache Kafka в действии. От базовых концепций до продакшена",
+      "workId": "isbn-9785446144914",
+      "workTitle": "Apache Kafka в действии. От базовых концепций до продакшена",
+      "authors": [
+        "А. Зеленин",
+        "А. Кропп"
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446144914.jpg",
+      "sourceUrl": "https://www.piter.com/product/apache-kafka-v-deystvii-ot-bazovyh-kontseptsiy-do-prodakshena"
+    },
+    {
+      "id": "9785446112012",
+      "isbn": "9785446112012",
+      "title": "Kafka Streams в действии. Приложения и микросервисы для работы в реальном времени",
+      "workId": "kafka-streams",
+      "workTitle": "Kafka Streams в действии — Б. Беджек",
+      "authors": [
+        "Билл Беджек"
+      ],
+      "publisher": "Питер",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446112012.jpg",
+      "sourceUrl": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-dlya-raboty-v-realnom-vremeni"
+    },
+    {
+      "id": "9785446141968",
+      "isbn": "9785446141968",
+      "title": "Kafka Streams в действии. Приложения и микросервисы, управляемые событиями. 2-е изд.",
+      "workId": "kafka-streams",
+      "workTitle": "Kafka Streams в действии — Б. Беджек",
+      "authors": [
+        "Билл Беджек"
+      ],
+      "publisher": "Питер",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446141968.jpg",
+      "sourceUrl": "https://www.piter.com/product/kafka-streams-v-deystvii-prilozheniya-i-mikroservisy-upravlyaemye-sobytiyami-2-e-izd"
+    },
+    {
+      "id": "9785446139453",
+      "isbn": "9785446139453",
+      "title": "Kafka Streams и ksqlDB: данные в реальном времени",
+      "workId": "isbn-9785446139453",
+      "workTitle": "Kafka Streams и ksqlDB: данные в реальном времени",
+      "authors": [
+        "Митч Сеймур"
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446139453.jpg",
+      "sourceUrl": "https://www.piter.com/product/kafka-streams-i-ksqldb-dannye-v-realnom-vremeni"
+    },
+    {
+      "id": "9785937001184",
+      "isbn": "9785937001184",
+      "title": "Kafka в действии",
+      "workId": "isbn-9785937001184",
+      "workTitle": "Kafka в действии",
+      "authors": [
+        "Дилан Скотт",
+        "Виктор Гамов",
+        "Дейв Клейн"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "kafka",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785937001184.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/data/978-5-93700-118-4/"
+    },
+    {
+      "id": "9785970606575",
+      "isbn": "9785970606575",
+      "title": "Kubernetes в действии",
+      "workId": "isbn-9785970606575",
+      "workTitle": "Kubernetes в действии",
+      "authors": [
+        "Марко Лукша"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970606575.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/os/978-5-97060-657-5/"
+    },
+    {
+      "id": "9785446110353",
+      "isbn": "9785446110353",
+      "title": "Как пасти котов. Наставление для программистов, руководящих другими программистами",
+      "workId": "isbn-9785446110353",
+      "workTitle": "Как пасти котов. Наставление для программистов, руководящих другими программистами",
+      "authors": [
+        "Дж. Ханк Рейнвотер"
+      ],
+      "publisher": "Питер",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446110353.jpg",
+      "sourceUrl": "https://www.piter.com/collection/kompyutery-i-internet/product/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovodyaschih-drugimi-programmistami-20686e"
+    },
+    {
+      "id": "9785970608630",
+      "isbn": "9785970608630",
+      "title": "Istio: приступаем к работе",
+      "workId": "isbn-9785970608630",
+      "workTitle": "Istio: приступаем к работе",
+      "authors": [
+        "Ли Калькот",
+        "Зак Бутчер"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970608630.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/os/978-5-97060-863-0/"
+    },
+    {
+      "id": "9785496019156",
+      "isbn": "9785496019156",
+      "title": "Путь программиста",
+      "workId": "isbn-9785496019156",
+      "workTitle": "Путь программиста",
+      "authors": [
+        "Джон Сонмез"
+      ],
+      "publisher": "Питер",
+      "year": "2016",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496019156.jpg",
+      "sourceUrl": "https://www.piter.com/product/put-programmista"
+    },
+    {
+      "id": "9785446116362",
+      "isbn": "9785446116362",
+      "title": "Мифический человеко-месяц, или Как создаются программные системы",
+      "workId": "isbn-9785446116362",
+      "workTitle": "Мифический человеко-месяц, или Как создаются программные системы",
+      "authors": [
+        "Фредерик Брукс"
+      ],
+      "publisher": "Питер",
+      "year": "2021",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446116362.jpg",
+      "sourceUrl": "https://www.piter.com/collection/biblioteka-programmista/product/mificheskiy-cheloveko-mesyats-ili-kak-sozdayutsya-programmnye-sistemy"
+    },
+    {
+      "id": "9785977505604",
+      "isbn": "978-5-9775-0560-4",
+      "title": "Алгоритмы. Руководство по разработке. 2-е издание",
+      "workId": "isbn-9785977505604",
+      "workTitle": "Алгоритмы. Руководство по разработке. 2-е издание",
+      "authors": [
+        "Стивен Скиена"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785977505604.jpg",
+      "sourceUrl": "https://bhv.ru/"
+    },
+    {
+      "id": "9785446191895",
+      "isbn": "978-5-4461-9189-5",
+      "title": "Совершенный код",
+      "workId": "isbn-9785446191895",
+      "workTitle": "Совершенный код",
+      "authors": [
+        "Стив Макконнелл"
+      ],
+      "publisher": "Питер",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446191895.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785496000505",
+      "isbn": "978-5-4960-0050-5",
+      "title": "Java SE 8. Вводный курс",
+      "workId": "isbn-9785496000505",
+      "workTitle": "Java SE 8. Вводный курс",
+      "authors": [
+        "Кей С. Хорстманн"
+      ],
+      "publisher": "Питер",
+      "year": "2014",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496000505.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785446108466",
+      "isbn": "978-5-4461-0846-6",
+      "title": "Программист-фанатик",
+      "workId": "isbn-9785446108466",
+      "workTitle": "Программист-фанатик",
+      "authors": [
+        "Чед Фаулер"
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446108466.jpg",
+      "sourceUrl": "https://www.piter.com/collection/programmirovanie-razrabotka-programmnogo-obespecheniya/product/programmist-fanatik-2"
+    },
+    {
+      "id": "9785446196128",
+      "isbn": "978-5-4461-9612-8",
+      "title": "Паттерны ООП",
+      "workId": "isbn-9785446196128",
+      "workTitle": "Паттерны ООП",
+      "authors": [
+        "Эрих Гамма",
+        "Ричард Хелм"
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446196128.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785446166886",
+      "isbn": "978-5-4461-6688-6",
+      "title": "Ум программиста",
+      "workId": "isbn-9785446166886",
+      "workTitle": "Ум программиста",
+      "authors": [
+        "Фелиен Херманс"
+      ],
+      "publisher": "Питер",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446166886.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785446189229",
+      "isbn": "978-5-4461-8922-9",
+      "title": "Программист-прагматик",
+      "workId": "isbn-9785446189229",
+      "workTitle": "Программист-прагматик",
+      "authors": [
+        "Дэвид Томас",
+        "Эндрю Хант"
+      ],
+      "publisher": "Питер",
+      "year": "2020",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446189229.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785446191024",
+      "isbn": "978-5-4461-9102-4",
+      "title": "Гид Java-разработчика",
+      "workId": "isbn-9785446191024",
+      "workTitle": "Гид Java-разработчика",
+      "authors": [
+        "Рауль-Габриэль Урма",
+        "Ричард Уорбертон"
+      ],
+      "publisher": "Питер",
+      "year": "2022",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446191024.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785932861257",
+      "isbn": "978-5-93286-125-7",
+      "title": "Работа с Big Data в облаках",
+      "workId": "isbn-9785932861257",
+      "workTitle": "Работа с Big Data в облаках",
+      "authors": [
+        "Игорь Сенько"
+      ],
+      "publisher": "БХВ-Петербург",
+      "year": "2019",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785932861257.jpg",
+      "sourceUrl": "https://bhv.ru/"
+    },
+    {
+      "id": "9785446123339",
+      "isbn": "978-5-4461-2333-9",
+      "title": "Экстремальное программирование",
+      "workId": "isbn-9785446123339",
+      "workTitle": "Экстремальное программирование",
+      "authors": [
+        "Кент Бек"
+      ],
+      "publisher": "Питер",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446123339.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "9785446182282",
+      "isbn": "978-5-4461-8228-2",
+      "title": "Рефакторинг",
+      "workId": "isbn-9785446182282",
+      "workTitle": "Рефакторинг",
+      "authors": [
+        "Мартин Фаулер"
+      ],
+      "publisher": "Питер",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446182282.jpg",
+      "sourceUrl": "https://www.piter.com/"
+    },
+    {
+      "id": "5957900796",
+      "isbn": "5-9579-0079-6",
+      "title": "Java без сбоев: обработка исключений, тестирование, отладка",
+      "workId": "isbn-5957900796",
+      "workTitle": "Java без сбоев: обработка исключений, тестирование, отладка",
+      "authors": [
+        "Стивен Стелтинг"
+      ],
+      "publisher": "КУДИЦ-Образ",
+      "year": "2005",
+      "edition": "",
+      "topics": [
+        "java",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/5957900796.jpg",
+      "sourceUrl": "https://www.kudits.ru/"
+    },
+    {
+      "id": "9785982278296",
+      "isbn": "978-5-98227-829-6",
+      "title": "Структура и интерпретация компьютерных программ. 2-е издание",
+      "workId": "isbn-9785982278296",
+      "workTitle": "Структура и интерпретация компьютерных программ. 2-е издание",
+      "authors": [
+        "Гарольд Абельсон",
+        "Джеральд Джей Сассман"
+      ],
+      "publisher": "Книжный дом «Университет»",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "algorithms"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785982278296.jpg",
+      "sourceUrl": "https://www.books.ru/books/struktura-i-interpretatsiya-kompyuternykh-programm-1823574/"
+    }
+  ]
+}

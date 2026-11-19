@@ -1,0 +1,1453 @@
+{
+  "listingPages": [
+    "https://www.books.ru/java-10102/",
+    "https://www.books.ru/java-10102/?page=2",
+    "https://www.books.ru/java-10102/?page=3",
+    "https://www.books.ru/java-10102/?page=4"
+  ],
+  "scanned": 78,
+  "new": [
+    {
+      "title": "Java и XML, 2-е издание",
+      "isbn": "5932860189",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Бретт Мак-Лахлин",
+      "year": "2002",
+      "pages": "544",
+      "source": "https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/",
+      "cover": "https://files.books.ru/pic/15001-16000/15403/000015403.jpg"
+    },
+    {
+      "title": "Java в примерах. Справочник",
+      "isbn": "5932860421",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Дэвид Флэнаган",
+      "year": "2003",
+      "pages": "664",
+      "source": "https://www.books.ru/books/java-v-primerakh-spravochnik-122922/",
+      "cover": "https://files.books.ru/pic/122001-123000/122922/000122922.jpg"
+    },
+    {
+      "title": "Java и Corba в приложениях клиент-сервер. 2-е издание",
+      "isbn": "5855820920",
+      "publisher": "Лори",
+      "authorsRaw": "Роберт Орфали Дэн Харки",
+      "year": "2000",
+      "pages": "717",
+      "source": "https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/",
+      "cover": "https://files.books.ru/pic/7001-8000/7653/7653.jpg"
+    },
+    {
+      "title": "Java. Справочник, 4-е издание",
+      "isbn": "5932860677",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Дэвид Флэнаган",
+      "year": "2004",
+      "pages": "1040",
+      "source": "https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/",
+      "cover": "https://files.books.ru/pic/143001-144000/143941/143941.jpg"
+    },
+    {
+      "title": "Разработка бизнес-приложений с помощью Java 2",
+      "isbn": "5855821846",
+      "publisher": "Лори",
+      "authorsRaw": "Н. Кассем разработки бизнес-приложений Группа",
+      "year": "2002",
+      "pages": "284",
+      "source": "https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/",
+      "cover": "https://files.books.ru/pic/30001-31000/30326/30326.jpg"
+    },
+    {
+      "title": "Язык Java и Microsoft Visual J++ в действии",
+      "isbn": "5935170655",
+      "publisher": "Горячая Линия - Телеком",
+      "authorsRaw": "Т. Дадашев",
+      "year": "2002",
+      "pages": "382",
+      "source": "https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/",
+      "cover": "https://files.books.ru/pic/21001-22000/21274/000021274.jpg"
+    },
+    {
+      "title": "Designing with JavaScript",
+      "isbn": "156592360",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Nick Heinle Bill Pena",
+      "year": "2001",
+      "pages": "216",
+      "source": "https://www.books.ru/books/designing-with-javascript-23757/",
+      "cover": "https://files.books.ru/pic/23001-24000/23757/23757.jpg"
+    },
+    {
+      "title": "Effective Java. Programming Language Guide",
+      "isbn": "0201310058",
+      "publisher": "Addison-Wesley",
+      "authorsRaw": "Joshua Bloch",
+      "year": "2001",
+      "pages": "252",
+      "source": "https://www.books.ru/books/effective-java-programming-language-guide-28219/",
+      "cover": "https://files.books.ru/pic/28001-29000/28219/28219.jpg"
+    },
+    {
+      "title": "Enterprise Javabeans",
+      "isbn": "5932860413",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Монсон-Хейфел",
+      "year": "2002",
+      "pages": "672",
+      "source": "https://www.books.ru/books/enterprise-javabeans-27550/",
+      "cover": "https://files.books.ru/pic/27001-28000/27550/27550.jpg"
+    },
+    {
+      "title": "Head First Java",
+      "isbn": "0596004656",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "B. Bates Kathy Sierra",
+      "year": "2003",
+      "pages": "600",
+      "source": "https://www.books.ru/books/head-first-java-120441/",
+      "cover": "https://files.books.ru/pic/120001-121000/120441/120441.jpg"
+    },
+    {
+      "title": "Introduction to Programming Using Java: An Object-Oriented Approach",
+      "isbn": "0321200063",
+      "publisher": "Addison-Wesley",
+      "authorsRaw": "David Arnow S. Dexter Gerald Weiss",
+      "year": "2003",
+      "pages": "736",
+      "source": "https://www.books.ru/books/introduction-to-programming-using-java-an-object-oriented-approach-154665/",
+      "cover": "https://files.books.ru/pic/154001-155000/154665/154665.jpg"
+    },
+    {
+      "title": "J2EE. Разработка бизнес-приложений",
+      "isbn": "5937720458",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "П. Аллен Джозеф Дж. Бамбара Марк Ашнаульт З. Дин Томас Гарбен Шон Смит",
+      "year": "2002",
+      "pages": "736",
+      "source": "https://www.books.ru/books/j2ee-razrabotka-biznes-prilozhenii-30829/",
+      "cover": "https://files.books.ru/pic/30001-31000/30829/30829.jpg"
+    },
+    {
+      "title": "Java and XSLT. На английском языке",
+      "isbn": "0596001436",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Eric M. Burke",
+      "year": "2001",
+      "pages": "512",
+      "source": "https://www.books.ru/books/java-and-xslt-na-angliiskom-yazyke-15815/",
+      "cover": "https://files.books.ru/pic/15001-16000/15815/15815.jpg"
+    },
+    {
+      "title": "Java 2 Enterprise",
+      "isbn": "5933780375",
+      "publisher": "КУДИЦ-ОБРАЗ",
+      "authorsRaw": "Николай Смирнов",
+      "year": "2002",
+      "pages": "240",
+      "source": "https://www.books.ru/books/java-2-enterprise-27831/",
+      "cover": "https://files.books.ru/pic/27001-28000/27831/27831.jpg"
+    },
+    {
+      "title": "Java Database Best Practices",
+      "isbn": "0596005229",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "George Reese",
+      "year": "2003",
+      "pages": "304",
+      "source": "https://www.books.ru/books/java-database-best-practices-120529/",
+      "cover": "https://files.books.ru/pic/120001-121000/120529/120529.jpg"
+    },
+    {
+      "title": "Java Examples in a Nutshell, Second Edition",
+      "isbn": "0596000391",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "David Flanagan",
+      "year": "2001",
+      "pages": "570",
+      "source": "https://www.books.ru/books/java-examples-in-a-nutshell-second-edition-11232/",
+      "cover": "https://files.books.ru/pic/11001-12000/11232/11232.jpg"
+    },
+    {
+      "title": "Java 2, v5.0 (Tiger). Новые возможности",
+      "isbn": "9785941576432",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Герберт Шилдт",
+      "year": "2014",
+      "pages": "16",
+      "source": "https://www.books.ru/books/java-2-8770/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Java Data Objects",
+      "isbn": "0596002769",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "D. Jordan C. Russell",
+      "year": "2003",
+      "pages": "384",
+      "source": "https://www.books.ru/books/java-data-objects-120530/",
+      "cover": "https://files.books.ru/pic/120001-121000/120530/120530.jpg"
+    },
+    {
+      "title": "JAVA сегодня",
+      "isbn": "985438005",
+      "publisher": "Попурри",
+      "authorsRaw": "Крис Джамса",
+      "year": "1996",
+      "pages": "416",
+      "source": "https://www.books.ru/books/java-segodnya-8423/",
+      "cover": "https://files.books.ru/pic/8001-9000/8423/8423.jpg"
+    },
+    {
+      "title": "Java 2. Руководство разработчика (+CD)",
+      "isbn": "5845900468",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Майкл Морган",
+      "year": "2000",
+      "pages": "720",
+      "source": "https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/",
+      "cover": "https://files.books.ru/pic/4001-5000/4679/4679.jpg"
+    },
+    {
+      "title": "Java 2: учебное пособие",
+      "isbn": "5867090736",
+      "publisher": "Три Л",
+      "authorsRaw": "Николай Смирнов",
+      "year": "2000",
+      "pages": "320",
+      "source": "https://www.books.ru/books/java-2-uchebnoe-posobie-12934/",
+      "cover": "https://files.books.ru/pic/12001-13000/12934/12934.jpg"
+    },
+    {
+      "title": "Java & XML. 2nd edition",
+      "isbn": "10596001975",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Brett McLaughlin",
+      "year": "2001",
+      "pages": "510",
+      "source": "https://www.books.ru/books/java--xml-2nd-edition-31145/",
+      "cover": "https://files.books.ru/pic/31001-32000/31145/31145.jpg"
+    },
+    {
+      "title": "Java in a Nutshell: A Desktop Quick Reference. На английском языке",
+      "isbn": "1565924878",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "David Flanagan",
+      "year": "1999",
+      "pages": "648",
+      "source": "https://www.books.ru/books/java-in-a-nutshell-a-desktop-quick-reference-na-angliiskom-yazyke-11278/",
+      "cover": "https://files.books.ru/pic/11001-12000/11278/11278.jpg"
+    },
+    {
+      "title": "Java Server Pages. Библиотека профессионала",
+      "isbn": "5845902908",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Дэвид Гери",
+      "year": "2002",
+      "pages": "448",
+      "source": "https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/",
+      "cover": "https://files.books.ru/pic/27001-28000/27912/27912.jpg"
+    },
+    {
+      "title": "Java Extreme Programming Cookbook",
+      "isbn": "0596003870",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Eric M. Burke B.M. Coyner",
+      "year": "2003",
+      "pages": "352",
+      "source": "https://www.books.ru/books/java-extreme-programming-cookbook-85107/",
+      "cover": "https://files.books.ru/pic/85001-86000/85107/85107.jpg"
+    },
+    {
+      "title": "JAVA Security. На английском языке",
+      "isbn": "1565924037",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Scott Oaks",
+      "year": "1998",
+      "pages": "455",
+      "source": "https://www.books.ru/books/java-security-na-angliiskom-yazyke-11231/",
+      "cover": "https://files.books.ru/pic/11001-12000/11231/11231.jpg"
+    },
+    {
+      "title": "Java. Эффективное программирование",
+      "isbn": "5855821692",
+      "publisher": "Лори",
+      "authorsRaw": "Джошуа Блох",
+      "year": "2002",
+      "pages": "224",
+      "source": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/",
+      "cover": "https://files.books.ru/pic/29001-30000/29600/29600.jpg"
+    },
+    {
+      "title": "Java. Сборник рецептов для профессионалов",
+      "isbn": "5318007481",
+      "publisher": "Питер",
+      "authorsRaw": "Ян Ф. Дарвин",
+      "year": "2002",
+      "pages": "768",
+      "source": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/",
+      "cover": "https://files.books.ru/pic/27001-28000/27859/27859.jpg"
+    },
+    {
+      "title": "Java: основы Web-служб",
+      "isbn": "5933780928",
+      "publisher": "КУДИЦ-ОБРАЗ",
+      "authorsRaw": "Андре Тост",
+      "year": "2004",
+      "pages": "464",
+      "source": "https://www.books.ru/books/java-osnovy-web-sluzhb-155117/",
+      "cover": "https://files.books.ru/pic/155001-156000/155117/155117.jpg"
+    },
+    {
+      "title": "Javabeans",
+      "isbn": "5855820491",
+      "publisher": "Лори",
+      "authorsRaw": "Эллиот Гарольд",
+      "year": "1999",
+      "pages": "327",
+      "source": "https://www.books.ru/books/javabeans-2141/",
+      "cover": "https://files.books.ru/pic/2001-3000/2141/2141.jpg"
+    },
+    {
+      "title": "JavaScript 1.5: учебный курс",
+      "isbn": "5318004806",
+      "publisher": "Питер",
+      "authorsRaw": "Э. Кингсли-Хьюджес",
+      "year": "2001",
+      "pages": "272",
+      "source": "https://www.books.ru/books/javascript-15-uchebnyi-kurs-11642/",
+      "cover": "https://files.books.ru/pic/11001-12000/11642/11642.jpg"
+    },
+    {
+      "title": "JavaScript & DHTML Cookbook",
+      "isbn": "0596004672",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Goodman",
+      "year": "2003",
+      "pages": "526",
+      "source": "https://www.books.ru/books/javascript--dhtml-cookbook-85103/",
+      "cover": "https://files.books.ru/pic/85001-86000/85103/85103.jpg"
+    },
+    {
+      "title": "JavaScript Design. На английском языке",
+      "isbn": "0735711674",
+      "publisher": "New Riders Publishing",
+      "authorsRaw": "William Sanders",
+      "year": "2001",
+      "pages": "460",
+      "source": "https://www.books.ru/books/javascript-design-na-angliiskom-yazyke-23771/",
+      "cover": "https://files.books.ru/pic/23001-24000/23771/23771.jpg"
+    },
+    {
+      "title": "JavaScript. В примерах",
+      "isbn": "9789667393571",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "Аллен Р Вайк",
+      "year": "1999",
+      "pages": "307",
+      "source": "https://www.books.ru/books/javascript-v-primerakh-122586/",
+      "cover": "https://files.books.ru/pic/122001-123000/122586/122586.jpg"
+    },
+    {
+      "title": "JavaScript для \"чайников\". 3-е издание",
+      "isbn": "5845901340",
+      "publisher": "Диалектика",
+      "authorsRaw": "Эмили Вандер Вер",
+      "year": "2001",
+      "pages": "304",
+      "source": "https://www.books.ru/books/javascript-dlya-chainikov-3-e-izdanie-10643/",
+      "cover": "https://files.books.ru/pic/10001-11000/10643/10643.jpg"
+    },
+    {
+      "title": "JavaScript. Справочник (+CD)",
+      "isbn": "5937720318",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "Аллен Р Вайк",
+      "year": "2002",
+      "pages": "896",
+      "source": "https://www.books.ru/books/javascript-spravochnik-cd-29663/",
+      "cover": "https://files.books.ru/pic/29001-30000/29663/29663.jpg"
+    },
+    {
+      "title": "JavaScript и DHTML. Сборник рецептов. Для профессионалов",
+      "isbn": "5947238179",
+      "publisher": "Питер",
+      "authorsRaw": "Д. Гудман",
+      "year": "2004",
+      "pages": "528",
+      "source": "https://www.books.ru/books/javascript-i-dhtml-sbornik-retseptov-dlya-professionalov-174416/",
+      "cover": "https://files.books.ru/pic/174001-175000/174416/174416.jpg"
+    },
+    {
+      "title": "JavaScript",
+      "isbn": "594157438X",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Марина Дмитриева",
+      "year": "2004",
+      "pages": "336",
+      "source": "https://www.books.ru/books/javascript-bystryi-start-30159/",
+      "cover": "https://files.books.ru/pic/148001-149000/148775/148775.jpg"
+    },
+    {
+      "title": "JavaScript: сборник рецептов для профессионалов",
+      "isbn": "5272001109",
+      "publisher": "Питер",
+      "authorsRaw": "Джерри Бранденбау",
+      "year": "2000",
+      "pages": "416",
+      "source": "https://www.books.ru/books/javascript-sbornik-retseptov-dlya-professionalov-6775/",
+      "cover": "https://files.books.ru/pic/6001-7000/6775/6775.jpg"
+    },
+    {
+      "title": "Learning Java (+CD). 2nd Edition",
+      "isbn": "0596002858",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Patrick Niemeyer J. Knudsen",
+      "year": "2002",
+      "pages": "800",
+      "source": "https://www.books.ru/books/learning-java-cd-2nd-edition-29477/",
+      "cover": "https://files.books.ru/pic/29001-30000/29477/29477.jpg"
+    },
+    {
+      "title": "Learning Java (+CD). 2nd Edition",
+      "isbn": "0596002858",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Patrick Niemeyer J. Knudsen",
+      "year": "2002",
+      "pages": "800",
+      "source": "https://www.books.ru/books/learning-java-cd-23761/",
+      "cover": "https://files.books.ru/pic/29001-30000/29477/29477.jpg"
+    },
+    {
+      "title": "Professional Java XML Programming with Servlets and JSP. На английском языке",
+      "isbn": "1861002858",
+      "publisher": "Wrox Press Ltd",
+      "authorsRaw": "Alexander Nakhimovsky Tom Myers",
+      "year": "2001",
+      "pages": "772",
+      "source": "https://www.books.ru/books/professional-java-xml-programming-with-servlets-and-jsp-na-angliiskom-yazyke-15601/",
+      "cover": "https://files.books.ru/pic/15001-16000/15601/15601.jpg"
+    },
+    {
+      "title": "Pure Java 2. A Code-Intensive Premium Reference",
+      "isbn": "0672316544",
+      "publisher": "SAMS",
+      "authorsRaw": "Kenneth Litwak",
+      "year": "2000",
+      "pages": "790",
+      "source": "https://www.books.ru/books/pure-java-2-a-code-intensive-premium-reference-9081/",
+      "cover": "https://files.books.ru/pic/9001-10000/9081/9081.jpg"
+    },
+    {
+      "title": "Sams Teach Yourself Java 2 in 24 Hours, Third Edition",
+      "isbn": "0672324601",
+      "publisher": "Sams Pablishing",
+      "authorsRaw": "R. Cadenhead",
+      "year": "2002",
+      "pages": "552",
+      "source": "https://www.books.ru/books/sams-teach-yourself-java-2-in-24-hours-third-edition-120532/",
+      "cover": "https://files.books.ru/pic/120001-121000/120532/120532.jpg"
+    },
+    {
+      "title": "XML и Java 2. Библиотека программиста (+CD)",
+      "isbn": "5318001874",
+      "publisher": "Питер",
+      "authorsRaw": "Майкл С Даконта Альберт Дж. Саганич",
+      "year": "2001",
+      "pages": "384",
+      "source": "https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/",
+      "cover": "https://files.books.ru/pic/10001-11000/10868/10868.jpg"
+    },
+    {
+      "title": "Java 2. Библиотека профессионала. Том 1. Основы",
+      "isbn": "9780132354769",
+      "publisher": null,
+      "authorsRaw": "Г. Корнелл Кей С. Хорстманн",
+      "year": "2008",
+      "pages": "816",
+      "source": "https://www.books.ru/books/biblioteka-professionala-java-2-tom-1-osnovy-82336/",
+      "cover": "https://files.books.ru/pic/627001-628000/627851/627851.jpg"
+    },
+    {
+      "title": "Введение в JAVA-технологию",
+      "isbn": "5020249858",
+      "publisher": "Наука",
+      "authorsRaw": "Владимир Сафонов",
+      "year": "2002",
+      "pages": "187",
+      "source": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/",
+      "cover": "https://files.books.ru/pic/36001-37000/36624/000036624.jpg"
+    },
+    {
+      "title": "Горький вкус Java",
+      "isbn": "5887823232",
+      "publisher": "Питер",
+      "authorsRaw": "Б. Тей",
+      "year": "2003",
+      "pages": "333",
+      "source": "https://www.books.ru/books/gorkii-vkus-java-86688/",
+      "cover": "https://files.books.ru/pic/86001-87000/86688/86688.jpg"
+    },
+    {
+      "title": "Использование JavaScript. Специальное издание",
+      "isbn": "5845902428",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Пол Мак-Федрис",
+      "year": "2002",
+      "pages": "896",
+      "source": "https://www.books.ru/books/ispolzovanie-javascript-spetsialnoe-izdanie-25000/",
+      "cover": "https://files.books.ru/pic/24001-25000/25000/25000.jpg"
+    },
+    {
+      "title": "Как программировать на Java.: Книга 1. Основы программирования",
+      "isbn": "5951800153",
+      "publisher": "Бином",
+      "authorsRaw": "Пол Дейтел Харви Дейтел",
+      "year": "2002",
+      "pages": "848",
+      "source": "https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/",
+      "cover": "https://files.books.ru/pic/86001-87000/86696/86696.jpg"
+    },
+    {
+      "title": "Основы программирования на языке Java",
+      "isbn": "5935170213",
+      "publisher": "Горячая Линия - Телеком",
+      "authorsRaw": "Валерий Маслов",
+      "year": "2000",
+      "pages": "132",
+      "source": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/",
+      "cover": "https://files.books.ru/pic/8001-9000/8502/8502.jpg"
+    },
+    {
+      "title": "Платформа .NET для Java-программистов",
+      "isbn": "5887822198",
+      "publisher": "Питер",
+      "authorsRaw": "П. Гиббонз",
+      "year": "2003",
+      "pages": "336",
+      "source": "https://www.books.ru/books/platforma-net-dlya-java-programmistov-82466/",
+      "cover": "https://files.books.ru/pic/82001-83000/82466/82466.jpg"
+    },
+    {
+      "title": "Программируем на языке Java",
+      "isbn": "5943870040",
+      "publisher": "Наука и техника",
+      "authorsRaw": "А.В. Картузов Д. Николенко",
+      "year": "2001",
+      "pages": "192",
+      "source": "https://www.books.ru/books/programmiruem-na-yazyke-java-62126/",
+      "cover": "https://files.books.ru/pic/62001-63000/62126/62126.jpg"
+    },
+    {
+      "title": "Программирование на Java 2",
+      "isbn": "9660314922",
+      "publisher": "АСТ",
+      "authorsRaw": "С.В. Глушаков",
+      "year": "2001",
+      "pages": "536",
+      "source": "https://www.books.ru/books/programmirovanie-na-java-2-23829/",
+      "cover": "https://files.books.ru/pic/23001-24000/23829/23829.jpg"
+    },
+    {
+      "title": "Самоучитель JavaScript",
+      "isbn": "9785388003317",
+      "publisher": "Питер",
+      "authorsRaw": "В.Ф. Дунаев",
+      "year": "2008",
+      "pages": "400",
+      "source": "https://www.books.ru/books/samouchitel-javascript-96652/",
+      "cover": "https://files.books.ru/pic/588001-589000/588545/588545.jpg"
+    },
+    {
+      "title": "Sun Certification Training Guide (310-025, 310-027): Java 2 Programmer and Developer Exams. На английском языке (+CD)",
+      "isbn": "078972765",
+      "publisher": "Que",
+      "authorsRaw": "Jamie Jaworski",
+      "year": "2002",
+      "pages": "675",
+      "source": "https://www.books.ru/books/sun-certification-training-guide-310-025-310-027-java-2-programmer-and-developer-exams-na-angliiskom-yazyke-cd-29284/",
+      "cover": "https://files.books.ru/pic/29001-30000/29284/29284.jpg"
+    },
+    {
+      "title": "Разработка приложений для электронной коммерции на Oracle8i и Java",
+      "isbn": "5845901146",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Меградж Заккар",
+      "year": "2000",
+      "pages": "336",
+      "source": "https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/",
+      "cover": "https://files.books.ru/pic/8001-9000/8647/8647.jpg"
+    },
+    {
+      "title": "Серверные приложения на языке Java",
+      "isbn": "5934551345",
+      "publisher": "СОЛОН-Р",
+      "authorsRaw": "Равиль Мухамедзянов",
+      "year": "2002",
+      "pages": "336",
+      "source": "https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/",
+      "cover": "https://files.books.ru/pic/25001-26000/25188/25188.jpg"
+    },
+    {
+      "title": "Средства визуального проектирования на Java (+ CD-ROM)",
+      "isbn": "5779100799",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "",
+      "year": "1998",
+      "pages": "400",
+      "source": "https://www.books.ru/books/sredstva-vizualnogo-proektirovaniya-na-java--cd-rom-1371/",
+      "cover": "https://files.books.ru/pic/1001-2000/1371/1371.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2: Книга 2. Распределенные приложения",
+      "isbn": "9785951802781",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2008",
+      "pages": "464",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/",
+      "cover": "https://files.books.ru/pic/606001-607000/606463/606463.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2. Книга 3. Корпоративные системы, сервлеты, JSP, Web-сервисы",
+      "isbn": "595180034X",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2003",
+      "pages": "672",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/",
+      "cover": "https://files.books.ru/pic/86001-87000/86725/86725.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2. Книга 1",
+      "isbn": "595180017",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2003",
+      "pages": "560",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-1-81633/",
+      "cover": "https://files.books.ru/pic/81001-82000/81633/81633.jpg"
+    },
+    {
+      "title": "Технология Java в подлиннике (с CD-ROM)",
+      "isbn": "5779100519",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Джои Вебер",
+      "year": "2000",
+      "pages": "1104",
+      "source": "https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/",
+      "cover": "https://files.books.ru/pic/1-1000/583/583.jpg"
+    },
+    {
+      "title": "Философия Java. Библиотека программиста. 4-е изд",
+      "isbn": "9785496009546",
+      "publisher": "Питер",
+      "authorsRaw": "Брюс Эккель Bruce Eckel",
+      "year": "2013",
+      "pages": "640",
+      "source": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/",
+      "cover": "https://files.books.ru/pic/3618001-3619000/3618273/541675673c.jpg"
+    },
+    {
+      "title": "Эффективная работа с Java 2",
+      "isbn": "966552007414",
+      "publisher": "Питер",
+      "authorsRaw": "Дэвид Бишоп",
+      "year": "2004",
+      "pages": "592",
+      "source": "https://www.books.ru/books/effektivnaya-rabota-java-2-24589/",
+      "cover": "https://files.books.ru/pic/233001-234000/233141/233141.jpg"
+    },
+    {
+      "title": "Языки программирования Java и JavaScript",
+      "isbn": "585582036",
+      "publisher": "Лори",
+      "authorsRaw": "Питер Вейнер",
+      "year": "2007",
+      "pages": "243",
+      "source": "https://www.books.ru/books/yazyki-programmirovaniya-java-i-javascript-1220/",
+      "cover": "https://files.books.ru/pic/1001-2000/1220/1220.jpg"
+    }
+  ],
+  "all": [
+    {
+      "title": "Java и XML, 2-е издание",
+      "isbn": "5932860189",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Бретт Мак-Лахлин",
+      "year": "2002",
+      "pages": "544",
+      "source": "https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/",
+      "cover": "https://files.books.ru/pic/15001-16000/15403/000015403.jpg"
+    },
+    {
+      "title": "Java в примерах. Справочник",
+      "isbn": "5932860421",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Дэвид Флэнаган",
+      "year": "2003",
+      "pages": "664",
+      "source": "https://www.books.ru/books/java-v-primerakh-spravochnik-122922/",
+      "cover": "https://files.books.ru/pic/122001-123000/122922/000122922.jpg"
+    },
+    {
+      "title": "Java и Corba в приложениях клиент-сервер. 2-е издание",
+      "isbn": "5855820920",
+      "publisher": "Лори",
+      "authorsRaw": "Роберт Орфали Дэн Харки",
+      "year": "2000",
+      "pages": "717",
+      "source": "https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/",
+      "cover": "https://files.books.ru/pic/7001-8000/7653/7653.jpg"
+    },
+    {
+      "title": "Java. Справочник, 4-е издание",
+      "isbn": "5932860677",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Дэвид Флэнаган",
+      "year": "2004",
+      "pages": "1040",
+      "source": "https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/",
+      "cover": "https://files.books.ru/pic/143001-144000/143941/143941.jpg"
+    },
+    {
+      "title": "Разработка бизнес-приложений с помощью Java 2",
+      "isbn": "5855821846",
+      "publisher": "Лори",
+      "authorsRaw": "Н. Кассем разработки бизнес-приложений Группа",
+      "year": "2002",
+      "pages": "284",
+      "source": "https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/",
+      "cover": "https://files.books.ru/pic/30001-31000/30326/30326.jpg"
+    },
+    {
+      "title": "Язык Java и Microsoft Visual J++ в действии",
+      "isbn": "5935170655",
+      "publisher": "Горячая Линия - Телеком",
+      "authorsRaw": "Т. Дадашев",
+      "year": "2002",
+      "pages": "382",
+      "source": "https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/",
+      "cover": "https://files.books.ru/pic/21001-22000/21274/000021274.jpg"
+    },
+    {
+      "title": "Designing with JavaScript",
+      "isbn": "156592360",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Nick Heinle Bill Pena",
+      "year": "2001",
+      "pages": "216",
+      "source": "https://www.books.ru/books/designing-with-javascript-23757/",
+      "cover": "https://files.books.ru/pic/23001-24000/23757/23757.jpg"
+    },
+    {
+      "title": "Effective Java. Programming Language Guide",
+      "isbn": "0201310058",
+      "publisher": "Addison-Wesley",
+      "authorsRaw": "Joshua Bloch",
+      "year": "2001",
+      "pages": "252",
+      "source": "https://www.books.ru/books/effective-java-programming-language-guide-28219/",
+      "cover": "https://files.books.ru/pic/28001-29000/28219/28219.jpg"
+    },
+    {
+      "title": "Enterprise Javabeans",
+      "isbn": "5932860413",
+      "publisher": "Символ-Плюс",
+      "authorsRaw": "Ричард Монсон-Хейфел",
+      "year": "2002",
+      "pages": "672",
+      "source": "https://www.books.ru/books/enterprise-javabeans-27550/",
+      "cover": "https://files.books.ru/pic/27001-28000/27550/27550.jpg"
+    },
+    {
+      "title": "Head First Java",
+      "isbn": "0596004656",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "B. Bates Kathy Sierra",
+      "year": "2003",
+      "pages": "600",
+      "source": "https://www.books.ru/books/head-first-java-120441/",
+      "cover": "https://files.books.ru/pic/120001-121000/120441/120441.jpg"
+    },
+    {
+      "title": "Introduction to Programming Using Java: An Object-Oriented Approach",
+      "isbn": "0321200063",
+      "publisher": "Addison-Wesley",
+      "authorsRaw": "David Arnow S. Dexter Gerald Weiss",
+      "year": "2003",
+      "pages": "736",
+      "source": "https://www.books.ru/books/introduction-to-programming-using-java-an-object-oriented-approach-154665/",
+      "cover": "https://files.books.ru/pic/154001-155000/154665/154665.jpg"
+    },
+    {
+      "title": "J2EE. Разработка бизнес-приложений",
+      "isbn": "5937720458",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "П. Аллен Джозеф Дж. Бамбара Марк Ашнаульт З. Дин Томас Гарбен Шон Смит",
+      "year": "2002",
+      "pages": "736",
+      "source": "https://www.books.ru/books/j2ee-razrabotka-biznes-prilozhenii-30829/",
+      "cover": "https://files.books.ru/pic/30001-31000/30829/30829.jpg"
+    },
+    {
+      "title": "Java and XSLT. На английском языке",
+      "isbn": "0596001436",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Eric M. Burke",
+      "year": "2001",
+      "pages": "512",
+      "source": "https://www.books.ru/books/java-and-xslt-na-angliiskom-yazyke-15815/",
+      "cover": "https://files.books.ru/pic/15001-16000/15815/15815.jpg"
+    },
+    {
+      "title": "Java 2 Enterprise",
+      "isbn": "5933780375",
+      "publisher": "КУДИЦ-ОБРАЗ",
+      "authorsRaw": "Николай Смирнов",
+      "year": "2002",
+      "pages": "240",
+      "source": "https://www.books.ru/books/java-2-enterprise-27831/",
+      "cover": "https://files.books.ru/pic/27001-28000/27831/27831.jpg"
+    },
+    {
+      "title": "Java Database Best Practices",
+      "isbn": "0596005229",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "George Reese",
+      "year": "2003",
+      "pages": "304",
+      "source": "https://www.books.ru/books/java-database-best-practices-120529/",
+      "cover": "https://files.books.ru/pic/120001-121000/120529/120529.jpg"
+    },
+    {
+      "title": "Java 2. В 2-х томах. Том 2",
+      "isbn": null,
+      "publisher": null,
+      "authorsRaw": "А. Хортон",
+      "year": "2008",
+      "pages": "1020",
+      "source": "https://www.books.ru/books/java-2-v-2-kh-tomakh-24373/",
+      "cover": "https://files.books.ru/pic/583001-584000/583921/583921.jpg"
+    },
+    {
+      "title": "Java Examples in a Nutshell, Second Edition",
+      "isbn": "0596000391",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "David Flanagan",
+      "year": "2001",
+      "pages": "570",
+      "source": "https://www.books.ru/books/java-examples-in-a-nutshell-second-edition-11232/",
+      "cover": "https://files.books.ru/pic/11001-12000/11232/11232.jpg"
+    },
+    {
+      "title": "Java 2, v5.0 (Tiger). Новые возможности",
+      "isbn": "9785941576432",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Герберт Шилдт",
+      "year": "2014",
+      "pages": "16",
+      "source": "https://www.books.ru/books/java-2-8770/",
+      "cover": "https://www.books.ru/static/images/item_no_cover.png"
+    },
+    {
+      "title": "Java Data Objects",
+      "isbn": "0596002769",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "D. Jordan C. Russell",
+      "year": "2003",
+      "pages": "384",
+      "source": "https://www.books.ru/books/java-data-objects-120530/",
+      "cover": "https://files.books.ru/pic/120001-121000/120530/120530.jpg"
+    },
+    {
+      "title": "JAVA сегодня",
+      "isbn": "985438005",
+      "publisher": "Попурри",
+      "authorsRaw": "Крис Джамса",
+      "year": "1996",
+      "pages": "416",
+      "source": "https://www.books.ru/books/java-segodnya-8423/",
+      "cover": "https://files.books.ru/pic/8001-9000/8423/8423.jpg"
+    },
+    {
+      "title": "Java 2. Руководство разработчика (+CD)",
+      "isbn": "5845900468",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Майкл Морган",
+      "year": "2000",
+      "pages": "720",
+      "source": "https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/",
+      "cover": "https://files.books.ru/pic/4001-5000/4679/4679.jpg"
+    },
+    {
+      "title": "Java 2: учебное пособие",
+      "isbn": "5867090736",
+      "publisher": "Три Л",
+      "authorsRaw": "Николай Смирнов",
+      "year": "2000",
+      "pages": "320",
+      "source": "https://www.books.ru/books/java-2-uchebnoe-posobie-12934/",
+      "cover": "https://files.books.ru/pic/12001-13000/12934/12934.jpg"
+    },
+    {
+      "title": "Java & XML. 2nd edition",
+      "isbn": "10596001975",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Brett McLaughlin",
+      "year": "2001",
+      "pages": "510",
+      "source": "https://www.books.ru/books/java--xml-2nd-edition-31145/",
+      "cover": "https://files.books.ru/pic/31001-32000/31145/31145.jpg"
+    },
+    {
+      "title": "Java in a Nutshell: A Desktop Quick Reference. На английском языке",
+      "isbn": "1565924878",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "David Flanagan",
+      "year": "1999",
+      "pages": "648",
+      "source": "https://www.books.ru/books/java-in-a-nutshell-a-desktop-quick-reference-na-angliiskom-yazyke-11278/",
+      "cover": "https://files.books.ru/pic/11001-12000/11278/11278.jpg"
+    },
+    {
+      "title": "Java Server Pages. Библиотека профессионала",
+      "isbn": "5845902908",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Дэвид Гери",
+      "year": "2002",
+      "pages": "448",
+      "source": "https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/",
+      "cover": "https://files.books.ru/pic/27001-28000/27912/27912.jpg"
+    },
+    {
+      "title": "Java Extreme Programming Cookbook",
+      "isbn": "0596003870",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Eric M. Burke B.M. Coyner",
+      "year": "2003",
+      "pages": "352",
+      "source": "https://www.books.ru/books/java-extreme-programming-cookbook-85107/",
+      "cover": "https://files.books.ru/pic/85001-86000/85107/85107.jpg"
+    },
+    {
+      "title": "JAVA Security. На английском языке",
+      "isbn": "1565924037",
+      "publisher": "O'Reilly & Associates",
+      "authorsRaw": "Scott Oaks",
+      "year": "1998",
+      "pages": "455",
+      "source": "https://www.books.ru/books/java-security-na-angliiskom-yazyke-11231/",
+      "cover": "https://files.books.ru/pic/11001-12000/11231/11231.jpg"
+    },
+    {
+      "title": "Java. Эффективное программирование",
+      "isbn": "5855821692",
+      "publisher": "Лори",
+      "authorsRaw": "Джошуа Блох",
+      "year": "2002",
+      "pages": "224",
+      "source": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/",
+      "cover": "https://files.books.ru/pic/29001-30000/29600/29600.jpg"
+    },
+    {
+      "title": "Java. Сборник рецептов для профессионалов",
+      "isbn": "5318007481",
+      "publisher": "Питер",
+      "authorsRaw": "Ян Ф. Дарвин",
+      "year": "2002",
+      "pages": "768",
+      "source": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/",
+      "cover": "https://files.books.ru/pic/27001-28000/27859/27859.jpg"
+    },
+    {
+      "title": "Java: основы Web-служб",
+      "isbn": "5933780928",
+      "publisher": "КУДИЦ-ОБРАЗ",
+      "authorsRaw": "Андре Тост",
+      "year": "2004",
+      "pages": "464",
+      "source": "https://www.books.ru/books/java-osnovy-web-sluzhb-155117/",
+      "cover": "https://files.books.ru/pic/155001-156000/155117/155117.jpg"
+    },
+    {
+      "title": "Javabeans",
+      "isbn": "5855820491",
+      "publisher": "Лори",
+      "authorsRaw": "Эллиот Гарольд",
+      "year": "1999",
+      "pages": "327",
+      "source": "https://www.books.ru/books/javabeans-2141/",
+      "cover": "https://files.books.ru/pic/2001-3000/2141/2141.jpg"
+    },
+    {
+      "title": "JavaScript 1.5: учебный курс",
+      "isbn": "5318004806",
+      "publisher": "Питер",
+      "authorsRaw": "Э. Кингсли-Хьюджес",
+      "year": "2001",
+      "pages": "272",
+      "source": "https://www.books.ru/books/javascript-15-uchebnyi-kurs-11642/",
+      "cover": "https://files.books.ru/pic/11001-12000/11642/11642.jpg"
+    },
+    {
+      "title": "JavaScript & DHTML Cookbook",
+      "isbn": "0596004672",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Goodman",
+      "year": "2003",
+      "pages": "526",
+      "source": "https://www.books.ru/books/javascript--dhtml-cookbook-85103/",
+      "cover": "https://files.books.ru/pic/85001-86000/85103/85103.jpg"
+    },
+    {
+      "title": "JavaScript Design. На английском языке",
+      "isbn": "0735711674",
+      "publisher": "New Riders Publishing",
+      "authorsRaw": "William Sanders",
+      "year": "2001",
+      "pages": "460",
+      "source": "https://www.books.ru/books/javascript-design-na-angliiskom-yazyke-23771/",
+      "cover": "https://files.books.ru/pic/23001-24000/23771/23771.jpg"
+    },
+    {
+      "title": "JavaScript. В примерах",
+      "isbn": "9789667393571",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "Аллен Р Вайк",
+      "year": "1999",
+      "pages": "307",
+      "source": "https://www.books.ru/books/javascript-v-primerakh-122586/",
+      "cover": "https://files.books.ru/pic/122001-123000/122586/122586.jpg"
+    },
+    {
+      "title": "JavaScript для \"чайников\". 3-е издание",
+      "isbn": "5845901340",
+      "publisher": "Диалектика",
+      "authorsRaw": "Эмили Вандер Вер",
+      "year": "2001",
+      "pages": "304",
+      "source": "https://www.books.ru/books/javascript-dlya-chainikov-3-e-izdanie-10643/",
+      "cover": "https://files.books.ru/pic/10001-11000/10643/10643.jpg"
+    },
+    {
+      "title": "JavaScript. Справочник (+CD)",
+      "isbn": "5937720318",
+      "publisher": "ДиаСофт",
+      "authorsRaw": "Аллен Р Вайк",
+      "year": "2002",
+      "pages": "896",
+      "source": "https://www.books.ru/books/javascript-spravochnik-cd-29663/",
+      "cover": "https://files.books.ru/pic/29001-30000/29663/29663.jpg"
+    },
+    {
+      "title": "JavaScript и DHTML. Сборник рецептов. Для профессионалов",
+      "isbn": "5947238179",
+      "publisher": "Питер",
+      "authorsRaw": "Д. Гудман",
+      "year": "2004",
+      "pages": "528",
+      "source": "https://www.books.ru/books/javascript-i-dhtml-sbornik-retseptov-dlya-professionalov-174416/",
+      "cover": "https://files.books.ru/pic/174001-175000/174416/174416.jpg"
+    },
+    {
+      "title": "JavaScript",
+      "isbn": "594157438X",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Марина Дмитриева",
+      "year": "2004",
+      "pages": "336",
+      "source": "https://www.books.ru/books/javascript-bystryi-start-30159/",
+      "cover": "https://files.books.ru/pic/148001-149000/148775/148775.jpg"
+    },
+    {
+      "title": "JavaScript: сборник рецептов для профессионалов",
+      "isbn": "5272001109",
+      "publisher": "Питер",
+      "authorsRaw": "Джерри Бранденбау",
+      "year": "2000",
+      "pages": "416",
+      "source": "https://www.books.ru/books/javascript-sbornik-retseptov-dlya-professionalov-6775/",
+      "cover": "https://files.books.ru/pic/6001-7000/6775/6775.jpg"
+    },
+    {
+      "title": "Learning Java (+CD). 2nd Edition",
+      "isbn": "0596002858",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Patrick Niemeyer J. Knudsen",
+      "year": "2002",
+      "pages": "800",
+      "source": "https://www.books.ru/books/learning-java-cd-2nd-edition-29477/",
+      "cover": "https://files.books.ru/pic/29001-30000/29477/29477.jpg"
+    },
+    {
+      "title": "Learning Java (+CD). 2nd Edition",
+      "isbn": "0596002858",
+      "publisher": "O'Reilly",
+      "authorsRaw": "Patrick Niemeyer J. Knudsen",
+      "year": "2002",
+      "pages": "800",
+      "source": "https://www.books.ru/books/learning-java-cd-23761/",
+      "cover": "https://files.books.ru/pic/29001-30000/29477/29477.jpg"
+    },
+    {
+      "title": "Professional Java XML Programming with Servlets and JSP. На английском языке",
+      "isbn": "1861002858",
+      "publisher": "Wrox Press Ltd",
+      "authorsRaw": "Alexander Nakhimovsky Tom Myers",
+      "year": "2001",
+      "pages": "772",
+      "source": "https://www.books.ru/books/professional-java-xml-programming-with-servlets-and-jsp-na-angliiskom-yazyke-15601/",
+      "cover": "https://files.books.ru/pic/15001-16000/15601/15601.jpg"
+    },
+    {
+      "title": "Pure Java 2. A Code-Intensive Premium Reference",
+      "isbn": "0672316544",
+      "publisher": "SAMS",
+      "authorsRaw": "Kenneth Litwak",
+      "year": "2000",
+      "pages": "790",
+      "source": "https://www.books.ru/books/pure-java-2-a-code-intensive-premium-reference-9081/",
+      "cover": "https://files.books.ru/pic/9001-10000/9081/9081.jpg"
+    },
+    {
+      "title": "Sams Teach Yourself Java 2 in 24 Hours, Third Edition",
+      "isbn": "0672324601",
+      "publisher": "Sams Pablishing",
+      "authorsRaw": "R. Cadenhead",
+      "year": "2002",
+      "pages": "552",
+      "source": "https://www.books.ru/books/sams-teach-yourself-java-2-in-24-hours-third-edition-120532/",
+      "cover": "https://files.books.ru/pic/120001-121000/120532/120532.jpg"
+    },
+    {
+      "title": "XML и Java 2. Библиотека программиста (+CD)",
+      "isbn": "5318001874",
+      "publisher": "Питер",
+      "authorsRaw": "Майкл С Даконта Альберт Дж. Саганич",
+      "year": "2001",
+      "pages": "384",
+      "source": "https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/",
+      "cover": "https://files.books.ru/pic/10001-11000/10868/10868.jpg"
+    },
+    {
+      "title": "Java 2. Библиотека профессионала. Том 2. Тонкости программирования",
+      "isbn": "9785845914828",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кей С. Хорстманн Г. Корнелл",
+      "year": "2008",
+      "pages": "992",
+      "source": "https://www.books.ru/books/biblioteka-professionala-java-2-tom-2-tonkosti-programmirovaniya-31169/",
+      "cover": "https://files.books.ru/pic/623001-624000/623009/000623009.jpg"
+    },
+    {
+      "title": "Java 2. Библиотека профессионала. Том 1. Основы",
+      "isbn": "9780132354769",
+      "publisher": null,
+      "authorsRaw": "Г. Корнелл Кей С. Хорстманн",
+      "year": "2008",
+      "pages": "816",
+      "source": "https://www.books.ru/books/biblioteka-professionala-java-2-tom-1-osnovy-82336/",
+      "cover": "https://files.books.ru/pic/627001-628000/627851/627851.jpg"
+    },
+    {
+      "title": "Введение в JAVA-технологию",
+      "isbn": "5020249858",
+      "publisher": "Наука",
+      "authorsRaw": "Владимир Сафонов",
+      "year": "2002",
+      "pages": "187",
+      "source": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/",
+      "cover": "https://files.books.ru/pic/36001-37000/36624/000036624.jpg"
+    },
+    {
+      "title": "Горький вкус Java",
+      "isbn": "5887823232",
+      "publisher": "Питер",
+      "authorsRaw": "Б. Тей",
+      "year": "2003",
+      "pages": "333",
+      "source": "https://www.books.ru/books/gorkii-vkus-java-86688/",
+      "cover": "https://files.books.ru/pic/86001-87000/86688/86688.jpg"
+    },
+    {
+      "title": "Интернет-программирование на Java",
+      "isbn": "5941572727",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Вадим Будилов",
+      "year": "2003",
+      "pages": "704",
+      "source": "https://www.books.ru/books/internet-programmirovanie-na-java-96700/",
+      "cover": "https://files.books.ru/pic/96001-97000/96700/000096700.jpg"
+    },
+    {
+      "title": "Использование JavaScript. Специальное издание",
+      "isbn": "5845902428",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Пол Мак-Федрис",
+      "year": "2002",
+      "pages": "896",
+      "source": "https://www.books.ru/books/ispolzovanie-javascript-spetsialnoe-izdanie-25000/",
+      "cover": "https://files.books.ru/pic/24001-25000/25000/25000.jpg"
+    },
+    {
+      "title": "Как программировать на Java.: Книга 1. Основы программирования",
+      "isbn": "5951800153",
+      "publisher": "Бином",
+      "authorsRaw": "Пол Дейтел Харви Дейтел",
+      "year": "2002",
+      "pages": "848",
+      "source": "https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/",
+      "cover": "https://files.books.ru/pic/86001-87000/86696/86696.jpg"
+    },
+    {
+      "title": "Основы программирования на языке Java",
+      "isbn": "5935170213",
+      "publisher": "Горячая Линия - Телеком",
+      "authorsRaw": "Валерий Маслов",
+      "year": "2000",
+      "pages": "132",
+      "source": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/",
+      "cover": "https://files.books.ru/pic/8001-9000/8502/8502.jpg"
+    },
+    {
+      "title": "Платформа .NET для Java-программистов",
+      "isbn": "5887822198",
+      "publisher": "Питер",
+      "authorsRaw": "П. Гиббонз",
+      "year": "2003",
+      "pages": "336",
+      "source": "https://www.books.ru/books/platforma-net-dlya-java-programmistov-82466/",
+      "cover": "https://files.books.ru/pic/82001-83000/82466/82466.jpg"
+    },
+    {
+      "title": "Применение шаблонов Java. Библиотека профессионала",
+      "isbn": "5845903394",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "С. Стелтинг Олав Маасен",
+      "year": "2002",
+      "pages": "576",
+      "source": "https://www.books.ru/books/primenenie-shablonov-java-biblioteka-professionala-30689/",
+      "cover": "https://files.books.ru/pic/30001-31000/30689/30689.jpg"
+    },
+    {
+      "title": "Программируем на языке Java",
+      "isbn": "5943870040",
+      "publisher": "Наука и техника",
+      "authorsRaw": "А.В. Картузов Д. Николенко",
+      "year": "2001",
+      "pages": "192",
+      "source": "https://www.books.ru/books/programmiruem-na-yazyke-java-62126/",
+      "cover": "https://files.books.ru/pic/62001-63000/62126/62126.jpg"
+    },
+    {
+      "title": "Программирование на Java 2",
+      "isbn": "9660314922",
+      "publisher": "АСТ",
+      "authorsRaw": "С.В. Глушаков",
+      "year": "2001",
+      "pages": "536",
+      "source": "https://www.books.ru/books/programmirovanie-na-java-2-23829/",
+      "cover": "https://files.books.ru/pic/23001-24000/23829/23829.jpg"
+    },
+    {
+      "title": "Разработка корпоративных Java-приложений с использованием J2EE и UML",
+      "isbn": "5845902991",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Кэри И. Амриш Хумаюн Ахмед",
+      "year": "2002",
+      "pages": "272",
+      "source": "https://www.books.ru/books/razrabotka-korporativnykh-java-prilozhenii-s-ispolzovaniem-j2ee-i-uml-28693/",
+      "cover": "https://files.books.ru/pic/28001-29000/28693/28693.jpg"
+    },
+    {
+      "title": "Самоучитель Java",
+      "isbn": "9785977501910",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Ильдар Хабибуллин",
+      "year": "2008",
+      "pages": "720",
+      "source": "https://www.books.ru/books/samouchitel-java-9498/",
+      "cover": "https://files.books.ru/pic/566001-567000/566768/000566768.jpg"
+    },
+    {
+      "title": "Самоучитель JavaScript",
+      "isbn": "9785388003317",
+      "publisher": "Питер",
+      "authorsRaw": "В.Ф. Дунаев",
+      "year": "2008",
+      "pages": "400",
+      "source": "https://www.books.ru/books/samouchitel-javascript-96652/",
+      "cover": "https://files.books.ru/pic/588001-589000/588545/588545.jpg"
+    },
+    {
+      "title": "Sun Certification Training Guide (310-025, 310-027): Java 2 Programmer and Developer Exams. На английском языке (+CD)",
+      "isbn": "078972765",
+      "publisher": "Que",
+      "authorsRaw": "Jamie Jaworski",
+      "year": "2002",
+      "pages": "675",
+      "source": "https://www.books.ru/books/sun-certification-training-guide-310-025-310-027-java-2-programmer-and-developer-exams-na-angliiskom-yazyke-cd-29284/",
+      "cover": "https://files.books.ru/pic/29001-30000/29284/29284.jpg"
+    },
+    {
+      "title": "Разработка приложений для электронной коммерции на Oracle8i и Java",
+      "isbn": "5845901146",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Меградж Заккар",
+      "year": "2000",
+      "pages": "336",
+      "source": "https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/",
+      "cover": "https://files.books.ru/pic/8001-9000/8647/8647.jpg"
+    },
+    {
+      "title": "Серверные приложения на языке Java",
+      "isbn": "5934551345",
+      "publisher": "СОЛОН-Р",
+      "authorsRaw": "Равиль Мухамедзянов",
+      "year": "2002",
+      "pages": "336",
+      "source": "https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/",
+      "cover": "https://files.books.ru/pic/25001-26000/25188/25188.jpg"
+    },
+    {
+      "title": "Система безопасности Java. Руководство разработчика",
+      "isbn": "5845901650",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Пол Дж. Перроун Джим Яворски",
+      "year": "2001",
+      "pages": "528",
+      "source": "https://www.books.ru/books/sistema-bezopasnosti-java-rukovodstvo-razrabotchika-11525/",
+      "cover": "https://files.books.ru/pic/11001-12000/11525/11525.jpg"
+    },
+    {
+      "title": "Создание распределенных приложений на Java 2",
+      "isbn": "5941571062",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Ильдар Хабибуллин",
+      "year": "2002",
+      "pages": "704",
+      "source": "https://www.books.ru/books/sozdanie-raspredelennykh-prilozhenii-na-java-2-28653/",
+      "cover": "https://files.books.ru/pic/28001-29000/28653/28653.jpg"
+    },
+    {
+      "title": "Создание корпоративных систем на основе Java 2 Enterprise Edition. Руководство разработчика (+ CD-ROM)",
+      "isbn": "5845901685",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Пол Дж. Перроун",
+      "year": "2001",
+      "pages": "1184",
+      "source": "https://www.books.ru/books/sozdanie-korporativnykh-sistem-na-osnove-java-2-enterprise-edition-rukovodstvo-razrabotchika--cd-rom-15435/",
+      "cover": "https://files.books.ru/pic/15001-16000/15435/15435.jpg"
+    },
+    {
+      "title": "Средства визуального проектирования на Java (+ CD-ROM)",
+      "isbn": "5779100799",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "",
+      "year": "1998",
+      "pages": "400",
+      "source": "https://www.books.ru/books/sredstva-vizualnogo-proektirovaniya-na-java--cd-rom-1371/",
+      "cover": "https://files.books.ru/pic/1001-2000/1371/1371.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2: Книга 2. Распределенные приложения",
+      "isbn": "9785951802781",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2008",
+      "pages": "464",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/",
+      "cover": "https://files.books.ru/pic/606001-607000/606463/606463.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2. Книга 3. Корпоративные системы, сервлеты, JSP, Web-сервисы",
+      "isbn": "595180034X",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2003",
+      "pages": "672",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/",
+      "cover": "https://files.books.ru/pic/86001-87000/86725/86725.jpg"
+    },
+    {
+      "title": "Технологии программирования на Java 2. Книга 1",
+      "isbn": "595180017",
+      "publisher": "Бином",
+      "authorsRaw": "Харви Дейтел Пол Дейтел С.И. Сантри",
+      "year": "2003",
+      "pages": "560",
+      "source": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-1-81633/",
+      "cover": "https://files.books.ru/pic/81001-82000/81633/81633.jpg"
+    },
+    {
+      "title": "Технология Java в подлиннике (с CD-ROM)",
+      "isbn": "5779100519",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Джои Вебер",
+      "year": "2000",
+      "pages": "1104",
+      "source": "https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/",
+      "cover": "https://files.books.ru/pic/1-1000/583/583.jpg"
+    },
+    {
+      "title": "Философия Java. Библиотека программиста. 4-е изд",
+      "isbn": "9785496009546",
+      "publisher": "Питер",
+      "authorsRaw": "Брюс Эккель Bruce Eckel",
+      "year": "2013",
+      "pages": "640",
+      "source": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/",
+      "cover": "https://files.books.ru/pic/3618001-3619000/3618273/541675673c.jpg"
+    },
+    {
+      "title": "Эффективная работа с Java 2",
+      "isbn": "966552007414",
+      "publisher": "Питер",
+      "authorsRaw": "Дэвид Бишоп",
+      "year": "2004",
+      "pages": "592",
+      "source": "https://www.books.ru/books/effektivnaya-rabota-java-2-24589/",
+      "cover": "https://files.books.ru/pic/233001-234000/233141/233141.jpg"
+    },
+    {
+      "title": "Язык программирования Java",
+      "isbn": "5845902150",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "К. Арнолд Д. Гослинг Доротея Холмс",
+      "year": "2001",
+      "pages": "624",
+      "source": "https://www.books.ru/books/yazyk-programmirovaniya-java-22059/",
+      "cover": "https://files.books.ru/pic/22001-23000/22059/22059.jpg"
+    },
+    {
+      "title": "Язык Java. Курс программирования. 2-е издание",
+      "isbn": "5845902770",
+      "publisher": "Вильямс/Диалектика",
+      "authorsRaw": "Уолтер Савитч",
+      "year": "2002",
+      "pages": "928",
+      "source": "https://www.books.ru/books/yazyk-java-kurs-programmirovaniya-2-e-izdanie-29564/",
+      "cover": "https://files.books.ru/pic/29001-30000/29564/29564.jpg"
+    },
+    {
+      "title": "Языки программирования Java и JavaScript",
+      "isbn": "585582036",
+      "publisher": "Лори",
+      "authorsRaw": "Питер Вейнер",
+      "year": "2007",
+      "pages": "243",
+      "source": "https://www.books.ru/books/yazyki-programmirovaniya-java-i-javascript-1220/",
+      "cover": "https://files.books.ru/pic/1001-2000/1220/1220.jpg"
+    },
+    {
+      "title": "Создание и обработка структур данных в примерах на Java",
+      "isbn": "5941570953",
+      "publisher": "BHV-СПб",
+      "authorsRaw": "Александр Кубенский",
+      "year": "2001",
+      "pages": "336",
+      "source": "https://www.books.ru/books/sozdanie-i-obrabotka-struktur-dannykh-v-primerakh-na-java-19719/",
+      "cover": "https://files.books.ru/pic/19001-20000/19719/19719.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "result": "passed",
+  "records": 281,
+  "included": 154,
+  "excluded": 127,
+  "pendingDiscoveries": 11,
+  "addedThisRound": 5,
+  "checks": [
+    "ISBN checksums, cover hashes and image decoding via build.py",
+    "154 included, 127 excluded, 109 visible groups",
+    "All requested ISBNs absent from selected XML and UI",
+    "Postgres/PostGIS/Clojure excluded; topic buttons and dropdown options removed",
+    "288 combined filter cases; Kafka and Hibernate retained; details closed by default",
+    "Four additional requested works excluded; selection filters passed",
+    "jsdom: ownership save/reload/remove, own-books + topic intersections, duplicate ISBN controls, corrupt/blocked localStorage",
+    "Five Russian covers for the Misc category reviewed; Misc button returns exactly five editions"
+  ],
+  "limitations": [
+    "Not exhaustive: university and historical publishing archives remain incomplete",
+    "93 additions use retailer bibliography; publisher attribution and dates may require imprint verification",
+    "Original 129 covers not all visually inspected",
+    "No database import or deployment"
+  ],
+  "galleryGroups": 109,
+  "multipleEditionGroups": 21,
+  "uiUpdatedAt": "2026-11-05",
+  "postgresEditions": 0,
+  "postgresGroups": 0,
+  "clojureEditions": 0
+}

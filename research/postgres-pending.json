@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Базы данных. PostgreSQL",
+    "isbn": "9785534220032",
+    "publisher": "Юрайт",
+    "authorsRaw": "Маркин А. В.",
+    "year": "2026",
+    "pages": "840",
+    "source": "https://www.books.ru/books/bazy-dannykh-postgresql-5662395/",
+    "cover": "https://www.books.ru/static/images/item_no_cover.png",
+    "reason": "Не найдена подходящая обложка для данного ISBN."
+  },
+  {
+    "title": "Базы данных. PostgreSQL 2-е изд. Учебник для СПО",
+    "isbn": "9785534220049",
+    "publisher": null,
+    "authorsRaw": "Маркин А. В.",
+    "year": "2026",
+    "pages": "840",
+    "source": "https://www.books.ru/books/bazy-dannykh-postgresql-2-e-izd-uchebnik-dlya-spo-5686176/",
+    "cover": "https://www.books.ru/static/images/item_no_cover.png",
+    "reason": "Не найдена подходящая обложка для данного ISBN."
+  },
+  {
+    "title": "PostgreSQL. Разработка баз данных. (Бакалавриат). Учебник",
+    "isbn": "9785466034103",
+    "publisher": "КноРус",
+    "authorsRaw": "Ванина М.Ф., Ерохин А.Г., Тутова Н.В., Осипов А.В., Плешакова Е.С., Гатауллин С.Т.",
+    "year": "2023",
+    "pages": "228",
+    "source": "https://www.books.ru/books/postgresql-razrabotka-baz-dannykh-bakalavriat-uchebnik-5433067/",
+    "cover": "https://www.books.ru/static/images/item_no_cover.png",
+    "reason": "Не найдена подходящая обложка для данного ISBN."
+  }
+]

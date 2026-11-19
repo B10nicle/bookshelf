@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<coverageAudit complete="false" candidatesResolved="21" added="21" needsReview="0">
+  <candidate status="added">
+    <title>Java на практике: от основ до корпоративных проектов</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785937004536</isbn>
+    <coverPath>covers/9785937004536.jpg</coverPath>
+  </candidate>
+  <candidate status="added-user-approved">
+    <title>Элегантный код Java: дженерики и коллекции</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9786011406482</isbn>
+    <coverPath>covers/9786011406482.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Kotlin в иллюстрациях</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785937003775</isbn>
+    <coverPath>covers/9785937003775.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Spring Security в действии</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785937002563</isbn>
+    <coverPath>covers/9785937002563.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Java: устранение проблем</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785937002150</isbn>
+    <coverPath>covers/9785937002150.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Spring в действии. Шестое издание</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785937001122</isbn>
+    <coverPath>covers/9785937001122.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Микросервисы Spring в действии</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970609712</isbn>
+    <coverPath>covers/9785970609712.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Предметно-ориентированное проектирование в Enterprise Java</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970608722</isbn>
+    <coverPath>covers/9785970608722.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Kotlin. Сборник рецептов</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970608838</isbn>
+    <coverPath>covers/9785970608838.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Практика реактивного программирования в Spring 5</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970607473</isbn>
+    <coverPath>covers/9785970607473.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Волшебство Kotlin</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970608012</isbn>
+    <coverPath>covers/9785970608012.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Java Persistence API и Hibernate</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970606742</isbn>
+    <coverPath>covers/9785970606742.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Современный Java: рецепты программирования</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970601341</isbn>
+    <coverPath>covers/9785970601341.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Kotlin в действии</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970604977</isbn>
+    <coverPath>covers/9785970604977.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Java 9. Полный обзор нововведений</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970605752</isbn>
+    <coverPath>covers/9785970605752.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Реактивное программирование с применением RxJava</title>
+    <publisher>ДМК Пресс</publisher>
+    <source>https://www.dmkpress.com/catalog/computer/programming/java/</source>
+    <evidence>publisher-category</evidence>
+    <isbn>9785970604960</isbn>
+    <coverPath>covers/9785970604960.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>LLVM: инфраструктура для разработки компиляторов</title>
+    <isbn>9785970603055</isbn>
+    <source>https://www.dmkpress.com/catalog/computer/programming/978-5-97060-305-5/</source>
+    <publisher>ДМК Пресс</publisher>
+    <evidence>publisher-product</evidence>
+    <coverPath>covers/9785970603055.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>LLVM 17: инфраструктура для разработки компиляторов</title>
+    <isbn>9785937003034</isbn>
+    <source>https://www.dmkpress.com/catalog/computer/programming/978-5-93700-303-4/</source>
+    <publisher>ДМК Пресс</publisher>
+    <evidence>publisher-product</evidence>
+    <coverPath>covers/9785937003034.jpg</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>SCALA для нетерпеливых. Второе издание</title>
+    <isbn>9785970608401</isbn>
+    <source>https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-840-1/</source>
+    <publisher>ДМК Пресс</publisher>
+    <evidence>publisher-product</evidence>
+    <coverPath>covers/9785970608401.webp</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Изучаем Java</title>
+    <isbn>9785699545742</isbn>
+    <source>https://eksmo.ru/amp/book/izuchaem-java-ITD185236/</source>
+    <publisher>Эксмо</publisher>
+    <evidence>publisher-product</evidence>
+    <coverPath>covers/9785699545742.webp</coverPath>
+  </candidate>
+  <candidate status="added">
+    <title>Программирование на Java</title>
+    <isbn>9785699715046</isbn>
+    <source>https://eksmo.ru/amp/book/programmirovanie-na-java-ITD311580/</source>
+    <publisher>Эксмо</publisher>
+    <evidence>publisher-product</evidence>
+    <coverPath>covers/9785699715046.webp</coverPath>
+  </candidate>
+</coverageAudit>

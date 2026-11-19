@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Основы программирования на языке Java. Учебное пособие для СПО, 2-е изд., стер",
+    "isbn": "9785507509812",
+    "isbnNormalized": "9785507509812",
+    "publisher": "Лань",
+    "authors": [
+      "И. В. Курбатова",
+      "А. В. Печкуров"
+    ],
+    "year": "2025",
+    "yearKind": "publisher-listed",
+    "pages": "348",
+    "url": "https://lanbook.ru/catalog/informatika/osnovy-programmirovaniya-na-yazyke-java/",
+    "coverSource": "https://lanbook.ru/catalog/informatika/osnovy-programmirovaniya-na-yazyke-java/",
+    "cover": "https://lanbook.ru/upload/resize_cache/iblock/9bc/330_469_2/w98r78i4cg4q3jbaou310m9kha9xn05x.jpg",
+    "coverSourceType": "publisher",
+    "coverPath": "covers/9785507509812.jpg",
+    "width": 330,
+    "height": 469,
+    "sha256": "19ba12f013f73111623dbd3b744ad1af863c981370b0ef0fea274085d9b2b079",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Русская обложка и ISBN сверены с карточкой источника."
+    ]
+  },
+  {
+    "title": "Реализация многопоточности в языке Java. Учебное пособие для вузов, 2-е изд., стер",
+    "isbn": "9785507527229",
+    "isbnNormalized": "9785507527229",
+    "publisher": "Лань",
+    "authors": [
+      "Л. А. Федоричев",
+      "О. В. Букунова"
+    ],
+    "year": "2025",
+    "yearKind": "publisher-listed",
+    "pages": "72",
+    "url": "https://lanbook.ru/catalog/informatika/realizatsiya-mnogopotochnosti-v-yazyke-java/",
+    "coverSource": "https://lanbook.ru/catalog/informatika/realizatsiya-mnogopotochnosti-v-yazyke-java/",
+    "cover": "https://lanbook.ru/upload/resize_cache/iblock/245/330_469_2/prw1bb03jvq52tc6oz2adusgv83vypnw.jpg",
+    "coverSourceType": "publisher",
+    "coverPath": "covers/9785507527229.jpg",
+    "width": 330,
+    "height": 469,
+    "sha256": "d6bdcaf416d27f3da3a0248222e38524dd62c4f4e7a840a35ca1bd973f672d0d",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed",
+    "sourceAccess": "publisher-page",
+    "notes": [],
+    "verificationNotes": [
+      "Русская обложка и ISBN сверены с карточкой источника."
+    ]
+  },
+  {
+    "title": "Spring в действии. Третье издание",
+    "isbn": "9785940745686",
+    "isbnNormalized": "9785940745686",
+    "publisher": "ДМК Пресс",
+    "authors": [
+      "Крейг Уоллс"
+    ],
+    "year": "2013",
+    "yearKind": "library-listed",
+    "pages": "752",
+    "url": "https://ibooks.ru/products/355261",
+    "coverSource": "https://ibooks.ru/products/355261",
+    "cover": "https://ibooks.ru/images/T/978-5-94074-568-6.jpg",
+    "coverSourceType": "library",
+    "coverPath": "covers/9785940745686.jpg",
+    "width": 807,
+    "height": 1182,
+    "sha256": "ecfd941c7986641bea2d1e4b8dd6a473f229ffb6c6e4d5f71aa00cb407c480a6",
+    "coverStatus": "downloaded",
+    "coverVerification": "russian-cover-and-isbn-matched",
+    "visualVerification": "russian-title-and-publisher-reviewed",
+    "sourceAccess": "library-page",
+    "notes": [],
+    "verificationNotes": [
+      "Русская обложка и ISBN сверены с карточкой источника."
+    ]
+  }
+]

@@ -1,0 +1,2750 @@
+[
+  {
+    "title": "Java и XML, 2-е издание",
+    "pages": "544",
+    "cover": "https://files.books.ru/pic/15001-16000/15403/000015403.jpg",
+    "coverPath": "covers/5932860189.jpg",
+    "width": 144,
+    "height": 189,
+    "sha256": "fe0fcd5c18ca54ea8f0139358f211b85e608997df35cc67d85765443ae6b72da",
+    "coverStatus": "downloaded",
+    "isbn": "5932860189",
+    "isbnNormalized": "5932860189",
+    "authors": [
+      "Бретт Мак-Лахлин"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/",
+    "metadataSource": "https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/",
+    "coverSource": "https://www.books.ru/books/java-i-xml-2-e-izdanie-15403/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java в примерах. Справочник",
+    "pages": "664",
+    "cover": "https://files.books.ru/pic/122001-123000/122922/000122922.jpg",
+    "coverPath": "covers/5932860421.jpg",
+    "width": 150,
+    "height": 212,
+    "sha256": "e9b199fdbc23bea8d00abcd2222305b244d0541c227dbc1a43834cda42511001",
+    "coverStatus": "downloaded",
+    "isbn": "5932860421",
+    "isbnNormalized": "5932860421",
+    "authors": [
+      "Дэвид Флэнаган"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2003",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-v-primerakh-spravochnik-122922/",
+    "metadataSource": "https://www.books.ru/books/java-v-primerakh-spravochnik-122922/",
+    "coverSource": "https://www.books.ru/books/java-v-primerakh-spravochnik-122922/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java и Corba в приложениях клиент-сервер. 2-е издание",
+    "pages": "717",
+    "cover": "https://files.books.ru/pic/7001-8000/7653/7653.jpg",
+    "coverPath": "covers/5855820920.jpg",
+    "width": 144,
+    "height": 196,
+    "sha256": "69d56d9420fbc33c513b5e4f1fb20afa10b1a0c3391834aaac6b1794a1d611b2",
+    "coverStatus": "downloaded",
+    "isbn": "5855820920",
+    "isbnNormalized": "5855820920",
+    "authors": [
+      "Роберт Орфали",
+      "Дэн Харки"
+    ],
+    "publisher": "Лори",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/",
+    "metadataSource": "https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/",
+    "coverSource": "https://www.books.ru/books/java-i-corba-v-prilozheniyakh-klient-server-2-e-izdanie-7653/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Справочник, 4-е издание",
+    "pages": "1040",
+    "cover": "https://files.books.ru/pic/143001-144000/143941/143941.jpg",
+    "coverPath": "covers/5932860677.jpg",
+    "width": 150,
+    "height": 214,
+    "sha256": "85ca2593218b31a268eb001b1b8f2136d1c2230af63495c7d6e61bd311164cc3",
+    "coverStatus": "downloaded",
+    "isbn": "5932860677",
+    "isbnNormalized": "5932860677",
+    "authors": [
+      "Дэвид Флэнаган"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2004",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/",
+    "metadataSource": "https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/",
+    "coverSource": "https://www.books.ru/books/java-spravochnik-4-e-izdanie-143941/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Разработка бизнес-приложений с помощью Java 2",
+    "pages": "284",
+    "cover": "https://files.books.ru/pic/30001-31000/30326/30326.jpg",
+    "coverPath": "covers/5855821846.jpg",
+    "width": 144,
+    "height": 202,
+    "sha256": "212ed4ae070b884c2a92c9bfbea23f6eca4c788fc82e208674c5f600b8cbbf74",
+    "coverStatus": "downloaded",
+    "isbn": "5855821846",
+    "isbnNormalized": "5855821846",
+    "authors": [
+      "Н. Кассем",
+      "разработки бизнес-приложений Группа"
+    ],
+    "publisher": "Лори",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/",
+    "metadataSource": "https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/",
+    "coverSource": "https://www.books.ru/books/razrabotka-biznes-prilozhenii-s-pomoshchyu-java-2-30326/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Язык Java и Microsoft Visual J++ в действии",
+    "pages": "382",
+    "cover": "https://files.books.ru/pic/21001-22000/21274/000021274.jpg",
+    "coverPath": "covers/5935170655.jpg",
+    "width": 144,
+    "height": 205,
+    "sha256": "280f6a16a83cd1364d0a435cc9ca9db79b69eb1ba78cce0696a322dc4c57525f",
+    "coverStatus": "downloaded",
+    "isbn": "5935170655",
+    "isbnNormalized": "5935170655",
+    "authors": [
+      "Т. Дадашев"
+    ],
+    "publisher": "Горячая линия — Телеком",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/",
+    "metadataSource": "https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/",
+    "coverSource": "https://www.books.ru/books/yazyk-java-i-microsoft-visual-j-v-deistvii-21274/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Enterprise Javabeans",
+    "pages": "672",
+    "cover": "https://files.books.ru/pic/27001-28000/27550/27550.jpg",
+    "coverPath": "covers/5932860413.jpg",
+    "width": 144,
+    "height": 202,
+    "sha256": "4c142eb20fbe022f9e733388e90b8ff3047f8c1f3e2c0df9cb2285b8b230183b",
+    "coverStatus": "downloaded",
+    "isbn": "5932860413",
+    "isbnNormalized": "5932860413",
+    "authors": [
+      "Ричард Монсон-Хейфел"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/enterprise-javabeans-27550/",
+    "metadataSource": "https://www.books.ru/books/enterprise-javabeans-27550/",
+    "coverSource": "https://www.books.ru/books/enterprise-javabeans-27550/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java 2 Enterprise",
+    "pages": "240",
+    "cover": "https://files.books.ru/pic/27001-28000/27831/27831.jpg",
+    "coverPath": "covers/5933780375.jpg",
+    "width": 144,
+    "height": 206,
+    "sha256": "d296c5bcff460f71ab98b59dcbcc7583bb723ceace01f020de411afe4609bd16",
+    "coverStatus": "downloaded",
+    "isbn": "5933780375",
+    "isbnNormalized": "5933780375",
+    "authors": [
+      "Николай Смирнов"
+    ],
+    "publisher": "КУДИЦ-ОБРАЗ",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-2-enterprise-27831/",
+    "metadataSource": "https://www.books.ru/books/java-2-enterprise-27831/",
+    "coverSource": "https://www.books.ru/books/java-2-enterprise-27831/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java 2. Руководство разработчика (+CD)",
+    "pages": "720",
+    "cover": "https://files.books.ru/pic/4001-5000/4679/4679.jpg",
+    "coverPath": "covers/5845900468.jpg",
+    "width": 144,
+    "height": 212,
+    "sha256": "5d0e9d858f822eded9160252bcdd8763e9002b2c63ee04a7141ae9698cf378a1",
+    "coverStatus": "downloaded",
+    "isbn": "5845900468",
+    "isbnNormalized": "5845900468",
+    "authors": [
+      "Майкл Морган"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/",
+    "metadataSource": "https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/",
+    "coverSource": "https://www.books.ru/books/java-2-rukovodstvo-razrabotchika-cd-4679/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java 2: учебное пособие",
+    "pages": "320",
+    "cover": "https://files.books.ru/pic/12001-13000/12934/12934.jpg",
+    "coverPath": "covers/5867090736.jpg",
+    "width": 144,
+    "height": 206,
+    "sha256": "a5b96d31b91502fd40559c412bbafb040ea1b1c3ad1927827a176e2da6768446",
+    "coverStatus": "downloaded",
+    "isbn": "5867090736",
+    "isbnNormalized": "5867090736",
+    "authors": [
+      "Николай Смирнов"
+    ],
+    "publisher": "Три Л",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-2-uchebnoe-posobie-12934/",
+    "metadataSource": "https://www.books.ru/books/java-2-uchebnoe-posobie-12934/",
+    "coverSource": "https://www.books.ru/books/java-2-uchebnoe-posobie-12934/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java Server Pages. Библиотека профессионала",
+    "pages": "448",
+    "cover": "https://files.books.ru/pic/27001-28000/27912/27912.jpg",
+    "coverPath": "covers/5845902908.jpg",
+    "width": 144,
+    "height": 203,
+    "sha256": "52510edfa3ee70992b3dac387a567f64a823dab2201b7367921383ab9a4f016b",
+    "coverStatus": "downloaded",
+    "isbn": "5845902908",
+    "isbnNormalized": "5845902908",
+    "authors": [
+      "Дэвид Гери"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/",
+    "metadataSource": "https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/",
+    "coverSource": "https://www.books.ru/books/java-server-pages-biblioteka-professionala-27912/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Эффективное программирование",
+    "pages": "224",
+    "cover": "https://files.books.ru/pic/29001-30000/29600/29600.jpg",
+    "coverPath": "covers/5855821692.jpg",
+    "width": 144,
+    "height": 199,
+    "sha256": "5de208ce91779e70775ad51c2994b650f8ab9afe30f27a33e0e934a392670744",
+    "coverStatus": "downloaded",
+    "isbn": "5855821692",
+    "isbnNormalized": "5855821692",
+    "authors": [
+      "Джошуа Блох"
+    ],
+    "publisher": "Лори",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/",
+    "metadataSource": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/",
+    "coverSource": "https://www.books.ru/books/java-effektivnoe-programmirovanie-29600/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Сборник рецептов для профессионалов",
+    "pages": "768",
+    "cover": "https://files.books.ru/pic/27001-28000/27859/27859.jpg",
+    "coverPath": "covers/5318007481.jpg",
+    "width": 144,
+    "height": 207,
+    "sha256": "47793e3891c4f061e134d7aa0c3710198d2643b9a5ec36a038d39755d23a5934",
+    "coverStatus": "downloaded",
+    "isbn": "5318007481",
+    "isbnNormalized": "5318007481",
+    "authors": [
+      "Ян Ф. Дарвин"
+    ],
+    "publisher": "Питер",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/",
+    "metadataSource": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/",
+    "coverSource": "https://www.books.ru/books/java-sbornik-retseptov-dlya-professionalov-27859/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java: основы Web-служб",
+    "pages": "464",
+    "cover": "https://files.books.ru/pic/155001-156000/155117/155117.jpg",
+    "coverPath": "covers/5933780928.jpg",
+    "width": 150,
+    "height": 215,
+    "sha256": "62d94aff9725fc112cdf0f213c0d79957c22f6a1d1534a7f5c24cfb5a890d934",
+    "coverStatus": "downloaded",
+    "isbn": "5933780928",
+    "isbnNormalized": "5933780928",
+    "authors": [
+      "Андре Тост"
+    ],
+    "publisher": "КУДИЦ-ОБРАЗ",
+    "year": "2004",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-osnovy-web-sluzhb-155117/",
+    "metadataSource": "https://www.books.ru/books/java-osnovy-web-sluzhb-155117/",
+    "coverSource": "https://www.books.ru/books/java-osnovy-web-sluzhb-155117/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Javabeans",
+    "pages": "327",
+    "cover": "https://files.books.ru/pic/2001-3000/2141/2141.jpg",
+    "coverPath": "covers/5855820491.jpg",
+    "width": 144,
+    "height": 204,
+    "sha256": "d1b53e9fb2f7413049b3692415955d9893421b8b993f43dc9beba8859b0d3822",
+    "coverStatus": "downloaded",
+    "isbn": "5855820491",
+    "isbnNormalized": "5855820491",
+    "authors": [
+      "Эллиот Гарольд"
+    ],
+    "publisher": "Лори",
+    "year": "1999",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/javabeans-2141/",
+    "metadataSource": "https://www.books.ru/books/javabeans-2141/",
+    "coverSource": "https://www.books.ru/books/javabeans-2141/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "XML и Java 2. Библиотека программиста (+CD)",
+    "pages": "384",
+    "cover": "https://files.books.ru/pic/10001-11000/10868/10868.jpg",
+    "coverPath": "covers/5318001874.jpg",
+    "width": 144,
+    "height": 199,
+    "sha256": "9fffcb07b1938198db336a3ff490e426d9d10b6e692f7b3cb85fd4c5ffbc4766",
+    "coverStatus": "downloaded",
+    "isbn": "5318001874",
+    "isbnNormalized": "5318001874",
+    "authors": [
+      "Майкл С Даконта",
+      "Альберт Дж. Саганич"
+    ],
+    "publisher": "Питер",
+    "year": "2001",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/",
+    "metadataSource": "https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/",
+    "coverSource": "https://www.books.ru/books/xml-i-java-2-biblioteka-programmista-cd-10868/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Введение в JAVA-технологию",
+    "pages": "187",
+    "cover": "https://files.books.ru/pic/36001-37000/36624/000036624.jpg",
+    "coverPath": "covers/5020249858.jpg",
+    "width": 144,
+    "height": 222,
+    "sha256": "41dbd8895c2c196ba231434ed3b7b68d5fa70af007f51205e249060f335959d3",
+    "coverStatus": "downloaded",
+    "isbn": "5020249858",
+    "isbnNormalized": "5020249858",
+    "authors": [
+      "Владимир Сафонов"
+    ],
+    "publisher": "Наука",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/",
+    "metadataSource": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/",
+    "coverSource": "https://www.books.ru/books/vvedenie-v-java-tekhnologiyu-36624/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Горький вкус Java",
+    "pages": "333",
+    "cover": "https://files.books.ru/pic/86001-87000/86688/86688.jpg",
+    "coverPath": "covers/5887823232.jpg",
+    "width": 150,
+    "height": 219,
+    "sha256": "a5f8f758b13c95f13d55c353c015c7585bae17d4989e74c4ebbe7618ab9ffff2",
+    "coverStatus": "downloaded",
+    "isbn": "5887823232",
+    "isbnNormalized": "5887823232",
+    "authors": [
+      "Б. Тей"
+    ],
+    "publisher": "Питер",
+    "year": "2003",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/gorkii-vkus-java-86688/",
+    "metadataSource": "https://www.books.ru/books/gorkii-vkus-java-86688/",
+    "coverSource": "https://www.books.ru/books/gorkii-vkus-java-86688/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Как программировать на Java.: Книга 1. Основы программирования",
+    "pages": "848",
+    "cover": "https://files.books.ru/pic/86001-87000/86696/86696.jpg",
+    "coverPath": "covers/5951800153.jpg",
+    "width": 150,
+    "height": 217,
+    "sha256": "2e14cd11e5465338b75e5418473ddc1c41b6fe5bb58a32bf48e86ac0fc0c4bab",
+    "coverStatus": "downloaded",
+    "isbn": "5951800153",
+    "isbnNormalized": "5951800153",
+    "authors": [
+      "Пол Дейтел",
+      "Харви Дейтел"
+    ],
+    "publisher": "Бином",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/",
+    "metadataSource": "https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/",
+    "coverSource": "https://www.books.ru/books/kak-programmirovat-na-java-kniga-1-osnovy-programmirovaniya-86696/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Основы программирования на языке Java",
+    "pages": "132",
+    "cover": "https://files.books.ru/pic/8001-9000/8502/8502.jpg",
+    "coverPath": "covers/5935170213.jpg",
+    "width": 144,
+    "height": 212,
+    "sha256": "0496c982f5ff967b44597925ead6df650466d16ff18c01e60456ecf025f23330",
+    "coverStatus": "downloaded",
+    "isbn": "5935170213",
+    "isbnNormalized": "5935170213",
+    "authors": [
+      "Валерий Маслов"
+    ],
+    "publisher": "Горячая линия — Телеком",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/",
+    "metadataSource": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/",
+    "coverSource": "https://www.books.ru/books/osnovy-programmirovaniya-na-yazyke-java-8502/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Программируем на языке Java",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/62001-63000/62126/62126.jpg",
+    "coverPath": "covers/5943870040.jpg",
+    "width": 150,
+    "height": 208,
+    "sha256": "5747aa061c5757e712a759657afb54183cc30f5b3e3e6a4cb80d678c7e44d664",
+    "coverStatus": "downloaded",
+    "isbn": "5943870040",
+    "isbnNormalized": "5943870040",
+    "authors": [
+      "А.В. Картузов",
+      "Д. Николенко"
+    ],
+    "publisher": "Наука и техника",
+    "year": "2001",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/programmiruem-na-yazyke-java-62126/",
+    "metadataSource": "https://www.books.ru/books/programmiruem-na-yazyke-java-62126/",
+    "coverSource": "https://www.books.ru/books/programmiruem-na-yazyke-java-62126/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Разработка приложений для электронной коммерции на Oracle8i и Java",
+    "pages": "336",
+    "cover": "https://files.books.ru/pic/8001-9000/8647/8647.jpg",
+    "coverPath": "covers/5845901146.jpg",
+    "width": 144,
+    "height": 204,
+    "sha256": "c36fb91170d679cd1238ada1402d99a3961e0f55032460ab17852105dbcdeb54",
+    "coverStatus": "downloaded",
+    "isbn": "5845901146",
+    "isbnNormalized": "5845901146",
+    "authors": [
+      "Меградж Заккар"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/",
+    "metadataSource": "https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/",
+    "coverSource": "https://www.books.ru/books/razrabotka-prilozhenii-dlya-elektronnoi-kommertsii-na-oracle8i-i-java-8647/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Серверные приложения на языке Java",
+    "pages": "336",
+    "cover": "https://files.books.ru/pic/25001-26000/25188/25188.jpg",
+    "coverPath": "covers/5934551345.jpg",
+    "width": 144,
+    "height": 209,
+    "sha256": "804c61b977ebd6f1f1e1d289979ddaabe7c820069452351501e1c7522467be13",
+    "coverStatus": "downloaded",
+    "isbn": "5934551345",
+    "isbnNormalized": "5934551345",
+    "authors": [
+      "Равиль Мухамедзянов"
+    ],
+    "publisher": "СОЛОН-Р",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/",
+    "metadataSource": "https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/",
+    "coverSource": "https://www.books.ru/books/servernye-prilozheniya-na-yazyke-java-25188/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Технологии программирования на Java 2: Книга 2. Распределенные приложения",
+    "pages": "464",
+    "cover": "https://files.books.ru/pic/606001-607000/606463/606463.jpg",
+    "coverPath": "covers/9785951802781.jpg",
+    "width": 200,
+    "height": 286,
+    "sha256": "96a8e3c044807e143b062db7475a05a33c4f254246a048f6dc982d0a06c755f3",
+    "coverStatus": "downloaded",
+    "isbn": "9785951802781",
+    "isbnNormalized": "9785951802781",
+    "authors": [
+      "Харви Дейтел",
+      "Пол Дейтел",
+      "С.И. Сантри"
+    ],
+    "publisher": "Бином",
+    "year": "2008",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/",
+    "metadataSource": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/",
+    "coverSource": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-2-raspredelennye-prilozheniya-92567/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Технологии программирования на Java 2. Книга 3. Корпоративные системы, сервлеты, JSP, Web-сервисы",
+    "pages": "672",
+    "cover": "https://files.books.ru/pic/86001-87000/86725/86725.jpg",
+    "coverPath": "covers/595180034X.jpg",
+    "width": 150,
+    "height": 216,
+    "sha256": "84244163fb38606e5cc7df34f97dddf38747adb0e5d895ccb43fa55bae9e7307",
+    "coverStatus": "downloaded",
+    "isbn": "595180034X",
+    "isbnNormalized": "595180034X",
+    "authors": [
+      "Харви Дейтел",
+      "Пол Дейтел",
+      "С.И. Сантри"
+    ],
+    "publisher": "Бином",
+    "year": "2003",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/",
+    "metadataSource": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/",
+    "coverSource": "https://www.books.ru/books/tekhnologii-programmirovaniya-na-java-2-kniga-3-korporativnye-sistemy-servlety-jsp-web-servisy-86725/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Технология Java в подлиннике (с CD-ROM)",
+    "pages": "1104",
+    "cover": "https://files.books.ru/pic/1-1000/583/583.jpg",
+    "coverPath": "covers/5779100519.jpg",
+    "width": 144,
+    "height": 216,
+    "sha256": "739aded4269ada3dd0a855666964c77fe3c7a81416b6ea6cc320dfd391b538c2",
+    "coverStatus": "downloaded",
+    "isbn": "5779100519",
+    "isbnNormalized": "5779100519",
+    "authors": [
+      "Джои Вебер"
+    ],
+    "publisher": "БХВ-Петербург",
+    "year": "2000",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/",
+    "metadataSource": "https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/",
+    "coverSource": "https://www.books.ru/books/tekhnologiya-java-v-podlinnike-s-cd-rom-583/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Философия Java. Библиотека программиста. 4-е изд",
+    "pages": "640",
+    "cover": "https://files.books.ru/pic/3618001-3619000/3618273/541675673c.jpg",
+    "coverPath": "covers/9785496009546.jpg",
+    "width": 248,
+    "height": 354,
+    "sha256": "f0e39c7b214c046bdce60bd9c1fa05f5072f992725f5240fd48462eb1ead2cf8",
+    "coverStatus": "downloaded",
+    "isbn": "9785496009546",
+    "isbnNormalized": "9785496009546",
+    "authors": [
+      "Брюс Эккель"
+    ],
+    "publisher": "Питер",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/",
+    "metadataSource": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/",
+    "coverSource": "https://www.books.ru/books/filosofiya-java-biblioteka-programmista-3-e-izdanie-121331/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Kotlin. Основы программирования. Руководство по разработке в примерах от сообщества Stack Overflow",
+    "pages": "128",
+    "cover": "https://files.books.ru/pic/5602001-5603000/5602949/2128755935c.jpg",
+    "coverPath": "covers/9785171747534.jpg",
+    "width": 600,
+    "height": 870,
+    "sha256": "f461314e2839dd30cfddfa36680dac8084e4a5991466017634888028bb1347d6",
+    "coverStatus": "downloaded",
+    "isbn": "9785171747534",
+    "isbnNormalized": "9785171747534",
+    "authors": [
+      "Сообщество Stack Overflow"
+    ],
+    "publisher": "АСТ",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://lib.dm-centre.ru/lib/gpntb/?e_rub=Программирования+языки+--+Kotlin&e_viewdb=ESVODT",
+    "metadataSource": "https://www.books.ru/books/kotlin-osnovy-programmirovaniya-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5602949/",
+    "coverSource": "https://www.books.ru/books/kotlin-osnovy-programmirovaniya-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5602949/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Kotlin. Руководство для начинающих программистов",
+    "pages": "464",
+    "cover": "https://files.books.ru/pic/5070001-5071000/5070839/005070839.jpg",
+    "coverPath": "covers/9785446113354.jpg",
+    "width": 150,
+    "height": 174,
+    "sha256": "1082421f7bf3db22736c14c9656ce5bf57dbc2a38042e64f5e5fc19a540be3f9",
+    "coverStatus": "downloaded",
+    "isbn": "9785446113354",
+    "isbnNormalized": "9785446113354",
+    "authors": [
+      "Дон Гриффитс",
+      "Дэвид Гриффитс"
+    ],
+    "publisher": "Питер",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/",
+    "metadataSource": "https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/",
+    "coverSource": "https://www.books.ru/books/kotlin-rukovodstvo-dlya-nachinayushchikh-programmistov-5070839/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Kotlin. Программирование для профессионалов",
+    "pages": "464",
+    "cover": "https://files.books.ru/pic/5044001-5045000/5044822/449620254c.jpg",
+    "coverPath": "covers/9785446112432.jpg",
+    "width": 248,
+    "height": 350,
+    "sha256": "666219bca60de0121c01c5bc2446f435deeba2343094917739f4a250175ac0fd",
+    "coverStatus": "downloaded",
+    "isbn": "9785446112432",
+    "isbnNormalized": "9785446112432",
+    "authors": [
+      "Джош Скин",
+      "Дэвид Гринхол"
+    ],
+    "publisher": "Питер",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/",
+    "metadataSource": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/",
+    "coverSource": "https://www.books.ru/books/kotlin-programmirovanie-dlya-professionalov-5044822/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Разработка мобильных приложений на языке Kotlin. Учебное пособие для вузов",
+    "pages": "104",
+    "cover": "https://files.books.ru/pic/5521001-5522000/5521657/5521657_c5ccaa85_c.jpg",
+    "coverPath": "covers/9785507491865.jpg",
+    "width": 178,
+    "height": 267,
+    "sha256": "3cc7eed17e5964974ffdd6f0eb5f5f979a606c7c94235def2786ccf735f7452f",
+    "coverStatus": "downloaded",
+    "isbn": "9785507491865",
+    "isbnNormalized": "9785507491865",
+    "authors": [
+      "Петросян Л. Э.",
+      "Гусев К. В."
+    ],
+    "publisher": "Лань",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/",
+    "metadataSource": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/",
+    "coverSource": "https://www.books.ru/books/razrabotka-mobilnykh-prilozhenii-na-yazyke-kotlin-uchebnoe-posobie-dlya-vuzov-5521657/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Конкурентное программирование на SCALA",
+    "pages": "342",
+    "cover": "https://files.books.ru/pic/4777001-4778000/4777290/854506953c.jpg",
+    "coverPath": "covers/9785970605721.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "b407b113c2351e9c1e4143a8a0fd2ea09c290a1f0cc3319310cf4745389503a8",
+    "coverStatus": "downloaded",
+    "isbn": "9785970605721",
+    "isbnNormalized": "9785970605721",
+    "authors": [
+      "Александр Прокопец"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/functional/978-5-97060-572-1/",
+    "metadataSource": "https://www.books.ru/books/konkurentnoe-programmirovanie-na-scala-4777290/",
+    "coverSource": "https://www.books.ru/books/konkurentnoe-programmirovanie-na-scala-4777290/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Библиотека профессионала, том 2. Расширенные средства программирования, 11-е издание",
+    "pages": "864",
+    "cover": "https://files.books.ru/pic/5104001-5105000/5104645/353614365c.jpg",
+    "coverPath": "covers/9785907144385.jpg",
+    "width": 428,
+    "height": 622,
+    "sha256": "ab273a8fd9ac3588df5b63beea62cc0a5361c733e2f47c75e5d87a523f3b4fa7",
+    "coverStatus": "downloaded",
+    "isbn": "9785907144385",
+    "isbnNormalized": "9785907144385",
+    "authors": [
+      "Кей С. Хорстманн"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/",
+    "metadataSource": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/",
+    "coverSource": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-11-e-izdanie-5104645/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "SCALA для нетерпеливых. Второе издание",
+    "pages": "414",
+    "cover": "https://files.books.ru/pic/4738001-4739000/4738272/1213526128c.jpg",
+    "coverPath": "covers/9785970605363.jpg",
+    "width": 300,
+    "height": 400,
+    "sha256": "e972a673728a7b4d07535d4403eb7d7ae8fe3ab5cb76e0b9cd4dc8b42b865989",
+    "coverStatus": "downloaded",
+    "isbn": "9785970605363",
+    "isbnNormalized": "9785970605363",
+    "authors": [
+      "Кей С. Хорстманн"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2017",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/",
+    "metadataSource": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/",
+    "coverSource": "https://www.books.ru/books/scala-dlya-neterpelivykh-vtoroe-izdanie-4738272/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "SCALA для нетерпеливых",
+    "pages": "408",
+    "cover": "https://files.books.ru/pic/4228001-4229000/4228040/004228040.jpg",
+    "coverPath": "covers/9785970603031.jpg",
+    "width": 150,
+    "height": 211,
+    "sha256": "f524d64c7534fbbfea7dd1bd6e8737c07704fc527b79d0799ce965275dbc1ca6",
+    "coverStatus": "downloaded",
+    "isbn": "9785970603031",
+    "isbnNormalized": "9785970603031",
+    "authors": [
+      "Хорстманн Кей С."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2015",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/",
+    "metadataSource": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/",
+    "coverSource": "https://www.books.ru/books/scala-dlya-neterpelivykh-4228040/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Scala. Профессиональное программирование",
+    "pages": "688",
+    "cover": "https://files.books.ru/pic/4794001-4795000/4794902/176282324c.jpg",
+    "coverPath": "covers/9785496029513.jpg",
+    "width": 337,
+    "height": 480,
+    "sha256": "647eac181f07d53cd12a731a3fdae6bee9511a3649ea1025f88ad92b46b50eb6",
+    "coverStatus": "downloaded",
+    "isbn": "9785496029513",
+    "isbnNormalized": "9785496029513",
+    "authors": [
+      "Мартин Одерски",
+      "Лекс Спун",
+      "Билл Веннерс"
+    ],
+    "publisher": "Питер",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/",
+    "metadataSource": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/",
+    "coverSource": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4794902/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.",
+      "В карточке магазина указано 688 страниц; объём третьего издания требует уточнения."
+    ]
+  },
+  {
+    "title": "Scala. Профессиональное программирование. 4-е изд",
+    "pages": "720",
+    "cover": "https://files.books.ru/pic/5260001-5261000/5260242/005260242.jpg",
+    "coverPath": "covers/9785446118274.jpg",
+    "width": 150,
+    "height": 213,
+    "sha256": "882948bdae363db714a9c6dcecc73e8e94279c8cb4b736541c9155116ce10d1e",
+    "coverStatus": "downloaded",
+    "isbn": "9785446118274",
+    "isbnNormalized": "9785446118274",
+    "authors": [
+      "Мартин Одерски",
+      "Лекс Спун",
+      "Билл Веннерс"
+    ],
+    "publisher": "Питер",
+    "year": "2021",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/",
+    "metadataSource": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/",
+    "coverSource": "https://www.books.ru/books/scala-professionalnoe-programmirovanie-4-e-izd-5260242/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Функциональное программирование. SCALA для нетерпеливых",
+    "pages": "408",
+    "cover": "https://files.books.ru/pic/3322001-3323000/3322136/003322136.jpg",
+    "coverPath": "covers/9785940749202.jpg",
+    "width": 150,
+    "height": 209,
+    "sha256": "bea298745ca58c808bd20228ae246ab7bc57139c7c1d3804a08cdeec722742b8",
+    "coverStatus": "downloaded",
+    "isbn": "9785940749202",
+    "isbnNormalized": "9785940749202",
+    "authors": [
+      "Хорстман К."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/",
+    "metadataSource": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/",
+    "coverSource": "https://www.books.ru/books/funktsionalnoe-programmirovanie-scala-dlya-neterpelivykh-3322136/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Новое поколение разработки",
+    "pages": "560",
+    "cover": "https://files.books.ru/pic/3617001-3618000/3617419/779726990c.jpg",
+    "coverPath": "covers/9785496005449.jpg",
+    "width": 495,
+    "height": 700,
+    "sha256": "bf0b12a857ec57408b39cdb28c96ab66c17d0c5bef31dd75ff6804fe50c44566",
+    "coverStatus": "downloaded",
+    "isbn": "9785496005449",
+    "isbnNormalized": "9785496005449",
+    "authors": [
+      "Бенджамин Эванс",
+      "Мартин Вербург"
+    ],
+    "publisher": "Питер",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/",
+    "metadataSource": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/",
+    "coverSource": "https://www.books.ru/books/java-novoe-pokolenie-razrabotki-3617419/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Библиотека профессионала. Том 2. Расширенные средства программирования",
+    "pages": "1008",
+    "cover": "https://files.books.ru/pic/4272001-4273000/4272403/149977020c.jpg",
+    "coverPath": "covers/9785845920317.jpg",
+    "width": 800,
+    "height": 1049,
+    "sha256": "edd968ead40df40f07edd69b4083e5d06bd0a5a24e864ec466a0fa96f4d97719",
+    "coverStatus": "downloaded",
+    "isbn": "9785845920317",
+    "isbnNormalized": "9785845920317",
+    "authors": [
+      "Кей С. Хорстманн",
+      "Г. Корнелл"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2015",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/",
+    "metadataSource": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/",
+    "coverSource": "https://www.books.ru/books/java-biblioteka-professionala-tom-2-rasshirennye-sredstva-programmirovaniya-4272403/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Программирование в Clojure. Практика применения Lisp в мире Java",
+    "pages": "816",
+    "cover": "https://files.books.ru/pic/4293001-4294000/4293646/004293646.jpg",
+    "coverPath": "covers/9785940749257.jpg",
+    "width": 150,
+    "height": 217,
+    "sha256": "a2cda055002b11150a6c93b8cdefa6e335adac27a32ab800cfd0210b9a742e3a",
+    "coverStatus": "downloaded",
+    "isbn": "9785940749257",
+    "isbnNormalized": "9785940749257",
+    "authors": [
+      "Чаз Эмерик",
+      "Брайан Карпер",
+      "Кристоф Гранд"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/",
+    "metadataSource": "https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/",
+    "coverSource": "https://www.books.ru/books/programmirovanie-v-clojure-praktika-primeneniya-lisp-v-mire-java-4293646/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Программирование в Clojure",
+    "pages": "816",
+    "cover": "https://files.books.ru/pic/4235001-4236000/4235799/004235799.jpg",
+    "coverPath": "covers/9785970602997.jpg",
+    "width": 150,
+    "height": 217,
+    "sha256": "315964d7b4629243a72d2f7180c8a6021452ba54e6be28911a653a3593622129",
+    "coverStatus": "downloaded",
+    "isbn": "9785970602997",
+    "isbnNormalized": "9785970602997",
+    "authors": [
+      "Чаз Эмерик",
+      "Брайан Карпер",
+      "Кристоф Гранд"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2015",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/programmirovanie-v-clojure-4235799/",
+    "metadataSource": "https://www.books.ru/books/programmirovanie-v-clojure-4235799/",
+    "coverSource": "https://www.books.ru/books/programmirovanie-v-clojure-4235799/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Grails. Гибкость Groovy и надежность Java",
+    "pages": "656",
+    "cover": "https://files.books.ru/pic/740001-741000/740483/740483_1.jpg",
+    "coverPath": "covers/9785932861851.jpg",
+    "width": 315,
+    "height": 446,
+    "sha256": "04de8c3467650ecab847391a86e37ae37541cfe98fb7c7cd68682a2c7ef7f617",
+    "coverStatus": "downloaded",
+    "isbn": "9785932861851",
+    "isbnNormalized": "9785932861851",
+    "authors": [
+      "Глен Смит",
+      "Питер Ледбрук"
+    ],
+    "publisher": "Символ-Плюс",
+    "year": "2010",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/",
+    "metadataSource": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/",
+    "coverSource": "https://www.books.ru/books/grails-gibkost-groovy-i-nadezhnost-java-740483/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Groovy и Grails. Практические советы",
+    "pages": "408",
+    "cover": "https://files.books.ru/pic/773001-774000/773624/7508-150.jpg",
+    "coverPath": "covers/9785940746188.jpg",
+    "width": 150,
+    "height": 188,
+    "sha256": "e81f7c56e535bbab592293a46a476c31cdcab3a3ebb78c0643c5960e9a92004b",
+    "coverStatus": "downloaded",
+    "isbn": "9785940746188",
+    "isbnNormalized": "9785940746188",
+    "authors": [
+      "Башар Абдул-Джавад"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2010",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-618-8/",
+    "metadataSource": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/",
+    "coverSource": "https://www.books.ru/books/groovy-i-grails-prakticheskie-sovety-773624/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Разработка корпоративных приложений на JAVA в Groovy и Grails",
+    "pages": "408",
+    "cover": "https://files.books.ru/pic/1805001-1806000/1805523/1393457343c.jpg",
+    "coverPath": "covers/9785940748083.jpg",
+    "width": 205,
+    "height": 282,
+    "sha256": "566ae0b6031805652c0b1265c2084275f70453a0c914ceb58873c08e1664c203",
+    "coverStatus": "downloaded",
+    "isbn": "9785940748083",
+    "isbnNormalized": "9785940748083",
+    "authors": [
+      "Абдул-Джавад Башар"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2012",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/java/978-5-94074-808-3/",
+    "metadataSource": "https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/",
+    "coverSource": "https://www.books.ru/books/razrabotka-korporativnykh-prilozhenii-na-java-v-groovy-i-grails-1805523/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для вузов",
+    "pages": "176",
+    "cover": "https://files.books.ru/pic/5602001-5603000/5602386/5602386_e228f524_c.jpg",
+    "coverPath": "covers/9785507522903.jpg",
+    "width": 178,
+    "height": 267,
+    "sha256": "20b76d0e0afc4022ebdf91865215078388bc239cae273cb12db1e5f12fff6ccc",
+    "coverStatus": "downloaded",
+    "isbn": "9785507522903",
+    "isbnNormalized": "9785507522903",
+    "authors": [
+      "Золкин А. Л."
+    ],
+    "publisher": "Лань",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://lanbook.ru/catalog/informatika/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta/",
+    "metadataSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/",
+    "coverSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-vuzov-5602386/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Конструирование компиляторов: анализ и синтез в сфере искусственного интеллекта. Учебное пособие для СПО",
+    "pages": "176",
+    "cover": "https://files.books.ru/pic/5602001-5603000/5602387/5602387_52b272a5_c.jpg",
+    "coverPath": "covers/9785507522910.jpg",
+    "width": 178,
+    "height": 267,
+    "sha256": "f263102268757374d17462ff926a4be355d3a705e8fefd7aba3adb72d70ca55b",
+    "coverStatus": "downloaded",
+    "isbn": "9785507522910",
+    "isbnNormalized": "9785507522910",
+    "authors": [
+      "Золкин А. Л."
+    ],
+    "publisher": "Лань",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/",
+    "metadataSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/",
+    "coverSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-analiz-i-sintez-v-sfere-iskusstvennogo-intellekta-uchebnoe-posobie-dlya-spo-5602387/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Конструирование компиляторов. Основания и приложения",
+    "pages": "276",
+    "cover": "https://files.books.ru/pic/5613001-5614000/5613742/581496604c.jpg",
+    "coverPath": "covers/9785937003911.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "8e7cab3cc08b26f82284ae0f1d2131868c3367942b17f299edfcc891fd1eefb6",
+    "coverStatus": "downloaded",
+    "isbn": "9785937003911",
+    "isbnNormalized": "9785937003911",
+    "authors": [
+      "Ханспетер Мёссенбёк"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-391-1/",
+    "metadataSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-5613742/",
+    "coverSource": "https://www.books.ru/books/konstruirovanie-kompilyatorov-5613742/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Создание компиляторов: инженерный подход",
+    "pages": "854",
+    "cover": "https://files.books.ru/pic/5632001-5633000/5632524/1354463639c.jpg",
+    "coverPath": "covers/9785937004284.jpg",
+    "width": 450,
+    "height": 600,
+    "sha256": "145a5045a7f42d57c29086f014c3deab6673bd64eeb469edd65dacb06518fce0",
+    "coverStatus": "downloaded",
+    "isbn": "9785937004284",
+    "isbnNormalized": "9785937004284",
+    "authors": [
+      "Кит Д. Купер",
+      "Линда Торкзон"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2026",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-428-4/",
+    "metadataSource": "https://www.books.ru/books/sozdanie-kompilyatorov-inzhenernyi-podkhod-5632524/",
+    "coverSource": "https://www.books.ru/books/sozdanie-kompilyatorov-inzhenernyi-podkhod-5632524/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж.",
+      "854 страницы по карточке ДМК; в Books.ru указано 850."
+    ]
+  },
+  {
+    "title": "Построение компиляторов. Второе издание",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/4321001-4322000/4321852/2132227052c.png",
+    "coverPath": "covers/9785970602195.png",
+    "width": 800,
+    "height": 1112,
+    "sha256": "6fab851dea1f813fb16250b6e5b411015542870a7bb807aa22cac628e765e4c5",
+    "coverStatus": "downloaded",
+    "isbn": "9785970602195",
+    "isbnNormalized": "9785970602195",
+    "authors": [
+      "Никлаус Вирт"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2016",
+    "yearKind": "retailer-listed",
+    "url": "https://www.rucont.ru/efd/836519",
+    "metadataSource": "https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/",
+    "coverSource": "https://www.books.ru/books/postroenie-kompilyatorov-vtoroe-izdanie-4321852/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Оптимизирующие компиляторы. Структура и алгоритмы",
+    "pages": "272",
+    "cover": "https://files.books.ru/pic/5557001-5558000/5557351/005557351.jpg",
+    "coverPath": "covers/9785171679651.jpg",
+    "width": 600,
+    "height": 870,
+    "sha256": "7b6069cac3844aac16e0dd7f08531f62957390309ea269b777633199140ba358",
+    "coverStatus": "downloaded",
+    "isbn": "9785171679651",
+    "isbnNormalized": "9785171679651",
+    "authors": [
+      "Константин Владимиров"
+    ],
+    "publisher": "АСТ",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/",
+    "metadataSource": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/",
+    "coverSource": "https://www.books.ru/books/optimiziruyushchie-kompilyatory-struktura-i-algoritmy-5557351/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Введение в теорию алгоритмических языков и компиляторов",
+    "pages": "176",
+    "cover": "https://files.books.ru/pic/667001-668000/667822/000667822.jpg",
+    "coverPath": "covers/9785819904046.jpg",
+    "width": 150,
+    "height": 222,
+    "sha256": "89be8ab93b3f91aafeb019e8e2b2039de1a35da5ec74784e6d73c97c1507ab1e",
+    "coverStatus": "downloaded",
+    "isbn": "9785819904046",
+    "isbnNormalized": "9785819904046",
+    "authors": [
+      "Л.Г. Гагарина",
+      "Е. Кокорева"
+    ],
+    "publisher": "Форум",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/",
+    "metadataSource": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/",
+    "coverSource": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-667822/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Введение в теорию алгоритмических языков и компиляторов",
+    "pages": "207",
+    "cover": "https://files.books.ru/pic/5553001-5554000/5553591/5553591_85c3e48b_c.jpg",
+    "coverPath": "covers/9785160177564.jpg",
+    "width": 827,
+    "height": 1300,
+    "sha256": "6ee5f07068533722a6feda8fc031a962487e8eb4faacec8f2c68322902acb6fc",
+    "coverStatus": "downloaded",
+    "isbn": "9785160177564",
+    "isbnNormalized": "9785160177564",
+    "authors": [
+      "Гагарина Л.Г.",
+      "Кокорева Е.В."
+    ],
+    "publisher": "Инфра-М",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/",
+    "metadataSource": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/",
+    "coverSource": "https://www.books.ru/books/vvedenie-v-teoriyu-algoritmicheskikh-yazykov-i-kompilyatorov-5553591/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Основные концепции компиляторов",
+    "pages": "256",
+    "cover": "https://files.books.ru/pic/31001-32000/31375/31375.jpg",
+    "coverPath": "covers/5845903602.jpg",
+    "width": 144,
+    "height": 218,
+    "sha256": "d5370c1be2d4b277f9e4b81c2ce28754b5468926a8276316eaf8adaac203ef49",
+    "coverStatus": "downloaded",
+    "isbn": "5845903602",
+    "isbnNormalized": "5845903602",
+    "authors": [
+      "Робин Хантер"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2002",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/",
+    "metadataSource": "https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/",
+    "coverSource": "https://www.books.ru/books/osnovnye-kontseptsii-kompilyatorov-31375/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Основы конструирования компиляторов",
+    "pages": "224",
+    "cover": "https://files.books.ru/pic/57001-58000/57277/57277.jpg",
+    "coverPath": "covers/5836002428.jpg",
+    "width": 150,
+    "height": 215,
+    "sha256": "8f8154125deb30265ad7313ddfa5ff062806ba02db42d97c2f568d37f310eeeb",
+    "coverStatus": "downloaded",
+    "isbn": "5836002428",
+    "isbnNormalized": "5836002428",
+    "authors": [
+      "М.П. Галочкин",
+      "В. А. Серебряков"
+    ],
+    "publisher": "URSS",
+    "year": "2001",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/",
+    "metadataSource": "https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/",
+    "coverSource": "https://www.books.ru/books/osnovy-konstruirovaniya-kompilyatorov-57277/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Построение интерпретаторов и компиляторов. Использование программ BIZON, BYACC, ZUBR",
+    "pages": "224",
+    "cover": "https://files.books.ru/pic/60001-61000/60355/60355.jpg",
+    "coverPath": "covers/5943870334.jpg",
+    "width": 144,
+    "height": 219,
+    "sha256": "a81a77c4ae2b1b1a3dbe4b76a2b2854f897b37240cdf0c217e26c7f9a879a11e",
+    "coverStatus": "downloaded",
+    "isbn": "5943870334",
+    "isbnNormalized": "5943870334",
+    "authors": [
+      "А.В. Костельцов"
+    ],
+    "publisher": "Наука и техника",
+    "year": "2001",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/",
+    "metadataSource": "https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/",
+    "coverSource": "https://www.books.ru/books/postroenie-interpretatorov-i-kompilyatorov-ispolzovanie-programm-bizon-byacc-zubr-60355/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Построение компиляторов",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/719001-720000/719247/7538-150.jpg",
+    "coverPath": "covers/9785940745853.jpg",
+    "width": 150,
+    "height": 200,
+    "sha256": "a9a73344979e72794034e1ceba5e39b3cf347e9811181f69ae1ab11d30643b60",
+    "coverStatus": "downloaded",
+    "isbn": "9785940745853",
+    "isbnNormalized": "9785940745853",
+    "authors": [
+      "Никлаус Вирт"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2009",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/postroenie-kompilyatorov-719247/",
+    "metadataSource": "https://www.books.ru/books/postroenie-kompilyatorov-719247/",
+    "coverSource": "https://www.books.ru/books/postroenie-kompilyatorov-719247/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Построение компиляторов",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/3123001-3124000/3123981/003123981.jpg",
+    "coverPath": "covers/9785940748755.jpg",
+    "width": 150,
+    "height": 209,
+    "sha256": "5f6a4471ca35d58bbed2a84fcb937609563eae6443d97b4a022323fc1a79b841",
+    "coverStatus": "downloaded",
+    "isbn": "9785940748755",
+    "isbnNormalized": "9785940748755",
+    "authors": [
+      "Никлаус Вирт"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2012",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/postroenie-kompilyatorov-3123981/",
+    "metadataSource": "https://www.books.ru/books/postroenie-kompilyatorov-3123981/",
+    "coverSource": "https://www.books.ru/books/postroenie-kompilyatorov-3123981/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Построение компиляторов",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/3592001-3593000/3592250/003592250.jpg",
+    "coverPath": "covers/9785940749929.jpg",
+    "width": 150,
+    "height": 216,
+    "sha256": "547c1724a8ce6501eda767257bdd87f941c0ade93ac63b2da40356c8d28b94c7",
+    "coverStatus": "downloaded",
+    "isbn": "9785940749929",
+    "isbnNormalized": "9785940749929",
+    "authors": [
+      "Вирт. Н."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/postroenie-kompilyatorov-3592250/",
+    "metadataSource": "https://www.books.ru/books/postroenie-kompilyatorov-3592250/",
+    "coverSource": "https://www.books.ru/books/postroenie-kompilyatorov-3592250/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Компиляторы: принципы, технологии и инструменты",
+    "pages": "1184",
+    "cover": "https://files.books.ru/pic/561001-562000/561747/561747.jpg",
+    "coverPath": "covers/9785845913494.jpg",
+    "width": 150,
+    "height": 220,
+    "sha256": "55bbfc6dd5473a29426162b5902473a96270da186930f0733bc9f1ffc3391388",
+    "coverStatus": "downloaded",
+    "isbn": "9785845913494",
+    "isbnNormalized": "9785845913494",
+    "authors": [
+      "Альфред Ахо",
+      "Р. Сети",
+      "Джеффри Д. Ульман",
+      "М. Лам"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2008",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/",
+    "metadataSource": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/",
+    "coverSource": "https://www.books.ru/books/kompilyatory-printsipy-tekhnologii-i-instrumenty-19047/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Реализация методов предметно-ориентированного проектирования",
+    "pages": "688",
+    "cover": "https://files.books.ru/pic/4291001-4292000/4291106/1012667127c.jpg",
+    "coverPath": "covers/9785845918819.jpg",
+    "width": 800,
+    "height": 1105,
+    "sha256": "66b4eaef1177e743f2c4c17dd245bba0dd4af4a9012c59a63ceff085c72a4668",
+    "coverStatus": "downloaded",
+    "isbn": "9785845918819",
+    "isbnNormalized": "9785845918819",
+    "authors": [
+      "Вон Вернон"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/",
+    "metadataSource": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/",
+    "coverSource": "https://www.books.ru/books/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-4291106/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Предметно-ориентированное проектирование: паттерны, принципы и методы",
+    "pages": "832",
+    "cover": "https://files.books.ru/pic/4682001-4683000/4682020/253834159c.jpg",
+    "coverPath": "covers/9785496019842.jpg",
+    "width": 405,
+    "height": 560,
+    "sha256": "6127f0e4e3932270b61983690e9076c4cd500f8bc3987388d159f4a7999d0029",
+    "coverStatus": "downloaded",
+    "isbn": "9785496019842",
+    "isbnNormalized": "9785496019842",
+    "authors": [
+      "Скотт Миллетт",
+      "Ник Тьюн"
+    ],
+    "publisher": "Питер",
+    "year": "2017",
+    "yearKind": "retailer-listed",
+    "url": "https://rgub.ru/searchopac/book.php?id=RGUB%5CBIBL%5C0000840182",
+    "metadataSource": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/",
+    "coverSource": "https://www.books.ru/books/predmetno-orientirovannoe-proektirovanie-patterny-printsipy-i-metody-4682020/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Изучаем Java EE. Современное программирование для больших предприятий",
+    "pages": "384",
+    "cover": "https://files.books.ru/pic/4890001-4891000/4890406/2118927749.jpg",
+    "coverPath": "covers/9785446107742.jpg",
+    "width": 150,
+    "height": 213,
+    "sha256": "1d56ca8d1a80cda7711189a0fa1fc5c6757ff5eb99aa1d8d8c21d988c0570fdb",
+    "coverStatus": "downloaded",
+    "isbn": "9785446107742",
+    "isbnNormalized": "9785446107742",
+    "authors": [
+      "Себастьян Дашнер"
+    ],
+    "publisher": "Питер",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/",
+    "metadataSource": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/",
+    "coverSource": "https://www.books.ru/books/izuchaem-java-ee-sovremennoe-programmirovanie-dlya-bolshikh-predpriyatii-4890406/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "97 вещей, о которых должен знать каждый Java-программист. Советы лучших экспертов",
+    "pages": "288",
+    "cover": "https://files.books.ru/pic/5438001-5439000/5438600/344176878c.jpg",
+    "coverPath": "covers/9785041692544.jpg",
+    "width": 800,
+    "height": 1147,
+    "sha256": "9e0ec86decd49c1309b1c18cfec43da21ca7cdac84b70d7fe0c808cade98c0a7",
+    "coverStatus": "downloaded",
+    "isbn": "9785041692544",
+    "isbnNormalized": "9785041692544",
+    "authors": [
+      "Кевлин Хенни",
+      "Триша Джи"
+    ],
+    "publisher": "Эксмо",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "url": "https://eksmo.ru/book/97-veshchey-o-kotorykh-dolzhen-znat-kazhdyy-java-programmist-sovety-luchshikh-ekspertov-ITD1280306/",
+    "metadataSource": "https://www.books.ru/books/97-veshchei-o-kotorykh-dolzhen-znat-kazhdyi-java-programmist-sovety-luchshikh-ekspertov-5438600/",
+    "coverSource": "https://www.books.ru/books/97-veshchei-o-kotorykh-dolzhen-znat-kazhdyi-java-programmist-sovety-luchshikh-ekspertov-5438600/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry",
+    "pages": "624",
+    "cover": "https://files.books.ru/pic/4907001-4908000/4907114/993778697c.jpg",
+    "coverPath": "covers/9785446107131.jpg",
+    "width": 248,
+    "height": 355,
+    "sha256": "c37bb5e6a904ee0268281ebe5c8c6858c9e39ba9b5d66c5be2269147fbe9e724",
+    "coverStatus": "downloaded",
+    "isbn": "9785446107131",
+    "isbnNormalized": "9785446107131",
+    "authors": [
+      "Джош Лонг",
+      "Кеннет Бастани"
+    ],
+    "publisher": "Питер",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.piter.com/collection/all/product/java-v-oblake-spring-boot-spring-cloud-cloud-foundry",
+    "metadataSource": "https://www.books.ru/books/java-v-oblake-spring-boot-spring-cloud-cloud-found-4907114/",
+    "coverSource": "https://www.books.ru/books/java-v-oblake-spring-boot-spring-cloud-cloud-found-4907114/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Создай свой собственный язык программирования",
+    "pages": "408",
+    "cover": "https://files.books.ru/pic/5384001-5385000/5384193/5384193_886ac094_c.jpg",
+    "coverPath": "covers/9785937001405.jpg",
+    "width": 300,
+    "height": 400,
+    "sha256": "3cfd31d1e133f4c3474b79e01ad8e6e2548dd5794507db8b40b36b11760cebf5",
+    "coverStatus": "downloaded",
+    "isbn": "9785937001405",
+    "isbnNormalized": "9785937001405",
+    "authors": [
+      "Джеффери К. Л."
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2022",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/978-5-93700-140-5/",
+    "metadataSource": "https://www.books.ru/books/sozdai-svoi-sobstvennyi-yazyk-programmirovaniya-5384193/",
+    "coverSource": "https://www.books.ru/books/sozdai-svoi-sobstvennyi-yazyk-programmirovaniya-5384193/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "compilers",
+      "dsl"
+    ]
+  },
+  {
+    "title": "Редкая профессия",
+    "pages": "232",
+    "cover": "https://files.books.ru/pic/4235001-4236000/4235733/2144487905c.jpg",
+    "coverPath": "covers/9785940748120.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "31ef61a1015890deff1bce3a21d7349715b977b9e55f6a926cdc372ff311e9cb",
+    "coverStatus": "downloaded",
+    "isbn": "9785940748120",
+    "isbnNormalized": "9785940748120",
+    "authors": [
+      "Евгений Зуев"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2014",
+    "yearKind": "retailer-listed",
+    "url": "https://www.dmkpress.com/catalog/computer/programming/978-5-94074-812-0/",
+    "metadataSource": "https://www.books.ru/books/redkaya-professiya-4235733/",
+    "coverSource": "https://www.books.ru/books/redkaya-professiya-4235733/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ],
+    "topicCodes": [
+      "compilers",
+      "dsl"
+    ]
+  },
+  {
+    "title": "Программирование на Java для начинающих",
+    "pages": "704",
+    "cover": "https://files.books.ru/pic/4531001-4532000/4531973/1145221401c.jpg",
+    "coverPath": "covers/9785699894758.jpg",
+    "width": 600,
+    "height": 870,
+    "sha256": "15bb74e63097b408564291ca9f6d414afdc0798fe224bce7aa70c1e6a41bf108",
+    "coverStatus": "downloaded",
+    "isbn": "9785699894758",
+    "isbnNormalized": "9785699894758",
+    "authors": [
+      "Алексей Васильев"
+    ],
+    "publisher": "Эксмо",
+    "year": "2017",
+    "yearKind": "retailer-listed",
+    "url": "https://eksmo.ru/book/programmirovanie-na-java-dlya-nachinayushchikh-ITD813463/",
+    "metadataSource": "https://www.books.ru/books/programmirovanie-na-java-dlya-nachinayushchikh-4531973/",
+    "coverSource": "https://www.books.ru/books/programmirovanie-na-java-dlya-nachinayushchikh-4531973/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Разработка операционной системы и компилятора. Проект Оберон",
+    "pages": "560",
+    "cover": "https://files.books.ru/pic/1812001-1813000/1812759/54207159c.jpg",
+    "coverPath": "covers/9785940746720.jpg",
+    "width": 470,
+    "height": 684,
+    "sha256": "d3924bf15c26208eb35aee529eff71dc373fda48f7d9692d2fbc0a5f1d1d46d8",
+    "coverStatus": "downloaded",
+    "isbn": "9785940746720",
+    "isbnNormalized": "9785940746720",
+    "authors": [
+      "Никлаус Вирт",
+      "Юрг Гуткнехт"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2012",
+    "yearKind": "retailer-listed",
+    "url": "https://ibooks.ru/products/364198",
+    "metadataSource": "https://www.books.ru/books/razrabotka-operatsionnoi-sistemy-i-kompilyatora-1812759/",
+    "coverSource": "https://www.books.ru/books/razrabotka-operatsionnoi-sistemy-i-kompilyatora-1812759/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "publisher-search-index",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Эффективное программирование",
+    "pages": "294",
+    "cover": "https://files.books.ru/pic/3614001-3615000/3614723/1526360797c.jpg",
+    "coverPath": "covers/9785855823486.jpg",
+    "width": 300,
+    "height": 421,
+    "sha256": "11f8f56c7febb341e4e90a01f2549e127b35e40f1f61301a9ed1c6e421d420c5",
+    "coverStatus": "downloaded",
+    "isbn": "9785855823486",
+    "isbnNormalized": "9785855823486",
+    "authors": [
+      "Джошуа Блох"
+    ],
+    "publisher": "Лори",
+    "year": "2016",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-effektivnoe-programmirovanie-3614723/",
+    "metadataSource": "https://www.books.ru/books/java-effektivnoe-programmirovanie-3614723/",
+    "coverSource": "https://www.books.ru/books/java-effektivnoe-programmirovanie-3614723/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Самое полное руководство по разработке в примерах от сообщества Stack Overflow",
+    "pages": "672",
+    "cover": "https://files.books.ru/pic/5560001-5561000/5560956/1095152354c.jpg",
+    "coverPath": "covers/9785171602680.jpg",
+    "width": 600,
+    "height": 870,
+    "sha256": "6cde56103e105eada6fcf8995585a147688aeff5a85cd886c76a1199ebc55a4b",
+    "coverStatus": "downloaded",
+    "isbn": "9785171602680",
+    "isbnNormalized": "9785171602680",
+    "authors": [
+      "Сообщество Stack Overflow"
+    ],
+    "publisher": "АСТ",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-samoe-polnoe-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5560956/",
+    "metadataSource": "https://www.books.ru/books/java-samoe-polnoe-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5560956/",
+    "coverSource": "https://www.books.ru/books/java-samoe-polnoe-rukovodstvo-po-razrabotke-v-primerakh-ot-soobshchestva-stack-overflow-5560956/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Полное руководство.12изд",
+    "pages": "1344",
+    "cover": "https://files.books.ru/pic/5391001-5392000/5391026/005391026.jpg",
+    "coverPath": "covers/9785907458864.jpg",
+    "width": 150,
+    "height": 214,
+    "sha256": "3a28abd3e20ff41e1956c604b3856aea5d1d07892cc5244feceefce23c6c98a5",
+    "coverStatus": "downloaded",
+    "isbn": "9785907458864",
+    "isbnNormalized": "9785907458864",
+    "authors": [
+      "Шилдт Герберт"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2022",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-polnoe-rukovodstvo12izd-5391026/",
+    "metadataSource": "https://www.books.ru/books/java-polnoe-rukovodstvo12izd-5391026/",
+    "coverSource": "https://www.books.ru/books/java-polnoe-rukovodstvo12izd-5391026/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java для чайников",
+    "pages": "624",
+    "cover": "https://files.books.ru/pic/4848001-4849000/4848414/664116451c.jpg",
+    "coverPath": "covers/9785950029615.jpg",
+    "width": 800,
+    "height": 1110,
+    "sha256": "854c63bc8cf84529ce11fb037b2433999a3931e13df8da20b4c63b96e6d40591",
+    "coverStatus": "downloaded",
+    "isbn": "9785950029615",
+    "isbnNormalized": "9785950029615",
+    "authors": [
+      "Барри Берд"
+    ],
+    "publisher": "Диалектика",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-dlya-chainikov-4848414/",
+    "metadataSource": "https://www.books.ru/books/java-dlya-chainikov-4848414/",
+    "coverSource": "https://www.books.ru/books/java-dlya-chainikov-4848414/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java на примерах. Практика, практика и только",
+    "pages": "256",
+    "cover": "https://files.books.ru/pic/4853001-4854000/4853274/105038201c.jpg",
+    "coverPath": "covers/9785943877551.jpg",
+    "width": 800,
+    "height": 1151,
+    "sha256": "d3e43d03a92918ca7a891978b70bfe7ae7f0af54d30b98ab77cb6cd15cf57db7",
+    "coverStatus": "downloaded",
+    "isbn": "9785943877551",
+    "isbnNormalized": "9785943877551",
+    "authors": [
+      "Р. В. Сеттер"
+    ],
+    "publisher": "Наука и техника",
+    "year": "2018",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-na-primerakh-praktika-praktika-i-tolko-4853274/",
+    "metadataSource": "https://www.books.ru/books/java-na-primerakh-praktika-praktika-i-tolko-4853274/",
+    "coverSource": "https://www.books.ru/books/java-na-primerakh-praktika-praktika-i-tolko-4853274/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Задачи по основам программирования",
+    "pages": "208",
+    "cover": "https://files.books.ru/pic/5201001-5202000/5201219/1730458871c.jpg",
+    "coverPath": "covers/9785971083436.jpg",
+    "width": 500,
+    "height": 694,
+    "sha256": "81c537dbaca1a7f2a29df7e3d2fa8bfaad334bc4d3b2a95d4c11348cbf489e4f",
+    "coverStatus": "downloaded",
+    "isbn": "9785971083436",
+    "isbnNormalized": "9785971083436",
+    "authors": [
+      "Е. Г. Канель",
+      "З. Фрайман"
+    ],
+    "publisher": "URSS",
+    "year": "2020",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/",
+    "metadataSource": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/",
+    "coverSource": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-5201219/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "JAVA: ЗАДАЧИ ПО ОСНОВАМ ПРОГРАММИРОВАНИЯ: Более 600 задач, около 150 задач с решениями. Книга ДЛЯ ШКОЛЬНИКОВ… И НЕ ТОЛЬКО. Изд. 2, стереотип",
+    "pages": "208",
+    "cover": "https://files.books.ru/pic/5406001-5407000/5406663/005406663.jpg",
+    "coverPath": "covers/9785951938251.jpg",
+    "width": 150,
+    "height": 208,
+    "sha256": "f52322e03fb59599f1cb9ae5918023ffaf8d497b3c86d4fc46d28fbce921a1ba",
+    "coverStatus": "downloaded",
+    "isbn": "9785951938251",
+    "isbnNormalized": "9785951938251",
+    "authors": [
+      "Канель Е.Г.",
+      "Фрайман З."
+    ],
+    "publisher": "Ленанд",
+    "year": "2023",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/",
+    "metadataSource": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/",
+    "coverSource": "https://www.books.ru/books/java-zadachi-po-osnovam-programmirovaniya-bolee-600-zadach-okolo-150-zadach-s-resheniyami-kniga-dlya-shkolnikov-i-ne-tolko-izd-2-stereotip-5406663/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Java. Основы программирования",
+    "pages": "480",
+    "cover": "https://files.books.ru/pic/5585001-5586000/5585460/6183639c.jpg",
+    "coverPath": "covers/9785171621858.jpg",
+    "width": 800,
+    "height": 1161,
+    "sha256": "1219a25ff062aed03b44c36f9cd601ca51c1955290c56e0a5aa64a733e30cffc",
+    "coverStatus": "downloaded",
+    "isbn": "9785171621858",
+    "isbnNormalized": "9785171621858",
+    "authors": [
+      "Светлин Наков"
+    ],
+    "publisher": "АСТ",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-osnovy-programmirovaniya-5585460/",
+    "metadataSource": "https://www.books.ru/books/java-osnovy-programmirovaniya-5585460/",
+    "coverSource": "https://www.books.ru/books/java-osnovy-programmirovaniya-5585460/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "JAVA. В 2-х томах",
+    "pages": "900",
+    "cover": "https://files.books.ru/pic/5004001-5005000/5004089/005004089.jpg",
+    "coverPath": "covers/9785855824193.jpg",
+    "width": 150,
+    "height": 149,
+    "sha256": "1c8aefe97bc9040afa9537fdc19702fca4c01b90a34d9b36d1d70973ce8f4cf0",
+    "coverStatus": "downloaded",
+    "isbn": "9785855824193",
+    "isbnNormalized": "9785855824193",
+    "authors": [
+      "Я. Хортон"
+    ],
+    "publisher": "Лори",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/java-v-2-kh-tomakh-5004089/",
+    "metadataSource": "https://www.books.ru/books/java-v-2-kh-tomakh-5004089/",
+    "coverSource": "https://www.books.ru/books/java-v-2-kh-tomakh-5004089/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Легкий способ выучить Java",
+    "pages": "400",
+    "cover": "https://files.books.ru/pic/5005001-5006000/5005237/005005237.jpg",
+    "coverPath": "covers/9785040935406.jpg",
+    "width": 150,
+    "height": 217,
+    "sha256": "ce248e44bcd0c4b79a2d5a2bbc1baf68e52afc77597992d39fc025ac5720ccd1",
+    "coverStatus": "downloaded",
+    "isbn": "9785040935406",
+    "isbnNormalized": "9785040935406",
+    "authors": [
+      "Пейн Брайсон"
+    ],
+    "publisher": "Эксмо",
+    "year": "2019",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/legkii-sposob-vyuchit-java-5005237/",
+    "metadataSource": "https://www.books.ru/books/legkii-sposob-vyuchit-java-5005237/",
+    "coverSource": "https://www.books.ru/books/legkii-sposob-vyuchit-java-5005237/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Обработка естественного языка на Java",
+    "pages": "264",
+    "cover": "https://files.books.ru/pic/4282001-4283000/4282255/1271706549c.jpg",
+    "coverPath": "covers/9785970603314.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "177849bec4d1c91bd1c65beacfd6a541e2621ff481d4f214945366b31db34bab",
+    "coverStatus": "downloaded",
+    "isbn": "9785970603314",
+    "isbnNormalized": "9785970603314",
+    "authors": [
+      "Ричард Риз"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2016",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/obrabotka-estestvennogo-yazyka-na-java-4282255/",
+    "metadataSource": "https://www.books.ru/books/obrabotka-estestvennogo-yazyka-na-java-4282255/",
+    "coverSource": "https://www.books.ru/books/obrabotka-estestvennogo-yazyka-na-java-4282255/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Лямбда-выражения в Java 8",
+    "pages": "192",
+    "cover": "https://files.books.ru/pic/4459001-4460000/4459269/1368029586c.jpg",
+    "coverPath": "covers/9785970604632.jpg",
+    "width": 270,
+    "height": 369,
+    "sha256": "6cee6885eae4d16961bd00d22e303e7cea0fb169d7e0b011450143419258c64c",
+    "coverStatus": "downloaded",
+    "isbn": "9785970604632",
+    "isbnNormalized": "9785970604632",
+    "authors": [
+      "Ричард Уорбэртон"
+    ],
+    "publisher": "ДМК Пресс",
+    "year": "2017",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/lyambda-vyrazheniya-v-java-8-4459269/",
+    "metadataSource": "https://www.books.ru/books/lyambda-vyrazheniya-v-java-8-4459269/",
+    "coverSource": "https://www.books.ru/books/lyambda-vyrazheniya-v-java-8-4459269/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "100 ошибок Java и как их избежать",
+    "pages": "480",
+    "cover": "https://files.books.ru/pic/5623001-5624000/5623194/2115058064c.jpg",
+    "coverPath": "covers/9785042076688.jpg",
+    "width": 800,
+    "height": 1147,
+    "sha256": "39f40635d5e3453ad4634d5a97df7c9019215ef7f0050eff80ac4307770049d0",
+    "coverStatus": "downloaded",
+    "isbn": "9785042076688",
+    "isbnNormalized": "9785042076688",
+    "authors": [
+      "Тагир Валеев"
+    ],
+    "publisher": "Эксмо",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/100-oshibok-java-i-kak-ikh-izbezhat-5623194/",
+    "metadataSource": "https://www.books.ru/books/100-oshibok-java-i-kak-ikh-izbezhat-5623194/",
+    "coverSource": "https://www.books.ru/books/100-oshibok-java-i-kak-ikh-izbezhat-5623194/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Тестирование, контроль и оптимизация кода Java",
+    "pages": "384",
+    "cover": "https://files.books.ru/pic/5614001-5615000/5614583/1422472959c.jpg",
+    "coverPath": "covers/9785907592827.jpg",
+    "width": 698,
+    "height": 999,
+    "sha256": "2762bcea92181e041cebb1e87d6f995861cfa95219915bd432793e639477f0da",
+    "coverStatus": "downloaded",
+    "isbn": "9785907592827",
+    "isbnNormalized": "9785907592827",
+    "authors": [
+      "Певненко А. А."
+    ],
+    "publisher": "Наука и техника",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/testirovanie-kontrol-i-optimizatsiya-koda-java-5614583/",
+    "metadataSource": "https://www.books.ru/books/testirovanie-kontrol-i-optimizatsiya-koda-java-5614583/",
+    "coverSource": "https://www.books.ru/books/testirovanie-kontrol-i-optimizatsiya-koda-java-5614583/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Введение в Android разработку на Java. (Аспирантура, Бакалавриат, Магистратура). Учебное пособие",
+    "pages": null,
+    "cover": "https://files.books.ru/pic/5615001-5616000/5615658/5615658_f99b388b_c.jpg",
+    "coverPath": "covers/9785406155585.jpg",
+    "width": 326,
+    "height": 500,
+    "sha256": "398f7383490909d873cd14e520c42aba9622bb0a8e0ddb6b8906e249882df2e8",
+    "coverStatus": "downloaded",
+    "isbn": "9785406155585",
+    "isbnNormalized": "9785406155585",
+    "authors": [
+      "Коротеев М.В.",
+      "Шаталова А.Ю."
+    ],
+    "publisher": "КноРус",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/",
+    "metadataSource": "https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/",
+    "coverSource": "https://www.books.ru/books/vvedenie-v-android-razrabotku-na-java-aspirantura-bakalavriat-magistratura-uchebnoe-posobie-5615658/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Oracle Программирование на языке Java",
+    "pages": "484",
+    "cover": "https://files.books.ru/pic/507001-508000/507162/000507162.jpg",
+    "coverPath": "covers/9785855822762.jpg",
+    "width": 186,
+    "height": 252,
+    "sha256": "6b3d42ef401f97322497d729cc709d502587fc6f4f2ad178f2c4ef4c2c271d0b",
+    "coverStatus": "downloaded",
+    "isbn": "9785855822762",
+    "isbnNormalized": "9785855822762",
+    "authors": [
+      "Соломон"
+    ],
+    "publisher": "Лори",
+    "year": "2007",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/",
+    "metadataSource": "https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/",
+    "coverSource": "https://www.books.ru/books/oracle-programmirovanie-na-yazyke-java-507162/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Программирование WEB-приложений на языке Java",
+    "pages": "900",
+    "cover": "https://files.books.ru/pic/646001-647000/646658/000646658.jpg",
+    "coverPath": "covers/9785855822960.jpg",
+    "width": 150,
+    "height": 213,
+    "sha256": "85afc973b8eb21ab6d9dfd75de4a9240ade864645729e8e158012106dab58c9e",
+    "coverStatus": "downloaded",
+    "isbn": "9785855822960",
+    "isbnNormalized": "9785855822960",
+    "authors": [
+      "Б. Курняван"
+    ],
+    "publisher": "Лори",
+    "year": "2009",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/",
+    "metadataSource": "https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/",
+    "coverSource": "https://www.books.ru/books/programmirovanie-web-prilozhenii-na-yazyke-java-646658/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Программирование на языке Java. Практический курс",
+    "pages": "189",
+    "cover": "https://files.books.ru/pic/5587001-5588000/5587674/5587674_711e368b_c.jpg",
+    "coverPath": "covers/9785160201368.jpg",
+    "width": 827,
+    "height": 1300,
+    "sha256": "d873092952dbc554cd8d3d0786407a013ff543627abf677e4c14af11a43b06bc",
+    "coverStatus": "downloaded",
+    "isbn": "9785160201368",
+    "isbnNormalized": "9785160201368",
+    "authors": [
+      "Бобырь М.В."
+    ],
+    "publisher": "Инфра-М",
+    "year": "2025",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/",
+    "metadataSource": "https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/",
+    "coverSource": "https://www.books.ru/books/programmirovanie-na-yazyke-java-prakticheskii-kurs-5587674/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Построение Интернет-приложений на языке Java. Практический курс. 2-е изд., стереотип",
+    "pages": "335",
+    "cover": "https://files.books.ru/pic/3652001-3653000/3652213/003652213.jpg",
+    "coverPath": "covers/9785991202985.jpg",
+    "width": 150,
+    "height": 212,
+    "sha256": "0e8520c9eb121127852c6b4b28e4bef6fd7a4a52f75c928e4c5c943e33b251e4",
+    "coverStatus": "downloaded",
+    "isbn": "9785991202985",
+    "isbnNormalized": "9785991202985",
+    "authors": [
+      "А. Л. Фридман"
+    ],
+    "publisher": "Горячая линия — Телеком",
+    "year": "2012",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/",
+    "metadataSource": "https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/",
+    "coverSource": "https://www.books.ru/books/postroenie-internet-prilozhenii-na-yazyke-java-prakticheskii-kurs-2-e-izd-stereotip-3652213/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Основы программирования на Java. Для школьников... и не только",
+    "pages": "200",
+    "cover": "https://files.books.ru/pic/5191001-5192000/5191722/690751911c.jpg",
+    "coverPath": "covers/9785971077428.jpg",
+    "width": 500,
+    "height": 696,
+    "sha256": "427c02a5256e479b2733e10a4ba4054b832ba309f85a00018cccd7dc5057dffa",
+    "coverStatus": "downloaded",
+    "isbn": "9785971077428",
+    "isbnNormalized": "9785971077428",
+    "authors": [
+      "Е. Г. Канель",
+      "З. Фрайман"
+    ],
+    "publisher": "URSS",
+    "year": "2020",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/",
+    "metadataSource": "https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/",
+    "coverSource": "https://www.books.ru/books/osnovy-programmirovaniya-na-java-dlya-shkolnikov-i-ne-tolko-5191722/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Паттерны для начинающих программистов с примерами на JAVA",
+    "pages": "256",
+    "cover": "https://files.books.ru/pic/5508001-5509000/5508247/1858283751c.jpg",
+    "coverPath": "covers/9785171621100.jpg",
+    "width": 600,
+    "height": 870,
+    "sha256": "fd7b3f8edb9d41bc316b9497643d2b9e205a36c618ecbd1b6b1c18f8126fb340",
+    "coverStatus": "downloaded",
+    "isbn": "9785171621100",
+    "isbnNormalized": "9785171621100",
+    "authors": [
+      "Бернштейн Д."
+    ],
+    "publisher": "АСТ",
+    "year": "2024",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/patterny-dlya-nachinayushchikh-programmistov-s-primerami-na-java-5508247/",
+    "metadataSource": "https://www.books.ru/books/patterny-dlya-nachinayushchikh-programmistov-s-primerami-na-java-5508247/",
+    "coverSource": "https://www.books.ru/books/patterny-dlya-nachinayushchikh-programmistov-s-primerami-na-java-5508247/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Как программировать Android-приложения на языке Java",
+    "pages": "800",
+    "cover": "https://files.books.ru/pic/3804001-3805000/3804903/003804903.jpg",
+    "coverPath": "covers/9785855823820.jpg",
+    "width": 150,
+    "height": 216,
+    "sha256": "00909872adbe48ad20a678861e9e230d21a4b9661a5ab0b77bee0486c73b4b08",
+    "coverStatus": "downloaded",
+    "isbn": "9785855823820",
+    "isbnNormalized": "9785855823820",
+    "authors": [
+      "П. Дейтел и др."
+    ],
+    "publisher": "Лори",
+    "year": "2015",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/",
+    "metadataSource": "https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/",
+    "coverSource": "https://www.books.ru/books/kak-programmirovat-android-prilozheniya-na-yazyke-java-3804903/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "JavaServer Faces. Библиотека профессионала, 3-е издание",
+    "pages": "544",
+    "cover": "https://files.books.ru/pic/847001-848000/847549/000847549_1.jpg",
+    "coverPath": "covers/9785845917065.jpg",
+    "width": 341,
+    "height": 500,
+    "sha256": "1c819a671bea99f854664cb6e08b9c12f27d7c153fac34343241e5006e89f28d",
+    "coverStatus": "downloaded",
+    "isbn": "9785845917065",
+    "isbnNormalized": "9785845917065",
+    "authors": [
+      "Дэвид Гери",
+      "Кей С. Хорстманн"
+    ],
+    "publisher": "Вильямс/Диалектика",
+    "year": "2011",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/",
+    "metadataSource": "https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/",
+    "coverSource": "https://www.books.ru/books/javaserver-faces-biblioteka-professionala-3-e-izdanie-847549/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  },
+  {
+    "title": "Образцы J2EE. Лучшие решения и стратегии проектирования",
+    "pages": "400",
+    "cover": "https://files.books.ru/pic/3148001-3149000/3148904/003148904.jpg",
+    "coverPath": "covers/9785855823561.jpg",
+    "width": 150,
+    "height": 212,
+    "sha256": "89a533fc8afadf542cb05c42a84b64c2059a28628ddb0c6aa379380baecc6de0",
+    "coverStatus": "downloaded",
+    "isbn": "9785855823561",
+    "isbnNormalized": "9785855823561",
+    "authors": [
+      "Дипак Алур",
+      "Джон Крупи",
+      "Дэн Малкс"
+    ],
+    "publisher": "Лори",
+    "year": "2013",
+    "yearKind": "retailer-listed",
+    "url": "https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/",
+    "metadataSource": "https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/",
+    "coverSource": "https://www.books.ru/books/obraztsy-j2ee-luchshie-resheniya-i-strategii-proektirovaniya-3148904/",
+    "coverSourceType": "retailer",
+    "sourceAccess": "retailer-page",
+    "visualVerification": "russian-cover-reviewed",
+    "archiveVerification": "russian-cover-and-retailer-record-reviewed",
+    "notes": [],
+    "verificationNotes": [
+      "Архивная карточка Books.ru: ISBN и библиографические поля взяты из карточки магазина; русская обложка просмотрена. Выходные данные экземпляра не проверены. Год может обозначать тираж."
+    ]
+  }
+]
