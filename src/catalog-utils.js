@@ -1,5 +1,5 @@
 export const TOPICS = [
-  ['', 'Все книги'], ['java', 'Java'], ['spring', 'Spring'], ['kotlin', 'Kotlin'], ['scala', 'Scala'], ['jvm', 'JVM'], ['algorithms', 'Алгоритмы'], ['ddd', 'DDD'], ['hibernate', 'Hibernate'], ['compilers', 'Компиляторы'], ['kafka', 'Kafka'], ['misc', 'Разное'],
+  ['', 'Все книги'], ['java', 'Java'], ['spring', 'Spring'], ['kotlin', 'Kotlin'], ['scala', 'Scala'], ['jvm', 'JVM'], ['architecture', 'Архитектура'], ['algorithms', 'Алгоритмы'], ['ddd', 'DDD'], ['hibernate', 'Hibernate'], ['compilers', 'Компиляторы'], ['kafka', 'Kafka'], ['misc', 'Разное'],
 ];
 
 export function catalogGroups(books, { query = '', publisher = '', topic = '', onlyOwned = false, owned = new Set(), sort = 'recommended' }) {

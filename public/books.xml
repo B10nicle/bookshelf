@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="170">
+<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="173">
   <scope>Русскоязычные издания по JVM, языкам JVM, Kafka, компиляторам и DDD. Одна запись на ISBN; полнота рынка не подтверждена.</scope>
   <books>
     <book id="isbn-9785446113149" status="publisher-sourced" workId="isbn-9785446113149">
@@ -4665,6 +4665,87 @@
       <source checkedAt="2026-11-04" access="publisher-page">https://www.books.ru/books/struktura-i-interpretatsiya-kompyuternykh-programm-1823574/</source>
       <verificationNotes>
         <note>Обложка предоставлена пользователем. ISBN, год, издательство и объём сверены по карточке Books.ru.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785446120949" status="cross-checked" workId="isbn-9785446120949">
+      <title lang="ru">Микросервисы и API</title>
+      <authors>
+        <author>Хосе Аро Перальта</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-4461-2094-9</isbn>
+      <pages>464</pages>
+      <year kind="publication">2026</year>
+      <topics>
+        <topic code="architecture" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785446120949.jpg</localPath>
+        <sourceUrl>Desktop/images/Микросервисы и API.jpg</sourceUrl>
+        <width>248</width>
+        <height>350</height>
+        <sha256>67deb945fd5e95562fd9e1e1825c9905a6dc7b669918cf33a3c3951114e12b8c</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/collection/all/product/mikroservisy-i-api</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице издательства «Питер»; обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785446119844" status="cross-checked" workId="isbn-9785446119844">
+      <title lang="ru">Паттерны проектирования API</title>
+      <authors>
+        <author>Джей Джей Гивакс</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-4461-1984-4</isbn>
+      <pages>512</pages>
+      <year kind="publication">2026</year>
+      <topics>
+        <topic code="architecture" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785446119844.jpg</localPath>
+        <sourceUrl>Desktop/images/Паттерны проектирования API.jpg</sourceUrl>
+        <width>248</width>
+        <height>350</height>
+        <sha256>c01ab7735a8fe9660ad786f84f5207a894a9027fd110020410ef8a2ebf6517d2</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/collection/all/product/patterny-proektirovaniya-api</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице издательства «Питер»; обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9781617299582" status="cross-checked" workId="isbn-9781617299582">
+      <title lang="ru">Functional Programming in Scala, Second Edition</title>
+      <authors>
+        <author>Michael Pilquist</author>
+        <author>Rúnar Bjarnason</author>
+        <author>Paul Chiusano</author>
+      </authors>
+      <publisher>Manning Publications</publisher>
+      <isbn>978-1-61729-958-2</isbn>
+      <pages>488</pages>
+      <year kind="publication">2023</year>
+      <topics>
+        <topic code="scala" />
+        <topic code="jvm" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="title-and-edition-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9781617299582.jpg</localPath>
+        <sourceUrl>Desktop/images/Functional Programming in Scala.jpg</sourceUrl>
+        <width>798</width>
+        <height>1000</height>
+        <sha256>5324ff35d0b7b4c92cce4b9485a17596a4aa66da29923dd9f54b94840852e26e</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.manning.com/books/functional-programming-in-scala-second-edition</source>
+      <verificationNotes>
+        <note>Англоязычное издание добавлено по прямому запросу пользователя; метаданные сверены по странице Manning, обложка предоставлена пользователем.</note>
       </verificationNotes>
       <notes />
     </book>

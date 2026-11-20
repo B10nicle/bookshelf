@@ -27,7 +27,8 @@ for r in records:
     notes=list(r.get('notes',[]))
     if isbn.startswith('978601'): notes.append('Регистрационная группа ISBN Казахстана: принадлежность конкретного издания издательству РФ требует проверки по выходным данным.')
     if int(r['year'])>2026: notes.append('Год в карточке позднее даты исследования: факт выхода не подтверждён.')
-    if r['coverSourceType']!='publisher' and r.get('coverVerification')!='russian-cover-and-isbn-matched' and not r.get('archiveVerification'): notes.append('Обложка получена не с сайта издательства; требуется сверка с первичным источником.')
+    verified_cover_types={'russian-cover-and-isbn-matched','publisher-cover-and-isbn-matched'}
+    if r['coverSourceType']!='publisher' and r.get('coverVerification') not in verified_cover_types and not r.get('archiveVerification'): notes.append('Обложка получена не с сайта издательства; требуется сверка с первичным источником.')
     if isbn=='9785937000552': notes.append('На обложке указано второе издание; соответствие ISBN и года этому изданию не подтверждено.')
     r['reviewNotes']=list(dict.fromkeys(notes))
     r['status']='needs-review' if notes else ('archive-sourced' if r.get('archiveVerification') else ('cross-checked' if r.get('coverVerification') else 'publisher-sourced'))
@@ -82,11 +83,11 @@ xml('review.xml',[r for r in records if r['status']=='needs-review'])
 xml('catalog-all.xml',records)
 xml('excluded.xml',[r for r in records if r['status']=='excluded'])
 esc=lambda s:html.escape(str(s),quote=True)
-labels={'misc':'Разное','hibernate':'Hibernate','kafka':'Kafka','groovy':'Groovy / Grails','java':'Java','kotlin':'Kotlin','scala':'Scala','jvm':'JVM','spring':'Spring','compilers':'Компиляторы','ddd':'DDD','dsl':'DSL','android':'Android','algorithms':'Алгоритмы','tools':'Инструменты','related':'Другое'}
+labels={'misc':'Разное','hibernate':'Hibernate','kafka':'Kafka','groovy':'Groovy / Grails','java':'Java','kotlin':'Kotlin','scala':'Scala','jvm':'JVM','architecture':'Архитектура','spring':'Spring','compilers':'Компиляторы','ddd':'DDD','dsl':'DSL','android':'Android','algorithms':'Алгоритмы','tools':'Инструменты','related':'Другое'}
 counts=collections.Counter(r['status'] for r in records)
 active=sum(r['status'] not in ('excluded','needs-review') for r in records)
 publisher_options=''.join('<option value="'+esc(v)+'">'+esc(v)+'</option>' for v in sorted({r['publisher'] for r in records if r['status'] not in ('excluded','needs-review')}))
-quick_topics=['java','spring','kotlin','scala','jvm','algorithms','ddd','hibernate','compilers','kafka','misc']
+quick_topics=['java','spring','kotlin','scala','jvm','architecture','algorithms','ddd','hibernate','compilers','kafka','misc']
 topic_buttons='<button type="button" data-topic="" aria-pressed="true">Все книги</button>'+''.join('<button type="button" data-topic="'+k+'" aria-pressed="false">'+labels[k]+'</button>' for k in quick_topics)
 new_ids={r['isbnNormalized'] for r in json.loads((ROOT/'research/additions-verified.json').read_text())}
 cards=[]

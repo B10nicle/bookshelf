@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { z } from 'zod';
 
-const topicCodes = new Set(['java', 'spring', 'kotlin', 'scala', 'jvm', 'algorithms', 'ddd', 'hibernate', 'compilers', 'kafka', 'misc', 'dsl', 'android', 'related', 'tools']);
+const topicCodes = new Set(['java', 'spring', 'kotlin', 'scala', 'jvm', 'architecture', 'algorithms', 'ddd', 'hibernate', 'compilers', 'kafka', 'misc', 'dsl', 'android', 'related', 'tools']);
 const bookSchema = z.object({
   id: z.string().regex(/^(\d{10}|\d{13}|\d{9}X)$/),
   isbn: z.string().min(10),

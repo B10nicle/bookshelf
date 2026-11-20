@@ -3336,6 +3336,63 @@
       ],
       "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785982278296.jpg",
       "sourceUrl": "https://www.books.ru/books/struktura-i-interpretatsiya-kompyuternykh-programm-1823574/"
+    },
+    {
+      "id": "9785446120949",
+      "isbn": "978-5-4461-2094-9",
+      "title": "Микросервисы и API",
+      "workId": "isbn-9785446120949",
+      "workTitle": "Микросервисы и API",
+      "authors": [
+        "Хосе Аро Перальта"
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "architecture"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446120949.jpg",
+      "sourceUrl": "https://www.piter.com/collection/all/product/mikroservisy-i-api"
+    },
+    {
+      "id": "9785446119844",
+      "isbn": "978-5-4461-1984-4",
+      "title": "Паттерны проектирования API",
+      "workId": "isbn-9785446119844",
+      "workTitle": "Паттерны проектирования API",
+      "authors": [
+        "Джей Джей Гивакс"
+      ],
+      "publisher": "Питер",
+      "year": "2026",
+      "edition": "",
+      "topics": [
+        "architecture"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785446119844.jpg",
+      "sourceUrl": "https://www.piter.com/collection/all/product/patterny-proektirovaniya-api"
+    },
+    {
+      "id": "9781617299582",
+      "isbn": "978-1-61729-958-2",
+      "title": "Functional Programming in Scala, Second Edition",
+      "workId": "isbn-9781617299582",
+      "workTitle": "Functional Programming in Scala, Second Edition",
+      "authors": [
+        "Michael Pilquist",
+        "Rúnar Bjarnason",
+        "Paul Chiusano"
+      ],
+      "publisher": "Manning Publications",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "scala",
+        "jvm"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9781617299582.jpg",
+      "sourceUrl": "https://www.manning.com/books/functional-programming-in-scala-second-edition"
     }
   ]
 }

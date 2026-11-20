@@ -851,6 +851,21 @@
       "url": "https://ik.imagekit.io/bookshelf/covers/9785982278296.jpg",
       "fileId": "6aff0724ead997d09ab3a102",
       "filePath": "/covers/9785982278296.jpg"
+    },
+    "9785446119844": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446119844.jpg",
+      "fileId": "6b003122ead997d09ae592b3",
+      "filePath": "/covers/9785446119844.jpg"
+    },
+    "9785446120949": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785446120949.jpg",
+      "fileId": "6b003123ead997d09ae5c5dc",
+      "filePath": "/covers/9785446120949.jpg"
+    },
+    "9781617299582": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9781617299582.jpg",
+      "fileId": "6b00314fead997d09aebb845",
+      "filePath": "/covers/9781617299582.jpg"
     }
   }
 }
