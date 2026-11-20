@@ -41,7 +41,7 @@ function App() {
 
   return <main id="top" className="catalog">
     <header className="heading">
-      <div className="brand"><span className="brand-mark" aria-hidden="true">▦</span><div><h1>Книжный шкаф</h1><p className="brand-subtitle">Ваша личная полка</p></div></div>
+      <div className="brand"><span className="brand-mark" aria-hidden="true">▦</span><h1>Ваша личная книжная полка</h1></div>
       <div className="account"><span className={user ? `account-email ${syncState}` : 'account-email'}>{user ? user.email : 'Гостевой режим'}</span><button ref={accountButton} onClick={() => setShowAuth(true)}>{user ? 'Аккаунт' : 'Войти'}</button></div>
     </header>
     <section className="hero" aria-label="Личная библиотека">
