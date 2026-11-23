@@ -866,6 +866,16 @@
       "url": "https://ik.imagekit.io/bookshelf/covers/9781617299582.jpg",
       "fileId": "6b00314fead997d09aebb845",
       "filePath": "/covers/9781617299582.jpg"
+    },
+    "9785041220013": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785041220013.jpg",
+      "fileId": "6b04624cead997d09a8c490e",
+      "filePath": "/covers/9785041220013.jpg"
+    },
+    "9785042014734": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785042014734.jpg",
+      "fileId": "6b04624dead997d09a8c509f",
+      "filePath": "/covers/9785042014734.jpg"
     }
   }
 }

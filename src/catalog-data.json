@@ -3393,6 +3393,42 @@
       ],
       "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9781617299582.jpg",
       "sourceUrl": "https://www.manning.com/books/functional-programming-in-scala-second-edition"
+    },
+    {
+      "id": "9785042014734",
+      "isbn": "978-5-04-201473-4",
+      "title": "Путь инженера-программиста: развитие навыков для успешной карьеры",
+      "workId": "isbn-9785042014734",
+      "workTitle": "Путь инженера-программиста: развитие навыков для успешной карьеры",
+      "authors": [
+        "Фернандо Доглио"
+      ],
+      "publisher": "БОМБОРА",
+      "year": "2025",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785042014734.jpg",
+      "sourceUrl": "https://eksmo.ru/book/navyki-uspeshnogo-inzhenera-programmista-ITD1390577/"
+    },
+    {
+      "id": "9785041220013",
+      "isbn": "978-5-04-122001-3",
+      "title": "Карьера в IT. Как найти работу, прокачать навыки и стать крутым разработчиком",
+      "workId": "isbn-9785041220013",
+      "workTitle": "Карьера в IT. Как найти работу, прокачать навыки и стать крутым разработчиком",
+      "authors": [
+        "Джон Сонмез"
+      ],
+      "publisher": "БОМБОРА",
+      "year": "2023",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785041220013.jpg",
+      "sourceUrl": "https://eksmo.ru/book/samyy-polnyy-karernyy-gid-razrabotchika-kak-blestyashche-proyti-sobesedovanie-i-nayti-rabotu-mechty-ITD1160939/"
     }
   ]
 }

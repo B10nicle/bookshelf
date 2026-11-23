@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="173">
+<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="175">
   <scope>Русскоязычные издания по JVM, языкам JVM, Kafka, компиляторам и DDD. Одна запись на ISBN; полнота рынка не подтверждена.</scope>
   <books>
     <book id="isbn-9785446113149" status="publisher-sourced" workId="isbn-9785446113149">
@@ -4746,6 +4746,58 @@
       <source checkedAt="2026-11-04" access="publisher-page">https://www.manning.com/books/functional-programming-in-scala-second-edition</source>
       <verificationNotes>
         <note>Англоязычное издание добавлено по прямому запросу пользователя; метаданные сверены по странице Manning, обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785042014734" status="cross-checked" workId="isbn-9785042014734">
+      <title lang="ru">Путь инженера-программиста: развитие навыков для успешной карьеры</title>
+      <authors>
+        <author>Фернандо Доглио</author>
+      </authors>
+      <publisher>БОМБОРА</publisher>
+      <isbn>978-5-04-201473-4</isbn>
+      <pages>240</pages>
+      <year kind="publication">2025</year>
+      <topics>
+        <topic code="misc" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785042014734.jpg</localPath>
+        <sourceUrl>Desktop/images/путь инженера-программиста.webp</sourceUrl>
+        <width>1477</width>
+        <height>2132</height>
+        <sha256>7fa7a2e4e790bc2c6fc2b3145fa4ba1094fe1ad7ff685fab3da0e9d62c3979d1</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://eksmo.ru/book/navyki-uspeshnogo-inzhenera-programmista-ITD1390577/</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице Эксмо; обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785041220013" status="cross-checked" workId="isbn-9785041220013">
+      <title lang="ru">Карьера в IT. Как найти работу, прокачать навыки и стать крутым разработчиком</title>
+      <authors>
+        <author>Джон Сонмез</author>
+      </authors>
+      <publisher>БОМБОРА</publisher>
+      <isbn>978-5-04-122001-3</isbn>
+      <pages>688</pages>
+      <year kind="publication">2023</year>
+      <topics>
+        <topic code="misc" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785041220013.jpg</localPath>
+        <sourceUrl>Desktop/images/карьера в IT.webp</sourceUrl>
+        <width>487</width>
+        <height>700</height>
+        <sha256>3eec824b7ebb211ffd9f1af57b1be592bd6187d456980fc8ab2764e1d48a5d1c</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://eksmo.ru/book/samyy-polnyy-karernyy-gid-razrabotchika-kak-blestyashche-proyti-sobesedovanie-i-nayti-rabotu-mechty-ITD1160939/</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице Эксмо; обложка предоставлена пользователем.</note>
       </verificationNotes>
       <notes />
     </book>
