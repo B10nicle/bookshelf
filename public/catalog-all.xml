@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="300">
+<catalog version="1" researchedAt="2026-11-04" completeness="partial" count="302">
   <scope>Русскоязычные издания по JVM, языкам JVM, Kafka, компиляторам и DDD. Одна запись на ISBN; полнота рынка не подтверждена.</scope>
   <books>
     <book id="isbn-9785446113149" status="publisher-sourced" workId="isbn-9785446113149">
@@ -8330,6 +8330,59 @@
       <source checkedAt="2026-11-04" access="publisher-page">https://eksmo.ru/book/samyy-polnyy-karernyy-gid-razrabotchika-kak-blestyashche-proyti-sobesedovanie-i-nayti-rabotu-mechty-ITD1160939/</source>
       <verificationNotes>
         <note>Метаданные сверены по странице Эксмо; обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785496018067" status="cross-checked" workId="isbn-9785496018067">
+      <title lang="ru">Отъявленный программист: лайфхакинг из первых рук</title>
+      <authors>
+        <author>Игорь Савчук</author>
+      </authors>
+      <publisher>Питер</publisher>
+      <isbn>978-5-496-01806-7</isbn>
+      <pages>272</pages>
+      <year kind="publication">2015</year>
+      <topics>
+        <topic code="misc" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785496018067.jpg</localPath>
+        <sourceUrl>Desktop/images/отъявленный программист савчук.webp</sourceUrl>
+        <width>594</width>
+        <height>849</height>
+        <sha256>3342ce3c487d128fe71975c356993f19d0acaaa2f9cf2714260fcc25a3f0d461</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="publisher-page">https://www.piter.com/collection/kompyutery-i-internet/product/otyavlennyy-programmist-layfhaking-iz-pervyh-ruk</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице издательства «Питер»; обложка предоставлена пользователем.</note>
+      </verificationNotes>
+      <notes />
+    </book>
+    <book id="isbn-9785970605929" status="cross-checked" workId="isbn-9785970605929">
+      <title lang="ru">Релевантный поиск с использованием Elasticsearch и Solr</title>
+      <authors>
+        <author>Даг Тарнбулл</author>
+        <author>Джон Берримен</author>
+      </authors>
+      <publisher>ДМК Пресс</publisher>
+      <isbn>978-5-97060-592-9</isbn>
+      <pages>408</pages>
+      <year kind="publication">2018</year>
+      <topics>
+        <topic code="misc" />
+      </topics>
+      <cover sourceType="user-provided" kind="cover" visualVerification="russian-title-and-isbn-reviewed">
+        <url>user-provided</url>
+        <localPath>covers/9785970605929.jpg</localPath>
+        <sourceUrl>Desktop/images/релевантный поиск.jpg</sourceUrl>
+        <width>1402</width>
+        <height>2000</height>
+        <sha256>bd13b39bc14519271ac3d95f7c865b04e6db7732a3c439e8e0bd54a498da8dfc</sha256>
+      </cover>
+      <source checkedAt="2026-11-04" access="search-index">https://www.dmkpress.com/catalog/computer/databases/978-5-97060-592-9/</source>
+      <verificationNotes>
+        <note>Метаданные сверены по странице издательства «ДМК Пресс»; обложка предоставлена пользователем.</note>
       </verificationNotes>
       <notes />
     </book>

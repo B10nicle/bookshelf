@@ -3429,6 +3429,43 @@
       ],
       "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785041220013.jpg",
       "sourceUrl": "https://eksmo.ru/book/samyy-polnyy-karernyy-gid-razrabotchika-kak-blestyashche-proyti-sobesedovanie-i-nayti-rabotu-mechty-ITD1160939/"
+    },
+    {
+      "id": "9785496018067",
+      "isbn": "978-5-496-01806-7",
+      "title": "Отъявленный программист: лайфхакинг из первых рук",
+      "workId": "isbn-9785496018067",
+      "workTitle": "Отъявленный программист: лайфхакинг из первых рук",
+      "authors": [
+        "Игорь Савчук"
+      ],
+      "publisher": "Питер",
+      "year": "2015",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785496018067.jpg",
+      "sourceUrl": "https://www.piter.com/collection/kompyutery-i-internet/product/otyavlennyy-programmist-layfhaking-iz-pervyh-ruk"
+    },
+    {
+      "id": "9785970605929",
+      "isbn": "978-5-97060-592-9",
+      "title": "Релевантный поиск с использованием Elasticsearch и Solr",
+      "workId": "isbn-9785970605929",
+      "workTitle": "Релевантный поиск с использованием Elasticsearch и Solr",
+      "authors": [
+        "Даг Тарнбулл",
+        "Джон Берримен"
+      ],
+      "publisher": "ДМК Пресс",
+      "year": "2018",
+      "edition": "",
+      "topics": [
+        "misc"
+      ],
+      "coverUrl": "https://ik.imagekit.io/bookshelf/covers/9785970605929.jpg",
+      "sourceUrl": "https://www.dmkpress.com/catalog/computer/databases/978-5-97060-592-9/"
     }
   ]
 }

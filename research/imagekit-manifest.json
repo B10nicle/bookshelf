@@ -876,6 +876,16 @@
       "url": "https://ik.imagekit.io/bookshelf/covers/9785042014734.jpg",
       "fileId": "6b04624dead997d09a8c509f",
       "filePath": "/covers/9785042014734.jpg"
+    },
+    "9785496018067": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785496018067.jpg",
+      "fileId": "6b07dac6ead997d09a2ac715",
+      "filePath": "/covers/9785496018067.jpg"
+    },
+    "9785970605929": {
+      "url": "https://ik.imagekit.io/bookshelf/covers/9785970605929.jpg",
+      "fileId": "6b07dac8ead997d09a2ad886",
+      "filePath": "/covers/9785970605929.jpg"
     }
   }
 }
